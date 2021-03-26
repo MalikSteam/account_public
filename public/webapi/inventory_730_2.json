@@ -1,0 +1,123 @@
+[
+    {
+        "appid": 730,
+        "classid": "1989271437",
+        "instanceid": "0",
+        "currency": 0,
+        "background_color": "",
+        "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0seuKG3jye3nHLXiKH11qH7dWYGqP_zes7e7HRm3ME-stEg8AdfNWoG1LaM6KOBQ6ysdVrCO7mEhyDBs9ftFPYAOily0XZOtyyVfW8h4K",
+        "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0seuKG3jyewjILjPeGRBrG7BXPD6I_WGl5OrBQ27JEL15RFxVeaNX-jZOOJuOPhZsgIUC-je62VRzGVArfclJYgKuxmAaIbE8lXgWcJ1VyKnATolz",
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "",
+                "color": "00a000"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": ""
+            }
+        ],
+        "tradable": 0,
+        "name": "Graffiti | Piggles (Princess Pink)",
+        "name_color": "D2D2D2",
+        "type": "Base Grade Graffiti",
+        "market_name": "Graffiti | Piggles (Princess Pink)",
+        "market_hash_name": "Graffiti | Piggles (Princess Pink)",
+        "commodity": 1,
+        "market_tradable_restriction": 7,
+        "marketable": 0,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Spray",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Graffiti"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Base Grade",
+                "color": "b0c3d9"
+            },
+            {
+                "category": "SprayColorCategory",
+                "internal_name": "Tint17",
+                "localized_category_name": "Graffiti Color",
+                "localized_tag_name": "Princess Pink"
+            }
+        ]
+    },
+    {
+        "appid": 730,
+        "classid": "778383679",
+        "instanceid": "0",
+        "currency": 0,
+        "background_color": "",
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6a1wE4uOkKlFm0qvJd2gSvYS3x9nbwfXyZrqBxDkCvZYmjurEpomlilL6ux07YtuiRwA",
+        "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9Q1LO5kNoBhSQl-fEv2o1t3QXFR6GghWpL2gZV9mi6CdIGpG7ti3wdONlKaka-uEkDsB6sMhj7rHoNXx2wSxrkZsYGrtZNjC6pZOE0g",
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Has been a member of the Counter-Strike community for over 5 years."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": ""
+            }
+        ],
+        "tradable": 0,
+        "name": "5 Year Veteran Coin",
+        "name_color": "D2D2D2",
+        "type": "Extraordinary Collectible",
+        "market_name": "5 Year Veteran Coin",
+        "market_hash_name": "5 Year Veteran Coin",
+        "commodity": 0,
+        "market_tradable_restriction": 7,
+        "marketable": 0,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_Collectible",
+                "localized_category_name": "Type",
+                "localized_tag_name": "Collectible"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Ancient",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Extraordinary",
+                "color": "eb4b4b"
+            }
+        ]
+    }
+]
