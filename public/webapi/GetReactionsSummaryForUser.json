@@ -1,0 +1,40 @@
+{
+    "response": {
+        "total": [
+            {
+                "reactionid": 1,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "34"
+            },
+            {
+                "reactionid": 5,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "34"
+            }
+        ],
+        "ugc": [
+            {
+                "reactionid": 1,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "34"
+            },
+            {
+                "reactionid": 5,
+                "given": 0,
+                "received": 1,
+                "points_given": "0",
+                "points_received": "34"
+            }
+        ],
+        "total_given": 0,
+        "total_received": 2,
+        "total_points_given": "0",
+        "total_points_received": "68"
+    }
+}
