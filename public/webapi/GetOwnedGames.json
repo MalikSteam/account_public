@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2050,
+        "game_count": 2051,
         "games": [
             {
                 "appid": 92,
@@ -20896,6 +20896,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "be91c507f62ad117322af4672bb3033ae381fda9",
                 "img_logo_url": "725157dea52358f391cadbf4cb17e5006ff65db7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1498830,
+                "name": "Go Fight Fantastic! (Open Beta)",
+                "playtime_forever": 0,
+                "img_icon_url": "87c36d3b14a1f4d58b62a7725efdb5e62e2ad6b5",
+                "img_logo_url": "84149d972fceb6499d5ccd052ddc6ac7f5dd32e9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
