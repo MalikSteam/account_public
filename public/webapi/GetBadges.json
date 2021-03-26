@@ -1,0 +1,67 @@
+{
+    "response": {
+        "badges": [
+            {
+                "badgeid": 13,
+                "level": 171,
+                "completion_time": 1614909540,
+                "xp": 407
+            },
+            {
+                "badgeid": 48,
+                "level": 2,
+                "completion_time": 1596056611,
+                "xp": 20
+            },
+            {
+                "badgeid": 33,
+                "level": 6,
+                "completion_time": 1545517881,
+                "xp": 140
+            },
+            {
+                "badgeid": 31,
+                "level": 4,
+                "completion_time": 1543267764,
+                "xp": 100
+            },
+            {
+                "badgeid": 2,
+                "level": 3,
+                "completion_time": 1543267581,
+                "xp": 500
+            },
+            {
+                "badgeid": 29,
+                "level": 25,
+                "completion_time": 1530450615,
+                "xp": 200
+            },
+            {
+                "badgeid": 28,
+                "level": 3,
+                "completion_time": 1527441371,
+                "xp": 500
+            },
+            {
+                "badgeid": 1,
+                "level": 16,
+                "completion_time": 1084049563,
+                "xp": 800
+            },
+            {
+                "badgeid": 1,
+                "appid": 730,
+                "level": 5,
+                "completion_time": 1468161947,
+                "xp": 500,
+                "communityitemid": "3200559642",
+                "border_color": 0
+            }
+        ],
+        "player_xp": 3167,
+        "player_level": 20,
+        "player_xp_needed_to_level_up": 133,
+        "player_xp_needed_current_level": 3000
+    }
+}
