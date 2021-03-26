@@ -1,0 +1,22 @@
+{
+    "response": {
+        "players": [
+            {
+                "steamid": "76561197966384101",
+                "communityvisibilitystate": 3,
+                "profilestate": 1,
+                "personaname": "PCGameit",
+                "commentpermission": 1,
+                "profileurl": "https://steamcommunity.com/profiles/76561197966384101/",
+                "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0b3cd44e20513e4d43a80b2a1f9b33a322851129.jpg",
+                "avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0b3cd44e20513e4d43a80b2a1f9b33a322851129_medium.jpg",
+                "avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/0b/0b3cd44e20513e4d43a80b2a1f9b33a322851129_full.jpg",
+                "avatarhash": "0b3cd44e20513e4d43a80b2a1f9b33a322851129",
+                "personastate": 1,
+                "primaryclanid": "103582791429521408",
+                "timecreated": 1084049563,
+                "personastateflags": 0
+            }
+        ]
+    }
+}
