@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2052,
+        "game_count": 2053,
         "games": [
             {
                 "appid": 92,
@@ -21217,6 +21217,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "38acb706991a8a2342659831c635f5a5dd1253ad",
                 "img_logo_url": "6364dd146a4b230b7dd222fccfd27808dd0ca628",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1580100,
+                "name": "Mayhem in Single Valley Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "03d061088b62fd887ad2060305832b9bd79ec82b",
+                "img_logo_url": "39bc216c0a16da3b420dbbbc890b73c871450338",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
