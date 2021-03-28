@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2053,
+        "game_count": 2054,
         "games": [
             {
                 "appid": 92,
@@ -9929,7 +9929,7 @@
                 "name": "Ball 3D",
                 "playtime_forever": 0,
                 "img_icon_url": "68cdf3cab7f123f7ae2dd7584596503a497883d3",
-                "img_logo_url": "6ff03288d3dfe8a1fe57a6a1ad6338c5dc5320da",
+                "img_logo_url": "91d3fae5b26f124695664058e8cc407f19658f39",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -20986,6 +20986,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e9718efbf864089085ede1c39b7e25ccac813308",
                 "img_logo_url": "240d3ae8a5aee3a713354b8f4f658f27ac7f1b2d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1528600,
+                "name": "Apocrypha Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9282b05be4e1617dad2bcff2ad6d881474c5dbc4",
+                "img_logo_url": "3c968669287c7b31713931bd4536b628132f4277",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
