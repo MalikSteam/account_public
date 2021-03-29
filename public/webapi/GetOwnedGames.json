@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2055,
+        "game_count": 2054,
         "games": [
             {
                 "appid": 92,
@@ -21247,16 +21247,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "03d061088b62fd887ad2060305832b9bd79ec82b",
                 "img_logo_url": "39bc216c0a16da3b420dbbbc890b73c871450338",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1585940,
-                "name": "Totally Reliable Delivery Service Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "88e2d064a262169ccb2ed4ff89a15a09067895f1",
-                "img_logo_url": "ee083d9828eb3b705e171488eb6eff7bd66d7be0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
