@@ -6,6 +6,7 @@
 
 Shows changes to the Steam account.
 
+
 #### public
 
 - [GetSteamLevel.json](https://github.com/MalikSteam/account_public/blob/main/public/webapi/GetSteamLevel.json)
@@ -19,6 +20,8 @@ Shows changes to the Steam account.
 - [GetCommunityBadgeProgress.json](https://github.com/MalikSteam/account_public/blob/main/public/webapi/GetCommunityBadgeProgress.json)
 - [inventory_730_2.json](https://github.com/MalikSteam/account_public/blob/main/public/webapi/inventory_730_2.json)
 - [inventory_753_1.json](https://github.com/MalikSteam/account_public/blob/main/public/webapi/inventory_753_1.json)
+- [Profiles.xml](https://github.com/MalikSteam/account_public/blob/main/xml/Profiles.xml)
+- [AllGamesTab.xml](https://github.com/MalikSteam/account_public/blob/main/xml/AllGamesTab.xml)
 
 #### private
 
