@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2055,
+        "game_count": 2054,
         "games": [
             {
                 "appid": 92,
@@ -20956,16 +20956,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7c4c4b30e5a9bdf2f48cf9840d5f9f92fb335e49",
                 "img_logo_url": "25f32775d668a0b041ccc64a1281106207b011f1",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1521890,
-                "name": "Nigate Tale Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ae882d869cdcdbdd28389f43cd3562869ddaa8c0",
-                "img_logo_url": "605d9b6e5d814df4f44c18f007c8d82735013368",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
