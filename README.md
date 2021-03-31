@@ -27,6 +27,7 @@ Shows changes to the Steam account.
 
 - [userdata.json](https://github.com/MalikSteam/account_public/blob/main/private/userdata.json)
 - [GetOwnedApps.json](https://github.com/MalikSteam/account_public/blob/main/private/GetOwnedApps.json)
+- [GetFriendMessagesLog.json](https://github.com/MalikSteam/account_public/blob/main/private/GetFriendMessagesLog.json)
 
 ## GitHub Actions
 
