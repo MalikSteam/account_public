@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2057,
+        "game_count": 2058,
         "games": [
             {
                 "appid": 92,
@@ -21178,6 +21178,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "be04938ef3c731c57a82ff5769fa4445b0f0d388",
                 "img_logo_url": "6931ccbff86ab830911ee991b407766c4d61cd14",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1560300,
+                "name": "The Ultimate Game Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "15bdbdee5ae68765242df92f7ba62b4d3d3184e4",
+                "img_logo_url": "61fc34b83b19ef5d4a4c7e90d0140b5e6a366102",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
