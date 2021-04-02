@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2058,
+        "game_count": 2059,
         "games": [
             {
                 "appid": 92,
@@ -21278,6 +21278,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "03d061088b62fd887ad2060305832b9bd79ec82b",
                 "img_logo_url": "39bc216c0a16da3b420dbbbc890b73c871450338",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1581460,
+                "name": "GRIT Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f45f36e645ab90c6644375fabdc8b61c3ecd9bbd",
+                "img_logo_url": "d5a20645c13f950a5c024cff74cad3cf3f3a8dc3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
