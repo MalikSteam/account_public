@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2059,
+        "game_count": 2058,
         "games": [
             {
                 "appid": 92,
@@ -21017,16 +21017,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "437db288fe087fe8fdced1518306b6c547321a67",
                 "img_logo_url": "ac4fde1fb93069f87e97abc65ebb646729a04389",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1530870,
-                "name": "Knockout City\u2122 Cross-Play Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "376b6cb2872c8c9ebf00b8e1df86eab0bdac7862",
-                "img_logo_url": "d82279d0d3160553ca465e91d03bce6e02a63abf",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
