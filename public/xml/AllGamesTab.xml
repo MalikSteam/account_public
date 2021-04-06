@@ -6001,12 +6001,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/412310]]></storeLink>
 		</game>
 		<game>
-			<appID>1564040</appID>
-			<name><![CDATA[Lake Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1564040]]></storeLink>
-		</game>
-		<game>
 			<appID>270370</appID>
 			<name><![CDATA[Lambda Wars]]></name>
 			
@@ -10226,16 +10220,16 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/655170/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
