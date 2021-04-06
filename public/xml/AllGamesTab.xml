@@ -3259,6 +3259,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/266030]]></storeLink>
 		</game>
 		<game>
+			<appID>1464970</appID>
+			<name><![CDATA[Dread Hunger Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1464970]]></storeLink>
+		</game>
+		<game>
 			<appID>498510</appID>
 			<name><![CDATA[DreamLand]]></name>
 			
@@ -10220,16 +10226,16 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/655170/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
