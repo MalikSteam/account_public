@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2057,
+        "game_count": 2058,
         "games": [
             {
                 "appid": 92,
@@ -20596,6 +20596,16 @@
                 "img_icon_url": "2cda9462fbaf9309e5aedce99ad8452adf8a40bd",
                 "img_logo_url": "05d4fc8da9afc539278bef6423cc5e85881a7ee2",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1464970,
+                "name": "Dread Hunger Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7bebdefb2e9ea634ce037fb0bae161c3afae03d7",
+                "img_logo_url": "6881cd3524c374118cbd55c4aebce06cd61410e0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
