@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2058,
+        "game_count": 2057,
         "games": [
             {
                 "appid": 92,
@@ -21178,16 +21178,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0331595bfeafaf378335c8d3de2f76d4529324af",
                 "img_logo_url": "00ab88e03c0f3d32ef6f1eab43bd216cbb1faf1f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1564040,
-                "name": "Lake Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "9f37a798ecc76342b33eaffd1142dfadd0b3ffa0",
-                "img_logo_url": "2cfd60c95e6471188c47a2c34ee433a0df1d3ea8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
