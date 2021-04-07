@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2057,
+        "game_count": 2058,
         "games": [
             {
                 "appid": 92,
@@ -21248,6 +21248,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "03d061088b62fd887ad2060305832b9bd79ec82b",
                 "img_logo_url": "39bc216c0a16da3b420dbbbc890b73c871450338",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1580280,
+                "name": "Nongunz: Doppelganger Edition Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "21aa8f76caac50c5b49ed8fe2708fb4c34350e50",
+                "img_logo_url": "353a11858740f57cdd11296a70082cd5b40f8d73",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
