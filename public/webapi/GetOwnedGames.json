@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2058,
+        "game_count": 2059,
         "games": [
             {
                 "appid": 92,
@@ -21288,6 +21288,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "13a297706b8e8b8b986f99ab343e37a3f28bf235",
                 "img_logo_url": "e31d7136322b681c2081a9eb95a35684bf66e68d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1597150,
+                "name": "Isekai Eternal Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6e23d2f823a68b5e28446b5885fcbbe202b34ea1",
+                "img_logo_url": "7be94e5b86ad0a17eb05542bae0da233e5cacb35",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
