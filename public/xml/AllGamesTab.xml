@@ -5604,6 +5604,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343730]]></storeLink>
 		</game>
 		<game>
+			<appID>1597150</appID>
+			<name><![CDATA[Isekai Eternal Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1597150]]></storeLink>
+		</game>
+		<game>
 			<appID>676770</appID>
 			<name><![CDATA[Island Dash]]></name>
 			
@@ -10226,16 +10232,16 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/655170/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
