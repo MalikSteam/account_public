@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2060,
+        "game_count": 2059,
         "games": [
             {
                 "appid": 92,
@@ -20706,16 +20706,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3885a79d0088a6b265ed5cb50a80eb58ee12e027",
                 "img_logo_url": "02c8248d6c767f9a88e77bf4a9017aedf228dbaf",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1472290,
-                "name": "The Caretaker Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "2387d1d94edc0783a0fda9dca93eaa118d9dd96e",
-                "img_logo_url": "5178f21eddce61a184b08a4bc469d21f1e3dc9d6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
