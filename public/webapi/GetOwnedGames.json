@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2059,
+        "game_count": 2060,
         "games": [
             {
                 "appid": 92,
@@ -21118,6 +21118,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ffc1a848cf0af0abc3259845cb901dcfb62c98ba",
                 "img_logo_url": "38d418f61b306d16767836b7f43bbc9cf946f10b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1545820,
+                "name": "Pixel Art Coloring Book",
+                "playtime_forever": 0,
+                "img_icon_url": "da5db7b9d28a85df37b6e5cad73ddcce9614db94",
+                "img_logo_url": "6b22e3c848473b721830626d421ac840be35488c",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
