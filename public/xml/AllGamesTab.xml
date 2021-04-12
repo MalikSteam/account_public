@@ -10240,16 +10240,16 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/655170/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -10348,12 +10348,6 @@
 			<name><![CDATA[The Cable Center - Virtual Archive]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/612440]]></storeLink>
-		</game>
-		<game>
-			<appID>1472290</appID>
-			<name><![CDATA[The Caretaker Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1472290]]></storeLink>
 		</game>
 		<game>
 			<appID>95700</appID>
