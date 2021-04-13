@@ -4991,6 +4991,12 @@
 			<hoursOnRecord>4.1</hoursOnRecord>
 		</game>
 		<game>
+			<appID>1599650</appID>
+			<name><![CDATA[HELLIST Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1599650]]></storeLink>
+		</game>
+		<game>
 			<appID>1473390</appID>
 			<name><![CDATA[Hellver Playtest]]></name>
 			
@@ -10033,16 +10039,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
