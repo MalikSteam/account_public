@@ -1378,6 +1378,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/550650/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1426470</appID>
+			<name><![CDATA[Blade Assault Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1426470]]></storeLink>
+		</game>
+		<game>
 			<appID>530330</appID>
 			<name><![CDATA[Blameless]]></name>
 			
@@ -10039,16 +10045,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
