@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2060,
+        "game_count": 2061,
         "games": [
             {
                 "appid": 92,
@@ -20564,6 +20564,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "63531fc25e13051cb250e95799ec043379d5a6d0",
                 "img_logo_url": "aeafc4cc1cd7abd5083a999292e90a74b5aa717d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1426470,
+                "name": "Blade Assault Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "16ca37901f7c3d96ec352b782387199f4e2e703a",
+                "img_logo_url": "f482e5e5ec0b94a2f46081d09c04da9df0e2a5d7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
