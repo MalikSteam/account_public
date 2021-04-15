@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2061,
+        "game_count": 2062,
         "games": [
             {
                 "appid": 92,
@@ -20636,6 +20636,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8e4b54528edbe0ab98aa20e7757da3f175b16670",
                 "img_logo_url": "6aa768fe936fdfe439197fa286eb9568f35b68b0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1469110,
+                "name": "Sky Fleet Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9b1806d3f378c1ed6a91de6834cb4fb0fe98096a",
+                "img_logo_url": "a22e2664b8606e357cd7bdf0443b80c8ef4b4b33",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
