@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2062,
+        "game_count": 2061,
         "games": [
             {
                 "appid": 92,
@@ -20611,16 +20611,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1464970,
-                "name": "Dread Hunger Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7bebdefb2e9ea634ce037fb0bae161c3afae03d7",
-                "img_logo_url": "6881cd3524c374118cbd55c4aebce06cd61410e0",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1469030,
                 "name": "Mirastell Playtest",
                 "playtime_forever": 0,
@@ -20684,7 +20674,7 @@
                 "appid": 1470040,
                 "name": "Galactic Thunderdome Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "80cc5dc814e7751b1710e23f7d0628bba871dc2f",
+                "img_icon_url": "22f20802650a9db821cb907250f71419904b4502",
                 "img_logo_url": "3b794d23c75d875dd5869ee9ba27b8b05f092d02",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
