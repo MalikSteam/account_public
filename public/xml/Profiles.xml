@@ -2,8 +2,8 @@
 <profile>
 	<steamID64>76561197966384101</steamID64>
 	<steamID><![CDATA[PCGameit]]></steamID>
-	<onlineState>online</onlineState>
-	<stateMessage><![CDATA[Online]]></stateMessage>
+	<onlineState>in-game</onlineState>
+	<stateMessage><![CDATA[In-Game<br/>Counter-Strike: Global Offensive]]></stateMessage>
 	<privacyState>public</privacyState>
 	<visibilityState>3</visibilityState>
 	
@@ -13,6 +13,14 @@
 	<tradeBanState>None</tradeBanState>
 	<isLimitedAccount>0</isLimitedAccount>
 	<customURL><![CDATA[]]></customURL>
+	<inGameServerIP/>
+	<inGameInfo>
+		<gameName><![CDATA[Counter-Strike: Global Offensive]]></gameName>
+		<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
+		<gameIcon><![CDATA[https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg]]></gameIcon>
+		<gameLogo><![CDATA[https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_184x69.jpg]]></gameLogo>
+		<gameLogoSmall><![CDATA[https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_184x69.jpg]]></gameLogoSmall>
+	</inGameInfo>
 	<memberSince>May 8, 2004</memberSince>
 	<steamRating/>
 	
@@ -20,6 +28,18 @@
 	<location><![CDATA[]]></location>
 	<realname><![CDATA[]]></realname>
 	<summary><![CDATA[ <a class="bb_link" href="https://steamcommunity.com/linkfilter/?url=https://PCGameit.com" target="_blank" rel="noreferrer" >https://PCGameit.com</a> ]]></summary>
+ 	<mostPlayedGames>
+		<mostPlayedGame>
+			<gameName><![CDATA[Counter-Strike: Global Offensive]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
+			<gameIcon><![CDATA[https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_184x69.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://cdn.akamai.steamstatic.com/steam/apps/730/capsule_184x69.jpg]]></gameLogoSmall>
+			<hoursPlayed>0.1</hoursPlayed>
+			<hoursOnRecord>2,825</hoursOnRecord>
+			<statsName><![CDATA[CSGO]]></statsName>
+		</mostPlayedGame>
+	</mostPlayedGames>
 
 
 	<groups>
