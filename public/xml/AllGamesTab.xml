@@ -4,6 +4,16 @@
 	<steamID><![CDATA[PCGameit]]></steamID>
 	<games>
 		<game>
+			<appID>730</appID>
+			<name><![CDATA[Counter-Strike: Global Offensive]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/730]]></storeLink>
+			<hoursLast2Weeks>0.1</hoursLast2Weeks>
+			<hoursOnRecord>2,825</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/CSGO]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/CSGO/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>943960</appID>
 			<name><![CDATA[3Buttons]]></name>
 			
@@ -2287,15 +2297,6 @@
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/10]]></storeLink>
 			<hoursOnRecord>2,118.9</hoursOnRecord>
-		</game>
-		<game>
-			<appID>730</appID>
-			<name><![CDATA[Counter-Strike: Global Offensive]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/730]]></storeLink>
-			<hoursOnRecord>2,825.1</hoursOnRecord>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/CSGO]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/CSGO/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>273110</appID>
