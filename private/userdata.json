@@ -9295,8 +9295,12 @@
             "tagid": 32322
         },
         {
-            "name": "Western",
-            "tagid": 1647
+            "name": "MOBA",
+            "tagid": 1718
+        },
+        {
+            "name": "Team-Based",
+            "tagid": 5711
         },
         {
             "name": "Card Game",
@@ -9307,52 +9311,52 @@
             "tagid": 4150
         },
         {
-            "name": "Free to Play",
-            "tagid": 113
+            "name": "eSports",
+            "tagid": 5055
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
+            "name": "Competitive",
+            "tagid": 3878
+        },
+        {
+            "name": "Free to Play",
+            "tagid": 113
         },
         {
             "name": "Tactical",
             "tagid": 1708
         },
         {
-            "name": "Team-Based",
-            "tagid": 5711
-        },
-        {
-            "name": "RPG",
-            "tagid": 122
-        },
-        {
-            "name": "Turn-Based",
-            "tagid": 1677
-        },
-        {
-            "name": "Character Customization",
-            "tagid": 4747
-        },
-        {
-            "name": "Simulation",
-            "tagid": 599
-        },
-        {
-            "name": "Early Access",
-            "tagid": 493
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Strategy",
             "tagid": 9
         },
         {
-            "name": "Multiplayer",
-            "tagid": 3859
+            "name": "FPS",
+            "tagid": 1663
         },
         {
-            "name": "Adventure",
-            "tagid": 21
+            "name": "Online Co-Op",
+            "tagid": 3843
+        },
+        {
+            "name": "Turn-Based",
+            "tagid": 1677
+        },
+        {
+            "name": "Shooter",
+            "tagid": 1774
+        },
+        {
+            "name": "Early Access",
+            "tagid": 493
+        },
+        {
+            "name": "Multiplayer",
+            "tagid": 3859
         },
         {
             "name": "Story Rich",
@@ -9361,10 +9365,6 @@
         {
             "name": "Action",
             "tagid": 19
-        },
-        {
-            "name": "Indie",
-            "tagid": 492
         }
     ],
     "rgWishlist": [
