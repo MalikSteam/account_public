@@ -9299,16 +9299,16 @@
             "tagid": 1718
         },
         {
-            "name": "World War II",
-            "tagid": 4150
-        },
-        {
             "name": "Team-Based",
             "tagid": 5711
         },
         {
             "name": "Card Game",
             "tagid": 1666
+        },
+        {
+            "name": "World War II",
+            "tagid": 4150
         },
         {
             "name": "eSports",
