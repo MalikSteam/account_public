@@ -15,7 +15,9 @@
                 "personastate": 1,
                 "primaryclanid": "103582791429521408",
                 "timecreated": 1084049563,
-                "personastateflags": 0
+                "personastateflags": 0,
+                "gameextrainfo": "Counter-Strike: Global Offensive",
+                "gameid": "730"
             }
         ]
     }
