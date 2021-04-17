@@ -9261,8 +9261,8 @@
         492760,
         586620,
         596380,
-        610840,
         575700,
+        610840,
         467310,
         586170,
         528660,
@@ -9304,16 +9304,16 @@
             "tagid": 1718
         },
         {
-            "name": "World War II",
-            "tagid": 4150
-        },
-        {
             "name": "Team-Based",
             "tagid": 5711
         },
         {
             "name": "Card Game",
             "tagid": 1666
+        },
+        {
+            "name": "World War II",
+            "tagid": 4150
         },
         {
             "name": "eSports",
