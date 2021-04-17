@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2061,
+        "game_count": 2062,
         "games": [
             {
                 "appid": 92,
@@ -20886,6 +20886,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "c278b86884ab9f0dc050dfe45bef174eba781239",
                 "img_logo_url": "ca55611faf78a596c1d6afdb332bbe53f33797ee",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1487780,
+                "name": "RAWMEN Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9eaaea42efa3beca40918865ca6fbeb7d9763653",
+                "img_logo_url": "177b2efa0e27be7fb6c6939998047ad4fd57b49b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
