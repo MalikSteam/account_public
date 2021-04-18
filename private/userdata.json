@@ -9296,12 +9296,16 @@
             "tagid": 620519
         },
         {
+            "name": "Deckbuilding",
+            "tagid": 32322
+        },
+        {
             "name": "MOBA",
             "tagid": 1718
         },
         {
-            "name": "Deckbuilding",
-            "tagid": 32322
+            "name": "Card Game",
+            "tagid": 1666
         },
         {
             "name": "World War II",
@@ -9310,10 +9314,6 @@
         {
             "name": "Team-Based",
             "tagid": 5711
-        },
-        {
-            "name": "Card Game",
-            "tagid": 1666
         },
         {
             "name": "eSports",
