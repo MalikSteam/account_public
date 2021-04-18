@@ -9296,12 +9296,16 @@
             "tagid": 620519
         },
         {
+            "name": "MOBA",
+            "tagid": 1718
+        },
+        {
             "name": "Deckbuilding",
             "tagid": 32322
         },
         {
-            "name": "MOBA",
-            "tagid": 1718
+            "name": "World War II",
+            "tagid": 4150
         },
         {
             "name": "Team-Based",
@@ -9310,10 +9314,6 @@
         {
             "name": "Card Game",
             "tagid": 1666
-        },
-        {
-            "name": "World War II",
-            "tagid": 4150
         },
         {
             "name": "eSports",
@@ -9360,16 +9360,16 @@
             "tagid": 493
         },
         {
-            "name": "Action",
-            "tagid": 19
-        },
-        {
             "name": "Multiplayer",
             "tagid": 3859
         },
         {
             "name": "Story Rich",
             "tagid": 1742
+        },
+        {
+            "name": "Action",
+            "tagid": 19
         }
     ],
     "rgWishlist": [
