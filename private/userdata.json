@@ -9194,8 +9194,8 @@
         553340,
         585860,
         884660,
-        823130,
         511470,
+        823130,
         562640,
         627950,
         423550,
@@ -9296,16 +9296,12 @@
             "tagid": 620519
         },
         {
-            "name": "Deckbuilding",
-            "tagid": 32322
-        },
-        {
             "name": "MOBA",
             "tagid": 1718
         },
         {
-            "name": "Card Game",
-            "tagid": 1666
+            "name": "Deckbuilding",
+            "tagid": 32322
         },
         {
             "name": "World War II",
@@ -9314,6 +9310,10 @@
         {
             "name": "Team-Based",
             "tagid": 5711
+        },
+        {
+            "name": "Card Game",
+            "tagid": 1666
         },
         {
             "name": "eSports",
