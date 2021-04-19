@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2062,
+        "game_count": 2063,
         "games": [
             {
                 "appid": 92,
@@ -21330,6 +21330,16 @@
                 "img_icon_url": "88db19524d4db85f2e9f8782763711c9042ed187",
                 "img_logo_url": "c17dadcfc3a57d1b51f2feb1b62f0abc6d2541b1",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1603700,
+                "name": "Night Blade Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a656ee83d55cac8ca8e71a42fbb0fd0d9a1aaac5",
+                "img_logo_url": "7e206d63eb1d56dbd52ddca0d90d93f6b237d63f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
