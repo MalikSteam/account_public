@@ -22,24 +22,24 @@
 	<summary><![CDATA[ <a class="bb_link" href="https://steamcommunity.com/linkfilter/?url=https://PCGameit.com" target="_blank" rel="noreferrer" >https://PCGameit.com</a> ]]></summary>
  	<mostPlayedGames>
 		<mostPlayedGame>
-			<gameName><![CDATA[Counter-Strike: Global Offensive]]></gameName>
-			<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
-			<gameIcon><![CDATA[https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg]]></gameIcon>
-			<gameLogo><![CDATA[https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_184x69.jpg]]></gameLogo>
-			<gameLogoSmall><![CDATA[https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_184x69.jpg]]></gameLogoSmall>
-			<hoursPlayed>1.1</hoursPlayed>
-			<hoursOnRecord>2,826</hoursOnRecord>
-			<statsName><![CDATA[CSGO]]></statsName>
-		</mostPlayedGame>
-		<mostPlayedGame>
 			<gameName><![CDATA[Team Fortress 2]]></gameName>
 			<gameLink><![CDATA[https://steamcommunity.com/app/440]]></gameLink>
 			<gameIcon><![CDATA[https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/440/e3f595a92552da3d664ad00277fad2107345f743.jpg]]></gameIcon>
 			<gameLogo><![CDATA[https://cdn.cloudflare.steamstatic.com/steam/apps/440/capsule_184x69.jpg]]></gameLogo>
 			<gameLogoSmall><![CDATA[https://cdn.cloudflare.steamstatic.com/steam/apps/440/capsule_184x69.jpg]]></gameLogoSmall>
-			<hoursPlayed>0.9</hoursPlayed>
-			<hoursOnRecord>2.6</hoursOnRecord>
+			<hoursPlayed>1.5</hoursPlayed>
+			<hoursOnRecord>3.2</hoursOnRecord>
 			<statsName><![CDATA[TF2]]></statsName>
+		</mostPlayedGame>
+		<mostPlayedGame>
+			<gameName><![CDATA[Counter-Strike: Global Offensive]]></gameName>
+			<gameLink><![CDATA[https://steamcommunity.com/app/730]]></gameLink>
+			<gameIcon><![CDATA[https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/730/69f7ebe2735c366c65c0b33dae00e12dc40edbe4.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_184x69.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_184x69.jpg]]></gameLogoSmall>
+			<hoursPlayed>1.4</hoursPlayed>
+			<hoursOnRecord>2,826</hoursOnRecord>
+			<statsName><![CDATA[CSGO]]></statsName>
 		</mostPlayedGame>
 		<mostPlayedGame>
 			<gameName><![CDATA[Dota 2]]></gameName>
