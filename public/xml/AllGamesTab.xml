@@ -4,24 +4,24 @@
 	<steamID><![CDATA[PCGameit]]></steamID>
 	<games>
 		<game>
-			<appID>730</appID>
-			<name><![CDATA[Counter-Strike: Global Offensive]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/730]]></storeLink>
-			<hoursLast2Weeks>1.1</hoursLast2Weeks>
-			<hoursOnRecord>2,826</hoursOnRecord>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/CSGO]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/CSGO/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>440</appID>
 			<name><![CDATA[Team Fortress 2]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/440]]></storeLink>
-			<hoursLast2Weeks>0.9</hoursLast2Weeks>
-			<hoursOnRecord>2.6</hoursOnRecord>
+			<hoursLast2Weeks>1.5</hoursLast2Weeks>
+			<hoursOnRecord>3.2</hoursOnRecord>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/TF2]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/TF2/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>730</appID>
+			<name><![CDATA[Counter-Strike: Global Offensive]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/730]]></storeLink>
+			<hoursLast2Weeks>1.4</hoursLast2Weeks>
+			<hoursOnRecord>2,826</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/CSGO]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/CSGO/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>570</appID>
