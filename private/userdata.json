@@ -9142,6 +9142,7 @@
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
+    "rgPrimaryLanguage": 0,
     "rgRecommendedApps": [
         696370,
         513780,
@@ -9282,8 +9283,8 @@
         526740,
         1172470,
         467310,
-        945360,
         555930,
+        945360,
         412210,
         363930,
         557680,
@@ -9376,6 +9377,7 @@
             "tagid": 19
         }
     ],
+    "rgSecondaryLanguages": [],
     "rgWishlist": [
         233450,
         346390,
