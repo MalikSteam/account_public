@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2062,
+        "game_count": 2061,
         "games": [
             {
                 "appid": 92,
@@ -13575,7 +13575,7 @@
                 "name": "World of Warships",
                 "playtime_forever": 161,
                 "img_icon_url": "eab230c20bbe2ddf4ccb34ab331f3b7f9c94c48f",
-                "img_logo_url": "d94a3c269728e924133eabe8e5beb474feb27a84",
+                "img_logo_url": "1159cf81e268e01d3b7732bd39a6f74c9440d557",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 161,
                 "playtime_mac_forever": 0,
@@ -20957,16 +20957,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "46967ba55c4ae6ddbf9b1410740553b331a8b818",
                 "img_logo_url": "19b015b1c1af731bfc52ecd211b6e9dbf60ce80b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1504950,
-                "name": "Rogue Card Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f34a37ede2178f7588260abb58583211cdce8ee0",
-                "img_logo_url": "e8130fc40faaa242f7e0db5b86085096c7f60071",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
