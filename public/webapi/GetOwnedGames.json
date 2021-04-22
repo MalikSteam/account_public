@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2061,
+        "game_count": 2060,
         "games": [
             {
                 "appid": 92,
@@ -20636,16 +20636,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "658a7c52ecd5f60f9e1302cf55d999e623ae8976",
                 "img_logo_url": "94e0e2cf032bd414db321a3b101009b305c907f9",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1469990,
-                "name": "Wastenauts Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "2afdb1d8be1363399a6db36c6a0f4c5f9a42dc57",
-                "img_logo_url": "a7f95d93f445b11eded9105d896360f2685c4358",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
