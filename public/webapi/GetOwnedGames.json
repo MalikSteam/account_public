@@ -20569,16 +20569,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1426470,
-                "name": "Blade Assault Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "16ca37901f7c3d96ec352b782387199f4e2e703a",
-                "img_logo_url": "f482e5e5ec0b94a2f46081d09c04da9df0e2a5d7",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 346850,
                 "name": "Chip's Challenge 1",
                 "playtime_forever": 0,
@@ -21249,6 +21239,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f45f36e645ab90c6644375fabdc8b61c3ecd9bbd",
                 "img_logo_url": "d5a20645c13f950a5c024cff74cad3cf3f3a8dc3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1584640,
+                "name": "NARAKA: BLADEPOINT Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
+                "img_logo_url": "a1fa463785e150821e9cd501ac7e836eac43687f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
