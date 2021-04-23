@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2060,
+        "game_count": 2063,
         "games": [
             {
                 "appid": 92,
@@ -21310,6 +21310,36 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a656ee83d55cac8ca8e71a42fbb0fd0d9a1aaac5",
                 "img_logo_url": "7e206d63eb1d56dbd52ddca0d90d93f6b237d63f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1608630,
+                "name": "City of Beats Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8ec29c1aa1f84902921b9fc59947b8060411013e",
+                "img_logo_url": "812c29ae1e9fd03e4685991acf78c9b23ff9ff85",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1614060,
+                "name": "Paint Chips Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fa29ce2e64841c86c42a46122eeb8a3d9813285d",
+                "img_logo_url": "7e10f3b126f2542b6d5a0a047c4b5b11d7925cbe",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1614480,
+                "name": "Disc Golf Valley VR Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f244805cce3c7635162da9660f2fc1a9824a6815",
+                "img_logo_url": "ed30736120a47e7f1af006537abda604f12fa577",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
