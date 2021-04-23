@@ -1406,12 +1406,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/550650/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1426470</appID>
-			<name><![CDATA[Blade Assault Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1426470]]></storeLink>
-		</game>
-		<game>
 			<appID>530330</appID>
 			<name><![CDATA[Blameless]]></name>
 			
@@ -2035,6 +2029,12 @@
 			<name><![CDATA[Cirque du Soleil]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/712410]]></storeLink>
+		</game>
+		<game>
+			<appID>1608630</appID>
+			<name><![CDATA[City of Beats Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1608630]]></storeLink>
 		</game>
 		<game>
 			<appID>266070</appID>
@@ -2922,6 +2922,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/333930]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/333930]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/333930/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1614480</appID>
+			<name><![CDATA[Disc Golf Valley VR Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1614480]]></storeLink>
 		</game>
 		<game>
 			<appID>677380</appID>
@@ -7249,6 +7255,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/598530]]></storeLink>
 		</game>
 		<game>
+			<appID>1584640</appID>
+			<name><![CDATA[NARAKA: BLADEPOINT Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1584640]]></storeLink>
+		</game>
+		<game>
 			<appID>264380</appID>
 			<name><![CDATA[Narcissu 1st & 2nd]]></name>
 			
@@ -7771,6 +7783,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/441380]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/441380]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/441380/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1614060</appID>
+			<name><![CDATA[Paint Chips Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1614060]]></storeLink>
 		</game>
 		<game>
 			<appID>455160</appID>
@@ -10263,16 +10281,16 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/655170/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
