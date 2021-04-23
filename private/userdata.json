@@ -2006,6 +2006,9 @@
         "1552600": {
             "33779114": 2
         },
+        "1554400": {
+            "39921923": 2
+        },
         "1554550": {
             "33779114": 2
         },
@@ -9326,12 +9329,12 @@
             "tagid": 5711
         },
         {
-            "name": "eSports",
-            "tagid": 5055
-        },
-        {
             "name": "Card Game",
             "tagid": 1666
+        },
+        {
+            "name": "eSports",
+            "tagid": 5055
         },
         {
             "name": "Competitive",
@@ -9350,12 +9353,12 @@
             "tagid": 1708
         },
         {
-            "name": "FPS",
-            "tagid": 1663
-        },
-        {
             "name": "Choices Matter",
             "tagid": 6426
+        },
+        {
+            "name": "FPS",
+            "tagid": 1663
         },
         {
             "name": "Strategy",
