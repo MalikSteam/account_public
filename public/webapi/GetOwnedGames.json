@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2067,
+        "game_count": 2076,
         "games": [
             {
                 "appid": 92,
@@ -20601,6 +20601,17 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1458420,
+                "name": "Nightfall",
+                "playtime_forever": 0,
+                "img_icon_url": "b68882715610eb655106042496bccf2acdc953c7",
+                "img_logo_url": "c69a103ef9b6e7535ed5d4ce90f671cc07700bc5",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1469030,
                 "name": "Mirastell Playtest",
                 "playtime_forever": 0,
@@ -20756,6 +20767,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2dfa7ce39fcbebdcffceff698d700bfbf4600ee1",
                 "img_logo_url": "27a06c57e6fa26e0a80e8b5132b3e71fd9ce44ec",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1476970,
+                "name": "Legends of Idleon MMO",
+                "playtime_forever": 0,
+                "img_icon_url": "8eae2b19c35dc4319a58ec553e4fb28f8eb60e84",
+                "img_logo_url": "2f3066e612a995a16eadc728540a2c50d83cffe3",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21022,6 +21044,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1534430,
+                "name": "Play The Fox",
+                "playtime_forever": 0,
+                "img_icon_url": "5e171e1343401e1fc8010233786db6024a56c74a",
+                "img_logo_url": "30e0f1aa4e2bd883667b6de1e96ae4b89f43cec4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1534900,
                 "name": "VR Guardians",
                 "playtime_forever": 0,
@@ -21214,6 +21246,26 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1575330,
+                "name": "Friendly Fire: Arena",
+                "playtime_forever": 0,
+                "img_icon_url": "625171d2a9e1faf0dfcbc959b4dc6037274554a1",
+                "img_logo_url": "f68955f68c9f59939aee36da1ce03c4fa7978882",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1576880,
+                "name": "Synthbiotic Dungeon",
+                "playtime_forever": 0,
+                "img_icon_url": "3f2764957bffb8675e37471f3891f0bbcd025ea8",
+                "img_logo_url": "fd900b1e264890a1e16b647847f02c01c69be195",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1580100,
                 "name": "Mayhem in Single Valley Playtest",
                 "playtime_forever": 0,
@@ -21269,6 +21321,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "13a297706b8e8b8b986f99ab343e37a3f28bf235",
                 "img_logo_url": "e31d7136322b681c2081a9eb95a35684bf66e68d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1597110,
+                "name": "DERE EXE: Rebirth of Horror",
+                "playtime_forever": 0,
+                "img_icon_url": "026403bb7443f0ab8ecd739659c59e7d261d63fc",
+                "img_logo_url": "ad25ddaf0bdaa50ea703aeae8645f2b01f835381",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21380,6 +21442,38 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d9a48eca9585fe46dd173e5ce68c8bd59a05b53b",
                 "img_logo_url": "2c74988c1a6d921ba6b9a133f06d22c7372bd745",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1379510,
+                "name": "Algebra Ridge",
+                "playtime_forever": 0,
+                "img_icon_url": "0f41eb1274f2c938c6620991fbe20250632bb2d7",
+                "img_logo_url": "4da94e04ff8a5be7d2b28caff2324ab25ced91be",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 593850,
+                "name": "Davyria: Heroes of Eternity",
+                "playtime_forever": 0,
+                "img_icon_url": "473a329716f4d1e64b61b5b12749c93e6ca9c360",
+                "img_logo_url": "0c8aa482890812f4bf7979afcc98a6c10cb130c8",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 585770,
+                "name": "Prism Collider",
+                "playtime_forever": 0,
+                "img_icon_url": "06caa4b65068044c892f18de715a5f9396526f56",
+                "img_logo_url": "3c00735339fd0fa2eaca42332e1b95a20331207b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
