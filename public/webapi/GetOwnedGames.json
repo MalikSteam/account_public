@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2076,
+        "game_count": 2077,
         "games": [
             {
                 "appid": 92,
@@ -20808,6 +20808,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "4ea9f3d2a4953282fa44cd2ddfd984dcb79e6be3",
                 "img_logo_url": "480ec6a3eefef9a2656cadae23c1d53182c4f2a6",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1478930,
+                "name": "Chernobyl Liquidators Simulator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e4a31933417632ad6708d65cb3cf2dd81201a789",
+                "img_logo_url": "616b48d73a0bdf1b02b471ce4573863d94652bb6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
