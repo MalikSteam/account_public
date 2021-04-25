@@ -6176,6 +6176,10 @@
         "name": "CS:GO Player Profiles: s1mple \u2013 Natus Vincere"
     },
     {
+        "appid": 585770,
+        "name": "Prism Collider"
+    },
+    {
         "appid": 586030,
         "name": "Shardbound"
     },
@@ -6242,6 +6246,10 @@
     {
         "appid": 593620,
         "name": "The Last Conflict"
+    },
+    {
+        "appid": 593850,
+        "name": "Davyria: Heroes of Eternity"
     },
     {
         "appid": 593880,
@@ -8556,6 +8564,10 @@
         "name": "Endless Zone"
     },
     {
+        "appid": 1379510,
+        "name": "Algebra Ridge"
+    },
+    {
         "appid": 1407200,
         "name": "World of Tanks"
     },
@@ -8570,6 +8582,10 @@
     {
         "appid": 1426470,
         "name": "Blade Assault Playtest"
+    },
+    {
+        "appid": 1458420,
+        "name": "Nightfall"
     },
     {
         "appid": 1464970,
@@ -8666,6 +8682,10 @@
     {
         "appid": 1475550,
         "name": "Sou'wester Winds Alpha Playtest"
+    },
+    {
+        "appid": 1476970,
+        "name": "Legends of Idleon MMO"
     },
     {
         "appid": 1477390,
@@ -8800,6 +8820,10 @@
         "name": "Fi da Puti Samurai Playtest"
     },
     {
+        "appid": 1534430,
+        "name": "Play The Fox"
+    },
+    {
         "appid": 1534900,
         "name": "VR Guardians"
     },
@@ -8884,6 +8908,14 @@
         "name": "Horns of Justice Playtest"
     },
     {
+        "appid": 1575330,
+        "name": "Friendly Fire: Arena"
+    },
+    {
+        "appid": 1576880,
+        "name": "Synthbiotic Dungeon"
+    },
+    {
         "appid": 1580100,
         "name": "Mayhem in Single Valley Playtest"
     },
@@ -8910,6 +8942,10 @@
     {
         "appid": 1592890,
         "name": "Outworlder Playtest"
+    },
+    {
+        "appid": 1597110,
+        "name": "DERE EXE: Rebirth of Horror"
     },
     {
         "appid": 1597150,
