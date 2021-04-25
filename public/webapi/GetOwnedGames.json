@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2065,
+        "game_count": 2066,
         "games": [
             {
                 "appid": 92,
@@ -21330,6 +21330,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8ec29c1aa1f84902921b9fc59947b8060411013e",
                 "img_logo_url": "812c29ae1e9fd03e4685991acf78c9b23ff9ff85",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1613340,
+                "name": "Pirates of the Asteroid Belt Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2c287ff85896a74da913c5f8a8ff7271bb01e913",
+                "img_logo_url": "02526f62b600c34e07003bb3c6e64ec572820857",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
