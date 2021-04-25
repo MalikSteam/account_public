@@ -460,6 +460,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/350660]]></storeLink>
 		</game>
 		<game>
+			<appID>1379510</appID>
+			<name><![CDATA[Algebra Ridge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1379510]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1379510]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1379510/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>1054560</appID>
 			<name><![CDATA[Alice in Stardom]]></name>
 			
@@ -2696,6 +2704,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DataJammersFastForward/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>593850</appID>
+			<name><![CDATA[Davyria: Heroes of Eternity]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/593850]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/593850]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/593850/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>605610</appID>
 			<name><![CDATA[Dawn]]></name>
 			
@@ -2821,6 +2837,12 @@
 			<name><![CDATA[Depression Quest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/270170]]></storeLink>
+		</game>
+		<game>
+			<appID>1597110</appID>
+			<name><![CDATA[DERE EXE: Rebirth of Horror]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1597110]]></storeLink>
 		</game>
 		<game>
 			<appID>477200</appID>
@@ -4359,6 +4381,12 @@
 			<name><![CDATA[Freshman Year]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/364450]]></storeLink>
+		</game>
+		<game>
+			<appID>1575330</appID>
+			<name><![CDATA[Friendly Fire: Arena]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1575330]]></storeLink>
 		</game>
 		<game>
 			<appID>334370</appID>
@@ -6148,6 +6176,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/438920/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1476970</appID>
+			<name><![CDATA[Legends of Idleon MMO]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1476970]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1476970]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1476970/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>461820</appID>
 			<name><![CDATA[Legionwood: Tale of the Two Swords]]></name>
 			
@@ -7366,6 +7402,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1603700]]></storeLink>
 		</game>
 		<game>
+			<appID>1458420</appID>
+			<name><![CDATA[Nightfall]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1458420]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1458420]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1458420/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>541190</appID>
 			<name><![CDATA[Nodiatis]]></name>
 			
@@ -8135,6 +8179,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/458560]]></storeLink>
 		</game>
 		<game>
+			<appID>1534430</appID>
+			<name><![CDATA[Play The Fox]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1534430]]></storeLink>
+		</game>
+		<game>
 			<appID>536210</appID>
 			<name><![CDATA[Please State Your Name : A VR Animated Film]]></name>
 			
@@ -8324,6 +8374,12 @@
 			<hoursOnRecord>8.6</hoursOnRecord>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/490220]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/490220/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>585770</appID>
+			<name><![CDATA[Prism Collider]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/585770]]></storeLink>
 		</game>
 		<game>
 			<appID>407250</appID>
@@ -10095,16 +10151,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -10179,6 +10235,12 @@
 			<name><![CDATA[SYNCH]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/582830]]></storeLink>
+		</game>
+		<game>
+			<appID>1576880</appID>
+			<name><![CDATA[Synthbiotic Dungeon]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1576880]]></storeLink>
 		</game>
 		<game>
 			<appID>672000</appID>
