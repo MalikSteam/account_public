@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2077,
+        "game_count": 2076,
         "games": [
             {
                 "appid": 92,
@@ -21422,16 +21422,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "75a0cedb650f35ba8b0382ae77a4df6f19e2076a",
                 "img_logo_url": "ae3c1ce0851a8756b1ee13718c94d23c6b315373",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1614060,
-                "name": "Paint Chips Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "fa29ce2e64841c86c42a46122eeb8a3d9813285d",
-                "img_logo_url": "7e10f3b126f2542b6d5a0a047c4b5b11d7925cbe",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
