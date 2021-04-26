@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2076,
+        "game_count": 2077,
         "games": [
             {
                 "appid": 92,
@@ -20584,7 +20584,7 @@
                 "name": "World of Tanks",
                 "playtime_forever": 0,
                 "img_icon_url": "fdedc7d172706ea39d2d2b389cd461cb4cbe7315",
-                "img_logo_url": "0e03e1a4268fdf020eb81100163060b246644d61",
+                "img_logo_url": "504a84f85887e9f45a512853ddb9708292df8c22",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21080,6 +21080,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bbd1f6bd6d3195fce25e17efcaec71177c5a5db9",
                 "img_logo_url": "03091d3bae0ccd98b163e5644bb171e15b6b7c21",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1537150,
+                "name": "Kingdom Chess Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "efef72615017fc24b78c97413870b6ccfc683d60",
+                "img_logo_url": "f97f5dcf716d03075de51186e5b0be017d96e71f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
