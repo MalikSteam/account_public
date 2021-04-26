@@ -7321,12 +7321,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/598530]]></storeLink>
 		</game>
 		<game>
-			<appID>1584640</appID>
-			<name><![CDATA[NARAKA: BLADEPOINT Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1584640]]></storeLink>
-		</game>
-		<game>
 			<appID>264380</appID>
 			<name><![CDATA[Narcissu 1st & 2nd]]></name>
 			
@@ -10379,16 +10373,16 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/655170/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
