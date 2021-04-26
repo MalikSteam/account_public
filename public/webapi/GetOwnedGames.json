@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2079,
+        "game_count": 2080,
         "games": [
             {
                 "appid": 92,
@@ -21331,6 +21331,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "13a297706b8e8b8b986f99ab343e37a3f28bf235",
                 "img_logo_url": "e31d7136322b681c2081a9eb95a35684bf66e68d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1594710,
+                "name": "Caf\u00e9 International Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4774f995adccd08233f65c6537788b7dd6f38f73",
+                "img_logo_url": "8345fe704f18003925b86a63edc29c8cca21a0b2",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
