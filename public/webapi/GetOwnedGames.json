@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2078,
+        "game_count": 2080,
         "games": [
             {
                 "appid": 92,
@@ -21397,6 +21397,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1605780,
+                "name": "Almighty: Kill Your Gods Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e72a64610268adc7d5cb8f20ceda8428ffbad216",
+                "img_logo_url": "d06a29a17c5eee2759a48a56678df38a6490c227",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1608160,
                 "name": "\u5929\u795e\u9547 Playtest",
                 "playtime_forever": 0,
@@ -21432,6 +21442,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "75a0cedb650f35ba8b0382ae77a4df6f19e2076a",
                 "img_logo_url": "ae3c1ce0851a8756b1ee13718c94d23c6b315373",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1613700,
+                "name": "Hop Skip Jump Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d866f54ce9a2bf3a4786de78ce0473f826545e1c",
+                "img_logo_url": "38b9219319e34e3b5716156075efe0c00d144695",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
