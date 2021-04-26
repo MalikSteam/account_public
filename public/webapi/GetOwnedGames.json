@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2077,
+        "game_count": 2078,
         "games": [
             {
                 "appid": 92,
@@ -21442,6 +21442,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f244805cce3c7635162da9660f2fc1a9824a6815",
                 "img_logo_url": "ed30736120a47e7f1af006537abda604f12fa577",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1614820,
+                "name": "Crystal Raiders VR Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6cefb167a6927b2455e15cf3cc524087c2efb1fc",
+                "img_logo_url": "26c7be4a444739b543e25d87f1cb09c6dd9e4842",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
