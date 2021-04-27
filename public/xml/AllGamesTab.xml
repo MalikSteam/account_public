@@ -4793,6 +4793,8 @@
 			<name><![CDATA[GridIron Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1535870]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1535870]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1535870/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>252150</appID>
@@ -10195,16 +10197,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -10397,6 +10399,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/655170]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/655170]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/655170/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1617590</appID>
+			<name><![CDATA[Tender: Creature Comforts Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
 			<appID>323370</appID>
