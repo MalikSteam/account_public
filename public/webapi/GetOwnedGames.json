@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2082,
+        "game_count": 2083,
         "games": [
             {
                 "appid": 92,
@@ -21483,6 +21483,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6cefb167a6927b2455e15cf3cc524087c2efb1fc",
                 "img_logo_url": "26c7be4a444739b543e25d87f1cb09c6dd9e4842",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1615300,
+                "name": "Age of Rust Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "748b49ae0da1e6b39aac0933987da8e8c9bfdb60",
+                "img_logo_url": "b4cf375a68c5fe50af6a902f3dce9249094f6d99",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
