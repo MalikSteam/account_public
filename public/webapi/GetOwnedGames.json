@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2083,
+        "game_count": 2084,
         "games": [
             {
                 "appid": 92,
@@ -21080,6 +21080,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bbd1f6bd6d3195fce25e17efcaec71177c5a5db9",
                 "img_logo_url": "03091d3bae0ccd98b163e5644bb171e15b6b7c21",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21503,6 +21504,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d9a48eca9585fe46dd173e5ce68c8bd59a05b53b",
                 "img_logo_url": "2c74988c1a6d921ba6b9a133f06d22c7372bd745",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1617590,
+                "name": "Tender: Creature Comforts Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f238e5e5b03a96aa5f89728f1d8c6ad8e19300aa",
+                "img_logo_url": "a7d6d279b3335c1ef90f526c7586f6d0eea90624",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
