@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2084,
+        "game_count": 2085,
         "games": [
             {
                 "appid": 92,
@@ -21454,6 +21454,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "75a0cedb650f35ba8b0382ae77a4df6f19e2076a",
                 "img_logo_url": "ae3c1ce0851a8756b1ee13718c94d23c6b315373",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1613510,
+                "name": "HopeLand Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b65c043a3c01dbbdc67c75574cff39f1b7dea4d8",
+                "img_logo_url": "8e311c7a06f82c2e7855811d8bf1391a9a7c9d75",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
