@@ -8902,6 +8902,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/39120]]></storeLink>
 		</game>
 		<game>
+			<appID>1612090</appID>
+			<name><![CDATA[Riftnote Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1612090]]></storeLink>
+		</game>
+		<game>
 			<appID>574440</appID>
 			<name><![CDATA[Ripple Effect]]></name>
 			
@@ -10387,16 +10393,16 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/655170/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
