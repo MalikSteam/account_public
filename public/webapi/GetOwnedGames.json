@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2080,
+        "game_count": 2081,
         "games": [
             {
                 "appid": 92,
@@ -21505,6 +21505,16 @@
                 "img_icon_url": "473a329716f4d1e64b61b5b12749c93e6ca9c360",
                 "img_logo_url": "0c8aa482890812f4bf7979afcc98a6c10cb130c8",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1618250,
+                "name": "Bipgolf Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0d966569860750f285b2358df45d97abd15f4727",
+                "img_logo_url": "81cf910c4c2cfd277bf35a38293753ff1c0be411",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
