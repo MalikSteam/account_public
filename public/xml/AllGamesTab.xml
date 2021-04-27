@@ -376,6 +376,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/426970/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1615300</appID>
+			<name><![CDATA[Age of Rust Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1615300]]></storeLink>
+		</game>
+		<game>
 			<appID>226840</appID>
 			<name><![CDATA[Age of Wonders III]]></name>
 			
