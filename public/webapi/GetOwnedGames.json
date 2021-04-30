@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2091,
+        "game_count": 2093,
         "games": [
             {
                 "appid": 92,
@@ -21287,6 +21287,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1580060,
+                "name": "Bloody Raid Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "95dcd94178430ec5dcd5c022ecf2ade57080cf4c",
+                "img_logo_url": "baf69d76a37f3bab6c465af07e82b61735f68faf",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1580100,
                 "name": "Mayhem in Single Valley Playtest",
                 "playtime_forever": 0,
@@ -21534,6 +21544,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6cefb167a6927b2455e15cf3cc524087c2efb1fc",
                 "img_logo_url": "26c7be4a444739b543e25d87f1cb09c6dd9e4842",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1614830,
+                "name": "Grand Casino Tycoon Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "df8a383452021ac671de6837cf8e7938a0adc193",
+                "img_logo_url": "0cd4e66db8381d11b2b5a3aa9c35bdb88e3a474f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
