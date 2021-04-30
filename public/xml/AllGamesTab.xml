@@ -1573,6 +1573,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/350990]]></storeLink>
 		</game>
 		<game>
+			<appID>1580060</appID>
+			<name><![CDATA[Bloody Raid Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1580060]]></storeLink>
+		</game>
+		<game>
 			<appID>531960</appID>
 			<name><![CDATA[Bloody Walls]]></name>
 			
@@ -4779,6 +4785,12 @@
 			<name><![CDATA[Granado Espada]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/319730]]></storeLink>
+		</game>
+		<game>
+			<appID>1614830</appID>
+			<name><![CDATA[Grand Casino Tycoon Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1614830]]></storeLink>
 		</game>
 		<game>
 			<appID>304270</appID>
