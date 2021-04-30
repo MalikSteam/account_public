@@ -9466,6 +9466,10 @@
             "tagid": 32322
         },
         {
+            "name": "World War II",
+            "tagid": 4150
+        },
+        {
             "name": "Team-Based",
             "tagid": 5711
         },
@@ -9482,20 +9486,12 @@
             "tagid": 3878
         },
         {
-            "name": "World War II",
-            "tagid": 4150
-        },
-        {
             "name": "Free to Play",
             "tagid": 113
         },
         {
             "name": "Tactical",
             "tagid": 1708
-        },
-        {
-            "name": "FPS",
-            "tagid": 1663
         },
         {
             "name": "Choices Matter",
@@ -9506,8 +9502,8 @@
             "tagid": 9
         },
         {
-            "name": "Shooter",
-            "tagid": 1774
+            "name": "FPS",
+            "tagid": 1663
         },
         {
             "name": "Online Co-Op",
@@ -9516,6 +9512,10 @@
         {
             "name": "Turn-Based",
             "tagid": 1677
+        },
+        {
+            "name": "Shooter",
+            "tagid": 1774
         },
         {
             "name": "Early Access",
