@@ -10467,16 +10467,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1607520]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -10797,6 +10797,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/450390]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/450390]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/450390/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1615450</appID>
+			<name><![CDATA[The Lady Puppet Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1615450]]></storeLink>
 		</game>
 		<game>
 			<appID>593620</appID>
