@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2095,
+        "game_count": 2096,
         "games": [
             {
                 "appid": 92,
@@ -21584,6 +21584,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "748b49ae0da1e6b39aac0933987da8e8c9bfdb60",
                 "img_logo_url": "b4cf375a68c5fe50af6a902f3dce9249094f6d99",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1615450,
+                "name": "The Lady Puppet Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "70de6f1b823aa80af0558fa7ed7e243efbf931d9",
+                "img_logo_url": "e2a0d14f93945981575d58ffbf2e494003c271e6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
