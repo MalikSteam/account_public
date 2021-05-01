@@ -9473,12 +9473,12 @@
             "tagid": 620519
         },
         {
-            "name": "MOBA",
-            "tagid": 1718
-        },
-        {
             "name": "Deckbuilding",
             "tagid": 32322
+        },
+        {
+            "name": "MOBA",
+            "tagid": 1718
         },
         {
             "name": "World War II",
@@ -9509,10 +9509,6 @@
             "tagid": 1708
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
             "name": "Strategy",
             "tagid": 9
         },
@@ -9527,6 +9523,10 @@
         {
             "name": "Turn-Based",
             "tagid": 1677
+        },
+        {
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Shooter",
