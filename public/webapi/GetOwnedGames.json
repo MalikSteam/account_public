@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2095,
+        "game_count": 2096,
         "games": [
             {
                 "appid": 92,
@@ -21666,6 +21666,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a9cf2b72d1239ec1e6dc08dd3111b618aed43abc",
                 "img_logo_url": "6da53513dadffe70b50e27c89ea2833ae7d62d54",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1624820,
+                "name": "Tire Friend Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9ce5f5a9063ebca4dc83dd89d569e035ba7038a5",
+                "img_logo_url": "72664de448da65572932dbd6a4373ea8825f7958",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
