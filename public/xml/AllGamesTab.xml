@@ -10263,16 +10263,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -10479,16 +10479,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1607520]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -12728,6 +12728,12 @@
 			<name><![CDATA[胸怀三国 OL / 삼국지를 품다 / Embrace the Three Kingdoms OL]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/987450]]></storeLink>
+		</game>
+		<game>
+			<appID>1605380</appID>
+			<name><![CDATA[音符之光传说 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1605380]]></storeLink>
 		</game>
 		<game>
 			<appID>616090</appID>
