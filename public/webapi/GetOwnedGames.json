@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2097,
+        "game_count": 2096,
         "games": [
             {
                 "appid": 92,
@@ -21424,16 +21424,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e72a64610268adc7d5cb8f20ceda8428ffbad216",
                 "img_logo_url": "d06a29a17c5eee2759a48a56678df38a6490c227",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1607520,
-                "name": "Tennis Manager 2021 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "c01776e6a30bcded367b9494a9bf8f32d4c86131",
-                "img_logo_url": "dfbb36905bc9faf52efebb964e806e1c4a32bfa1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
