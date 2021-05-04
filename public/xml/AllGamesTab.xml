@@ -4,26 +4,6 @@
 	<steamID><![CDATA[PCGameit]]></steamID>
 	<games>
 		<game>
-			<appID>440</appID>
-			<name><![CDATA[Team Fortress 2]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/440]]></storeLink>
-			<hoursLast2Weeks>0.6</hoursLast2Weeks>
-			<hoursOnRecord>3.2</hoursOnRecord>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/TF2]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/TF2/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>730</appID>
-			<name><![CDATA[Counter-Strike: Global Offensive]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/730]]></storeLink>
-			<hoursLast2Weeks>0.4</hoursLast2Weeks>
-			<hoursOnRecord>2,826</hoursOnRecord>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/CSGO]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/CSGO/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>943960</appID>
 			<name><![CDATA[3Buttons]]></name>
 			
@@ -2353,6 +2333,15 @@
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/10]]></storeLink>
 			<hoursOnRecord>2,118.9</hoursOnRecord>
+		</game>
+		<game>
+			<appID>730</appID>
+			<name><![CDATA[Counter-Strike: Global Offensive]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/730]]></storeLink>
+			<hoursOnRecord>2,826.5</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/CSGO]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/CSGO/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>273110</appID>
@@ -10413,6 +10402,15 @@
 			<name><![CDATA[TDP5 Arena 3D]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/355070]]></storeLink>
+		</game>
+		<game>
+			<appID>440</appID>
+			<name><![CDATA[Team Fortress 2]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/440]]></storeLink>
+			<hoursOnRecord>3.2</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/TF2]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/TF2/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>20</appID>
