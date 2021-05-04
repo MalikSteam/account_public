@@ -9496,8 +9496,8 @@
         557680,
         562660,
         562520,
-        375580,
         463210,
+        375580,
         555670,
         375680,
         583760,
@@ -9527,12 +9527,12 @@
             "tagid": 620519
         },
         {
-            "name": "MOBA",
-            "tagid": 1718
-        },
-        {
             "name": "Deckbuilding",
             "tagid": 32322
+        },
+        {
+            "name": "MOBA",
+            "tagid": 1718
         },
         {
             "name": "Card Game",
@@ -9543,12 +9543,12 @@
             "tagid": 4150
         },
         {
-            "name": "Team-Based",
-            "tagid": 5711
-        },
-        {
             "name": "eSports",
             "tagid": 5055
+        },
+        {
+            "name": "Team-Based",
+            "tagid": 5711
         },
         {
             "name": "Competitive",
@@ -9579,12 +9579,12 @@
             "tagid": 1663
         },
         {
-            "name": "Online Co-Op",
-            "tagid": 3843
-        },
-        {
             "name": "Early Access",
             "tagid": 493
+        },
+        {
+            "name": "Online Co-Op",
+            "tagid": 3843
         },
         {
             "name": "Shooter",
