@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2095,
+        "game_count": 2094,
         "games": [
             {
                 "appid": 92,
@@ -21514,16 +21514,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8277a7fd17dff27838fe9c46d8c0a6c02b251548",
                 "img_logo_url": "3708ab68fffdaee44b181cf22719ca03f8353c93",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1613700,
-                "name": "Hop Skip Jump Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d866f54ce9a2bf3a4786de78ce0473f826545e1c",
-                "img_logo_url": "38b9219319e34e3b5716156075efe0c00d144695",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
