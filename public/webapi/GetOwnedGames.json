@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2094,
+        "game_count": 2095,
         "games": [
             {
                 "appid": 92,
@@ -21626,6 +21626,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "06caa4b65068044c892f18de715a5f9396526f56",
                 "img_logo_url": "3c00735339fd0fa2eaca42332e1b95a20331207b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1619430,
+                "name": "Harvest Days Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7423ea1d41f81f6a6b2e5b7290bc3ac137edd069",
+                "img_logo_url": "ee3ec4d9573a76b4d648f0a54fef1efd67dd7fee",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
