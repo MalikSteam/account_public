@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2096,
+        "game_count": 2097,
         "games": [
             {
                 "appid": 92,
@@ -21666,6 +21666,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a9cf2b72d1239ec1e6dc08dd3111b618aed43abc",
                 "img_logo_url": "6da53513dadffe70b50e27c89ea2833ae7d62d54",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1620470,
+                "name": "Fish and Fight Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0c9e23ee1f7ed06b4f2de96d4ebd567932729313",
+                "img_logo_url": "1250ef8379015fc5fcba4e3593125504646eaacf",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
