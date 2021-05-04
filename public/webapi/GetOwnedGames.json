@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2097,
+        "game_count": 2096,
         "games": [
             {
                 "appid": 92,
@@ -20979,16 +20979,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9c4a62c8f31ea91247f40e1a288778247d16f82b",
                 "img_logo_url": "25fbcdaf4bbcc299fe146708b566268cec93b0a6",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1525090,
-                "name": "The Lost Legends of Redwall: The Scout Act II Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "5b3c4b4fdc3c81a29743b4546fb1006c8ce5b55d",
-                "img_logo_url": "bb0d42251808724b4f1a500133b20a42355a2bfa",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
