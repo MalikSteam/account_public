@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2096,
+        "game_count": 2097,
         "games": [
             {
                 "appid": 92,
@@ -21636,6 +21636,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "06caa4b65068044c892f18de715a5f9396526f56",
                 "img_logo_url": "3c00735339fd0fa2eaca42332e1b95a20331207b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1618650,
+                "name": "Seeker: My Shadow Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a34b40cce5ece9c3190a173ea28147f4d2dfaaf9",
+                "img_logo_url": "dfdcf3e3927453683051d17fa39af6254f925315",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
