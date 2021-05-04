@@ -32,6 +32,14 @@
         "name": "Half-Life: Blue Shift"
     },
     {
+        "appid": 440,
+        "name": "Team Fortress 2"
+    },
+    {
+        "appid": 570,
+        "name": "Dota 2"
+    },
+    {
         "appid": 730,
         "name": "Counter-Strike: Global Offensive"
     },
@@ -9078,6 +9086,10 @@
     {
         "appid": 1618250,
         "name": "Bipgolf Playtest"
+    },
+    {
+        "appid": 1618650,
+        "name": "Seeker: My Shadow Playtest"
     },
     {
         "appid": 1619430,
