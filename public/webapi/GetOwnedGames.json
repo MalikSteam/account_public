@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2093,
+        "game_count": 2094,
         "games": [
             {
                 "appid": 92,
@@ -21646,6 +21646,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9ce5f5a9063ebca4dc83dd89d569e035ba7038a5",
                 "img_logo_url": "72664de448da65572932dbd6a4373ea8825f7958",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1627370,
+                "name": "Space Mavericks Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "674743e8fb0e4023ec488da7683ff1c4d5598144",
+                "img_logo_url": "148d59113d5ef9e96c1032515d63377eedb1227f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
