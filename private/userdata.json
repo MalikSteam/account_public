@@ -9563,12 +9563,12 @@
             "tagid": 1708
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
             "name": "Turn-Based",
             "tagid": 1677
+        },
+        {
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Strategy",
