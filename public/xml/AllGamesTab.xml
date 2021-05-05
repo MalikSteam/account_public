@@ -9847,6 +9847,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/436180/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1627370</appID>
+			<name><![CDATA[Space Mavericks Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1627370]]></storeLink>
+		</game>
+		<game>
 			<appID>413620</appID>
 			<name><![CDATA[Space Needle VR ]]></name>
 			
@@ -10446,16 +10452,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
