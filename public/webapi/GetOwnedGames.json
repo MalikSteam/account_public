@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2095,
+        "game_count": 2094,
         "games": [
             {
                 "appid": 92,
@@ -21414,16 +21414,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "834ecea8981468c5922e2554ce48450c30114364",
                 "img_logo_url": "90a669e5036516c6a4d3070b47fd15690e41d91a",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1608630,
-                "name": "City of Beats Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "8ec29c1aa1f84902921b9fc59947b8060411013e",
-                "img_logo_url": "812c29ae1e9fd03e4685991acf78c9b23ff9ff85",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
