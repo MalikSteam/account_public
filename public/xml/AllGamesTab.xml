@@ -10265,6 +10265,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/355840/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1548580</appID>
+			<name><![CDATA[Survival Quiz CITY Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1548580]]></storeLink>
+		</game>
+		<game>
 			<appID>606140</appID>
 			<name><![CDATA[Survived By]]></name>
 			
