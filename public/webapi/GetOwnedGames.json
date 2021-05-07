@@ -21559,6 +21559,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1615410,
+                "name": "Tactical Breach Wizards Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d0dd5250a8507b64ccb0d42cc1d9aa4ada4b3945",
+                "img_logo_url": "69f2347986210c9d97aff31349247f670e04796b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1615450,
                 "name": "The Lady Puppet Playtest",
                 "playtime_forever": 0,
@@ -21666,16 +21676,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9dc0b9e9c149e65cb213c30364c57d4df2b47b8a",
                 "img_logo_url": "f0ed01890e12e4d722f606bcaeb84118dd9a6dee",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1620260,
-                "name": "Infinitode 2 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "a9cf2b72d1239ec1e6dc08dd3111b618aed43abc",
-                "img_logo_url": "6da53513dadffe70b50e27c89ea2833ae7d62d54",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
