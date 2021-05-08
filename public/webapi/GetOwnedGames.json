@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2101,
+        "game_count": 2102,
         "games": [
             {
                 "appid": 92,
@@ -21726,6 +21726,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "37261fb2e9e5846bd6ffac7277245c3db6380ae9",
                 "img_logo_url": "580e97510f97991b700d569010f394f0b75b95e9",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1629630,
+                "name": "Solar Scion Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d0b0c9704e626799da205b110b68806c64bd1b99",
+                "img_logo_url": "cb13294c71d66c356727e021fc20b5483679134d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
