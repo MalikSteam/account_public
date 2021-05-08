@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2102,
+        "game_count": 2103,
         "games": [
             {
                 "appid": 92,
@@ -20697,6 +20697,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3885a79d0088a6b265ed5cb50a80eb58ee12e027",
                 "img_logo_url": "02c8248d6c767f9a88e77bf4a9017aedf228dbaf",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1472110,
+                "name": "TIRELESS: Prepare for the Adrenaline Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ca5d8fc795de07b6eeee6426c349a598f302297d",
+                "img_logo_url": "d4c42f480814553a6f13301edc24fae0b498da92",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
