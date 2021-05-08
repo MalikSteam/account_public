@@ -45,9 +45,9 @@
             },
             {
                 "badgeid": 1,
-                "level": 16,
+                "level": 17,
                 "completion_time": 1084049563,
-                "xp": 800
+                "xp": 850
             },
             {
                 "badgeid": 1,
@@ -59,9 +59,9 @@
                 "border_color": 0
             }
         ],
-        "player_xp": 3169,
+        "player_xp": 3219,
         "player_level": 20,
-        "player_xp_needed_to_level_up": 131,
+        "player_xp_needed_to_level_up": 81,
         "player_xp_needed_current_level": 3000
     }
 }
