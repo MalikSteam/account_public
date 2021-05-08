@@ -7272,12 +7272,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/687980]]></storeLink>
 		</game>
 		<game>
-			<appID>1615960</appID>
-			<name><![CDATA[Motor Town: Behind The Wheel (Beta)]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1615960]]></storeLink>
-		</game>
-		<game>
 			<appID>612590</appID>
 			<name><![CDATA[Mouse Playhouse]]></name>
 			
@@ -9130,6 +9124,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/372800]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/372800]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/372800/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1606430</appID>
+			<name><![CDATA[Rubber Bandits Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1606430]]></storeLink>
 		</game>
 		<game>
 			<appID>357500</appID>
