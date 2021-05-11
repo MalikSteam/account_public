@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2104,
+        "game_count": 2105,
         "games": [
             {
                 "appid": 92,
@@ -21445,6 +21445,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e72a64610268adc7d5cb8f20ceda8428ffbad216",
                 "img_logo_url": "d06a29a17c5eee2759a48a56678df38a6490c227",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1607490,
+                "name": "Guild of Ascension Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9768ad2c257c8c3595d45bbe6089111b34d049df",
+                "img_logo_url": "b61aab906c596fe43b5ae9e73cc58955342feec1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
