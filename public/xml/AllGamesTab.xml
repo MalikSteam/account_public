@@ -10275,16 +10275,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -10506,16 +10506,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -10756,6 +10756,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/489000]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/489000]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/489000/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1484400</appID>
+			<name><![CDATA[The Infinite Trial of a Hopeless Man Running Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1484400]]></storeLink>
 		</game>
 		<game>
 			<appID>660520</appID>
