@@ -1442,6 +1442,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/365670]]></storeLink>
 		</game>
 		<game>
+			<appID>1478540</appID>
+			<name><![CDATA[Bless Unleashed - Beta Test]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1478540]]></storeLink>
+		</game>
+		<game>
 			<appID>494220</appID>
 			<name><![CDATA[Blight of the Immortals]]></name>
 			
@@ -10494,16 +10500,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -12711,6 +12717,12 @@
 			<name><![CDATA[冒险之路(Adventure Road)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/703090]]></storeLink>
+		</game>
+		<game>
+			<appID>1616140</appID>
+			<name><![CDATA[大洪水的故事 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1616140]]></storeLink>
 		</game>
 		<game>
 			<appID>684250</appID>
