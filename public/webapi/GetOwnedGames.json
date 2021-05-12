@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2107,
+        "game_count": 2108,
         "games": [
             {
                 "appid": 92,
@@ -21787,6 +21787,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "84eb182c71cc021a3467f90c104fa0ad7c09de54",
                 "img_logo_url": "0b1ede108ddcbd88080e93d4dd71dc2bdd136d77",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1634520,
+                "name": "Spacey Vade Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2829a6eb652f15d26aed57f3f52c981e4ff03434",
+                "img_logo_url": "43e41131cfc2bad47c90457b75d490f79616648f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
