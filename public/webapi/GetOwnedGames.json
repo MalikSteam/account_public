@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2110,
+        "game_count": 2109,
         "games": [
             {
                 "appid": 92,
@@ -21787,16 +21787,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d0b0c9704e626799da205b110b68806c64bd1b99",
                 "img_logo_url": "cb13294c71d66c356727e021fc20b5483679134d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1630310,
-                "name": "Draw IT! Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ba3608e3e067c17fa24d1a8c5e5a90d082d93faf",
-                "img_logo_url": "e9bcaa08b4309beb1ff27ea2450b64ffe9f3b82b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
