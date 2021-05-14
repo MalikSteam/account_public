@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2110,
+        "game_count": 2111,
         "games": [
             {
                 "appid": 92,
@@ -21807,6 +21807,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "84eb182c71cc021a3467f90c104fa0ad7c09de54",
                 "img_logo_url": "0b1ede108ddcbd88080e93d4dd71dc2bdd136d77",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1632830,
+                "name": "Goblin and Coins II Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "263da1d8841551417728634ae193d61d0eb02fd6",
+                "img_logo_url": "a0b160ddd53bccbd2d4a264545472ff1f66b3c22",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
