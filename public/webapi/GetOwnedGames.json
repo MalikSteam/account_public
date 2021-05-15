@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2112,
+        "game_count": 2111,
         "games": [
             {
                 "appid": 92,
@@ -21283,16 +21283,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ab3a1e58869003448cc3a613a166872dfbedf946",
                 "img_logo_url": "6364dd146a4b230b7dd222fccfd27808dd0ca628",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1574380,
-                "name": "Flea Madness Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b4abbf35e667fc1fa7fb104bba36a9674f64afd3",
-                "img_logo_url": "25a78e8f45f7048c61649bb6d5b439d4689cea6d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
