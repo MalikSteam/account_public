@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2109,
+        "game_count": 2111,
         "games": [
             {
                 "appid": 92,
@@ -21792,6 +21792,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1632470,
+                "name": "Sucker Punch Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1e4b454c9bb63a463f49fff08667fe75b92f82aa",
+                "img_logo_url": "672318a015f157020474c0847b7a3aae4fa5f1cc",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1632830,
                 "name": "Goblin and Coins II Playtest",
                 "playtime_forever": 0,
@@ -21807,6 +21817,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2829a6eb652f15d26aed57f3f52c981e4ff03434",
                 "img_logo_url": "43e41131cfc2bad47c90457b75d490f79616648f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1636130,
+                "name": "ARRIVAL: ZERO EARTH Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f63dfc57b18474464d58b07ddabb2475d77a020a",
+                "img_logo_url": "826e9df205fed0d82c26f701328699afb6ea0586",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
