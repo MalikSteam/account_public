@@ -9200,11 +9200,19 @@
         "name": "Gone Upstate Playtest"
     },
     {
+        "appid": 1632470,
+        "name": "Sucker Punch Playtest"
+    },
+    {
         "appid": 1632830,
         "name": "Goblin and Coins II Playtest"
     },
     {
         "appid": 1634520,
         "name": "Spacey Vade Playtest"
+    },
+    {
+        "appid": 1636130,
+        "name": "ARRIVAL: ZERO EARTH Playtest"
     }
 ]
