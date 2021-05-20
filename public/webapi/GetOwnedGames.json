@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2117,
+        "game_count": 2115,
         "games": [
             {
                 "appid": 92,
@@ -21308,31 +21308,11 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1580060,
-                "name": "Bloody Raid Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "95dcd94178430ec5dcd5c022ecf2ade57080cf4c",
-                "img_logo_url": "baf69d76a37f3bab6c465af07e82b61735f68faf",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1580100,
                 "name": "Mayhem in Single Valley Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "03d061088b62fd887ad2060305832b9bd79ec82b",
                 "img_logo_url": "39bc216c0a16da3b420dbbbc890b73c871450338",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1580280,
-                "name": "Nongunz: Doppelganger Edition Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "21aa8f76caac50c5b49ed8fe2708fb4c34350e50",
-                "img_logo_url": "353a11858740f57cdd11296a70082cd5b40f8d73",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
