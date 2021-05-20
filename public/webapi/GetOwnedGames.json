@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2115,
+        "game_count": 2116,
         "games": [
             {
                 "appid": 92,
@@ -20677,6 +20677,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "836c51911bd572d005cd4bbd4566287d2671483a",
                 "img_logo_url": "adb9106f4b93f3dacf7fe44de04358b006db4826",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1470590,
+                "name": "Wave Break Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "237e1e8444d596dac784988a34e6a9baf0878524",
+                "img_logo_url": "6e5e679e2779d082940cdf88b9c5c607d68083cd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
