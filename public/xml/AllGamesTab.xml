@@ -10305,16 +10305,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -10584,6 +10584,14 @@
 			<name><![CDATA[The Abbey of Crime Extensum]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/474030]]></storeLink>
+		</game>
+		<game>
+			<appID>1622860</appID>
+			<name><![CDATA[The Amazing American Circus Open Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1622860]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1622860]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1622860/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>445130</appID>
