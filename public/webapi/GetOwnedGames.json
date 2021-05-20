@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2116,
+        "game_count": 2117,
         "games": [
             {
                 "appid": 92,
@@ -21747,6 +21747,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0c9e23ee1f7ed06b4f2de96d4ebd567932729313",
                 "img_logo_url": "1250ef8379015fc5fcba4e3593125504646eaacf",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1622860,
+                "name": "The Amazing American Circus Open Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "5415fd6b62ebb6a978709524f0e847e4d00b5256",
+                "img_logo_url": "1c8909daeebe55eb0793f22c1c45222f4a0344e8",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
