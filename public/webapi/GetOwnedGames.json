@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2120,
+        "game_count": 2121,
         "games": [
             {
                 "appid": 92,
@@ -21545,6 +21545,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b65c043a3c01dbbdc67c75574cff39f1b7dea4d8",
                 "img_logo_url": "8e311c7a06f82c2e7855811d8bf1391a9a7c9d75",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1613540,
+                "name": "StarCrawlers Chimera Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8277a7fd17dff27838fe9c46d8c0a6c02b251548",
+                "img_logo_url": "3708ab68fffdaee44b181cf22719ca03f8353c93",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
