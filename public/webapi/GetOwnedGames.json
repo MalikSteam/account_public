@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2116,
+        "game_count": 2118,
         "games": [
             {
                 "appid": 92,
@@ -21773,6 +21773,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1627550,
+                "name": "Hunted: Kobayashi Tower Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "5deeea525e060cfe773e370a94054529142f2c8b",
+                "img_logo_url": "7cf23b25e057966f2d155d8b1349e8b44f422fe0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1628730,
                 "name": "Warp Factory Playtest",
                 "playtime_forever": 0,
@@ -21878,6 +21888,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f63dfc57b18474464d58b07ddabb2475d77a020a",
                 "img_logo_url": "826e9df205fed0d82c26f701328699afb6ea0586",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1641090,
+                "name": "Arcadius Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5891f856ca8703b9a729217c682f54429d5f303a",
+                "img_logo_url": "60c5594a74a66fe678daf01b908a312a1b7ab321",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
