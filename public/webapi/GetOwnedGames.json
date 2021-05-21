@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2118,
+        "game_count": 2120,
         "games": [
             {
                 "appid": 92,
@@ -21753,6 +21753,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1624310,
+                "name": "FRANZ FURY Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6eb9d6af140467f2e52c0ba7061de37ca36d42f7",
+                "img_logo_url": "55a7a873384f4929032cb899ec2064413fed19cf",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1624820,
                 "name": "Tire Friend Playtest",
                 "playtime_forever": 0,
@@ -21888,6 +21898,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f63dfc57b18474464d58b07ddabb2475d77a020a",
                 "img_logo_url": "826e9df205fed0d82c26f701328699afb6ea0586",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1638940,
+                "name": "Flowstone Saga Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f751abe3527524658a77bbff92634a0ca6e7180f",
+                "img_logo_url": "ced752f1aba2481514074d1477f08635bda990aa",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
