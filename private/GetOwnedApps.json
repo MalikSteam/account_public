@@ -9188,6 +9188,10 @@
         "name": "Space Mavericks Playtest"
     },
     {
+        "appid": 1627550,
+        "name": "Hunted: Kobayashi Tower Beta"
+    },
+    {
         "appid": 1628730,
         "name": "Warp Factory Playtest"
     },
@@ -9238,5 +9242,9 @@
     {
         "appid": 1636820,
         "name": "Knighted Playtest"
+    },
+    {
+        "appid": 1641090,
+        "name": "Arcadius Playtest"
     }
 ]
