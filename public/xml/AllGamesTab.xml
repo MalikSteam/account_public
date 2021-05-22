@@ -7326,6 +7326,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/687980]]></storeLink>
 		</game>
 		<game>
+			<appID>1615960</appID>
+			<name><![CDATA[Motor Town: Behind The Wheel (Beta)]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1615960]]></storeLink>
+		</game>
+		<game>
 			<appID>612590</appID>
 			<name><![CDATA[Mouse Playhouse]]></name>
 			
@@ -10341,16 +10347,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
