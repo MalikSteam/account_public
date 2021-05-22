@@ -6129,6 +6129,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/550820]]></storeLink>
 		</game>
 		<game>
+			<appID>1636820</appID>
+			<name><![CDATA[Knighted Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1636820]]></storeLink>
+		</game>
+		<game>
 			<appID>389430</appID>
 			<name><![CDATA[Knight Online]]></name>
 			
@@ -10347,16 +10353,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
