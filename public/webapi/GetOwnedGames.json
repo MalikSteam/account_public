@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2124,
+        "game_count": 2125,
         "games": [
             {
                 "appid": 92,
@@ -21655,6 +21655,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d9a48eca9585fe46dd173e5ce68c8bd59a05b53b",
                 "img_logo_url": "2c74988c1a6d921ba6b9a133f06d22c7372bd745",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1615960,
+                "name": "Motor Town: Behind The Wheel (Beta)",
+                "playtime_forever": 0,
+                "img_icon_url": "78c6537863bca2d56d3c7227e51fe855812724e7",
+                "img_logo_url": "22557c5fc975acbbc1d54927868ef1dc5c2afebd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
