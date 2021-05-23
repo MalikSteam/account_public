@@ -4732,6 +4732,7 @@
         1616560,
         1617590,
         1618250,
+        1618270,
         1618650,
         1619430,
         1619930,
@@ -9576,7 +9577,8 @@
         572227,
         572151,
         584572,
-        538681
+        538681,
+        574195
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
@@ -9739,12 +9741,12 @@
             "tagid": 620519
         },
         {
-            "name": "MOBA",
-            "tagid": 1718
-        },
-        {
             "name": "Deckbuilding",
             "tagid": 32322
+        },
+        {
+            "name": "MOBA",
+            "tagid": 1718
         },
         {
             "name": "Card Game",
@@ -9775,12 +9777,12 @@
             "tagid": 1708
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
             "name": "Turn-Based",
             "tagid": 1677
+        },
+        {
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Strategy",
