@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2127,
+        "game_count": 2128,
         "games": [
             {
                 "appid": 92,
@@ -21737,6 +21737,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0d966569860750f285b2358df45d97abd15f4727",
                 "img_logo_url": "81cf910c4c2cfd277bf35a38293753ff1c0be411",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1618270,
+                "name": "MekaFighters Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9b6cf28b2a15fe0f820f937b8e5f5249487297c3",
+                "img_logo_url": "a20a90014b4ed67f8b7853891d7142f6e3a3b768",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
