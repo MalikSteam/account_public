@@ -6862,6 +6862,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/436110]]></storeLink>
 		</game>
 		<game>
+			<appID>1618270</appID>
+			<name><![CDATA[MekaFighters Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1618270]]></storeLink>
+		</game>
+		<game>
 			<appID>108210</appID>
 			<name><![CDATA[Memoir '44 Online]]></name>
 			
@@ -10584,16 +10590,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
