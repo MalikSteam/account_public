@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2128,
+        "game_count": 2127,
         "games": [
             {
                 "appid": 92,
@@ -20799,16 +20799,6 @@
                 "img_icon_url": "8eae2b19c35dc4319a58ec553e4fb28f8eb60e84",
                 "img_logo_url": "2f3066e612a995a16eadc728540a2c50d83cffe3",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1477390,
-                "name": "Deepfield Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "bdd91f8c9386dbdd5adbf617558228891fca8f43",
-                "img_logo_url": "d437dacef7ee7054ab81fee76a1a3c7adc1ec556",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
