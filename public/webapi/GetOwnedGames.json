@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2129,
+        "game_count": 2128,
         "games": [
             {
                 "appid": 92,
@@ -21998,16 +21998,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ad43d88fec7fb9e61cec03c5fa656f2aeea2f181",
                 "img_logo_url": "84bc73ae4ff941f1658777f6da5f7f4a0e606c6d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1645090,
-                "name": "Spirit Bounce Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "062647e8f0ece391957bbc4067f25662cb08c58e",
-                "img_logo_url": "6ef73a35c49aa5a72c4a97757b770c6be29406d5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
