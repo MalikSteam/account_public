@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2126,
+        "game_count": 2125,
         "games": [
             {
                 "appid": 92,
@@ -21495,16 +21495,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1638b603507592a33e389f00fe994a7ad857d48f",
                 "img_logo_url": "f73c9af52b95cb14e19656d148460e28dfbefbea",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1612230,
-                "name": "Going Medieval Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "66fc85390ce345a1db68bf352c213a4e3a309e26",
-                "img_logo_url": "c70d8edde84a7ee85ce25667d2ead323e51f68be",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
