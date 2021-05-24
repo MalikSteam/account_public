@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2125,
+        "game_count": 2124,
         "games": [
             {
                 "appid": 92,
@@ -21868,16 +21868,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ce631dbc47806444996af2c088f5802ef5a9b405",
                 "img_logo_url": "0d470e7989f2e918dbd11afd4b24762d6f63024e",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1631680,
-                "name": "Gone Upstate Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "84eb182c71cc021a3467f90c104fa0ad7c09de54",
-                "img_logo_url": "0b1ede108ddcbd88080e93d4dd71dc2bdd136d77",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
