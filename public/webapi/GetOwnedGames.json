@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2124,
+        "game_count": 2123,
         "games": [
             {
                 "appid": 92,
@@ -21505,16 +21505,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2cbf9da83ceaf636fd5e847d155d99de7116be78",
                 "img_logo_url": "a58da9c897be988c874ff5ad856bb15e85432bd6",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1613290,
-                "name": "Couplinked Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "6092fc3c7ae77210ef627e2ce10402a7148d91d8",
-                "img_logo_url": "fde425c6238caa0e560cf55dbf90ad56a2417a82",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
