@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2126,
+        "game_count": 2127,
         "games": [
             {
                 "appid": 92,
@@ -21808,6 +21808,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5deeea525e060cfe773e370a94054529142f2c8b",
                 "img_logo_url": "7cf23b25e057966f2d155d8b1349e8b44f422fe0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1628630,
+                "name": "Knitted And Inflatable Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2e494475233febaa8ce20382d67405e0f9c3584f",
+                "img_logo_url": "6d840db7e795a9e37687b2777100bfdf2d540186",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
