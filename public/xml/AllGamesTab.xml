@@ -1923,6 +1923,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/590440]]></storeLink>
 		</game>
 		<game>
+			<appID>1640480</appID>
+			<name><![CDATA[Carma Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1640480]]></storeLink>
+		</game>
+		<game>
 			<appID>423880</appID>
 			<name><![CDATA[Carpe Diem]]></name>
 			
