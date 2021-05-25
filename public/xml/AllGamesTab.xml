@@ -4763,6 +4763,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/385890/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1631680</appID>
+			<name><![CDATA[Gone Upstate Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1631680]]></storeLink>
+		</game>
+		<game>
 			<appID>619250</appID>
 			<name><![CDATA[Gonio VR]]></name>
 			
@@ -7314,6 +7320,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/612590]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/612590]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/612590/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1646740</appID>
+			<name><![CDATA[Move the Window Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1646740]]></storeLink>
 		</game>
 		<game>
 			<appID>498600</appID>
@@ -10554,16 +10566,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
