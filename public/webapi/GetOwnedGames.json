@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2125,
+        "game_count": 2126,
         "games": [
             {
                 "appid": 92,
@@ -21435,6 +21435,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e72a64610268adc7d5cb8f20ceda8428ffbad216",
                 "img_logo_url": "d06a29a17c5eee2759a48a56678df38a6490c227",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1607090,
+                "name": "Bloody Merc Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e063779bd3d31adb1672c5bc7e404f076e665a25",
+                "img_logo_url": "2533472eecd9bcdca9dfa10da0d2aa49131f5aa2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
