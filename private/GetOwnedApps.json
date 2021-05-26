@@ -9060,6 +9060,10 @@
         "name": "Underworld Idle Playtest"
     },
     {
+        "appid": 1611980,
+        "name": "PC Building Simulator IT Expansion Beta"
+    },
+    {
         "appid": 1612090,
         "name": "Riftnote Beta"
     },
@@ -9298,5 +9302,9 @@
     {
         "appid": 1646740,
         "name": "Move the Window Playtest"
+    },
+    {
+        "appid": 1647680,
+        "name": "The Tau Ceti Terminus Playtest"
     }
 ]
