@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2125,
+        "game_count": 2127,
         "games": [
             {
                 "appid": 92,
@@ -21480,6 +21480,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1611980,
+                "name": "PC Building Simulator IT Expansion Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "48aa747a32eeba7a50f2efed903ffbe43c7a044b",
+                "img_logo_url": "3bafa324ff3528628b47c05ebc4e8d06bc307287",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1612090,
                 "name": "Riftnote Beta",
                 "playtime_forever": 0,
@@ -21968,6 +21978,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "eb204ec7235773be0523f6b51e2bbccfcbc692c7",
                 "img_logo_url": "f65e64ed996b14f6790a13fa6d5f91ba7e7d5f4f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1647680,
+                "name": "The Tau Ceti Terminus Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7760cac25d7f9af52cba8e2bc16143c7b656e7c1",
+                "img_logo_url": "61c983651905553f3d8a856f68a249999a7ab0f4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
