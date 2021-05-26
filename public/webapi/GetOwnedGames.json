@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2127,
+        "game_count": 2126,
         "games": [
             {
                 "appid": 92,
@@ -21898,16 +21898,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "263da1d8841551417728634ae193d61d0eb02fd6",
                 "img_logo_url": "a0b160ddd53bccbd2d4a264545472ff1f66b3c22",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1634490,
-                "name": "The Trud Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b93ec2080c0f133753b10661d6e287befaf29442",
-                "img_logo_url": "9fc393b25088d265ac86e29f116223f7a8e70f55",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
