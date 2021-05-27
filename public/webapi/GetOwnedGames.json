@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2128,
+        "game_count": 2129,
         "games": [
             {
                 "appid": 92,
@@ -21747,6 +21747,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a34b40cce5ece9c3190a173ea28147f4d2dfaaf9",
                 "img_logo_url": "dfdcf3e3927453683051d17fa39af6254f925315",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1619120,
+                "name": "Affectus Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "cb64f49672faa37e93bbc4d383d7f5d44b1caca1",
+                "img_logo_url": "ffe97faa46b8a0f259e69b14485dde0d6313193f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
