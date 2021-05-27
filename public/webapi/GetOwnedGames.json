@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2130,
+        "game_count": 2131,
         "games": [
             {
                 "appid": 92,
@@ -20919,6 +20919,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "51a839024bacfb152380e5fd708ca6decb0c758f",
                 "img_logo_url": "2a3149fb033f9bd0a00b912d2cf85084992a101c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1489170,
+                "name": "Arcane Waters Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1039ca9bab104f515b4215a5ced8a347e1227da7",
+                "img_logo_url": "444b10fe6b5e9c7d16e1bf69be2d622abeba85a3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
