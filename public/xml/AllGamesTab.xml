@@ -10055,6 +10055,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1645090]]></storeLink>
 		</game>
 		<game>
+			<appID>1604870</appID>
+			<name><![CDATA[Spiritle Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1604870]]></storeLink>
+		</game>
+		<game>
 			<appID>633320</appID>
 			<name><![CDATA[Spirit Realm]]></name>
 			
@@ -10578,16 +10584,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
