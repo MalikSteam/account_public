@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2127,
+        "game_count": 2128,
         "games": [
             {
                 "appid": 92,
@@ -21415,6 +21415,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a656ee83d55cac8ca8e71a42fbb0fd0d9a1aaac5",
                 "img_logo_url": "7e206d63eb1d56dbd52ddca0d90d93f6b237d63f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1604870,
+                "name": "Spiritle Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8cbc605391a9655424ff66308b312035d02e351a",
+                "img_logo_url": "ba0d18e510e07f7b3c70ca382b67e4fa1a0ef2cb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
