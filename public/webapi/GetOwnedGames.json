@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2129,
+        "game_count": 2130,
         "games": [
             {
                 "appid": 92,
@@ -21615,6 +21615,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e3e8e8812658103113d8043769fb779789ab7fe9",
                 "img_logo_url": "6f7a0fdd15d169e3ca215c812a6cff99f5871790",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1614690,
+                "name": "ARK-ADE Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "35c9ecc23ad7f054bbcec293807fda3fd01e06cc",
+                "img_logo_url": "dc8bc161874835d67e5d2f275558f9d8c057d0d1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
