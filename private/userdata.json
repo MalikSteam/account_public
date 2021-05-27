@@ -9794,16 +9794,16 @@
             "tagid": 32322
         },
         {
-            "name": "Card Game",
-            "tagid": 1666
-        },
-        {
             "name": "World War II",
             "tagid": 4150
         },
         {
             "name": "eSports",
             "tagid": 5055
+        },
+        {
+            "name": "Card Game",
+            "tagid": 1666
         },
         {
             "name": "Team-Based",
@@ -9814,6 +9814,10 @@
             "tagid": 3878
         },
         {
+            "name": "Choices Matter",
+            "tagid": 6426
+        },
+        {
             "name": "Free to Play",
             "tagid": 113
         },
@@ -9822,20 +9826,16 @@
             "tagid": 1708
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
-            "name": "Turn-Based",
-            "tagid": 1677
-        },
-        {
             "name": "Strategy",
             "tagid": 9
         },
         {
             "name": "FPS",
             "tagid": 1663
+        },
+        {
+            "name": "Turn-Based",
+            "tagid": 1677
         },
         {
             "name": "Early Access",
