@@ -10274,12 +10274,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/352700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1632470</appID>
-			<name><![CDATA[Sucker Punch Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1632470]]></storeLink>
-		</game>
-		<game>
 			<appID>1613360</appID>
 			<name><![CDATA[sunny-place Playtest]]></name>
 			
@@ -10584,16 +10578,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
