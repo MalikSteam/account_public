@@ -9819,16 +9819,16 @@
             "tagid": 3878
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
             "name": "Free to Play",
             "tagid": 113
         },
         {
             "name": "Tactical",
             "tagid": 1708
+        },
+        {
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Turn-Based",
