@@ -268,6 +268,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/386640/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1619120</appID>
+			<name><![CDATA[Affectus Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1619120]]></storeLink>
+		</game>
+		<game>
 			<appID>349700</appID>
 			<name><![CDATA[Aftermath]]></name>
 			
@@ -10584,16 +10590,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
