@@ -9140,6 +9140,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/883630]]></storeLink>
 		</game>
 		<game>
+			<appID>1475030</appID>
+			<name><![CDATA[Rocket Rumble Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1475030]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1475030]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1475030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>449050</appID>
 			<name><![CDATA[Rock Paper Scissors Champion]]></name>
 			
@@ -11518,6 +11526,12 @@
 			<name><![CDATA[Tornado!]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1024980]]></storeLink>
+		</game>
+		<game>
+			<appID>1613400</appID>
+			<name><![CDATA[Torqued Up Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1613400]]></storeLink>
 		</game>
 		<game>
 			<appID>978290</appID>
