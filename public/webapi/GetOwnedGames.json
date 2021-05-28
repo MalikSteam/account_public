@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2130,
+        "game_count": 2131,
         "games": [
             {
                 "appid": 92,
@@ -21878,6 +21878,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "37261fb2e9e5846bd6ffac7277245c3db6380ae9",
                 "img_logo_url": "580e97510f97991b700d569010f394f0b75b95e9",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21978,6 +21979,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5891f856ca8703b9a729217c682f54429d5f303a",
                 "img_logo_url": "60c5594a74a66fe678daf01b908a312a1b7ab321",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1642030,
+                "name": "Fragments Of A Mind Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bce2ebcb594ce762620a99b55b78c77db034ac20",
+                "img_logo_url": "6fe5197d86045c2475aca029bcb63dc21ca71aa7",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
