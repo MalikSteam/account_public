@@ -1208,6 +1208,9 @@
         "1175480": {
             "33779114": 2
         },
+        "1175660": {
+            "39921923": 2
+        },
         "1175770": {
             "39921923": 2
         },
@@ -9817,12 +9820,12 @@
             "tagid": 620519
         },
         {
-            "name": "MOBA",
-            "tagid": 1718
-        },
-        {
             "name": "Deckbuilding",
             "tagid": 32322
+        },
+        {
+            "name": "MOBA",
+            "tagid": 1718
         },
         {
             "name": "Card Game",
@@ -9853,12 +9856,12 @@
             "tagid": 1708
         },
         {
-            "name": "Turn-Based",
-            "tagid": 1677
-        },
-        {
             "name": "Choices Matter",
             "tagid": 6426
+        },
+        {
+            "name": "Turn-Based",
+            "tagid": 1677
         },
         {
             "name": "Strategy",
