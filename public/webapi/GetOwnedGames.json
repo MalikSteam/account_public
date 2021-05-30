@@ -20773,17 +20773,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1475030,
-                "name": "Rocket Rumble Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "bd54f1ae7ef8c336a202ee3889f8f588f574bb69",
-                "img_logo_url": "4ca1875ef35984e901fb31c6bf88cd940cd5a59c",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1475280,
                 "name": "Spies & Soldiers Playtest",
                 "playtime_forever": 0,
@@ -22020,6 +22009,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5891f856ca8703b9a729217c682f54429d5f303a",
                 "img_logo_url": "60c5594a74a66fe678daf01b908a312a1b7ab321",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1641400,
+                "name": "Adrorium Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "51e4caa82572ad63b86ee4c59e6e5de39c554195",
+                "img_logo_url": "f5330aeff73f46eb266629651d6ea8e538aa2212",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
