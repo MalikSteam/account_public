@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2135,
+        "game_count": 2134,
         "games": [
             {
                 "appid": 92,
@@ -22051,16 +22051,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "062647e8f0ece391957bbc4067f25662cb08c58e",
                 "img_logo_url": "6ef73a35c49aa5a72c4a97757b770c6be29406d5",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1646740,
-                "name": "Move the Window Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "eb204ec7235773be0523f6b51e2bbccfcbc692c7",
-                "img_logo_url": "f65e64ed996b14f6790a13fa6d5f91ba7e7d5f4f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
