@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2136,
+        "game_count": 2137,
         "games": [
             {
                 "appid": 92,
@@ -21757,6 +21757,16 @@
                 "img_icon_url": "473a329716f4d1e64b61b5b12749c93e6ca9c360",
                 "img_logo_url": "0c8aa482890812f4bf7979afcc98a6c10cb130c8",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1617840,
+                "name": "Kin's Chronicle Alpha",
+                "playtime_forever": 0,
+                "img_icon_url": "648fbe512a722a35c574bc814ac5aaea6471f397",
+                "img_logo_url": "6525721d31d9432052748d1da0d99e6dc0eb3cfb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
