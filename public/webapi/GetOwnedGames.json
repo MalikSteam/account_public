@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2137,
+        "game_count": 2139,
         "games": [
             {
                 "appid": 92,
@@ -20642,6 +20642,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1469760,
+                "name": "Project Genesis Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "321d9734bb83d13425f8eccfdc840d7aba551f99",
+                "img_logo_url": "bd7bb57e309a7a7801345a62602d290ae3dc3122",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1470010,
                 "name": "Blood Oath: When The Sword Rises Playtest",
                 "playtime_forever": 0,
@@ -22080,6 +22090,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7760cac25d7f9af52cba8e2bc16143c7b656e7c1",
                 "img_logo_url": "61c983651905553f3d8a856f68a249999a7ab0f4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1180660,
+                "name": "Tell Me Why",
+                "playtime_forever": 0,
+                "img_icon_url": "6eb40e6f71226ce5bea75601a1ec0f9d6f647dd1",
+                "img_logo_url": "8f523865b1fee40c24d3fd98ed5bdbd4ce90ceb4",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
