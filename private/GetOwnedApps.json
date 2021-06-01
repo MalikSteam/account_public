@@ -8540,6 +8540,10 @@
         "name": "Apex Legends"
     },
     {
+        "appid": 1180660,
+        "name": "Tell Me Why"
+    },
+    {
         "appid": 1189690,
         "name": "Minion Masters - Crystal Conquest"
     },
@@ -8550,6 +8554,14 @@
     {
         "appid": 1202100,
         "name": "Bodyless"
+    },
+    {
+        "appid": 1238430,
+        "name": "Tell Me Why - Chapter 2"
+    },
+    {
+        "appid": 1266670,
+        "name": "Tell Me Why - Chapter 3"
     },
     {
         "appid": 1269260,
@@ -8606,6 +8618,10 @@
     {
         "appid": 1469190,
         "name": "Confessions Playtest"
+    },
+    {
+        "appid": 1469760,
+        "name": "Project Genesis Playtest"
     },
     {
         "appid": 1469990,
