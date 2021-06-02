@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2141,
+        "game_count": 2140,
         "games": [
             {
                 "appid": 92,
@@ -20879,16 +20879,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "499dfc7f762fc3c21e517f54cfe587662059ea95",
                 "img_logo_url": "e6ee8263da86b7adbcd61737fc6ebc75c9d396ca",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1484400,
-                "name": "The Infinite Trial of a Hopeless Man Running Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "968a1f3bd5b3dbc3219b41150c97bb0b8c85231b",
-                "img_logo_url": "a0a7b324e9ddd32b1a7440b5ea00f88029deb0bd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
