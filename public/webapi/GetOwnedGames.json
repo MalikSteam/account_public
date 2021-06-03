@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2143,
+        "game_count": 2142,
         "games": [
             {
                 "appid": 92,
@@ -21515,16 +21515,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5ffa768f5189cebb90d32aa804e0470852313cae",
                 "img_logo_url": "4ef66cc2c452d50de07b8695929f0d0e1f36ecc2",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1611980,
-                "name": "PC Building Simulator IT Expansion Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "48aa747a32eeba7a50f2efed903ffbe43c7a044b",
-                "img_logo_url": "3bafa324ff3528628b47c05ebc4e8d06bc307287",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
