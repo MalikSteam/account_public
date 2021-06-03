@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2142,
+        "game_count": 2143,
         "games": [
             {
                 "appid": 92,
@@ -22100,6 +22100,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "684846f56c7899e38e73d998bb1e6e76ddfc79d1",
                 "img_logo_url": "657a9faf5932fb6c55788cabb76645c1a00c3e04",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1648620,
+                "name": "Heavy Duty Challenge Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "182e669229e842175f689dab0ef1d36055766881",
+                "img_logo_url": "aa0c0a177b3a4cf28225680673de103755555a8f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
