@@ -10666,16 +10666,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -11039,6 +11039,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/394720]]></storeLink>
 		</game>
 		<game>
+			<appID>1652920</appID>
+			<name><![CDATA[The Legends in Kylamar Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1652920]]></storeLink>
+		</game>
+		<game>
 			<appID>437160</appID>
 			<name><![CDATA[The Lion's Song]]></name>
 			
@@ -11360,6 +11366,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/646960]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/646960]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/646960/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1613800</appID>
+			<name><![CDATA[Tidewoken Alpha Test]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1613800]]></storeLink>
 		</game>
 		<game>
 			<appID>534500</appID>
