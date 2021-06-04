@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2147,
+        "game_count": 2148,
         "games": [
             {
                 "appid": 92,
@@ -22090,6 +22090,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "062647e8f0ece391957bbc4067f25662cb08c58e",
                 "img_logo_url": "6ef73a35c49aa5a72c4a97757b770c6be29406d5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1647100,
+                "name": "Blight Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "833971e45c7aba79ef22ac8ed2052105016e4512",
+                "img_logo_url": "de7d510290627b24eb0a36b832a14a9cfc7b876a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
