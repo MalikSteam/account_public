@@ -2,8 +2,8 @@
 <profile>
 	<steamID64>76561197966384101</steamID64>
 	<steamID><![CDATA[PCGameit]]></steamID>
-	<onlineState>offline</onlineState>
-	<stateMessage><![CDATA[Offline]]></stateMessage>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
 	<privacyState>public</privacyState>
 	<visibilityState>3</visibilityState>
 	
@@ -19,7 +19,7 @@
 	<headline><![CDATA[]]></headline>
 	<location><![CDATA[]]></location>
 	<realname><![CDATA[]]></realname>
-	<summary><![CDATA[ <a class="bb_link" href="https://steamcommunity.com/linkfilter/?url=https://PCGameit.com" target="_blank" rel="noreferrer" >https://PCGameit.com</a> ]]></summary>
+	<summary><![CDATA[ <a class="bb_link" href="https://steamcommunity.com/linkfilter/?url=https://pcgameit.com" target="_blank" rel="noreferrer" >pcgameit</a> <span class="bb_link_host">[pcgameit.com]</span>]]></summary>
 
 
 	<groups>
