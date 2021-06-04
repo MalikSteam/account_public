@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2145,
+        "game_count": 2146,
         "games": [
             {
                 "appid": 92,
@@ -22110,6 +22110,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "182e669229e842175f689dab0ef1d36055766881",
                 "img_logo_url": "aa0c0a177b3a4cf28225680673de103755555a8f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1650770,
+                "name": "Industries of Titan Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6761519c87c78ecdb83fc0bd1fb0bd344cc8644d",
+                "img_logo_url": "34cd796bdebc1cbce2782a466cd269414956a82d",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
