@@ -1,6 +1,90 @@
 [
     {
         "appid": 730,
+        "classid": "4459125254",
+        "instanceid": "302028390",
+        "currency": 0,
+        "background_color": "",
+        "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3fDJW-NCzkL-YlvnwDLfYkWNFppQlibzFoNXx3Q3jqkNsMT2gd9fAJFM6ZgnZ8wXrwbvq15fqtJXNnXR9-n51Mf_g9H8",
+        "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3fDJW-NCzkL-YlvnwDLfYkWNF18lwmO7Eu92hiwGw_ko4ZmD0dYaVIFJtMgmFrAS6xr_mjMLpvMjMm3M1sigmsXnD30vgckFA8MY",
+        "descriptions": [
+            {
+                "type": "html",
+                "value": "Exterior: Minimal Wear"
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted in a marbleized pattern."
+            },
+            {
+                "type": "html",
+                "value": " "
+            },
+            {
+                "type": "html",
+                "value": "The 2018 Inferno Collection",
+                "color": "9da1a9"
+            },
+            {
+                "type": "html",
+                "value": " "
+            }
+        ],
+        "tradable": 0,
+        "name": "UMP-45 | Mudder",
+        "name_color": "D2D2D2",
+        "type": "Consumer Grade SMG",
+        "market_name": "UMP-45 | Mudder (Minimal Wear)",
+        "market_hash_name": "UMP-45 | Mudder (Minimal Wear)",
+        "commodity": 0,
+        "market_tradable_restriction": 7,
+        "marketable": 1,
+        "tags": [
+            {
+                "category": "Type",
+                "internal_name": "CSGO_Type_SMG",
+                "localized_category_name": "Type",
+                "localized_tag_name": "SMG"
+            },
+            {
+                "category": "Weapon",
+                "internal_name": "weapon_ump45",
+                "localized_category_name": "Weapon",
+                "localized_tag_name": "UMP-45"
+            },
+            {
+                "category": "ItemSet",
+                "internal_name": "set_inferno_2",
+                "localized_category_name": "Collection",
+                "localized_tag_name": "The 2018 Inferno Collection"
+            },
+            {
+                "category": "Quality",
+                "internal_name": "normal",
+                "localized_category_name": "Category",
+                "localized_tag_name": "Normal"
+            },
+            {
+                "category": "Rarity",
+                "internal_name": "Rarity_Common_Weapon",
+                "localized_category_name": "Quality",
+                "localized_tag_name": "Consumer Grade",
+                "color": "b0c3d9"
+            },
+            {
+                "category": "Exterior",
+                "internal_name": "WearCategory1",
+                "localized_category_name": "Exterior",
+                "localized_tag_name": "Minimal Wear"
+            }
+        ]
+    },
+    {
+        "appid": 730,
         "classid": "1989271437",
         "instanceid": "0",
         "currency": 0,
