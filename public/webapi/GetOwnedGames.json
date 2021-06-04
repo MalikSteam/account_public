@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2146,
+        "game_count": 2147,
         "games": [
             {
                 "appid": 92,
@@ -21858,6 +21858,16 @@
                 "img_icon_url": "5415fd6b62ebb6a978709524f0e847e4d00b5256",
                 "img_logo_url": "1c8909daeebe55eb0793f22c1c45222f4a0344e8",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1624310,
+                "name": "FRANZ FURY Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6eb9d6af140467f2e52c0ba7061de37ca36d42f7",
+                "img_logo_url": "55a7a873384f4929032cb899ec2064413fed19cf",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
