@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2147,
+        "game_count": 2148,
         "games": [
             {
                 "appid": 92,
@@ -22162,6 +22162,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b33ea54545b24c79551e8bc4df65349dfc2c71f9",
                 "img_logo_url": "8c02871b49653d3fda1c64ebdb8c48fce8213c86",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1654490,
+                "name": "War Stained Open Alpha",
+                "playtime_forever": 0,
+                "img_icon_url": "262f327fdcea25134279d51d378e1133c22498c1",
+                "img_logo_url": "ca446516c19668e71ca78001d514e9f15f68e69c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
