@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2149,
+        "game_count": 2148,
         "games": [
             {
                 "appid": 92,
@@ -21213,16 +21213,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "73eb02c051b481c44212b7cac853b5ad1b2d232e",
                 "img_logo_url": "bcbae130e8b199246b9f7087d1881a37c82a3bf9",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1559400,
-                "name": "Breath of the Wasteland Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "be04938ef3c731c57a82ff5769fa4445b0f0d388",
-                "img_logo_url": "6931ccbff86ab830911ee991b407766c4d61cd14",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
