@@ -9945,20 +9945,28 @@
             "tagid": 5711
         },
         {
-            "name": "Competitive",
-            "tagid": 3878
+            "name": "Tactical",
+            "tagid": 1708
         },
         {
             "name": "Free to Play",
             "tagid": 113
         },
         {
-            "name": "Tactical",
-            "tagid": 1708
+            "name": "Competitive",
+            "tagid": 3878
         },
         {
             "name": "Turn-Based",
             "tagid": 1677
+        },
+        {
+            "name": "PvP",
+            "tagid": 1775
+        },
+        {
+            "name": "Online Co-Op",
+            "tagid": 3843
         },
         {
             "name": "Choices Matter",
@@ -9969,28 +9977,20 @@
             "tagid": 9
         },
         {
-            "name": "FPS",
-            "tagid": 1663
-        },
-        {
-            "name": "Early Access",
-            "tagid": 493
-        },
-        {
-            "name": "Online Co-Op",
-            "tagid": 3843
-        },
-        {
             "name": "Shooter",
             "tagid": 1774
         },
         {
-            "name": "Multiplayer",
-            "tagid": 3859
+            "name": "FPS",
+            "tagid": 1663
         },
         {
-            "name": "Story Rich",
-            "tagid": 1742
+            "name": "Co-op",
+            "tagid": 1685
+        },
+        {
+            "name": "Multiplayer",
+            "tagid": 3859
         },
         {
             "name": "Action",
