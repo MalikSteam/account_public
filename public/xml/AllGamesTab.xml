@@ -1909,12 +1909,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/352280]]></storeLink>
 		</game>
 		<game>
-			<appID>1542950</appID>
-			<name><![CDATA[Call to Arms - Gates of Hell: Ostfront BETA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1542950]]></storeLink>
-		</game>
-		<game>
 			<appID>485650</appID>
 			<name><![CDATA[Campaign Clicker]]></name>
 			
@@ -3465,20 +3459,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -10698,16 +10692,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
