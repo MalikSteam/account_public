@@ -9954,14 +9954,6 @@
             "tagid": 32322
         },
         {
-            "name": "World War II",
-            "tagid": 4150
-        },
-        {
-            "name": "eSports",
-            "tagid": 5055
-        },
-        {
             "name": "Card Game",
             "tagid": 1666
         },
@@ -9970,16 +9962,24 @@
             "tagid": 5711
         },
         {
+            "name": "World War II",
+            "tagid": 4150
+        },
+        {
+            "name": "eSports",
+            "tagid": 5055
+        },
+        {
+            "name": "Free to Play",
+            "tagid": 113
+        },
+        {
             "name": "Tactical",
             "tagid": 1708
         },
         {
             "name": "Competitive",
             "tagid": 3878
-        },
-        {
-            "name": "Free to Play",
-            "tagid": 113
         },
         {
             "name": "Turn-Based",
