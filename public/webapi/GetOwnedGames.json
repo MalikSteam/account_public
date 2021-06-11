@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2146,
+        "game_count": 2147,
         "games": [
             {
                 "appid": 92,
@@ -21555,6 +21555,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2a2bc4f6dc663b8ebfc3b6f3a0d2e944bb1d04ef",
                 "img_logo_url": "a2409370e178a21b9cb481c72174ae1ccfa1569c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1614200,
+                "name": "World CHAMPIONS: Decathlon Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c54ea5f83347f56e12ee5146d9dc95f08c4ef636",
+                "img_logo_url": "bc4485f1569b235ec6f957e8db6fb4bc08f3cb88",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
