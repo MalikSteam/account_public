@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2149,
+        "game_count": 2148,
         "games": [
             {
                 "appid": 92,
@@ -21112,16 +21112,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8385604e8e8048af91743a1be4ce37ce4656a028",
                 "img_logo_url": "adb160acc73243d2e18e6c1043d56efb1f3740e5",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1542950,
-                "name": "Call to Arms - Gates of Hell: Ostfront BETA",
-                "playtime_forever": 0,
-                "img_icon_url": "43bd67ff013be5ae9665a6f8fe7c5661960463ed",
-                "img_logo_url": "d668c7d3c7b41a2cdf6c47faed9ce96e35c4f8da",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
