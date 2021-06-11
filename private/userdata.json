@@ -9958,6 +9958,10 @@
             "tagid": 1666
         },
         {
+            "name": "eSports",
+            "tagid": 5055
+        },
+        {
             "name": "Team-Based",
             "tagid": 5711
         },
@@ -9966,8 +9970,8 @@
             "tagid": 4150
         },
         {
-            "name": "eSports",
-            "tagid": 5055
+            "name": "Competitive",
+            "tagid": 3878
         },
         {
             "name": "Free to Play",
@@ -9978,44 +9982,40 @@
             "tagid": 1708
         },
         {
-            "name": "Competitive",
-            "tagid": 3878
-        },
-        {
-            "name": "Turn-Based",
-            "tagid": 1677
+            "name": "Online Co-Op",
+            "tagid": 3843
         },
         {
             "name": "PvP",
             "tagid": 1775
         },
         {
-            "name": "Online Co-Op",
-            "tagid": 3843
-        },
-        {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
-            "name": "Strategy",
-            "tagid": 9
+            "name": "Turn-Based",
+            "tagid": 1677
         },
         {
             "name": "Shooter",
             "tagid": 1774
         },
         {
+            "name": "Strategy",
+            "tagid": 9
+        },
+        {
             "name": "FPS",
             "tagid": 1663
         },
         {
-            "name": "Co-op",
-            "tagid": 1685
+            "name": "Early Access",
+            "tagid": 493
         },
         {
             "name": "Multiplayer",
             "tagid": 3859
+        },
+        {
+            "name": "Co-op",
+            "tagid": 1685
         },
         {
             "name": "Action",
