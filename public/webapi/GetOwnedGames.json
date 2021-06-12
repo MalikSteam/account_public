@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2149,
+        "game_count": 2148,
         "games": [
             {
                 "appid": 92,
@@ -21879,17 +21879,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2e494475233febaa8ce20382d67405e0f9c3584f",
                 "img_logo_url": "6d840db7e795a9e37687b2777100bfdf2d540186",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1628730,
-                "name": "Warp Factory Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "37261fb2e9e5846bd6ffac7277245c3db6380ae9",
-                "img_logo_url": "580e97510f97991b700d569010f394f0b75b95e9",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
