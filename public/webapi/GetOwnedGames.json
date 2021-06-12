@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2148,
+        "game_count": 2149,
         "games": [
             {
                 "appid": 92,
@@ -21445,6 +21445,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "584007d52e39eaa383fd8514e4ecd615c41bf8c7",
                 "img_logo_url": "1ee126f0c4454aeaa2316641aecefab4f463d015",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1608990,
+                "name": "Green With Energy Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d15002153f135eea6313eae20e486aa4567b4543",
+                "img_logo_url": "5163f991fa2578ff02e26963917045be00902c46",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
