@@ -34,7 +34,7 @@
                 "value": " "
             }
         ],
-        "tradable": 0,
+        "tradable": 1,
         "name": "UMP-45 | Mudder",
         "name_color": "D2D2D2",
         "type": "Consumer Grade SMG",
