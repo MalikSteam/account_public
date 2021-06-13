@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2149,
+        "game_count": 2148,
         "games": [
             {
                 "appid": 92,
@@ -22029,17 +22029,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "51e4caa82572ad63b86ee4c59e6e5de39c554195",
                 "img_logo_url": "f5330aeff73f46eb266629651d6ea8e538aa2212",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1642030,
-                "name": "Fragments Of A Mind Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "bce2ebcb594ce762620a99b55b78c77db034ac20",
-                "img_logo_url": "6fe5197d86045c2475aca029bcb63dc21ca71aa7",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
