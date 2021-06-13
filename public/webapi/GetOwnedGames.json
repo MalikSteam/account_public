@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2148,
+        "game_count": 2147,
         "games": [
             {
                 "appid": 92,
@@ -21859,16 +21859,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "674743e8fb0e4023ec488da7683ff1c4d5598144",
                 "img_logo_url": "148d59113d5ef9e96c1032515d63377eedb1227f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1627380,
-                "name": "Saturated Outer Space Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "60ed40db57709da70428051c12b6996bc472b104",
-                "img_logo_url": "a585220ad7983bbdd3b5366aa102380a89423022",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
