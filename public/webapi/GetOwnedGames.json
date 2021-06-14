@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2146,
+        "game_count": 2145,
         "games": [
             {
                 "appid": 92,
@@ -21143,16 +21143,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b7583bfa8ab06d61f1de05759bc059e4fd73f556",
                 "img_logo_url": "3c67d4e1ffaf83af92c787d98875993304e49d42",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1549020,
-                "name": "Atrio: The Dark Wild Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3a84adfbb9ae9006e79c96fc361e5a726238d256",
-                "img_logo_url": "aac1b2b891477a8ae576a12a1f3668dd36cdedfa",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
