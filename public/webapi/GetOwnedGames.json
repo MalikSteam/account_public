@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2145,
+        "game_count": 2144,
         "games": [
             {
                 "appid": 92,
@@ -21969,16 +21969,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f751abe3527524658a77bbff92634a0ca6e7180f",
                 "img_logo_url": "ced752f1aba2481514074d1477f08635bda990aa",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1639020,
-                "name": "Storybook Brawl Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f",
-                "img_logo_url": "3cb3a0c29c57c86aae73669b034b76ec91c02a5d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
