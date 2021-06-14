@@ -10565,6 +10565,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/TacticalIntervention/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1616330</appID>
+			<name><![CDATA[Taekwondo Grand Prix Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1616330]]></storeLink>
+		</game>
+		<game>
 			<appID>428870</appID>
 			<name><![CDATA[Take the Dream IX]]></name>
 			
