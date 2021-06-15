@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2144,
+        "game_count": 2145,
         "games": [
             {
                 "appid": 92,
@@ -22151,6 +22151,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "27d58a1501cc69047e50024c87e6934163a6c2f8",
                 "img_logo_url": "e760f67d7daaa90d108d0edb1b12baa07bd01385",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1659970,
+                "name": "Zenko: A Fox's Tale Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "60d99e872b8ba155ad041a36a536a055fc9ee470",
+                "img_logo_url": "3494a57d6736545538f60478eccdf08b5066e1c2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
