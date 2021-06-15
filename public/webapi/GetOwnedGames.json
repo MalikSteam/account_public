@@ -8013,7 +8013,7 @@
             },
             {
                 "appid": 436160,
-                "name": "The Panic Room",
+                "name": "The Panic Room. House of secrets.",
                 "playtime_forever": 0,
                 "img_icon_url": "602ba126dd02ef4e82c1d67345f0e95084833100",
                 "img_logo_url": "b1282602f94ed97b2cd3e3f8d95a593cb1a38505",
@@ -13575,7 +13575,7 @@
                 "name": "World of Warships",
                 "playtime_forever": 161,
                 "img_icon_url": "eab230c20bbe2ddf4ccb34ab331f3b7f9c94c48f",
-                "img_logo_url": "ffaa77c3646ec83eea414f7c67bd78b5ab7139a2",
+                "img_logo_url": "45e5d16f989078718769140aeb091798a3cbe613",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 161,
                 "playtime_mac_forever": 0,
