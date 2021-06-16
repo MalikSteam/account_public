@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2146,
+        "game_count": 2147,
         "games": [
             {
                 "appid": 92,
@@ -22181,6 +22181,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f6bb3f7f1dbe3ecf438d0e8d33e6c06bacabd743",
                 "img_logo_url": "0408fbc93c484f96f9e0eb606f8da8afa391dd9c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1666210,
+                "name": "Graffiti Bombing Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "295da7c8592e533d73f3a67a326dce7072f15706",
+                "img_logo_url": "0c9b1738fb5f127c5483d6ba81e5a07a17c0fb81",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
