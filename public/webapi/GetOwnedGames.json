@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2145,
+        "game_count": 2146,
         "games": [
             {
                 "appid": 92,
@@ -22071,6 +22071,16 @@
                 "img_icon_url": "6eb40e6f71226ce5bea75601a1ec0f9d6f647dd1",
                 "img_logo_url": "8f523865b1fee40c24d3fd98ed5bdbd4ce90ceb4",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1650870,
+                "name": "Elerena Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "95c2abcc43b2200f7008cc75102b7eebc4862b9f",
+                "img_logo_url": "ebfeb6423ddb4bdfedca231832fdbd5235319e6c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
