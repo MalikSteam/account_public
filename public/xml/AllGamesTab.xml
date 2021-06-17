@@ -11847,6 +11847,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/259760]]></storeLink>
 		</game>
 		<game>
+			<appID>1613350</appID>
+			<name><![CDATA[TwoKinds Online Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1613350]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1613350]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1613350/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>415310</appID>
 			<name><![CDATA[TyranoBuilder Visual Novel Studio Demo]]></name>
 			
