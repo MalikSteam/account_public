@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2149,
+        "game_count": 2150,
         "games": [
             {
                 "appid": 92,
@@ -21940,6 +21940,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "84eb182c71cc021a3467f90c104fa0ad7c09de54",
                 "img_logo_url": "0b1ede108ddcbd88080e93d4dd71dc2bdd136d77",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1632470,
+                "name": "Sucker Punch Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1e4b454c9bb63a463f49fff08667fe75b92f82aa",
+                "img_logo_url": "672318a015f157020474c0847b7a3aae4fa5f1cc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
