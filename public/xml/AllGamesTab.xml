@@ -10013,6 +10013,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/822800]]></storeLink>
 		</game>
 		<game>
+			<appID>1666230</appID>
+			<name><![CDATA[Soulpath Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1666230]]></storeLink>
+		</game>
+		<game>
 			<appID>662470</appID>
 			<name><![CDATA[SoundLites]]></name>
 			
@@ -10475,16 +10481,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
