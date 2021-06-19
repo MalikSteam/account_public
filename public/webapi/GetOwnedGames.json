@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2154,
+        "game_count": 2155,
         "games": [
             {
                 "appid": 92,
@@ -22242,6 +22242,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "295da7c8592e533d73f3a67a326dce7072f15706",
                 "img_logo_url": "0c9b1738fb5f127c5483d6ba81e5a07a17c0fb81",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1666230,
+                "name": "Soulpath Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fc4c46f112ce4dcf42504c84b692f9089621d722",
+                "img_logo_url": "8adf0c537a91f9e90fe3d3e51ee9bfcc817ec5dc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
