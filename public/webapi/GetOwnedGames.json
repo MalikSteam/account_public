@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2156,
+        "game_count": 2157,
         "games": [
             {
                 "appid": 92,
@@ -22142,6 +22142,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "95c2abcc43b2200f7008cc75102b7eebc4862b9f",
                 "img_logo_url": "ebfeb6423ddb4bdfedca231832fdbd5235319e6c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1651810,
+                "name": "Dragon Bridge Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "87b89a62a31a3d49fdf7f0bd41e6bed2fd6bbde6",
+                "img_logo_url": "5115e6cae168f7e37bc1748cd9de84009fc54037",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
