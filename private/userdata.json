@@ -10061,10 +10061,6 @@
             "tagid": 1775
         },
         {
-            "name": "Turn-Based",
-            "tagid": 1677
-        },
-        {
             "name": "Shooter",
             "tagid": 1774
         },
@@ -10075,6 +10071,10 @@
         {
             "name": "FPS",
             "tagid": 1663
+        },
+        {
+            "name": "Turn-Based",
+            "tagid": 1677
         },
         {
             "name": "Early Access",
