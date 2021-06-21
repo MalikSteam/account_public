@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2156,
+        "game_count": 2155,
         "games": [
             {
                 "appid": 92,
@@ -22090,16 +22090,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7760cac25d7f9af52cba8e2bc16143c7b656e7c1",
                 "img_logo_url": "61c983651905553f3d8a856f68a249999a7ab0f4",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1648440,
-                "name": "ANVIL_Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "c17c0f30989361e5a0aa6d1d7859c867d48f4d9a",
-                "img_logo_url": "a3e1e2e2655d3b1ed88261e556f6b59e6f0b81c6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
