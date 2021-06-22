@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2153,
+        "game_count": 2154,
         "games": [
             {
                 "appid": 92,
@@ -20521,6 +20521,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "870dcc09b040a939fd529e3fb0d44349a07701e2",
                 "img_logo_url": "d7b90bfad421806f53e121c3884c68bd1b101ea7",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1398390,
+                "name": "SPACE / MECH / PILOT",
+                "playtime_forever": 0,
+                "img_icon_url": "3bc819a23ec35fe4c72250a0e224690106603465",
+                "img_logo_url": "7fdb11e09734c8ee4f7e20bb6ed4229a1c559f6f",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
