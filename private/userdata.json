@@ -10027,12 +10027,12 @@
             "tagid": 32322
         },
         {
-            "name": "eSports",
-            "tagid": 5055
-        },
-        {
             "name": "Card Game",
             "tagid": 1666
+        },
+        {
+            "name": "eSports",
+            "tagid": 5055
         },
         {
             "name": "Team-Based",
