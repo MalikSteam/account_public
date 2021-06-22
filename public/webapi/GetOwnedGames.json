@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2153,
+        "game_count": 2152,
         "games": [
             {
                 "appid": 92,
@@ -22111,16 +22111,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "87b89a62a31a3d49fdf7f0bd41e6bed2fd6bbde6",
                 "img_logo_url": "5115e6cae168f7e37bc1748cd9de84009fc54037",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1652100,
-                "name": "Blueberry Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "397c05829e9ff03113c4671bcdedb6db8d79c9e3",
-                "img_logo_url": "c50478b2d8c3a1ae4738a5e9be6a3031bb3d0f11",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
