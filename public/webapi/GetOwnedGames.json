@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2152,
+        "game_count": 2153,
         "games": [
             {
                 "appid": 92,
@@ -22241,6 +22241,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "32eb311b9f4ddef85cdbe63d4b3805e86bdd6aad",
                 "img_logo_url": "6f03968dc5ac94a8076e4dc7a0345141adfa2d07",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1669650,
+                "name": "Red Crucible: Able Archer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b3b57efa6784b3f6954bcb79e29681cf9ec83550",
+                "img_logo_url": "2a4dff08e566f110ec19d136a44355495b5c9c42",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
