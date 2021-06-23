@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2154,
+        "game_count": 2153,
         "games": [
             {
                 "appid": 92,
@@ -22232,16 +22232,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fc4c46f112ce4dcf42504c84b692f9089621d722",
                 "img_logo_url": "8adf0c537a91f9e90fe3d3e51ee9bfcc817ec5dc",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1666930,
-                "name": "Quiet Valley 2 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "e36aa7ac07150f1e795938d5d5cc4ae5a4855334",
-                "img_logo_url": "1eff0ec314fff09057818fcc3918a0417fd2bc50",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
