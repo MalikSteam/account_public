@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2153,
+        "game_count": 2152,
         "games": [
             {
                 "appid": 92,
@@ -21356,16 +21356,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6e23d2f823a68b5e28446b5885fcbbe202b34ea1",
                 "img_logo_url": "7be94e5b86ad0a17eb05542bae0da233e5cacb35",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1598760,
-                "name": "Carrier Command 2 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "25ec1d2707d671f2391ea7db9ddde5a271dd54b9",
-                "img_logo_url": "aa0ed5c2cee6c3cb248bfd080e55eb0255072357",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
