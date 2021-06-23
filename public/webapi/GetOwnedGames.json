@@ -18363,6 +18363,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "669b7f8834b812dac515b05dccc6ad8504e89778",
                 "img_logo_url": "2d4725adb26db9dffd9bc4b2ba6ebe84a5c20bbc",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
