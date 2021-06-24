@@ -1635,12 +1635,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/358640]]></storeLink>
 		</game>
 		<game>
-			<appID>529720</appID>
-			<name><![CDATA[bob's game]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/529720]]></storeLink>
-		</game>
-		<game>
 			<appID>1655270</appID>
 			<name><![CDATA[Bodies of Water (VR) Playtest]]></name>
 			
@@ -7798,6 +7792,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/241660]]></storeLink>
 		</game>
 		<game>
+			<appID>529720</appID>
+			<name><![CDATA[ok]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/529720]]></storeLink>
+		</game>
+		<game>
 			<appID>643270</appID>
 			<name><![CDATA[OLDTV]]></name>
 			
@@ -10495,16 +10495,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
