@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2158,
+        "game_count": 2159,
         "games": [
             {
                 "appid": 92,
@@ -21144,6 +21144,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ffc1a848cf0af0abc3259845cb901dcfb62c98ba",
                 "img_logo_url": "38d418f61b306d16767836b7f43bbc9cf946f10b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1545580,
+                "name": "BattleJuice Alchemist Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7beed25d3a730a9be2b9c95369739d4c61b9a23e",
+                "img_logo_url": "4aa20dcc6acdbcbfd34dd6d570488cbba5d29f51",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
