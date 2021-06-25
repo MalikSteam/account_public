@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2162,
+        "game_count": 2163,
         "games": [
             {
                 "appid": 92,
@@ -22343,6 +22343,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "199678323c6b574c8198e7e64506161ea9398560",
                 "img_logo_url": "f6202f4331bbfa1da0ba7e8a7dc683cbdd6e1b3e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1672800,
+                "name": "Space Station Designer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ded4650ef9e733ede7f3677a4580a9c8e4ec8b76",
+                "img_logo_url": "1e5afc9a88a87ac732688762f8cbe05bee003c24",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
