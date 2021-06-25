@@ -8002,6 +8002,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/305050/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1669070</appID>
+			<name><![CDATA[Out There: Oceans of Time Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1669070]]></storeLink>
+		</game>
+		<game>
 			<appID>1592890</appID>
 			<name><![CDATA[Outworlder Playtest]]></name>
 			
@@ -10758,16 +10764,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
