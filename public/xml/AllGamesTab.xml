@@ -8209,6 +8209,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/354550]]></storeLink>
 		</game>
 		<game>
+			<appID>1652010</appID>
+			<name><![CDATA[Peekazoo Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1652010]]></storeLink>
+		</game>
+		<game>
 			<appID>3483</appID>
 			<name><![CDATA[Peggle Extreme]]></name>
 			
@@ -10501,16 +10507,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
