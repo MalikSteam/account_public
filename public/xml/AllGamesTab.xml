@@ -10115,6 +10115,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1482520]]></storeLink>
 		</game>
 		<game>
+			<appID>1672800</appID>
+			<name><![CDATA[Space Station Designer Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1672800]]></storeLink>
+		</game>
+		<game>
 			<appID>1634520</appID>
 			<name><![CDATA[Spacey Vade Playtest]]></name>
 			
@@ -10519,16 +10525,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
