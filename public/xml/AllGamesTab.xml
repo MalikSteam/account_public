@@ -5545,6 +5545,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/402390/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1638570</appID>
+			<name><![CDATA[Hypergliders Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1638570]]></storeLink>
+		</game>
+		<game>
 			<appID>697610</appID>
 			<name><![CDATA[Idle Bouncer]]></name>
 			
