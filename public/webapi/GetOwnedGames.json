@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2163,
+        "game_count": 2164,
         "games": [
             {
                 "appid": 92,
@@ -22353,6 +22353,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ded4650ef9e733ede7f3677a4580a9c8e4ec8b76",
                 "img_logo_url": "1e5afc9a88a87ac732688762f8cbe05bee003c24",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1676110,
+                "name": "AST-Hero Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "77ff68e202862bfe8bd0c46e4432250c301c9226",
+                "img_logo_url": "1ea753c848de42acbf3577ca08311e8a3855684e",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
