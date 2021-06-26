@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2164,
+        "game_count": 2165,
         "games": [
             {
                 "appid": 92,
@@ -22042,6 +22042,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f63dfc57b18474464d58b07ddabb2475d77a020a",
                 "img_logo_url": "826e9df205fed0d82c26f701328699afb6ea0586",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1638570,
+                "name": "Hypergliders Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "032f83563fcd96e1aafe2da7a0e02696bfae76ee",
+                "img_logo_url": "b8fd1cf4f2e7f7dab9d3c359809e9d02ea3d4f03",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
