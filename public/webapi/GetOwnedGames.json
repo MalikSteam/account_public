@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2165,
+        "game_count": 2167,
         "games": [
             {
                 "appid": 92,
@@ -21290,6 +21290,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1574760,
+                "name": "Kapital: Sparks of Revolution Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "11d5ab49d8a4c7d224566e93b01dfbab62314217",
+                "img_logo_url": "50976cae03eb9572f3eb51bf75793ec824d02632",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1575330,
                 "name": "Friendly Fire: Arena",
                 "playtime_forever": 0,
@@ -22193,6 +22203,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "262f327fdcea25134279d51d378e1133c22498c1",
                 "img_logo_url": "ca446516c19668e71ca78001d514e9f15f68e69c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1654630,
+                "name": "Reverie Knights Tactics Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ce7432b1176538514d9c29badf470594502c3347",
+                "img_logo_url": "0f71f422e20bbfccd2983a588010914ecd963f21",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
