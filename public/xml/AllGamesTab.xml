@@ -6028,6 +6028,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1048540/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1574760</appID>
+			<name><![CDATA[Kapital: Sparks of Revolution Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1574760]]></storeLink>
+		</game>
+		<game>
 			<appID>544810</appID>
 			<name><![CDATA[KARDS - The WWII Card Game]]></name>
 			
@@ -9116,6 +9122,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1613520]]></storeLink>
 		</game>
 		<game>
+			<appID>1654630</appID>
+			<name><![CDATA[Reverie Knights Tactics Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1654630]]></storeLink>
+		</game>
+		<game>
 			<appID>270570</appID>
 			<name><![CDATA[Reversion - The Escape]]></name>
 			
@@ -10539,16 +10551,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
