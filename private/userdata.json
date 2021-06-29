@@ -10106,10 +10106,6 @@
             "tagid": 620519
         },
         {
-            "name": "MOBA",
-            "tagid": 1718
-        },
-        {
             "name": "Deckbuilding",
             "tagid": 32322
         },
@@ -10118,12 +10114,16 @@
             "tagid": 1666
         },
         {
+            "name": "Team-Based",
+            "tagid": 5711
+        },
+        {
             "name": "eSports",
             "tagid": 5055
         },
         {
-            "name": "Team-Based",
-            "tagid": 5711
+            "name": "Free to Play",
+            "tagid": 113
         },
         {
             "name": "World War II",
@@ -10134,24 +10134,20 @@
             "tagid": 3878
         },
         {
-            "name": "Free to Play",
-            "tagid": 113
-        },
-        {
-            "name": "Tactical",
-            "tagid": 1708
-        },
-        {
-            "name": "Online Co-Op",
-            "tagid": 3843
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "PvP",
             "tagid": 1775
         },
         {
-            "name": "Turn-Based",
-            "tagid": 1677
+            "name": "FPS",
+            "tagid": 1663
+        },
+        {
+            "name": "Online Co-Op",
+            "tagid": 3843
         },
         {
             "name": "Shooter",
@@ -10162,24 +10158,28 @@
             "tagid": 9
         },
         {
-            "name": "FPS",
-            "tagid": 1663
-        },
-        {
-            "name": "Early Access",
-            "tagid": 493
+            "name": "Co-op",
+            "tagid": 1685
         },
         {
             "name": "Multiplayer",
             "tagid": 3859
         },
         {
-            "name": "Co-op",
-            "tagid": 1685
+            "name": "Story Rich",
+            "tagid": 1742
+        },
+        {
+            "name": "First-Person",
+            "tagid": 3839
         },
         {
             "name": "Action",
             "tagid": 19
+        },
+        {
+            "name": "Adventure",
+            "tagid": 21
         }
     ],
     "rgSecondaryLanguages": [],
