@@ -6582,6 +6582,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/294040/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1661110</appID>
+			<name><![CDATA[Lords and Villeins Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1661110]]></storeLink>
+		</game>
+		<game>
 			<appID>815260</appID>
 			<name><![CDATA[Lords of Kingdoms]]></name>
 			
