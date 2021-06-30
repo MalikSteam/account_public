@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2165,
+        "game_count": 2166,
         "games": [
             {
                 "appid": 92,
@@ -22373,6 +22373,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ded4650ef9e733ede7f3677a4580a9c8e4ec8b76",
                 "img_logo_url": "1e5afc9a88a87ac732688762f8cbe05bee003c24",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1678840,
+                "name": "Rebots Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "91667b8e8b4dfefe32cc9fc4e8f6c8f14401d06d",
+                "img_logo_url": "e3c4f01763e59dc082aa03ec3b7066b60a983488",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
