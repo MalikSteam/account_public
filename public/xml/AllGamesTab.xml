@@ -987,6 +987,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/282201]]></storeLink>
 		</game>
 		<game>
+			<appID>1629460</appID>
+			<name><![CDATA[Autonima Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1629460]]></storeLink>
+		</game>
+		<game>
 			<appID>329280</appID>
 			<name><![CDATA[Avalon Lords: Dawn Rises]]></name>
 			
@@ -10543,16 +10549,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
