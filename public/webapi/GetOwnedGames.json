@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2168,
+        "game_count": 2167,
         "games": [
             {
                 "appid": 92,
@@ -21374,8 +21374,8 @@
                 "appid": 1597110,
                 "name": "DERE EXE: Rebirth of Horror",
                 "playtime_forever": 0,
-                "img_icon_url": "026403bb7443f0ab8ecd739659c59e7d261d63fc",
-                "img_logo_url": "ad25ddaf0bdaa50ea703aeae8645f2b01f835381",
+                "img_icon_url": "c07faddf14ac5f5bafdc8b5ba9f525c8214275c0",
+                "img_logo_url": "fac248ee33ed27c9129a15453b75764c89262535",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22193,16 +22193,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ce7432b1176538514d9c29badf470594502c3347",
                 "img_logo_url": "0f71f422e20bbfccd2983a588010914ecd963f21",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1654760,
-                "name": "Realms VR Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "65757080c7b04d7cf853fb4b0592b4f3fe7fbad2",
-                "img_logo_url": "bf901b61ec34897697c2e1f2d2e47b5b99e64755",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
