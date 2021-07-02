@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2168,
+        "game_count": 2169,
         "games": [
             {
                 "appid": 92,
@@ -22373,6 +22373,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ded4650ef9e733ede7f3677a4580a9c8e4ec8b76",
                 "img_logo_url": "1e5afc9a88a87ac732688762f8cbe05bee003c24",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1673980,
+                "name": "Riflestorm Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8d64615c1ebbc9f26cbdd656a40a57df00b651eb",
+                "img_logo_url": "458e0158a079e747750461e962ca1a7fbcfcd9cf",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
