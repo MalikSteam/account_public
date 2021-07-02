@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2167,
+        "game_count": 2168,
         "games": [
             {
                 "appid": 92,
@@ -22393,6 +22393,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "91667b8e8b4dfefe32cc9fc4e8f6c8f14401d06d",
                 "img_logo_url": "e3c4f01763e59dc082aa03ec3b7066b60a983488",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1679970,
+                "name": "MageTime Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ba1be35b116bced3aa174a10280934448e413b5d",
+                "img_logo_url": "0dd6a9c49e9ab37116d1bb5b60085af5c054f291",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
