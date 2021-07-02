@@ -9188,6 +9188,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/509420/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1673980</appID>
+			<name><![CDATA[Riflestorm Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1673980]]></storeLink>
+		</game>
+		<game>
 			<appID>39120</appID>
 			<name><![CDATA[RIFT]]></name>
 			
@@ -10806,16 +10812,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
