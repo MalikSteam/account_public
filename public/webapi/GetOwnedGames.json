@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2170,
+        "game_count": 2171,
         "games": [
             {
                 "appid": 92,
@@ -22393,6 +22393,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7e2ffcf8d4c4cb8d4d556db68a15d5508a069082",
                 "img_logo_url": "6c0d881a0376d64dfefcbcee2f1063e1a34b8ccb",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1678160,
+                "name": "Nature Treks: Together (Playtest)",
+                "playtime_forever": 0,
+                "img_icon_url": "bd0efa5c83ce9210ebe2f6c54782133e225527f7",
+                "img_logo_url": "ee530ed7e18ef8dc7fa6f3d3723f8e50a9556ad4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
