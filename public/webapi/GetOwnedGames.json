@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2169,
+        "game_count": 2170,
         "games": [
             {
                 "appid": 92,
@@ -22403,6 +22403,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "91667b8e8b4dfefe32cc9fc4e8f6c8f14401d06d",
                 "img_logo_url": "e3c4f01763e59dc082aa03ec3b7066b60a983488",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1679240,
+                "name": "Disaster crisis Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6274e363d7f6eefc71b6ce1468e3dec4ec9688e0",
+                "img_logo_url": "33d827395a88fb5ee69594b7560875dc12bbb86f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
