@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2171,
+        "game_count": 2172,
         "games": [
             {
                 "appid": 92,
@@ -22393,6 +22393,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7e2ffcf8d4c4cb8d4d556db68a15d5508a069082",
                 "img_logo_url": "6c0d881a0376d64dfefcbcee2f1063e1a34b8ccb",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1676540,
+                "name": "Raccoon Roller Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2a94db732a4ec88e28a5479b94d969df90a41c49",
+                "img_logo_url": "6b4503fe1c47bd50a164955d65438f2fc9a82def",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
