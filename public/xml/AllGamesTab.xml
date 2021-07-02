@@ -6738,6 +6738,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/689400/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1679970</appID>
+			<name><![CDATA[MageTime Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1679970]]></storeLink>
+		</game>
+		<game>
 			<appID>201190</appID>
 			<name><![CDATA[Magic: The Gathering – Tactics]]></name>
 			
@@ -10549,16 +10555,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
