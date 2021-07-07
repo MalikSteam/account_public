@@ -22288,16 +22288,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1660880,
-                "name": "Gravity Runner Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f6bb3f7f1dbe3ecf438d0e8d33e6c06bacabd743",
-                "img_logo_url": "0408fbc93c484f96f9e0eb606f8da8afa391dd9c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1661110,
                 "name": "Lords and Villeins Playtest",
                 "playtime_forever": 0,
@@ -22505,6 +22495,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "eec85d31286b988c98207d0775ce222977964dab",
                 "img_logo_url": "b5e796e9d081bc6dc65d23c40c636c509b5eb3ee",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1688650,
+                "name": "Driftmaster Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a1aefbc41254c0a92047c885bcae24e2cfb0b467",
+                "img_logo_url": "f7fdc6ce8a5d6873721359bf23d9e8d7c3fa4ebc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
