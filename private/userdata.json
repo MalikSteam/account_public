@@ -5017,6 +5017,7 @@
         1616290,
         1616330,
         1616560,
+        1617050,
         1617490,
         1617590,
         1617840,
@@ -10013,7 +10014,8 @@
         596771,
         599677,
         526991,
-        593854
+        593854,
+        573600
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
@@ -10220,16 +10222,16 @@
             "tagid": 3843
         },
         {
+            "name": "Shooter",
+            "tagid": 1774
+        },
+        {
             "name": "Strategy",
             "tagid": 9
         },
         {
             "name": "Co-op",
             "tagid": 1685
-        },
-        {
-            "name": "Shooter",
-            "tagid": 1774
         },
         {
             "name": "Multiplayer",
