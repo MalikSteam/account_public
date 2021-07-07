@@ -9565,6 +9565,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639190]]></storeLink>
 		</game>
 		<game>
+			<appID>1627380</appID>
+			<name><![CDATA[Saturated Outer Space Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1627380]]></storeLink>
+		</game>
+		<game>
 			<appID>404480</appID>
 			<name><![CDATA[SC2VN - The eSports Visual Novel]]></name>
 			
@@ -10870,16 +10876,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
