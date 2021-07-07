@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2180,
+        "game_count": 2181,
         "games": [
             {
                 "appid": 92,
@@ -22515,6 +22515,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "eec85d31286b988c98207d0775ce222977964dab",
                 "img_logo_url": "b5e796e9d081bc6dc65d23c40c636c509b5eb3ee",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1685120,
+                "name": "Tichu Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ed89ab30a78997ca45abfdbcd9d2c00663cf3eeb",
+                "img_logo_url": "f5bbafcd40c8936766a7f6217eadf4905b6a481e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
