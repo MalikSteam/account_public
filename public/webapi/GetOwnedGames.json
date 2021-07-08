@@ -21180,16 +21180,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1548580,
-                "name": "Survival Quiz CITY Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b7583bfa8ab06d61f1de05759bc059e4fd73f556",
-                "img_logo_url": "3c67d4e1ffaf83af92c787d98875993304e49d42",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 582660,
                 "name": "Black Desert",
                 "playtime_forever": 0,
@@ -22545,6 +22535,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ed89ab30a78997ca45abfdbcd9d2c00663cf3eeb",
                 "img_logo_url": "f5bbafcd40c8936766a7f6217eadf4905b6a481e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1686190,
+                "name": "Project Lilith Playtest - Challenge Mode",
+                "playtime_forever": 0,
+                "img_icon_url": "95edcc6ffa6dbf5e5b6cbfe9beff03ae5f3072f2",
+                "img_logo_url": "e495d327570b905515b522520b1360f96b045d7a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
