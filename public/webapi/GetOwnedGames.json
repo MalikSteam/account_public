@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2184,
+        "game_count": 2183,
         "games": [
             {
                 "appid": 92,
@@ -20649,16 +20649,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "658a7c52ecd5f60f9e1302cf55d999e623ae8976",
                 "img_logo_url": "94e0e2cf032bd414db321a3b101009b305c907f9",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1469760,
-                "name": "Project Genesis Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "321d9734bb83d13425f8eccfdc840d7aba551f99",
-                "img_logo_url": "bd7bb57e309a7a7801345a62602d290ae3dc3122",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
