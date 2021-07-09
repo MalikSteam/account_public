@@ -2975,6 +2975,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/497940]]></storeLink>
 		</game>
 		<game>
+			<appID>1682310</appID>
+			<name><![CDATA[Destroyer: The U-Boat Hunter Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1682310]]></storeLink>
+		</game>
+		<game>
 			<appID>612620</appID>
 			<name><![CDATA[Detective Butler: Maiden Voyage Murder]]></name>
 			
@@ -3513,20 +3519,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -3902,6 +3908,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/244590]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/244590]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/244590/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1691520</appID>
+			<name><![CDATA[Erannorth Chronicles Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1691520]]></storeLink>
 		</game>
 		<game>
 			<appID>493480</appID>
@@ -10645,16 +10657,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
