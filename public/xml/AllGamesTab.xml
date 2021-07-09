@@ -4983,6 +4983,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/GRID2/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1669630</appID>
+			<name><![CDATA[Gridform Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1669630]]></storeLink>
+		</game>
+		<game>
 			<appID>1535870</appID>
 			<name><![CDATA[GridIron Playtest]]></name>
 			
