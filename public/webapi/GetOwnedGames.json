@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2184,
+        "game_count": 2185,
         "games": [
             {
                 "appid": 92,
@@ -22525,6 +22525,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ed89ab30a78997ca45abfdbcd9d2c00663cf3eeb",
                 "img_logo_url": "f5bbafcd40c8936766a7f6217eadf4905b6a481e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1685970,
+                "name": "Black Lotus Motel Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "43bb9233a77b90c5db400029eb2e7832d94b0e47",
+                "img_logo_url": "1b9554b01e0bcca34d4f37ea38612e942f2d2367",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
