@@ -9648,6 +9648,10 @@
         "name": "MageTime Playtest"
     },
     {
+        "appid": 1682310,
+        "name": "Destroyer: The U-Boat Hunter Playtest"
+    },
+    {
         "appid": 1684850,
         "name": "Knife To Meet You Playtest"
     },
@@ -9674,5 +9678,9 @@
     {
         "appid": 1689630,
         "name": "Wargs Playtest"
+    },
+    {
+        "appid": 1691520,
+        "name": "Erannorth Chronicles Playtest"
     }
 ]
