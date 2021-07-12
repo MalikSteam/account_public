@@ -10643,16 +10643,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12686,12 +12686,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/326360]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/326360]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/326360/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1654490</appID>
-			<name><![CDATA[War Stained Open Alpha]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1654490]]></storeLink>
 		</game>
 		<game>
 			<appID>236390</appID>
