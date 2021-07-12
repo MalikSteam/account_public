@@ -9464,6 +9464,10 @@
         "name": "Spirit Bounce Playtest"
     },
     {
+        "appid": 1646460,
+        "name": "Gray Zone Playtest"
+    },
+    {
         "appid": 1646740,
         "name": "Move the Window Playtest"
     },
@@ -9690,5 +9694,9 @@
     {
         "appid": 1691520,
         "name": "Erannorth Chronicles Playtest"
+    },
+    {
+        "appid": 1692710,
+        "name": "One Tile Man Beta"
     }
 ]
