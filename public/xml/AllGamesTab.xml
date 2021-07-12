@@ -4961,6 +4961,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/647670]]></storeLink>
 		</game>
 		<game>
+			<appID>1646460</appID>
+			<name><![CDATA[Gray Zone Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1646460]]></storeLink>
+		</game>
+		<game>
 			<appID>1608990</appID>
 			<name><![CDATA[Green With Energy Playtest]]></name>
 			
@@ -7944,6 +7950,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/463390/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1692710</appID>
+			<name><![CDATA[One Tile Man Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1692710]]></storeLink>
+		</game>
+		<game>
 			<appID>463250</appID>
 			<name><![CDATA[One Tower]]></name>
 			
@@ -10643,16 +10655,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -10888,16 +10900,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
