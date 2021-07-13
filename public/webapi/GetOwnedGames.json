@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2185,
+        "game_count": 2186,
         "games": [
             {
                 "appid": 92,
@@ -22537,6 +22537,16 @@
                 "img_icon_url": "332cbcf45505c9c3c3d7388f010cc2ef10c2d966",
                 "img_logo_url": "5f03bc1478c3c34f9d37151f38ef5297007408d6",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1686550,
+                "name": "SlimeTime Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "68daa7fec0cd74468c2595eef60beb0c60954be6",
+                "img_logo_url": "93c4072243cdc4533c5697b44935814ee17debe8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
