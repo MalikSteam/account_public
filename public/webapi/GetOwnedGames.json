@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2186,
+        "game_count": 2185,
         "games": [
             {
                 "appid": 92,
@@ -22334,16 +22334,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "32eb311b9f4ddef85cdbe63d4b3805e86bdd6aad",
                 "img_logo_url": "6f03968dc5ac94a8076e4dc7a0345141adfa2d07",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1669070,
-                "name": "Out There: Oceans of Time Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "a33f61ec5e4591bb460c5dd9653c9db383794d0d",
-                "img_logo_url": "477df5292e4e02e736ecc086a377a5d4f883a0c5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
