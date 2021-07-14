@@ -797,6 +797,9 @@
         "982760": {
             "39921923": 2
         },
+        "985810": {
+            "39921923": 2
+        },
         "985950": {
             "33779114": 0
         },
@@ -10304,12 +10307,12 @@
             "tagid": 4150
         },
         {
-            "name": "Free to Play",
-            "tagid": 113
-        },
-        {
             "name": "Competitive",
             "tagid": 3878
+        },
+        {
+            "name": "Free to Play",
+            "tagid": 113
         },
         {
             "name": "Choices Matter",
