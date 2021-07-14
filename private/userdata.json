@@ -10304,12 +10304,12 @@
             "tagid": 4150
         },
         {
-            "name": "Competitive",
-            "tagid": 3878
-        },
-        {
             "name": "Free to Play",
             "tagid": 113
+        },
+        {
+            "name": "Competitive",
+            "tagid": 3878
         },
         {
             "name": "Choices Matter",
