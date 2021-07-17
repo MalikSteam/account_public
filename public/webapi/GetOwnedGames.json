@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2189,
+        "game_count": 2190,
         "games": [
             {
                 "appid": 92,
@@ -22607,6 +22607,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "4f6f4caf62bb54c1c6d96f726c78564437649b8a",
                 "img_logo_url": "c2593240a526d53d7b062ce33eeebb783d6bdb62",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1691640,
+                "name": "FRIGID Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bdcfd74e95f9da8fa857484f5a93c64eff0108ec",
+                "img_logo_url": "93d0d5c6d33b48e450f34418a8d558553dcf38af",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
