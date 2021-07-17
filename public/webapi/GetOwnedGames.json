@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2188,
+        "game_count": 2189,
         "games": [
             {
                 "appid": 92,
@@ -22567,6 +22567,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "440c0aaa1c4c83a965eb76d74b85ab9f65b72f27",
                 "img_logo_url": "eb1d701d7744f1da3d720cecbdac39a992a1d799",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1687970,
+                "name": "Patron Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e86034f5a33687ce145aa49ed3cf968158006a42",
+                "img_logo_url": "e4bdad52c4b7d6220f8863ce251437a8f3dea471",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
