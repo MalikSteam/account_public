@@ -4563,6 +4563,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1575330]]></storeLink>
 		</game>
 		<game>
+			<appID>1691640</appID>
+			<name><![CDATA[FRIGID Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1691640]]></storeLink>
+		</game>
+		<game>
 			<appID>334370</appID>
 			<name><![CDATA[From Earth]]></name>
 			
@@ -6694,6 +6700,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/435030/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1687330</appID>
+			<name><![CDATA[Lostria Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1687330]]></storeLink>
+		</game>
+		<game>
 			<appID>266150</appID>
 			<name><![CDATA[Lost Saga North America]]></name>
 			
@@ -7506,6 +7518,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/687980]]></storeLink>
 		</game>
 		<game>
+			<appID>1615960</appID>
+			<name><![CDATA[Motor Town: Behind The Wheel (Beta)]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1615960]]></storeLink>
+		</game>
+		<game>
 			<appID>612590</appID>
 			<name><![CDATA[Mouse Playhouse]]></name>
 			
@@ -8264,6 +8282,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1064670]]></storeLink>
 		</game>
 		<game>
+			<appID>1687970</appID>
+			<name><![CDATA[Patron Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1687970]]></storeLink>
+		</game>
+		<game>
 			<appID>218620</appID>
 			<name><![CDATA[PAYDAY 2]]></name>
 			
@@ -8989,6 +9013,14 @@
 			<name><![CDATA[Rapid Fire]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/943010]]></storeLink>
+		</game>
+		<game>
+			<appID>1662440</appID>
+			<name><![CDATA[RATOMON Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1662440]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1662440]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1662440/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1487780</appID>
@@ -9997,6 +10029,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/866960]]></storeLink>
 		</game>
 		<game>
+			<appID>1686550</appID>
+			<name><![CDATA[SlimeTime Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1686550]]></storeLink>
+		</game>
+		<game>
 			<appID>542340</appID>
 			<name><![CDATA[Slingshot people]]></name>
 			
@@ -10649,16 +10687,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12332,6 +12370,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/339600/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1686140</appID>
+			<name><![CDATA[VEGA Conflict Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1686140]]></storeLink>
+		</game>
+		<game>
 			<appID>307290</appID>
 			<name><![CDATA[Velvet Sundown]]></name>
 			
@@ -13165,14 +13209,6 @@
 			<name><![CDATA[三国：归途 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1643970]]></storeLink>
-		</game>
-		<game>
-			<appID>1686320</appID>
-			<name><![CDATA[东方有顶天梦 Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1686320]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1686320]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1686320/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>722670</appID>
