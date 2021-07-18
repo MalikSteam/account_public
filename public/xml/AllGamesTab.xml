@@ -3517,20 +3517,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -4561,12 +4561,6 @@
 			<name><![CDATA[Friendly Fire: Arena]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1575330]]></storeLink>
-		</game>
-		<game>
-			<appID>1691640</appID>
-			<name><![CDATA[FRIGID Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1691640]]></storeLink>
 		</game>
 		<game>
 			<appID>334370</appID>
@@ -6700,12 +6694,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/435030/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1687330</appID>
-			<name><![CDATA[Lostria Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1687330]]></storeLink>
-		</game>
-		<game>
 			<appID>266150</appID>
 			<name><![CDATA[Lost Saga North America]]></name>
 			
@@ -8276,12 +8264,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1064670]]></storeLink>
 		</game>
 		<game>
-			<appID>1687970</appID>
-			<name><![CDATA[Patron Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1687970]]></storeLink>
-		</game>
-		<game>
 			<appID>218620</appID>
 			<name><![CDATA[PAYDAY 2]]></name>
 			
@@ -9007,14 +8989,6 @@
 			<name><![CDATA[Rapid Fire]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/943010]]></storeLink>
-		</game>
-		<game>
-			<appID>1662440</appID>
-			<name><![CDATA[RATOMON Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1662440]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1662440]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1662440/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1487780</appID>
@@ -10023,12 +9997,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/866960]]></storeLink>
 		</game>
 		<game>
-			<appID>1686550</appID>
-			<name><![CDATA[SlimeTime Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1686550]]></storeLink>
-		</game>
-		<game>
 			<appID>542340</appID>
 			<name><![CDATA[Slingshot people]]></name>
 			
@@ -10926,16 +10894,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -12364,12 +12332,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/339600/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1686140</appID>
-			<name><![CDATA[VEGA Conflict Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1686140]]></storeLink>
-		</game>
-		<game>
 			<appID>307290</appID>
 			<name><![CDATA[Velvet Sundown]]></name>
 			
@@ -13203,6 +13165,14 @@
 			<name><![CDATA[三国：归途 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1643970]]></storeLink>
+		</game>
+		<game>
+			<appID>1686320</appID>
+			<name><![CDATA[东方有顶天梦 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1686320]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1686320]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1686320/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>722670</appID>
