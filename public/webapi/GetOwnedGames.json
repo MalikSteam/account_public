@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2192,
+        "game_count": 2190,
         "games": [
             {
                 "appid": 92,
@@ -22259,16 +22259,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1655650,
-                "name": "Terrain of Magical Expertise Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d053318c71a8f6787c122d5839b8da18fbcac495",
-                "img_logo_url": "dbfaf5fb0476bcdf78762b05c504531b55acb67d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1655830,
                 "name": "Medieval Towns Playtest",
                 "playtime_forever": 0,
@@ -22436,16 +22426,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8d64615c1ebbc9f26cbdd656a40a57df00b651eb",
                 "img_logo_url": "fb816ec402fe10b648c8032e201fd7a537df2524",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1674930,
-                "name": "Dread Templar Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7e2ffcf8d4c4cb8d4d556db68a15d5508a069082",
-                "img_logo_url": "6c0d881a0376d64dfefcbcee2f1063e1a34b8ccb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
