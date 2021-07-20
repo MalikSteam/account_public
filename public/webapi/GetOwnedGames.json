@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2191,
+        "game_count": 2190,
         "games": [
             {
                 "appid": 92,
@@ -21206,16 +21206,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "73eb02c051b481c44212b7cac853b5ad1b2d232e",
                 "img_logo_url": "bcbae130e8b199246b9f7087d1881a37c82a3bf9",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1562450,
-                "name": "Dysterra Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "e9bfbfbcb61d4d5f774c947ae7a66687fd044634",
-                "img_logo_url": "59206bb3d2a23ae01db6515c29e6ddab38184b40",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
