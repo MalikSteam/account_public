@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2192,
+        "game_count": 2193,
         "games": [
             {
                 "appid": 92,
@@ -22628,6 +22628,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ac81b088a97a61dc383477bc46a04cbdc4756edf",
                 "img_logo_url": "83c97fdaddab5d35bd4ee0cc6328b15192b8851a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1695270,
+                "name": "The Hauntings Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6e0232e348ef3cedc4049ef3c4523e9501fbb3a0",
+                "img_logo_url": "63cba3750a6f52f0b09d27439d68a7bed682b24e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
