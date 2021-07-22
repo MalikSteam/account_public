@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2190,
+        "game_count": 2191,
         "games": [
             {
                 "appid": 92,
@@ -21377,6 +21377,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "51ec9cc1f8be2e0471c755d79c68e203e5bce82e",
                 "img_logo_url": "09ff56f5b21d488f66f03eec1e7a725eb260de46",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1600360,
+                "name": "The Cycle Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "095a453a40e177e7b55b51aa519ef446412cb30a",
+                "img_logo_url": "5c6de14eec7ae14653193315130d6b841c33db57",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
