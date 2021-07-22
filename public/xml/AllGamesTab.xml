@@ -8445,6 +8445,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1613340]]></storeLink>
 		</game>
 		<game>
+			<appID>1690700</appID>
+			<name><![CDATA[Piratopia Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1690700]]></storeLink>
+		</game>
+		<game>
 			<appID>453190</appID>
 			<name><![CDATA[PITCH-HIT : DEMO]]></name>
 			
@@ -10920,16 +10926,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
