@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2193,
+        "game_count": 2196,
         "games": [
             {
                 "appid": 92,
@@ -21584,6 +21584,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1613700,
+                "name": "Hop Skip Jump Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d866f54ce9a2bf3a4786de78ce0473f826545e1c",
+                "img_logo_url": "38b9219319e34e3b5716156075efe0c00d144695",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1613820,
                 "name": "Maze Qore Arena - Playtest",
                 "playtime_forever": 0,
@@ -22658,6 +22668,26 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0c03d1abd2de2e48d023d77286d727e0966a8bb1",
                 "img_logo_url": "0686772cd4c91f915b118d5f27862ea9d3bb7087",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1703530,
+                "name": "Gunnar\u2019s Conquest Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "276b9700c633a750a9738c876bb3ce3e11260595",
+                "img_logo_url": "4f61e0e25bcee225843ccd703962b6a253f795aa",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1703560,
+                "name": "HangTogether Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3b0e047839f42cd84b1149ca4bca57b1f0a9f9f0",
+                "img_logo_url": "d9c5f265404e7a1ed3256929896f37550814f331",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
