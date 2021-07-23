@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2199,
+        "game_count": 2201,
         "games": [
             {
                 "appid": 92,
@@ -22330,6 +22330,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1666290,
+                "name": "Audioclash Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "25fc39ee8da2d38f8616fbc99c1f85b4831f9d06",
+                "img_logo_url": "95a95b0719e59eb5977c3cdfef6873e59f9600b5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1667450,
                 "name": "Master Of Earth Playtest",
                 "playtime_forever": 0,
@@ -22628,6 +22638,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fb3975825aec5ac8fa3dfbb35d208d389b61e8b0",
                 "img_logo_url": "1d84b50333574ca082724509b234c57cec0b121c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1693330,
+                "name": "The Skinwalker Investigations Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7e099fd645d4a442adb8f44cef8e37b00ac26c4f",
+                "img_logo_url": "99159fb7311e85da0d6316fc231f9dfebbcac50d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
