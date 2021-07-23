@@ -12692,6 +12692,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/535440/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1631560</appID>
+			<name><![CDATA[Warchief - Closed Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1631560]]></storeLink>
+		</game>
+		<game>
 			<appID>291480</appID>
 			<name><![CDATA[Warface]]></name>
 			
