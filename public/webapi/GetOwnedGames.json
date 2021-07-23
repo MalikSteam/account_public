@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2196,
+        "game_count": 2197,
         "games": [
             {
                 "appid": 92,
@@ -22668,6 +22668,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0c03d1abd2de2e48d023d77286d727e0966a8bb1",
                 "img_logo_url": "0686772cd4c91f915b118d5f27862ea9d3bb7087",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1702360,
+                "name": "Practisim Designer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a0116e9d5e7e858cb8b6d008b4ecdce97195b020",
+                "img_logo_url": "64b561ab91358340f1f3d1ac4fe87c2ed78c5627",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
