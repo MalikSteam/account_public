@@ -9762,5 +9762,13 @@
     {
         "appid": 1700460,
         "name": "Underground Garage Playtest"
+    },
+    {
+        "appid": 1703530,
+        "name": "Gunnar\u2019s Conquest Playtest"
+    },
+    {
+        "appid": 1703560,
+        "name": "HangTogether Playtest"
     }
 ]
