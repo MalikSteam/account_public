@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2198,
+        "game_count": 2199,
         "games": [
             {
                 "appid": 92,
@@ -22708,6 +22708,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3b0e047839f42cd84b1149ca4bca57b1f0a9f9f0",
                 "img_logo_url": "d9c5f265404e7a1ed3256929896f37550814f331",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1704150,
+                "name": "Heart Of Muriet Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "478d143c17c68be0cef5e3326b5eb0f4ac41d7f3",
+                "img_logo_url": "03de887181c50abd041baee5c8f8ec1c50cef4f2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
