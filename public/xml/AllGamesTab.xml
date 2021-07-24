@@ -1106,6 +1106,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/452640]]></storeLink>
 		</game>
 		<game>
+			<appID>1687750</appID>
+			<name><![CDATA[BADA S.S. Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1687750]]></storeLink>
+		</game>
+		<game>
 			<appID>378480</appID>
 			<name><![CDATA[Badland Bandits]]></name>
 			
@@ -4134,12 +4140,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/442710]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/442710]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/442710/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1513280</appID>
-			<name><![CDATA[Farmageddon: A Cattle Royale Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1513280]]></storeLink>
 		</game>
 		<game>
 			<appID>353220</appID>
