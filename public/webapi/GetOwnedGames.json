@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2203,
+        "game_count": 2204,
         "games": [
             {
                 "appid": 92,
@@ -22365,6 +22365,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "32eb311b9f4ddef85cdbe63d4b3805e86bdd6aad",
                 "img_logo_url": "6f03968dc5ac94a8076e4dc7a0345141adfa2d07",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1669150,
+                "name": "KEO Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c828d779136c5657759d9e5c10e9632bd71567c2",
+                "img_logo_url": "cf67ce2b75c483ada410faffb5a498b751db1650",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
