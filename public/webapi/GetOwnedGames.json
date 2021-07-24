@@ -20987,16 +20987,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1513280,
-                "name": "Farmageddon: A Cattle Royale Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "eecf01dff9784e9695f28eb5170d91f95587734c",
-                "img_logo_url": "c8fc8f140b07475ae216299d8ebc6f0edc5df9ad",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1513380,
                 "name": "Rogue Shift Playtest",
                 "playtime_forever": 0,
@@ -22588,6 +22578,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "440c0aaa1c4c83a965eb76d74b85ab9f65b72f27",
                 "img_logo_url": "eb1d701d7744f1da3d720cecbdac39a992a1d799",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1687750,
+                "name": "BADA S.S. Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0026aee8484e1f0e4616e09ad3e8fa0fdc483101",
+                "img_logo_url": "dd27240c160d552cd7ac0a47cff3407220da2e06",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
