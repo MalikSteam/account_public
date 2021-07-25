@@ -3914,6 +3914,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/244590/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1691520</appID>
+			<name><![CDATA[Erannorth Chronicles Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1691520]]></storeLink>
+		</game>
+		<game>
 			<appID>493480</appID>
 			<name><![CDATA[ERISLE]]></name>
 			
@@ -10974,16 +10980,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
