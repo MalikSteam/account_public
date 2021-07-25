@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2204,
+        "game_count": 2205,
         "games": [
             {
                 "appid": 92,
@@ -22648,6 +22648,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "53a4e25f00070ab870f28bccbd514ebc6fffe617",
                 "img_logo_url": "2273b94821cf88c717b04b52952baf5c9df81051",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1691520,
+                "name": "Erannorth Chronicles Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ce744e298111ece2a59f4e08c96275c06769cee3",
+                "img_logo_url": "c5bfbeb0cc590cb8dfb81589d70411ab378f620c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
