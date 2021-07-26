@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2204,
+        "game_count": 2205,
         "games": [
             {
                 "appid": 92,
@@ -22526,6 +22526,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "536dfdcf93cfbadb9dd0d8139f058bb73baa8ce1",
                 "img_logo_url": "73ef79610b25461812d3743c31d4c9f54a8ec171",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1682930,
+                "name": "Wardens Rising Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2f01337659d3bdb5c43e6061c50ab2077e6027f9",
+                "img_logo_url": "9bc424aa7ec6a0ceb2e6281aab301d1825d6f082",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
