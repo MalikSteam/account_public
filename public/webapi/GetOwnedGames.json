@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2205,
+        "game_count": 2206,
         "games": [
             {
                 "appid": 92,
@@ -21903,6 +21903,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "60ed40db57709da70428051c12b6996bc472b104",
                 "img_logo_url": "a585220ad7983bbdd3b5366aa102380a89423022",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1627670,
+                "name": "A Clever Label Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ce580be138afaf9812b9930bb97f057a4531f03e",
+                "img_logo_url": "cbc01db6a6b51e2577a72300735c350802cf9124",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
