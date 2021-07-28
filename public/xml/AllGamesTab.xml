@@ -10723,16 +10723,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -11186,6 +11186,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/260430]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/260430]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/260430/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1685190</appID>
+			<name><![CDATA[The Game For Skippers Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1685190]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1685190]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1685190/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>350020</appID>
