@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2203,
+        "game_count": 2204,
         "games": [
             {
                 "appid": 92,
@@ -22526,6 +22526,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ed89ab30a78997ca45abfdbcd9d2c00663cf3eeb",
                 "img_logo_url": "f5bbafcd40c8936766a7f6217eadf4905b6a481e",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1685190,
+                "name": "The Game For Skippers Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "319b817f4c27157c16a024437e0cc33189ee8ecf",
+                "img_logo_url": "97ffd2bac09550d663bf438c3b1b6a53c13ef004",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
