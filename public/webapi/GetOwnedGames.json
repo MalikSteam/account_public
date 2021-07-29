@@ -22511,6 +22511,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1681000,
+                "name": "\u8d85\u903c\u771f\u7684\u653b\u57ce\u6a21\u62df\u5668 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9bbf5255608a2513047b8acf1a4d0486e59c64f0",
+                "img_logo_url": "e99a95631e2fb2f77cac1509cb9b5b998d87649f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1682310,
                 "name": "Destroyer: The U-Boat Hunter Playtest",
                 "playtime_forever": 0,
@@ -22629,16 +22639,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a1aefbc41254c0a92047c885bcae24e2cfb0b467",
                 "img_logo_url": "d9f47d5eca23f11e887ee3534e97ed86fbae8751",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1689630,
-                "name": "Wargs Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "8487a81fc55ec884883296a29d80efe91f77671e",
-                "img_logo_url": "1f693ec255cf5c66b7e88427a9bf2fe7fd55c706",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
