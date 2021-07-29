@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2206,
+        "game_count": 2205,
         "games": [
             {
                 "appid": 92,
@@ -20962,16 +20962,6 @@
                 "img_icon_url": "efa8d2a08de20e7a5e00bb6a60952d744827c45f",
                 "img_logo_url": "5271f79b0013b0ca9f1e4d3ca2c9a7cc66b04c68",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1499160,
-                "name": "Accident On the Simple Rd Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7711807eaf218b76374d0e89355e5513511d6be4",
-                "img_logo_url": "741e32247813a960cabaf512d8934bc3728a51f4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
