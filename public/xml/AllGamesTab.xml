@@ -5628,6 +5628,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/513560/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1642300</appID>
+			<name><![CDATA[HVOR: Confrontation Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1642300]]></storeLink>
+		</game>
+		<game>
 			<appID>402390</appID>
 			<name><![CDATA[Hyperdrive Massacre]]></name>
 			
@@ -10980,16 +10986,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
