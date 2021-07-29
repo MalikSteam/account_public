@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2205,
+        "game_count": 2206,
         "games": [
             {
                 "appid": 92,
@@ -22093,6 +22093,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "51e4caa82572ad63b86ee4c59e6e5de39c554195",
                 "img_logo_url": "f5330aeff73f46eb266629651d6ea8e538aa2212",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1642300,
+                "name": "HVOR: Confrontation Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "18c5f91a7a693930f12392407e7f3d891d411313",
+                "img_logo_url": "f3013934ee423720c4dc359a86d42e9f446d178d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
