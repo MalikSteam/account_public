@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2206,
+        "game_count": 2205,
         "games": [
             {
                 "appid": 92,
@@ -22569,16 +22569,6 @@
                 "img_icon_url": "43bb9233a77b90c5db400029eb2e7832d94b0e47",
                 "img_logo_url": "1b9554b01e0bcca34d4f37ea38612e942f2d2367",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1686140,
-                "name": "VEGA Conflict Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b170629a325dfd7aee17075d9356e5a48f9b9786",
-                "img_logo_url": "f1b953df9f770c73a861b0b48123d77af80d5b67",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
