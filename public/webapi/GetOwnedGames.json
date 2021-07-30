@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2205,
+        "game_count": 2206,
         "games": [
             {
                 "appid": 92,
@@ -22709,6 +22709,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ac81b088a97a61dc383477bc46a04cbdc4756edf",
                 "img_logo_url": "83c97fdaddab5d35bd4ee0cc6328b15192b8851a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1695090,
+                "name": "SANNABI: The Revenant Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7d571d0f0848d8e7e620456310849fd721cf4f84",
+                "img_logo_url": "35165e7207d01046e82496980da58f3c98fba590",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
