@@ -22299,16 +22299,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1661320,
-                "name": "Predecessor Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "21f9899ad82ebe1beda10a970ab808b937485dda",
-                "img_logo_url": "5ceffb649ad94dc33499d21ebdc5c4957806d8a7",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1662440,
                 "name": "RATOMON Playtest",
                 "playtime_forever": 0,
@@ -22700,6 +22690,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bdcfd74e95f9da8fa857484f5a93c64eff0108ec",
                 "img_logo_url": "93d0d5c6d33b48e450f34418a8d558553dcf38af",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1692680,
+                "name": "Luminus Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2c56fd0c098266cbe23442162e1dad67c2db85b2",
+                "img_logo_url": "37b30ffda8e8a8754c70f8ca69ab47e666e21bca",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
