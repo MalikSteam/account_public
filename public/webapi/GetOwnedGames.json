@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2209,
+        "game_count": 2208,
         "games": [
             {
                 "appid": 92,
@@ -22790,16 +22790,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "276b9700c633a750a9738c876bb3ce3e11260595",
                 "img_logo_url": "4f61e0e25bcee225843ccd703962b6a253f795aa",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1703560,
-                "name": "HangTogether Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3b0e047839f42cd84b1149ca4bca57b1f0a9f9f0",
-                "img_logo_url": "d9c5f265404e7a1ed3256929896f37550814f331",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
