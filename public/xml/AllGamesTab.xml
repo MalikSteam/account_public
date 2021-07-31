@@ -6798,6 +6798,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/681500/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1692680</appID>
+			<name><![CDATA[Luminus Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1692680]]></storeLink>
+		</game>
+		<game>
 			<appID>212200</appID>
 			<name><![CDATA[Mabinogi]]></name>
 			
@@ -8694,12 +8700,6 @@
 			<name><![CDATA[Practisim Designer Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1702360]]></storeLink>
-		</game>
-		<game>
-			<appID>1661320</appID>
-			<name><![CDATA[Predecessor Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1661320]]></storeLink>
 		</game>
 		<game>
 			<appID>434110</appID>
