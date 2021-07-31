@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2208,
+        "game_count": 2207,
         "games": [
             {
                 "appid": 92,
@@ -22700,16 +22700,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bdcfd74e95f9da8fa857484f5a93c64eff0108ec",
                 "img_logo_url": "93d0d5c6d33b48e450f34418a8d558553dcf38af",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1692710,
-                "name": "One Tile Man Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "fb3975825aec5ac8fa3dfbb35d208d389b61e8b0",
-                "img_logo_url": "1d84b50333574ca082724509b234c57cec0b121c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
