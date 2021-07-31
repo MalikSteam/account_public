@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2208,
+        "game_count": 2209,
         "games": [
             {
                 "appid": 92,
@@ -22679,6 +22679,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ba7905df94f9b4d9a61003141cc1965d38251c0c",
                 "img_logo_url": "4098a19f493240b037ea4672e2b9aae3fa48b4f3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1691590,
+                "name": "Shield Cat Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "05aeb624d9ff40269b80e8eaf16406a69455187d",
+                "img_logo_url": "d853813286bed80baf6c0756feecad4d4342f31a",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
