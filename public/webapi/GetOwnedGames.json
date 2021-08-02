@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2206,
+        "game_count": 2207,
         "games": [
             {
                 "appid": 92,
@@ -22451,6 +22451,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1675850,
+                "name": "The Unexpected Quest Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "630f9724022d7a6910a582ab4a55d62360405297",
+                "img_logo_url": "d327de1a41f37c4a24e7ea678d5cfb78090727f4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1676540,
                 "name": "Raccoon Roller Playtest",
                 "playtime_forever": 0,
@@ -22718,7 +22728,7 @@
                 "appid": 1695090,
                 "name": "SANNABI: The Revenant Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "7d571d0f0848d8e7e620456310849fd721cf4f84",
+                "img_icon_url": "91eb48a771634ffeef8c2827902eab3d713ed813",
                 "img_logo_url": "35165e7207d01046e82496980da58f3c98fba590",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
