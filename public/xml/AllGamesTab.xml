@@ -8422,6 +8422,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/382850/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1709480</appID>
+			<name><![CDATA[Pillars Of Protection Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1709480]]></storeLink>
+		</game>
+		<game>
 			<appID>238260</appID>
 			<name><![CDATA[Pinball Arcade]]></name>
 			
