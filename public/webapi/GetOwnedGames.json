@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2207,
+        "game_count": 2208,
         "games": [
             {
                 "appid": 92,
@@ -22790,6 +22790,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "478d143c17c68be0cef5e3326b5eb0f4ac41d7f3",
                 "img_logo_url": "03de887181c50abd041baee5c8f8ec1c50cef4f2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1709480,
+                "name": "Pillars Of Protection Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "46e1b6f09239c8bb3639c397aa779b58caaae555",
+                "img_logo_url": "df5ab76e1075a92d160c05f9452f27b8e7871502",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
