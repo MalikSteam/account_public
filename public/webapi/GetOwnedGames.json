@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2212,
+        "game_count": 2213,
         "games": [
             {
                 "appid": 92,
@@ -22304,6 +22304,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "60d99e872b8ba155ad041a36a536a055fc9ee470",
                 "img_logo_url": "3494a57d6736545538f60478eccdf08b5066e1c2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1660260,
+                "name": "The Godkiller - Chapter 1 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "df7c384136a9238fb2e6bb64f0e3b088cf89b093",
+                "img_logo_url": "b78da74c67e28465eacc544a73c080d7911bd2b7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
