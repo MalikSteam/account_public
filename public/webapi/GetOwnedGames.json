@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2213,
+        "game_count": 2212,
         "games": [
             {
                 "appid": 92,
@@ -22669,16 +22669,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ce744e298111ece2a59f4e08c96275c06769cee3",
                 "img_logo_url": "c5bfbeb0cc590cb8dfb81589d70411ab378f620c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1691580,
-                "name": "Batora: Lost Haven Closed Alpha",
-                "playtime_forever": 0,
-                "img_icon_url": "ba7905df94f9b4d9a61003141cc1965d38251c0c",
-                "img_logo_url": "4098a19f493240b037ea4672e2b9aae3fa48b4f3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
