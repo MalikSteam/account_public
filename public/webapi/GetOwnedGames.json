@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2214,
+        "game_count": 2215,
         "games": [
             {
                 "appid": 92,
@@ -22870,6 +22870,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7a9d3d9fb73e0935af09cf2e4711f8b99488f021",
                 "img_logo_url": "1b70e7072e5e2a80252809e35afec6b4545f0f92",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1716550,
+                "name": "A World Abandoned Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0fa858cd8508615f2bb270d1fb2b3d20e514632b",
+                "img_logo_url": "3141f5730f3ab390936bfc04039ec2409851c41f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
