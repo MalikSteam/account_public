@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2215,
+        "game_count": 2216,
         "games": [
             {
                 "appid": 92,
@@ -22740,6 +22740,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ac81b088a97a61dc383477bc46a04cbdc4756edf",
                 "img_logo_url": "83c97fdaddab5d35bd4ee0cc6328b15192b8851a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1694870,
+                "name": "Laser League: World Arena Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6635b6af3fae79c116c5b482df225342013e3817",
+                "img_logo_url": "7771ea13cd6f2d57a570d0b90cfa150d529c2296",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
