@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2215,
+        "game_count": 2214,
         "games": [
             {
                 "appid": 92,
@@ -21983,16 +21983,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "57e805a168212d4a0001244193bb81495dfa4aac",
                 "img_logo_url": "f30ef14d113dcfd3e6a98be67b5c751fb71e75d5",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1630930,
-                "name": "Panda Push Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f003d026e2a3defae37234d7e1a4d3a0f50b0e76",
-                "img_logo_url": "dfe558a5d506793e015fac781dda99e423ffe797",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
