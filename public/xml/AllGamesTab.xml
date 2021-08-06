@@ -6433,6 +6433,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/385260]]></storeLink>
 		</game>
 		<game>
+			<appID>1694870</appID>
+			<name><![CDATA[Laser League: World Arena Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1694870]]></storeLink>
+		</game>
+		<game>
 			<appID>543650</appID>
 			<name><![CDATA[Last Days]]></name>
 			
@@ -11030,16 +11036,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
