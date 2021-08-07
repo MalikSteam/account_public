@@ -7949,7 +7949,7 @@
     },
     {
         "appid": 841270,
-        "name": "Trap welcome to Beryl Part 1"
+        "name": "Trap welcome to Beryl"
     },
     {
         "appid": 841300,
@@ -9846,6 +9846,10 @@
     {
         "appid": 1700460,
         "name": "Underground Garage Playtest"
+    },
+    {
+        "appid": 1701910,
+        "name": "Bring Death Playtest"
     },
     {
         "appid": 1702360,
