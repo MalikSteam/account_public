@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2215,
+        "game_count": 2216,
         "games": [
             {
                 "appid": 92,
@@ -18484,7 +18484,7 @@
             },
             {
                 "appid": 841270,
-                "name": "Trap welcome to Beryl Part 1",
+                "name": "Trap welcome to Beryl",
                 "playtime_forever": 0,
                 "img_icon_url": "983fedd69b4a95e1bca4dbc14ae9bdc3ee54c115",
                 "img_logo_url": "801a19448e388c4afbe771d71fe2e29b8a0d6e2e",
@@ -22790,6 +22790,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0c03d1abd2de2e48d023d77286d727e0966a8bb1",
                 "img_logo_url": "0686772cd4c91f915b118d5f27862ea9d3bb7087",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1701910,
+                "name": "Bring Death Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5a937e9930d20d371bc4c90aec86ffa1036bdfb0",
+                "img_logo_url": "2ac0e3e04bda1769e989e1b91fb96a40b20cb583",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
