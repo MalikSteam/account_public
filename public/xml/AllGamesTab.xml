@@ -7327,12 +7327,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/489520/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1707210</appID>
-			<name><![CDATA[MIR4 Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1707210]]></storeLink>
-		</game>
-		<game>
 			<appID>368420</appID>
 			<name><![CDATA[Mirage: Arcane Warfare]]></name>
 			
@@ -11036,16 +11030,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
