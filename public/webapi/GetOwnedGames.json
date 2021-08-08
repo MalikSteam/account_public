@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2216,
+        "game_count": 2215,
         "games": [
             {
                 "appid": 92,
@@ -22830,16 +22830,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "478d143c17c68be0cef5e3326b5eb0f4ac41d7f3",
                 "img_logo_url": "03de887181c50abd041baee5c8f8ec1c50cef4f2",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1707210,
-                "name": "MIR4 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "6d269da0bb9618855e8d2371dfac66e17ac13340",
-                "img_logo_url": "a916cb28d51b6921556dd58a8da2421480830443",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
