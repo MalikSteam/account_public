@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2215,
+        "game_count": 2216,
         "games": [
             {
                 "appid": 92,
@@ -22872,6 +22872,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7a9d3d9fb73e0935af09cf2e4711f8b99488f021",
                 "img_logo_url": "1b70e7072e5e2a80252809e35afec6b4545f0f92",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1715110,
+                "name": "Perfect Tides Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "659d5f4db71910fa6f840eff0f18211f805c245a",
+                "img_logo_url": "c1ce7aa86a35ec88718211b051dbffc277f1e4f2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
