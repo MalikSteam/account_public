@@ -8395,6 +8395,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/346290]]></storeLink>
 		</game>
 		<game>
+			<appID>1715110</appID>
+			<name><![CDATA[Perfect Tides Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1715110]]></storeLink>
+		</game>
+		<game>
 			<appID>545570</appID>
 			<name><![CDATA[PHAT PHROG]]></name>
 			
@@ -10769,16 +10775,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
