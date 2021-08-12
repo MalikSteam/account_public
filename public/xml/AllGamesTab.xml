@@ -5121,6 +5121,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/446150/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1711320</appID>
+			<name><![CDATA[GunWorld VR Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1711320]]></storeLink>
+		</game>
+		<game>
 			<appID>242720</appID>
 			<name><![CDATA[GunZ 2: The Second Duel]]></name>
 			
@@ -10769,16 +10775,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12970,6 +12976,12 @@
 			<name><![CDATA[Win Big Or Die]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/542120]]></storeLink>
+		</game>
+		<game>
+			<appID>1591830</appID>
+			<name><![CDATA[Windjammers 2 BETA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1591830]]></storeLink>
 		</game>
 		<game>
 			<appID>380770</appID>
