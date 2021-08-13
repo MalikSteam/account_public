@@ -10383,6 +10383,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1672800]]></storeLink>
 		</game>
 		<game>
+			<appID>1720030</appID>
+			<name><![CDATA[SpaceTek Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1720030]]></storeLink>
+		</game>
+		<game>
 			<appID>1634520</appID>
 			<name><![CDATA[Spacey Vade Playtest]]></name>
 			
@@ -11044,16 +11050,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
