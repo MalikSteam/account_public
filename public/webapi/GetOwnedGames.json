@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2220,
+        "game_count": 2221,
         "games": [
             {
                 "appid": 92,
@@ -22892,6 +22892,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "659d5f4db71910fa6f840eff0f18211f805c245a",
                 "img_logo_url": "c1ce7aa86a35ec88718211b051dbffc277f1e4f2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1715880,
+                "name": "Settlement Survival Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "63f28ce40ff4afdd2fd22506d7c8c4b1682446e2",
+                "img_logo_url": "95e3a012132abf98021882dca1ac0f35cd3da187",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
