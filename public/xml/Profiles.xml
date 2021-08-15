@@ -22,4 +22,57 @@
 	<summary><![CDATA[ <a class="bb_link" href="https://steamcommunity.com/linkfilter/?url=https://pcgameit.com" target="_blank" rel="noreferrer" >PCGameit</a> <span class="bb_link_host">[pcgameit.com]</span>]]></summary>
 
 
+	<groups>
+		<group isPrimary="1">
+			<groupID64>103582791433666425</groupID64>
+			<groupName><![CDATA[Steamworks Development]]></groupName>
+			<groupURL><![CDATA[steamworks]]></groupURL>
+			<headline><![CDATA[Official Group for Steamworks Development Support]]></headline>
+			<summary><![CDATA[<b>NOTE:</b> This group is restricted and visible only to accounts with Steamworks access. Announcements however are public.<br><br>This community of Steamworks developers is intended for sharing information regarding Steam and Steamworks development.<br><br>Please use the <a class="bb_link" href="http://steamcommunity.com/groups/steamworks/discussions" target="_blank" rel="noreferrer" >Discussions</a> to ask Steam and Steamworks related questions. You'll also find FAQs and responses to other common questions in there.<br><br>And we'll post announcements for relevant updates and changes involving Steamworks SDK.]]></summary>
+			
+			
+			
+			
+			
+			
+			
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791434298690</groupID64>
+			<groupName><![CDATA[SteamDB]]></groupName>
+			<groupURL><![CDATA[SteamDB]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			
+			
+			
+			
+			
+			
+			
+		</group>
+		<group isPrimary="0">
+			<groupID64>103582791439149800</groupID64>
+			<groupName><![CDATA[GreenDB]]></groupName>
+			<groupURL><![CDATA[GreenDB]]></groupURL>
+			<headline><![CDATA[]]></headline>
+			<summary><![CDATA[No information given.]]></summary>
+			
+			
+			
+			
+			
+			
+			
+		</group>
+			<group isPrimary="0">
+				<groupID64>103582791463300522</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791463365459</groupID64>
+			</group>
+					<group isPrimary="0">
+				<groupID64>103582791469443331</groupID64>
+			</group>
+			</groups>
 </profile>
