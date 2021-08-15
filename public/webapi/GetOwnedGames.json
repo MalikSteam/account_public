@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2221,
+        "game_count": 2220,
         "games": [
             {
                 "appid": 92,
@@ -22912,16 +22912,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0fa858cd8508615f2bb270d1fb2b3d20e514632b",
                 "img_logo_url": "3141f5730f3ab390936bfc04039ec2409851c41f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1717780,
-                "name": "DunDun VR Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "52323bf5918a55ccddb100b5c12cf6a9c1cce10d",
-                "img_logo_url": "54d3bac8ea74978bd1225d3ea2bc1a8aa2ebfe9e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
