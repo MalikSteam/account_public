@@ -11050,16 +11050,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -11072,12 +11072,6 @@
 			<name><![CDATA[Terrain Test]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/273550]]></storeLink>
-		</game>
-		<game>
-			<appID>1720550</appID>
-			<name><![CDATA[Terra Ventura Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1720550]]></storeLink>
 		</game>
 		<game>
 			<appID>512710</appID>
