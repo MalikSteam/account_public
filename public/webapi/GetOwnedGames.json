@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2219,
+        "game_count": 2220,
         "games": [
             {
                 "appid": 92,
@@ -22922,6 +22922,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ac281259a245debbab84d61c2376db1c560feac3",
                 "img_logo_url": "2c27d7e9215a76fc6c98a69ab26b31f8bcdfad84",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1720550,
+                "name": "Terra Ventura Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "748a6b3defe52ccc3ab718d6589cbae0f659c132",
+                "img_logo_url": "d0f7cb61afd3f1a4cdb8b27ee6f96d77f715fbef",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
