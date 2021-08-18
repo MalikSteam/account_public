@@ -13163,12 +13163,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/271920/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>251950</appID>
-			<name><![CDATA[World War II Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/251950]]></storeLink>
-		</game>
-		<game>
 			<appID>466910</appID>
 			<name><![CDATA[Worm.is: The Game]]></name>
 			
@@ -13198,6 +13192,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/416130]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/416130]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/416130/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>251950</appID>
+			<name><![CDATA[WWII Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/251950]]></storeLink>
 		</game>
 		<game>
 			<appID>370070</appID>
