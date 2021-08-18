@@ -22422,16 +22422,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1669630,
-                "name": "Gridform Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "cb65566108694535c6495ebd981c9574055fe0b0",
-                "img_logo_url": "29152bb07eb700f0595f797d1db5af91ddfe4251",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1669650,
                 "name": "Red Crucible: Able Archer Playtest",
                 "playtime_forever": 0,
@@ -22802,6 +22792,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d612dbbc5d16df9cc1e2e3ad64b46e60f9fcfcfa",
                 "img_logo_url": "ff860c8f8a657abc8c221e1af068a44227ecf256",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1699810,
+                "name": "Smash MAGA! Trump Zombie Apocalypse Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2edc23f3394200c9c01cbba5fcde8f8329cffd18",
+                "img_logo_url": "049aba6860468a33994fabe84f319bd25fd20075",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
