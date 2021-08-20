@@ -10633,10 +10633,6 @@
             "tagid": 32322
         },
         {
-            "name": "Card Game",
-            "tagid": 1666
-        },
-        {
             "name": "Team-Based",
             "tagid": 5711
         },
@@ -10645,36 +10641,48 @@
             "tagid": 5055
         },
         {
-            "name": "World War II",
-            "tagid": 4150
+            "name": "Naval Combat",
+            "tagid": 4994
+        },
+        {
+            "name": "Card Game",
+            "tagid": 1666
         },
         {
             "name": "Competitive",
             "tagid": 3878
         },
         {
-            "name": "Free to Play",
-            "tagid": 113
-        },
-        {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
-            "name": "PvP",
-            "tagid": 1775
-        },
-        {
-            "name": "FPS",
-            "tagid": 1663
+            "name": "World War II",
+            "tagid": 4150
         },
         {
             "name": "Online Co-Op",
             "tagid": 3843
         },
         {
+            "name": "Free to Play",
+            "tagid": 113
+        },
+        {
             "name": "Shooter",
             "tagid": 1774
+        },
+        {
+            "name": "FPS",
+            "tagid": 1663
+        },
+        {
+            "name": "PvP",
+            "tagid": 1775
+        },
+        {
+            "name": "Choices Matter",
+            "tagid": 6426
+        },
+        {
+            "name": "Tactical",
+            "tagid": 1708
         },
         {
             "name": "Strategy",
@@ -10693,16 +10701,8 @@
             "tagid": 1742
         },
         {
-            "name": "First-Person",
-            "tagid": 3839
-        },
-        {
             "name": "Action",
             "tagid": 19
-        },
-        {
-            "name": "Adventure",
-            "tagid": 21
         }
     ],
     "rgSecondaryLanguages": [],
