@@ -3057,6 +3057,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/407510]]></storeLink>
 		</game>
 		<game>
+			<appID>1729760</appID>
+			<name><![CDATA[Die After Sunset Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1729760]]></storeLink>
+		</game>
+		<game>
 			<appID>644540</appID>
 			<name><![CDATA[Dies irae ~Amantes amentes~]]></name>
 			
@@ -10817,16 +10823,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
