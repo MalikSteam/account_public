@@ -11092,16 +11092,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13042,12 +13042,6 @@
 			<name><![CDATA[Win Big Or Die]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/542120]]></storeLink>
-		</game>
-		<game>
-			<appID>1591830</appID>
-			<name><![CDATA[Windjammers 2 BETA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1591830]]></storeLink>
 		</game>
 		<game>
 			<appID>380770</appID>
