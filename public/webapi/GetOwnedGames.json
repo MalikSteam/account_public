@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2227,
+        "game_count": 2226,
         "games": [
             {
                 "appid": 92,
@@ -21347,16 +21347,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ad5860e2ec161690b4717e1f134f26b7ecbef750",
                 "img_logo_url": "24156c1ca22ea94aff42f2b869bca1771cc5cd37",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1591830,
-                "name": "Windjammers 2 BETA",
-                "playtime_forever": 0,
-                "img_icon_url": "95ac32d05998714e9ce7fafd156d588788e37632",
-                "img_logo_url": "2172dd241b76fa5871acf38b8df4a8867e96807a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
