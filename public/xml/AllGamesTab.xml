@@ -9372,12 +9372,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/270570/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1690410</appID>
-			<name><![CDATA[REVO Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1690410]]></storeLink>
-		</game>
-		<game>
 			<appID>317790</appID>
 			<name><![CDATA[Rexaura]]></name>
 			
@@ -10831,16 +10825,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
