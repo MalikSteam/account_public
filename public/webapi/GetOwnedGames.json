@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2226,
+        "game_count": 2227,
         "games": [
             {
                 "appid": 92,
@@ -22993,6 +22993,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b237c599e8636cf6cc336fcf8cf0b74d4bc32f2e",
                 "img_logo_url": "327797d2b2c11a9f199b8f8ab7bf4b4e90436c2a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 640890,
+                "name": "Will Glow the Wisp",
+                "playtime_forever": 0,
+                "img_icon_url": "cda5fb3fc1f01275c79de4fa2cb1a5b03899c4c2",
+                "img_logo_url": "f4d6b8664ef86b6ef228827d645cf2a2e8e51042",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
