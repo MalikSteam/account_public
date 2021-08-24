@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2227,
+        "game_count": 2228,
         "games": [
             {
                 "appid": 92,
@@ -22064,6 +22064,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2829a6eb652f15d26aed57f3f52c981e4ff03434",
                 "img_logo_url": "43e41131cfc2bad47c90457b75d490f79616648f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1636090,
+                "name": "The Bookwalker Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fee52aef7e3159a059fc8ead99c9199948b7f50a",
+                "img_logo_url": "e0c5f0d2f134b2bd65937c6c9c5e26d086612774",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
