@@ -10831,16 +10831,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -13032,6 +13032,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/312150]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/312150]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/312150/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>640890</appID>
+			<name><![CDATA[Will Glow the Wisp]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/640890]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/640890]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/640890/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>313240</appID>
