@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2228,
+        "game_count": 2227,
         "games": [
             {
                 "appid": 92,
@@ -22144,16 +22144,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e184d4de7df1f9906a4672f03cd53bd573350657",
                 "img_logo_url": "db55a68dd7fcb4d4884e36f493bc229d825cb7dc",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1645000,
-                "name": "Wirewalk()\u21b3 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ad43d88fec7fb9e61cec03c5fa656f2aeea2f181",
-                "img_logo_url": "84bc73ae4ff941f1658777f6da5f7f4a0e606c6d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
