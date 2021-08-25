@@ -10701,12 +10701,12 @@
             "tagid": 1775
         },
         {
-            "name": "FPS",
-            "tagid": 1663
-        },
-        {
             "name": "Online Co-Op",
             "tagid": 3843
+        },
+        {
+            "name": "FPS",
+            "tagid": 1663
         },
         {
             "name": "Choices Matter",
