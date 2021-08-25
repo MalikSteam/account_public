@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2226,
+        "game_count": 2227,
         "games": [
             {
                 "appid": 92,
@@ -22984,6 +22984,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2eb84e0826067e96f188eea804ce067d679a9f8a",
                 "img_logo_url": "3b62ddb3fe37e89f9e01ac5b6b4e57c6faecbd9a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1735440,
+                "name": "Light2Live Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "62bf47677a949a4ac33b7a2b5bf1472e3f49aa2b",
+                "img_logo_url": "675a7802f5d7bd5d2acae0624da67ad3889d161d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
