@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2227,
+        "game_count": 2228,
         "games": [
             {
                 "appid": 92,
@@ -22994,6 +22994,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "62bf47677a949a4ac33b7a2b5bf1472e3f49aa2b",
                 "img_logo_url": "675a7802f5d7bd5d2acae0624da67ad3889d161d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1736380,
+                "name": "Fireside Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "eab98e890f68cb6c29c070399ad4a7a825d66dfa",
+                "img_logo_url": "bbcd6213253c1ccf3530e040f9066aaf21d8bad9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
