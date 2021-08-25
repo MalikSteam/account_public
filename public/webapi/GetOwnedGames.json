@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2225,
+        "game_count": 2226,
         "games": [
             {
                 "appid": 92,
@@ -22892,6 +22892,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7a9d3d9fb73e0935af09cf2e4711f8b99488f021",
                 "img_logo_url": "1b70e7072e5e2a80252809e35afec6b4545f0f92",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1714840,
+                "name": "Circle Empires Tactics Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "025a0629c980894d70d534cefc8c38e14491c99d",
+                "img_logo_url": "37b4d90fb6942b0bc7d3e2a5ff10991857de7d49",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
