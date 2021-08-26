@@ -10591,8 +10591,8 @@
         537800,
         406970,
         468330,
-        576120,
         657730,
+        576120,
         583760,
         527770,
         562430,
@@ -10719,20 +10719,20 @@
             "tagid": 1775
         },
         {
-            "name": "Online Co-Op",
-            "tagid": 3843
+            "name": "Shooter",
+            "tagid": 1774
         },
         {
             "name": "FPS",
             "tagid": 1663
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
+            "name": "Online Co-Op",
+            "tagid": 3843
         },
         {
-            "name": "Shooter",
-            "tagid": 1774
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Tactical",
