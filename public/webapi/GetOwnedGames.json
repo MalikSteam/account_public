@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2228,
+        "game_count": 2227,
         "games": [
             {
                 "appid": 92,
@@ -21499,16 +21499,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7bd5369bddc927e2fe6526b9d856cabed0522ee4",
                 "img_logo_url": "6375bbd940042685e8b1f5f1b97a1e40c538ffea",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1612130,
-                "name": "Ragtag Crew Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1638b603507592a33e389f00fe994a7ad857d48f",
-                "img_logo_url": "f73c9af52b95cb14e19656d148460e28dfbefbea",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
