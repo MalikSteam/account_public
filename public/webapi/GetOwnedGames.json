@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2227,
+        "game_count": 2228,
         "games": [
             {
                 "appid": 92,
@@ -21327,6 +21327,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f45f36e645ab90c6644375fabdc8b61c3ecd9bbd",
                 "img_logo_url": "d5a20645c13f950a5c024cff74cad3cf3f3a8dc3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1584670,
+                "name": "HAAK Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "282b2bd455a775b831d162441b226658fe070ba7",
+                "img_logo_url": "022638edd49161e37a4753b617245653dc987544",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
