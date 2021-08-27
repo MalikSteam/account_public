@@ -806,6 +806,9 @@
         "977510": {
             "39921923": 2
         },
+        "977920": {
+            "39921923": 2
+        },
         "980210": {
             "39921923": 2
         },
@@ -5246,6 +5249,7 @@
         1526820,
         1528600,
         1529210,
+        1529230,
         1530700,
         1530870,
         1531360,
@@ -10523,7 +10527,8 @@
         621439,
         614083,
         621656,
-        621970
+        621970,
+        539490
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
@@ -10690,20 +10695,16 @@
             "tagid": 32322
         },
         {
-            "name": "Naval Combat",
-            "tagid": 4994
-        },
-        {
             "name": "Card Game",
             "tagid": 1666
         },
         {
-            "name": "eSports",
-            "tagid": 5055
-        },
-        {
             "name": "Team-Based",
             "tagid": 5711
+        },
+        {
+            "name": "eSports",
+            "tagid": 5055
         },
         {
             "name": "Competitive",
@@ -10714,12 +10715,12 @@
             "tagid": 4150
         },
         {
-            "name": "Free to Play",
-            "tagid": 113
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
-            "name": "PvP",
-            "tagid": 1775
+            "name": "Free to Play",
+            "tagid": 113
         },
         {
             "name": "Shooter",
@@ -10730,16 +10731,12 @@
             "tagid": 1663
         },
         {
+            "name": "PvP",
+            "tagid": 1775
+        },
+        {
             "name": "Online Co-Op",
             "tagid": 3843
-        },
-        {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
-            "name": "Tactical",
-            "tagid": 1708
         },
         {
             "name": "Strategy",
@@ -10758,8 +10755,16 @@
             "tagid": 1742
         },
         {
+            "name": "First-Person",
+            "tagid": 3839
+        },
+        {
             "name": "Action",
             "tagid": 19
+        },
+        {
+            "name": "Adventure",
+            "tagid": 21
         }
     ],
     "rgSecondaryLanguages": [],
