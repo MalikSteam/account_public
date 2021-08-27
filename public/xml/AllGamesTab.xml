@@ -5181,6 +5181,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/701010]]></storeLink>
 		</game>
 		<game>
+			<appID>1584670</appID>
+			<name><![CDATA[HAAK Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1584670]]></storeLink>
+		</game>
+		<game>
 			<appID>365450</appID>
 			<name><![CDATA[Hacknet]]></name>
 			
@@ -11096,16 +11102,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
