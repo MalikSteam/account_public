@@ -809,6 +809,8 @@
 			<name><![CDATA[ARK-ADE Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1614690]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1614690]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1614690/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>107400</appID>
@@ -8589,6 +8591,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1613340]]></storeLink>
 		</game>
 		<game>
+			<appID>1690700</appID>
+			<name><![CDATA[Piratopia Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1690700]]></storeLink>
+		</game>
+		<game>
 			<appID>453190</appID>
 			<name><![CDATA[PITCH-HIT : DEMO]]></name>
 			
@@ -10845,16 +10853,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
