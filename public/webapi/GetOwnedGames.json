@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2228,
+        "game_count": 2229,
         "games": [
             {
                 "appid": 92,
@@ -23015,6 +23015,16 @@
                 "img_icon_url": "cda5fb3fc1f01275c79de4fa2cb1a5b03899c4c2",
                 "img_logo_url": "f4d6b8664ef86b6ef228827d645cf2a2e8e51042",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1739440,
+                "name": "Galactic Chef Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1a5c835e3dd5d003514e915d61bed8e2759ef7bf",
+                "img_logo_url": "9e6ba7180776c98b898ac94c0bd68f575fe15817",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
