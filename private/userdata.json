@@ -5390,6 +5390,7 @@
         1629460,
         1629620,
         1629630,
+        1629920,
         1630310,
         1630330,
         1630930,
@@ -10535,7 +10536,8 @@
         621970,
         539490,
         560697,
-        623440
+        623440,
+        578701
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
@@ -10706,12 +10708,12 @@
             "tagid": 1666
         },
         {
-            "name": "Team-Based",
-            "tagid": 5711
-        },
-        {
             "name": "eSports",
             "tagid": 5055
+        },
+        {
+            "name": "Team-Based",
+            "tagid": 5711
         },
         {
             "name": "Competitive",
@@ -10722,16 +10724,8 @@
             "tagid": 4150
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
             "name": "Free to Play",
             "tagid": 113
-        },
-        {
-            "name": "Shooter",
-            "tagid": 1774
         },
         {
             "name": "FPS",
@@ -10742,8 +10736,16 @@
             "tagid": 3843
         },
         {
+            "name": "Shooter",
+            "tagid": 1774
+        },
+        {
             "name": "PvP",
             "tagid": 1775
+        },
+        {
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Strategy",
