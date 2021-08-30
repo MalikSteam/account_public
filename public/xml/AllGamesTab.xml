@@ -715,12 +715,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1172470/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1736930</appID>
-			<name><![CDATA[APICO Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736930]]></storeLink>
-		</game>
-		<game>
 			<appID>1528600</appID>
 			<name><![CDATA[Apocrypha Playtest]]></name>
 			
@@ -815,8 +809,6 @@
 			<name><![CDATA[ARK-ADE Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1614690]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1614690]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1614690/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>107400</appID>
@@ -1170,12 +1162,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/780800]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/780800]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/780800/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1529230</appID>
-			<name><![CDATA[BALSA Model Flight Simulator Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1529230]]></storeLink>
 		</game>
 		<game>
 			<appID>583890</appID>
@@ -2900,12 +2886,6 @@
 			<hoursOnRecord>6.1</hoursOnRecord>
 		</game>
 		<game>
-			<appID>1618630</appID>
-			<name><![CDATA[Dead Earth Zombies Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1618630]]></storeLink>
-		</game>
-		<game>
 			<appID>671700</appID>
 			<name><![CDATA[Dead Horizon]]></name>
 			
@@ -2986,12 +2966,6 @@
 			<name><![CDATA[DeoVR Video Player]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/837380]]></storeLink>
-		</game>
-		<game>
-			<appID>1629920</appID>
-			<name><![CDATA[DepowerBall Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1629920]]></storeLink>
 		</game>
 		<game>
 			<appID>270170</appID>
@@ -3986,12 +3960,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/244590/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1691520</appID>
-			<name><![CDATA[Erannorth Chronicles Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1691520]]></storeLink>
-		</game>
-		<game>
 			<appID>493480</appID>
 			<name><![CDATA[ERISLE]]></name>
 			
@@ -4734,12 +4702,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/257400]]></storeLink>
 		</game>
 		<game>
-			<appID>1739440</appID>
-			<name><![CDATA[Galactic Chef Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1739440]]></storeLink>
-		</game>
-		<game>
 			<appID>1470040</appID>
 			<name><![CDATA[Galactic Thunderdome Playtest]]></name>
 			
@@ -5211,12 +5173,6 @@
 			<name><![CDATA[Gurugedara]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/701010]]></storeLink>
-		</game>
-		<game>
-			<appID>1584670</appID>
-			<name><![CDATA[HAAK Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1584670]]></storeLink>
 		</game>
 		<game>
 			<appID>365450</appID>
@@ -8615,12 +8571,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1613340]]></storeLink>
 		</game>
 		<game>
-			<appID>1690700</appID>
-			<name><![CDATA[Piratopia Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1690700]]></storeLink>
-		</game>
-		<game>
 			<appID>453190</appID>
 			<name><![CDATA[PITCH-HIT : DEMO]]></name>
 			
@@ -9177,6 +9127,12 @@
 			<name><![CDATA[Ragnarok Re:Start]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/660330]]></storeLink>
+		</game>
+		<game>
+			<appID>1612130</appID>
+			<name><![CDATA[Ragtag Crew Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1612130]]></storeLink>
 		</game>
 		<game>
 			<appID>218470</appID>
@@ -9853,6 +9809,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/685200]]></storeLink>
 		</game>
 		<game>
+			<appID>1544660</appID>
+			<name><![CDATA[Secret Government Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1544660]]></storeLink>
+		</game>
+		<game>
 			<appID>215280</appID>
 			<name><![CDATA[Secret World Legends]]></name>
 			
@@ -10205,12 +10167,6 @@
 			<name><![CDATA[Sky Squadron Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1495960]]></storeLink>
-		</game>
-		<game>
-			<appID>1734660</appID>
-			<name><![CDATA[Slimefrog Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1734660]]></storeLink>
 		</game>
 		<game>
 			<appID>866960</appID>
@@ -10877,16 +10833,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12837,12 +12793,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1056710]]></storeLink>
 		</game>
 		<game>
-			<appID>1680510</appID>
-			<name><![CDATA[Vulto Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1680510]]></storeLink>
-		</game>
-		<game>
 			<appID>499540</appID>
 			<name><![CDATA[Wake Up]]></name>
 			
@@ -12910,6 +12860,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/230410]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/Warframe]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/Warframe/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1689630</appID>
+			<name><![CDATA[Wargs Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1689630]]></storeLink>
 		</game>
 		<game>
 			<appID>408330</appID>
@@ -13040,6 +12996,14 @@
 			<name><![CDATA[Whack a Vote: Hammering the Polls]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/544130]]></storeLink>
+		</game>
+		<game>
+			<appID>1530700</appID>
+			<name><![CDATA[WHALIEN Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1530700]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1530700]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1530700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1021950</appID>
@@ -13447,14 +13411,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/220820]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/220820]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/220820/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1669450</appID>
-			<name><![CDATA[Zorya Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1669450]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1669450]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1669450/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>836940</appID>
