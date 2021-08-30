@@ -9847,12 +9847,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/685200]]></storeLink>
 		</game>
 		<game>
-			<appID>1544660</appID>
-			<name><![CDATA[Secret Government Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1544660]]></storeLink>
-		</game>
-		<game>
 			<appID>215280</appID>
 			<name><![CDATA[Secret World Legends]]></name>
 			
@@ -10871,16 +10865,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
