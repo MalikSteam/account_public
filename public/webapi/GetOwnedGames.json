@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2233,
+        "game_count": 2234,
         "games": [
             {
                 "appid": 92,
@@ -21803,6 +21803,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "06caa4b65068044c892f18de715a5f9396526f56",
                 "img_logo_url": "3c00735339fd0fa2eaca42332e1b95a20331207b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1618630,
+                "name": "Dead Earth Zombies Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f",
+                "img_logo_url": "be0d5af8172214fc509d198e219ed3e7bb247339",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
