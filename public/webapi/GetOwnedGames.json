@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2232,
+        "game_count": 2231,
         "games": [
             {
                 "appid": 92,
@@ -21022,17 +21022,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f",
                 "img_logo_url": "ca7e93eb3cdbfd390037c17d87194d95e98e648f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1530700,
-                "name": "WHALIEN Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "dfa423a32b212c692e141227e416a541ca4f06a1",
-                "img_logo_url": "b3d9204cabdc3c69caebff3f305b27fe60f7b29a",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
