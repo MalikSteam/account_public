@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2232,
+        "game_count": 2233,
         "games": [
             {
                 "appid": 92,
@@ -22397,6 +22397,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "c828d779136c5657759d9e5c10e9632bd71567c2",
                 "img_logo_url": "cf67ce2b75c483ada410faffb5a498b751db1650",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1669450,
+                "name": "Zorya Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3ab2a5a75ff5684b7f9ecdc2116a06b3b3113fb6",
+                "img_logo_url": "ef03657ecc95075d7b45cade84878e242684b0ca",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
