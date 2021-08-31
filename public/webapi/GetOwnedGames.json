@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2234,
+        "game_count": 2235,
         "games": [
             {
                 "appid": 92,
@@ -22995,6 +22995,16 @@
                 "img_icon_url": "1453aee8bcb13075b78711e3165f15e711959108",
                 "img_logo_url": "a55d3079c766cc38dc4b7debb78bf478d49d3fa1",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1728000,
+                "name": "Passive Income Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6fea3dc4a41954977ccb7b67638a7b02b37d3d91",
+                "img_logo_url": "daedad839b2e0462a738ba560e58cd7a97e424fd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
