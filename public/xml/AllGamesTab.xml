@@ -8412,6 +8412,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/331120]]></storeLink>
 		</game>
 		<game>
+			<appID>1728000</appID>
+			<name><![CDATA[Passive Income Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1728000]]></storeLink>
+		</game>
+		<game>
 			<appID>238960</appID>
 			<name><![CDATA[Path of Exile]]></name>
 			
