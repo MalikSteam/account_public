@@ -4342,18 +4342,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -8964,12 +8964,6 @@
 			<name><![CDATA[Project CARS - Pagani Edition]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/429180]]></storeLink>
-		</game>
-		<game>
-			<appID>1469760</appID>
-			<name><![CDATA[Project Genesis Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1469760]]></storeLink>
 		</game>
 		<game>
 			<appID>1686190</appID>
