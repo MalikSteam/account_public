@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2237,
+        "game_count": 2238,
         "games": [
             {
                 "appid": 92,
@@ -22995,6 +22995,16 @@
                 "img_icon_url": "1453aee8bcb13075b78711e3165f15e711959108",
                 "img_logo_url": "a55d3079c766cc38dc4b7debb78bf478d49d3fa1",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1727340,
+                "name": "Spirited Thief Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "dc5828ddee0d263e12cab2a13d4e8ca9c4dbc3a8",
+                "img_logo_url": "c7fba1905a53d8f0e0b7884cd74ae343de607d9f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
