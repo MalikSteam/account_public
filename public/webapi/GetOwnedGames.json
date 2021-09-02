@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2238,
+        "game_count": 2239,
         "games": [
             {
                 "appid": 92,
@@ -23086,6 +23086,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fe25656d393e502d30a58a2f55838400ac96b9f1",
                 "img_logo_url": "5c242bb6a2d9cb69424c5af036c1e8669365ce95",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1736960,
+                "name": "Pumpkins Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b1f17b9cb8af5f3a50ccb33b1b530759df557936",
+                "img_logo_url": "aef1b55a0399f8df320bdfa6e75852c7a71f0d51",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
