@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2239,
+        "game_count": 2240,
         "games": [
             {
                 "appid": 92,
@@ -21801,7 +21801,7 @@
                 "appid": 1618630,
                 "name": "Dead Earth Zombies Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f",
+                "img_icon_url": "0828fedd582384b6560048940dfb5384b3db3561",
                 "img_logo_url": "be0d5af8172214fc509d198e219ed3e7bb247339",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -22813,6 +22813,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0c03d1abd2de2e48d023d77286d727e0966a8bb1",
                 "img_logo_url": "0686772cd4c91f915b118d5f27862ea9d3bb7087",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1701780,
+                "name": "Hellsweeper VR Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "306d17252ad18f4fd356b71212634c54b5da1410",
+                "img_logo_url": "5ec3b1740625a41e2dfd94cf46741e93a23cbbb5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
