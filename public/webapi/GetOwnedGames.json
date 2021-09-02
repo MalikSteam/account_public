@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2238,
+        "game_count": 2239,
         "games": [
             {
                 "appid": 92,
@@ -23035,6 +23035,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2eb84e0826067e96f188eea804ce067d679a9f8a",
                 "img_logo_url": "3b62ddb3fe37e89f9e01ac5b6b4e57c6faecbd9a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1735340,
+                "name": "TheLastTree Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "602f72ccbdc54bf770a839a87c21aba04981aeb3",
+                "img_logo_url": "d6108a04d9c19116d09a7358a3b121565ad72d62",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
