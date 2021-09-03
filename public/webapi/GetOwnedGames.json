@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2242,
+        "game_count": 2243,
         "games": [
             {
                 "appid": 92,
@@ -22713,6 +22713,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bdcfd74e95f9da8fa857484f5a93c64eff0108ec",
                 "img_logo_url": "93d0d5c6d33b48e450f34418a8d558553dcf38af",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1692440,
+                "name": "Solys Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "282b37354bb3e2759b341b2064548dd483b24f19",
+                "img_logo_url": "4fb57c9f48e23fe43e87018e1b01ad43b4f6a6b0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
