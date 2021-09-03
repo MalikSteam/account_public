@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2241,
+        "game_count": 2242,
         "games": [
             {
                 "appid": 92,
@@ -23127,6 +23127,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7caf9d922d61e28a2e5980f0cf13b255ec07031b",
                 "img_logo_url": "7c940420114b7b12bd0d09d788e84cec459857fe",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1742210,
+                "name": "DROPTCH Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7d1a1a295103d424c17465cd32bacd1ff9059d62",
+                "img_logo_url": "23ecd5abdf4e3ea54bc097b096fee05a024ca575",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
