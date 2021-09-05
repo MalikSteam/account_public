@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2241,
+        "game_count": 2240,
         "games": [
             {
                 "appid": 92,
@@ -22084,16 +22084,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f751abe3527524658a77bbff92634a0ca6e7180f",
                 "img_logo_url": "ced752f1aba2481514074d1477f08635bda990aa",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1641090,
-                "name": "Arcadius Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "5891f856ca8703b9a729217c682f54429d5f303a",
-                "img_logo_url": "60c5594a74a66fe678daf01b908a312a1b7ab321",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
