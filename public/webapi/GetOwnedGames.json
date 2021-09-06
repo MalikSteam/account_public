@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2239,
+        "game_count": 2238,
         "games": [
             {
                 "appid": 92,
@@ -13732,16 +13732,6 @@
                 "img_icon_url": "16542a77033538639297e00e11fa40bdbf07296e",
                 "img_logo_url": "527cc76d57b7cae5b66329e85db9d372b6d73849",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 571890,
-                "name": "ShapeLab",
-                "playtime_forever": 0,
-                "img_icon_url": "ed00362bd25091e5717c1e62ecd717ae737403cb",
-                "img_logo_url": "2c7204e1feb6803c4b68ce8eb099df36eec0faee",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
