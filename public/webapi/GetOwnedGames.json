@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2240,
+        "game_count": 2238,
         "games": [
             {
                 "appid": 92,
@@ -21868,16 +21868,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1622490,
-                "name": "Swing Dunk Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "800948c66a3fd8d9f7111e889bbc91d54f434beb",
-                "img_logo_url": "b43f9e3f2ae2ca4f861d14562056052302eb94df",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1622860,
                 "name": "The Amazing American Circus Open Beta",
                 "playtime_forever": 0,
@@ -23015,17 +23005,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b237c599e8636cf6cc336fcf8cf0b74d4bc32f2e",
                 "img_logo_url": "327797d2b2c11a9f199b8f8ab7bf4b4e90436c2a",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1731540,
-                "name": "Tangent Rush Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "26beab0e4101566f84e43c90fa577bdb5108e588",
-                "img_logo_url": "b2bedb0ab23301217715acdb3f5f7ecbcc7839fb",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
