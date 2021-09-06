@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2238,
+        "game_count": 2239,
         "games": [
             {
                 "appid": 92,
@@ -22316,6 +22316,16 @@
                 "img_icon_url": "63c0fa365c3a833c205245c2b9ead9f06ce8d5e3",
                 "img_logo_url": "144309a0e21f93eb1b6eb556362e3b33797cc5e3",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1664900,
+                "name": "LoveAndBetrayal Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f397be6ad2d42f7e8f23f358ca03327bd3e01862",
+                "img_logo_url": "88210e8da6fa472c238b4cf778c873a5e39f3ba8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
