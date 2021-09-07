@@ -4336,18 +4336,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -6644,6 +6644,14 @@
 			<name><![CDATA[Legionwood: Tale of the Two Swords]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/461820]]></storeLink>
+		</game>
+		<game>
+			<appID>1749130</appID>
+			<name><![CDATA[LEMURIA playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1749130]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1749130]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1749130/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>575490</appID>
@@ -9992,6 +10000,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/438040]]></storeLink>
 		</game>
 		<game>
+			<appID>571890</appID>
+			<name><![CDATA[ShapeLab]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/571890]]></storeLink>
+		</game>
+		<game>
 			<appID>586030</appID>
 			<name><![CDATA[Shardbound]]></name>
 			
@@ -10901,16 +10915,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
