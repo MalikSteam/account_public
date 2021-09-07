@@ -6064,6 +6064,10 @@
         "name": "Magic Hour"
     },
     {
+        "appid": 571890,
+        "name": "ShapeLab"
+    },
+    {
         "appid": 572000,
         "name": "President Erect VR"
     },
@@ -10094,5 +10098,9 @@
     {
         "appid": 1745230,
         "name": "Age of Ascent Playtest"
+    },
+    {
+        "appid": 1749130,
+        "name": "LEMURIA playtest"
     }
 ]
