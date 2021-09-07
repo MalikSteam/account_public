@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2235,
+        "game_count": 2236,
         "games": [
             {
                 "appid": 92,
@@ -22641,6 +22641,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "53a4e25f00070ab870f28bccbd514ebc6fffe617",
                 "img_logo_url": "2273b94821cf88c717b04b52952baf5c9df81051",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1691310,
+                "name": "Tactical Troops: Anthracite Shift Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "892b0ceb0b2cd44a16ebbbb48ff89ed52a375812",
+                "img_logo_url": "cbe75aefe9ee8118016fd2377a31c19d1323c9a8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
