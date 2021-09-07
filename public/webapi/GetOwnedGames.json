@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2236,
+        "game_count": 2235,
         "games": [
             {
                 "appid": 92,
@@ -22124,16 +22124,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "833971e45c7aba79ef22ac8ed2052105016e4512",
                 "img_logo_url": "84aec896d85a2f7c087806c395a2b8d183950651",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1647680,
-                "name": "The Tau Ceti Terminus Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7760cac25d7f9af52cba8e2bc16143c7b656e7c1",
-                "img_logo_url": "61c983651905553f3d8a856f68a249999a7ab0f4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
