@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2237,
+        "game_count": 2238,
         "games": [
             {
                 "appid": 92,
@@ -19575,7 +19575,7 @@
                 "name": "Sins of a Solar Empire: Rebellion",
                 "playtime_forever": 423,
                 "img_icon_url": "31832cdd443b665a8ae599f76761411f3d939b98",
-                "img_logo_url": "cf3a1034cce00de47f88675627c620d841572206",
+                "img_logo_url": "4b341db9fba387b29275eb9025a2802ba81d9edd",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -23105,6 +23105,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d28f732270b1289948d523f2751357e0ecc4d7e2",
                 "img_logo_url": "4303932cdefa9e0ea56768870c1c375b936bb7a8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1749130,
+                "name": "LEMURIA playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "47995f39dedf3be1a7822dfd6d303ea28b29d327",
+                "img_logo_url": "554d95850b16c844fc610d8a1d478a184e829f59",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
