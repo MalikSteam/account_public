@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2237,
+        "game_count": 2236,
         "games": [
             {
                 "appid": 92,
@@ -20942,16 +20942,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "46967ba55c4ae6ddbf9b1410740553b331a8b818",
                 "img_logo_url": "19b015b1c1af731bfc52ecd211b6e9dbf60ce80b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1513380,
-                "name": "Rogue Shift Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7c4c4b30e5a9bdf2f48cf9840d5f9f92fb335e49",
-                "img_logo_url": "25f32775d668a0b041ccc64a1281106207b011f1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
