@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2236,
+        "game_count": 2238,
         "games": [
             {
                 "appid": 92,
@@ -21554,6 +21554,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1613620,
+                "name": "PlateUp! Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0d077c3ab8b1eccb0b1074eda30d559b92349107",
+                "img_logo_url": "26f97a270c9e4716a7b253984ca8669bba2f863a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1613700,
                 "name": "Hop Skip Jump Playtest",
                 "playtime_forever": 0,
@@ -22933,6 +22943,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ac281259a245debbab84d61c2376db1c560feac3",
                 "img_logo_url": "2c27d7e9215a76fc6c98a69ab26b31f8bcdfad84",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1722230,
+                "name": "Warrior Souls Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e07a65ef1c40a6e901988c4277d1668e81b1de05",
+                "img_logo_url": "31d812e0b339cf5f50d6cc33f4e36029be488608",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
