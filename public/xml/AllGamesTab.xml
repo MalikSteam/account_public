@@ -8721,6 +8721,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/458560]]></storeLink>
 		</game>
 		<game>
+			<appID>1613620</appID>
+			<name><![CDATA[PlateUp! Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1613620]]></storeLink>
+		</game>
+		<game>
 			<appID>1534430</appID>
 			<name><![CDATA[Play The Fox]]></name>
 			
@@ -11160,16 +11166,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -12976,6 +12982,12 @@
 			<name><![CDATA[War of Beach]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/398840]]></storeLink>
+		</game>
+		<game>
+			<appID>1722230</appID>
+			<name><![CDATA[Warrior Souls Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1722230]]></storeLink>
 		</game>
 		<game>
 			<appID>672640</appID>
