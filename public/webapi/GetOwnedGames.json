@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2237,
+        "game_count": 2236,
         "games": [
             {
                 "appid": 92,
@@ -22974,16 +22974,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6fea3dc4a41954977ccb7b67638a7b02b37d3d91",
                 "img_logo_url": "daedad839b2e0462a738ba560e58cd7a97e424fd",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1729760,
-                "name": "Die After Sunset Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b237c599e8636cf6cc336fcf8cf0b74d4bc32f2e",
-                "img_logo_url": "327797d2b2c11a9f199b8f8ab7bf4b4e90436c2a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
