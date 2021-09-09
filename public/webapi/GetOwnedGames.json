@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2239,
+        "game_count": 2240,
         "games": [
             {
                 "appid": 92,
@@ -22933,6 +22933,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e07a65ef1c40a6e901988c4277d1668e81b1de05",
                 "img_logo_url": "31d812e0b339cf5f50d6cc33f4e36029be488608",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1722380,
+                "name": "Dragon Fist: VR Kung Fu Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a57a614283e53ebb05373960e8618b5b27a8c679",
+                "img_logo_url": "a55a86cf143746b7df64c7711c6a036fd6e446f1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
