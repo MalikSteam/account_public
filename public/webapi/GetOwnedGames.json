@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2239,
+        "game_count": 2240,
         "games": [
             {
                 "appid": 92,
@@ -22943,6 +22943,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e07a65ef1c40a6e901988c4277d1668e81b1de05",
                 "img_logo_url": "31d812e0b339cf5f50d6cc33f4e36029be488608",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1724660,
+                "name": "New World Open Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "089da2708875ce39b52f89670c5517b1f5458f19",
+                "img_logo_url": "8f3e5a4d08def4491038b76c2fe4bcf8cb7b22c2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
