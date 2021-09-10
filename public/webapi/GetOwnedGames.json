@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2240,
+        "game_count": 2239,
         "games": [
             {
                 "appid": 92,
@@ -22631,16 +22631,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a1aefbc41254c0a92047c885bcae24e2cfb0b467",
                 "img_logo_url": "d9f47d5eca23f11e887ee3534e97ed86fbae8751",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1690700,
-                "name": "Piratopia Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "53a4e25f00070ab870f28bccbd514ebc6fffe617",
-                "img_logo_url": "2273b94821cf88c717b04b52952baf5c9df81051",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
