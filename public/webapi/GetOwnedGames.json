@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2240,
+        "game_count": 2239,
         "games": [
             {
                 "appid": 92,
@@ -22702,16 +22702,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7e099fd645d4a442adb8f44cef8e37b00ac26c4f",
                 "img_logo_url": "99159fb7311e85da0d6316fc231f9dfebbcac50d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1694210,
-                "name": "Heist Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ac81b088a97a61dc383477bc46a04cbdc4756edf",
-                "img_logo_url": "83c97fdaddab5d35bd4ee0cc6328b15192b8851a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
