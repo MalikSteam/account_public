@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2239,
+        "game_count": 2240,
         "games": [
             {
                 "appid": 92,
@@ -23075,6 +23075,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7caf9d922d61e28a2e5980f0cf13b255ec07031b",
                 "img_logo_url": "7c940420114b7b12bd0d09d788e84cec459857fe",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1743860,
+                "name": "eXpanSIM (Playtest)",
+                "playtime_forever": 0,
+                "img_icon_url": "8c69c3fb0308901db879e9a80c64a35f174b0f1c",
+                "img_logo_url": "f6fa6abe250cca5060a89396c744e5631ac16e69",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
