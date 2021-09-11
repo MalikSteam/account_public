@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2240,
+        "game_count": 2241,
         "games": [
             {
                 "appid": 92,
@@ -23126,6 +23126,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a1236c82ffd118ac8e3a9a4b4b546cac9c98147e",
                 "img_logo_url": "c9a3fbb5e3aacde62124cddd0f9f07f7862a1c6a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1751580,
+                "name": "Magurele Mystery Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f2dde63bea7f9493d747b0bdb568b591c6ec743a",
+                "img_logo_url": "c28e6ea8b2fd355174822eb8d1ed7bd204978f27",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
