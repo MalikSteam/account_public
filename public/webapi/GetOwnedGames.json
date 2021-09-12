@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2241,
+        "game_count": 2242,
         "games": [
             {
                 "appid": 92,
@@ -23116,6 +23116,16 @@
                 "img_icon_url": "47995f39dedf3be1a7822dfd6d303ea28b29d327",
                 "img_logo_url": "554d95850b16c844fc610d8a1d478a184e829f59",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1749670,
+                "name": "SKULL CHAINZ Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9dd9cc85b31ca6809cfd6d6896b1f12a2050ee0d",
+                "img_logo_url": "a17285d8e2ce97cd4eb08327ca832ae6ccbf57c6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
