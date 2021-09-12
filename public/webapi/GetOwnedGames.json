@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2241,
+        "game_count": 2242,
         "games": [
             {
                 "appid": 92,
@@ -20577,6 +20577,16 @@
                 "img_icon_url": "8ca02d694be468a553219238fc86498a7a49073d",
                 "img_logo_url": "5e49bba4a7ff9240c2dabb2a6e4d2ccc44b21e1a",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1432450,
+                "name": "Panzer Arena Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6f49b58efd0fee043375b64f14776c798e862cad",
+                "img_logo_url": "584694a1fc78460af9aecc210112c1c9e9454195",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
