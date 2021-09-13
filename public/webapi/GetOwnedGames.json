@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2242,
+        "game_count": 2243,
         "games": [
             {
                 "appid": 92,
@@ -23156,6 +23156,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ed00362bd25091e5717c1e62ecd717ae737403cb",
                 "img_logo_url": "2c7204e1feb6803c4b68ce8eb099df36eec0faee",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1756350,
+                "name": "Slayers, Inc. Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1fc0c5c1303cdb758eeadc069743b26cff386950",
+                "img_logo_url": "4131d8ca266fc06450392085637ef9246f723602",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
