@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2242,
+        "game_count": 2243,
         "games": [
             {
                 "appid": 92,
@@ -23055,6 +23055,16 @@
                 "img_icon_url": "cda5fb3fc1f01275c79de4fa2cb1a5b03899c4c2",
                 "img_logo_url": "f4d6b8664ef86b6ef228827d645cf2a2e8e51042",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1737900,
+                "name": "Voice Visualizer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "df6c76d09e45df7bea3fd74451fb58807fe13c5f",
+                "img_logo_url": "d7b172b8e39b37f58dfc553ef14f7935dfba9b45",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
