@@ -3820,12 +3820,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1419270]]></storeLink>
 		</game>
 		<game>
-			<appID>1695900</appID>
-			<name><![CDATA[ELYON - Closed Beta Test 2]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1695900]]></storeLink>
-		</game>
-		<game>
 			<appID>526400</appID>
 			<name><![CDATA[Embers of Magic]]></name>
 			
@@ -11190,16 +11184,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
