@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2248,
+        "game_count": 2249,
         "games": [
             {
                 "appid": 92,
@@ -22823,6 +22823,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "478d143c17c68be0cef5e3326b5eb0f4ac41d7f3",
                 "img_logo_url": "03de887181c50abd041baee5c8f8ec1c50cef4f2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1708790,
+                "name": "Smashpunks Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "924e571bb94bf5995576122f737089d782557c09",
+                "img_logo_url": "f7d6ab03a68d85166abc013f8b2d68eb56b1625a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
