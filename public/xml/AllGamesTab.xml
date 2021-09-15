@@ -5035,6 +5035,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/436150/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1746320</appID>
+			<name><![CDATA[Graduated Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1746320]]></storeLink>
+		</game>
+		<game>
 			<appID>1666210</appID>
 			<name><![CDATA[Graffiti Bombing Playtest]]></name>
 			
