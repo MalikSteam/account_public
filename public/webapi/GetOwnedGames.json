@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2248,
+        "game_count": 2249,
         "games": [
             {
                 "appid": 92,
@@ -20597,6 +20597,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fdedc7d172706ea39d2d2b389cd461cb4cbe7315",
                 "img_logo_url": "279b073259f95bee7dd7ffb5e6df8463e0f44401",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22306,6 +22307,16 @@
                 "img_icon_url": "63c0fa365c3a833c205245c2b9ead9f06ce8d5e3",
                 "img_logo_url": "144309a0e21f93eb1b6eb556362e3b33797cc5e3",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1664800,
+                "name": "\u58a8\u6b66\u7fa4\u4fa0(Tale of MoWu) Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d109b0b77dbe1772f695e8e55b179560cc283483",
+                "img_logo_url": "3f392eff2b8e7dba8b90e12e0a168284eb11e396",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
