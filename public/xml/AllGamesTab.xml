@@ -11216,16 +11216,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13298,6 +13298,8 @@
 			<name><![CDATA[World of Tanks]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1407200]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1407200]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1407200/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>444200</appID>
@@ -13573,6 +13575,12 @@
 			<name><![CDATA[冒险之路(Adventure Road)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/703090]]></storeLink>
+		</game>
+		<game>
+			<appID>1664800</appID>
+			<name><![CDATA[墨武群侠(Tale of MoWu) Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1664800]]></storeLink>
 		</game>
 		<game>
 			<appID>1616140</appID>
