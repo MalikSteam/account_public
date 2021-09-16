@@ -4330,18 +4330,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -5807,6 +5807,12 @@
 			<name><![CDATA[IKEA VR Pancake Kitchen]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/611120]]></storeLink>
+		</game>
+		<game>
+			<appID>1749220</appID>
+			<name><![CDATA[ILL SPACE Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1749220]]></storeLink>
 		</game>
 		<game>
 			<appID>631660</appID>
@@ -11228,16 +11234,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
