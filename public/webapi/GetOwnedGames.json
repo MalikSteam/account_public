@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2252,
+        "game_count": 2253,
         "games": [
             {
                 "appid": 92,
@@ -21549,6 +21549,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0d077c3ab8b1eccb0b1074eda30d559b92349107",
                 "img_logo_url": "26f97a270c9e4716a7b253984ca8669bba2f863a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1613640,
+                "name": "Dofense Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "29dc516bc3dc151c30c067eed988a246235c70e4",
+                "img_logo_url": "796659e350f736d2995456e25e1005c5efc9dc4e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
