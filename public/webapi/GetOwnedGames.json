@@ -13625,7 +13625,7 @@
                 "appid": 444200,
                 "name": "World of Tanks Blitz",
                 "playtime_forever": 0,
-                "img_icon_url": "897fa5bab1ae551dfbdda84abe7d1030351f3723",
+                "img_icon_url": "3ae85e0114406fd10d183a8edaf808e675ac2f9c",
                 "img_logo_url": "93b315109c66508570e67adab34918e24dbef219",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -20597,7 +20597,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fdedc7d172706ea39d2d2b389cd461cb4cbe7315",
                 "img_logo_url": "279b073259f95bee7dd7ffb5e6df8463e0f44401",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
