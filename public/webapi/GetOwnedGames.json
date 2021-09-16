@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2250,
+        "game_count": 2251,
         "games": [
             {
                 "appid": 92,
@@ -23166,6 +23166,16 @@
                 "img_icon_url": "47995f39dedf3be1a7822dfd6d303ea28b29d327",
                 "img_logo_url": "554d95850b16c844fc610d8a1d478a184e829f59",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1749220,
+                "name": "ILL SPACE Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "389c4071654ff00d932f09e092808c8a8faa822e",
+                "img_logo_url": "400679f92e0f0305e67c70462a046620f37dfa81",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
