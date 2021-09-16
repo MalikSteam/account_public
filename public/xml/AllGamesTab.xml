@@ -3192,6 +3192,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/315640]]></storeLink>
 		</game>
 		<game>
+			<appID>1613640</appID>
+			<name><![CDATA[Dofense Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1613640]]></storeLink>
+		</game>
+		<game>
 			<appID>254300</appID>
 			<name><![CDATA[Dofus]]></name>
 			
@@ -11240,16 +11246,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
