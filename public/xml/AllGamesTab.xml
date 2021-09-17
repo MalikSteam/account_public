@@ -9611,6 +9611,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/457710/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1605200</appID>
+			<name><![CDATA[Robin Hood - Sherwood Builders Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1605200]]></storeLink>
+		</game>
+		<game>
 			<appID>301520</appID>
 			<name><![CDATA[Robocraft]]></name>
 			
@@ -11240,16 +11246,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
