@@ -1452,8 +1452,6 @@
 			<name><![CDATA[Black Forest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/523070]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/523070]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/523070/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>209870</appID>
@@ -13639,6 +13637,12 @@
 			<name><![CDATA[孙美琪疑案：雨儿胡同 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1710360]]></storeLink>
+		</game>
+		<game>
+			<appID>1685980</appID>
+			<name><![CDATA[战球英雄 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1685980]]></storeLink>
 		</game>
 		<game>
 			<appID>684250</appID>
