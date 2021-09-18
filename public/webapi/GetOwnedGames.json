@@ -23009,6 +23009,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1730620,
+                "name": "Infinite Pixel Battles Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "99a38f5513211af4627a6f5edca08bf04577ca38",
+                "img_logo_url": "c2af17cacddf288bae566f921cea34fac21d7cf2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1733260,
                 "name": "Painter's Pets Playtest",
                 "playtime_forever": 0,
@@ -23247,16 +23257,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ed00362bd25091e5717c1e62ecd717ae737403cb",
                 "img_logo_url": "2c7204e1feb6803c4b68ce8eb099df36eec0faee",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1756350,
-                "name": "Slayers, Inc. Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1fc0c5c1303cdb758eeadc069743b26cff386950",
-                "img_logo_url": "4131d8ca266fc06450392085637ef9246f723602",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
