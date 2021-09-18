@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2256,
+        "game_count": 2255,
         "games": [
             {
                 "appid": 92,
@@ -23165,16 +23165,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d28f732270b1289948d523f2751357e0ecc4d7e2",
                 "img_logo_url": "4303932cdefa9e0ea56768870c1c375b936bb7a8",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1745230,
-                "name": "Age of Ascent Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "9b52143a77db2cf74c83b3f0760786f8ef0e92d7",
-                "img_logo_url": "ed040dc2fee70fa3efeaa3053764d41994f06544",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
