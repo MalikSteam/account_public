@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2255,
+        "game_count": 2256,
         "games": [
             {
                 "appid": 92,
@@ -23237,6 +23237,16 @@
                 "img_icon_url": "8b9cc22d3a1cf48c9b1643d2cb7eca5848fb18b0",
                 "img_logo_url": "5134b7bd0549630564c67d6ce9d8110498844784",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1750140,
+                "name": "Kusari Kingdom Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "194b17bd3bbbdd05855ebeb23bffe762f40f92a4",
+                "img_logo_url": "6c06efe38db6d0fe0da666561f832b315d6e2efc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
