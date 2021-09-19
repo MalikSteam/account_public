@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2258,
+        "game_count": 2259,
         "games": [
             {
                 "appid": 92,
@@ -23164,6 +23164,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7caf9d922d61e28a2e5980f0cf13b255ec07031b",
                 "img_logo_url": "7c940420114b7b12bd0d09d788e84cec459857fe",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1743060,
+                "name": "Eco Park Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "03514beb784fe164b5d3f5f054849945f3791ad3",
+                "img_logo_url": "0ee8c44588e3610480f645cffe99170c48ac588b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
