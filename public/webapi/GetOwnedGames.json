@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2257,
+        "game_count": 2258,
         "games": [
             {
                 "appid": 92,
@@ -23033,6 +23033,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0711b4cac7c8b4fee6baed0486839f7f7d2912ce",
                 "img_logo_url": "7f18c9105c92e57e0225a63a97f7d07b830671c0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1734590,
+                "name": "HOPE VR - Playtest Version",
+                "playtime_forever": 0,
+                "img_icon_url": "2d906ce52e7ef1597a69a6f7d133df81b24fceac",
+                "img_logo_url": "0544d397b19ccd5db172501547dc489a78cdc8c6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
