@@ -8626,6 +8626,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/382850/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1725250</appID>
+			<name><![CDATA[PIGGY: Hunt Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1725250]]></storeLink>
+		</game>
+		<game>
 			<appID>1709480</appID>
 			<name><![CDATA[Pillars Of Protection Playtest]]></name>
 			
