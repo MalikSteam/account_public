@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2258,
+        "game_count": 2259,
         "games": [
             {
                 "appid": 92,
@@ -22144,6 +22144,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d841d5716786723f4bbaab168fdf2d2af4da113b",
                 "img_logo_url": "a2be8d2ccf14d34a639ba65a15f07abf2a9cd44e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1646990,
+                "name": "Nextera Closed Alpha",
+                "playtime_forever": 0,
+                "img_icon_url": "e5df8dd8013014d66236cc3ec00f9c26eea014c3",
+                "img_logo_url": "2da65e6c678f47a19f93a14e209aecda313688f5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
