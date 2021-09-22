@@ -10242,5 +10242,9 @@
     {
         "appid": 1762220,
         "name": "Heat and Run Playtest"
+    },
+    {
+        "appid": 1765380,
+        "name": "Split Playtest"
     }
 ]
