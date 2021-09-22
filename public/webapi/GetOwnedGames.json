@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2258,
+        "game_count": 2259,
         "games": [
             {
                 "appid": 92,
@@ -23317,6 +23317,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "de9d8ec01cb9f443140440ceaea11e332e49b088",
                 "img_logo_url": "88ebe75a1be374402a22c4582e1cde7b89bbff09",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1765380,
+                "name": "Split Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "73c1531b9823141135fa02a019fd5acd00523d08",
+                "img_logo_url": "d8d4b8af2b39166fe2a5dd964a079a602ccdc2fa",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
