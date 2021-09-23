@@ -10246,5 +10246,9 @@
     {
         "appid": 1765380,
         "name": "Split Playtest"
+    },
+    {
+        "appid": 1767800,
+        "name": "Search for Surf Playtest"
     }
 ]
