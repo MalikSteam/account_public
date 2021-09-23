@@ -9939,6 +9939,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1012940]]></storeLink>
 		</game>
 		<game>
+			<appID>1767800</appID>
+			<name><![CDATA[Search for Surf Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1767800]]></storeLink>
+		</game>
+		<game>
 			<appID>958720</appID>
 			<name><![CDATA[Second Chance]]></name>
 			
@@ -11019,16 +11025,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
