@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2262,
+        "game_count": 2263,
         "games": [
             {
                 "appid": 92,
@@ -23338,6 +23338,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "81f1b503dc8f8c176b4c186ebe227f6c331999d2",
                 "img_logo_url": "b2d9f578fe6dde15fdbae556aceae6944dea20ba",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1760460,
+                "name": "Immortal-Paradise Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "586016ff72d9ea4c94dc640d1b46d373e03e3d65",
+                "img_logo_url": "5e77729a3b9e44b458bc51866afd0167ca5a070d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
