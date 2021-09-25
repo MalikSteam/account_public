@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2263,
+        "game_count": 2262,
         "games": [
             {
                 "appid": 92,
@@ -20992,16 +20992,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "437db288fe087fe8fdced1518306b6c547321a67",
                 "img_logo_url": "ac4fde1fb93069f87e97abc65ebb646729a04389",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1529230,
-                "name": "BALSA Model Flight Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f",
-                "img_logo_url": "ca7e93eb3cdbfd390037c17d87194d95e98e648f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
