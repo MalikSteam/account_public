@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2264,
+        "game_count": 2263,
         "games": [
             {
                 "appid": 92,
@@ -21276,16 +21276,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ad5860e2ec161690b4717e1f134f26b7ecbef750",
                 "img_logo_url": "24156c1ca22ea94aff42f2b869bca1771cc5cd37",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1592890,
-                "name": "Outworlder Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "13a297706b8e8b8b986f99ab343e37a3f28bf235",
-                "img_logo_url": "e31d7136322b681c2081a9eb95a35684bf66e68d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
