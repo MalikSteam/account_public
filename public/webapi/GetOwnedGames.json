@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2263,
+        "game_count": 2264,
         "games": [
             {
                 "appid": 92,
@@ -23266,7 +23266,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8b9cc22d3a1cf48c9b1643d2cb7eca5848fb18b0",
                 "img_logo_url": "5134b7bd0549630564c67d6ce9d8110498844784",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23358,6 +23357,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "73c1531b9823141135fa02a019fd5acd00523d08",
                 "img_logo_url": "d8d4b8af2b39166fe2a5dd964a079a602ccdc2fa",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1767800,
+                "name": "Search for Surf Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fe3e8a93488e281dd1c21697573d8586e735096a",
+                "img_logo_url": "39ce5b0f598d37d22ba3c49674247b2ff5b2ef1c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
