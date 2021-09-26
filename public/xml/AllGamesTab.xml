@@ -6471,8 +6471,6 @@
 			<name><![CDATA[Knight&Princess]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1750090]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1750090]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1750090/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>389430</appID>
@@ -9941,6 +9939,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1012940]]></storeLink>
 		</game>
 		<game>
+			<appID>1767800</appID>
+			<name><![CDATA[Search for Surf Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1767800]]></storeLink>
+		</game>
+		<game>
 			<appID>1632250</appID>
 			<name><![CDATA[Search Playtest]]></name>
 			
@@ -11296,16 +11300,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
