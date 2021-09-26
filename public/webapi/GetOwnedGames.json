@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2263,
+        "game_count": 2264,
         "games": [
             {
                 "appid": 92,
@@ -23368,6 +23368,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "73c1531b9823141135fa02a019fd5acd00523d08",
                 "img_logo_url": "d8d4b8af2b39166fe2a5dd964a079a602ccdc2fa",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1768070,
+                "name": "The Black Grimoire: Cursebreaker Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3f25a4ad8ae0bbbc7b583aa3e43b0e60f9ec2ef0",
+                "img_logo_url": "7849024966ffc5b67fc20e625d4a65fa7858357e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
