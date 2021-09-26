@@ -4336,18 +4336,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -5029,6 +5029,12 @@
 			<name><![CDATA[Google Spotlight Stories: Back to the Moon]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/832080]]></storeLink>
+		</game>
+		<game>
+			<appID>1622380</appID>
+			<name><![CDATA[Goons: Legends of the Hockeyverse Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1622380]]></storeLink>
 		</game>
 		<game>
 			<appID>206210</appID>
