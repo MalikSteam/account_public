@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2262,
+        "game_count": 2263,
         "games": [
             {
                 "appid": 92,
@@ -22943,6 +22943,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "06fc717fe9335211b73e7154383288a8c7d2b3b1",
                 "img_logo_url": "cb60932916813c71b6aebcb36c5ca7991b919485",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1718820,
+                "name": "Space Ark Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3f95c7b1743c88fc12ce8e704cbdbf8cfb35c63b",
+                "img_logo_url": "4ec75b4095f35a708e1249a58473757c2cbe9350",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
