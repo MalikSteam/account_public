@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2262,
+        "game_count": 2263,
         "games": [
             {
                 "appid": 92,
@@ -21266,6 +21266,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "282b2bd455a775b831d162441b226658fe070ba7",
                 "img_logo_url": "022638edd49161e37a4753b617245653dc987544",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1584740,
+                "name": "4th Generation Warfare Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "dc3b63050441ca43b2fff0b811863feef6eb7173",
+                "img_logo_url": "47dceef3cafdd389c349ce25989848ce066bf6b1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
