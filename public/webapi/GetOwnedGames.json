@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2263,
+        "game_count": 2264,
         "games": [
             {
                 "appid": 92,
@@ -22983,6 +22983,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ac281259a245debbab84d61c2376db1c560feac3",
                 "img_logo_url": "2c27d7e9215a76fc6c98a69ab26b31f8bcdfad84",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1720900,
+                "name": "Maritime Calling Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "de5dda9e203988342b758827eda3d22bf2aaee60",
+                "img_logo_url": "d1823737d1c41487bc17aec7c2706b946dcd7470",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
