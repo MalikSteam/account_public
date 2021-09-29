@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2265,
+        "game_count": 2266,
         "games": [
             {
                 "appid": 92,
@@ -23387,6 +23387,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3f25a4ad8ae0bbbc7b583aa3e43b0e60f9ec2ef0",
                 "img_logo_url": "7849024966ffc5b67fc20e625d4a65fa7858357e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1769410,
+                "name": "Hero or Foe BETA",
+                "playtime_forever": 0,
+                "img_icon_url": "bec5d58e4aef957f1e06fbd6ad5a168816fc8505",
+                "img_logo_url": "42ff36e61e14ca9afbcc66a70df2ff32e3c4d7a5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
