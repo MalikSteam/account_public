@@ -12046,6 +12046,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/385770/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1770750</appID>
+			<name><![CDATA[TImeL DevTest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1770750]]></storeLink>
+		</game>
+		<game>
 			<appID>353130</appID>
 			<name><![CDATA[Time of Dragons]]></name>
 			
