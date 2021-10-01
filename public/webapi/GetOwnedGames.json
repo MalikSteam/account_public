@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2263,
+        "game_count": 2264,
         "games": [
             {
                 "appid": 92,
@@ -23105,6 +23105,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "df6c76d09e45df7bea3fd74451fb58807fe13c5f",
                 "img_logo_url": "d7b172b8e39b37f58dfc553ef14f7935dfba9b45",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1739240,
+                "name": "GUN AND BUCKLER Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3991dd5cdf3f8b6c63bb48a2d5216dd5574f1f41",
+                "img_logo_url": "46c1892a131913ce488000d7cc9214f257c35a05",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
