@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2263,
+        "game_count": 2262,
         "games": [
             {
                 "appid": 92,
@@ -20596,7 +20596,7 @@
                 "name": "World of Tanks",
                 "playtime_forever": 0,
                 "img_icon_url": "fdedc7d172706ea39d2d2b389cd461cb4cbe7315",
-                "img_logo_url": "279b073259f95bee7dd7ffb5e6df8463e0f44401",
+                "img_logo_url": "7bb098fc87759bdbd9760920da788e42227e5030",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21459,16 +21459,6 @@
                 "img_icon_url": "3659e745d8df00c1e86164685b93b38075ac6d46",
                 "img_logo_url": "214abcde4b0f7b0b88b8dcf30fc64daf4c7b21e5",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1613360,
-                "name": "sunny-place Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "75a0cedb650f35ba8b0382ae77a4df6f19e2076a",
-                "img_logo_url": "ae3c1ce0851a8756b1ee13718c94d23c6b315373",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
