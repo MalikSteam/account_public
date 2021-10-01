@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2262,
+        "game_count": 2263,
         "games": [
             {
                 "appid": 92,
@@ -22079,16 +22079,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1641090,
-                "name": "Arcadius Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "5891f856ca8703b9a729217c682f54429d5f303a",
-                "img_logo_url": "60c5594a74a66fe678daf01b908a312a1b7ab321",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1641400,
                 "name": "Adrorium Playtest",
                 "playtime_forever": 0,
@@ -23323,6 +23313,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1767800,
+                "name": "Search for Surf Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fe3e8a93488e281dd1c21697573d8586e735096a",
+                "img_logo_url": "39ce5b0f598d37d22ba3c49674247b2ff5b2ef1c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1768070,
                 "name": "The Black Grimoire: Cursebreaker Playtest",
                 "playtime_forever": 0,
@@ -23338,6 +23338,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bec5d58e4aef957f1e06fbd6ad5a168816fc8505",
                 "img_logo_url": "42ff36e61e14ca9afbcc66a70df2ff32e3c4d7a5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1769690,
+                "name": "RP7 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c3ee6101693c21ac5d95b45c21c28ae32fad2af0",
+                "img_logo_url": "6952d30fa11324e6061546b501c2bde92556d3f3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
