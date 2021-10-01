@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2265,
+        "game_count": 2264,
         "games": [
             {
                 "appid": 92,
@@ -20821,16 +20821,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a8399e76001778c61ad23c86a9ffb72deb967c37",
                 "img_logo_url": "66eac25a95fc472b191956aa1b35af42780a34de",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1480280,
-                "name": "Alien Dawn Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "8f3b324d0e9fc0d69266ef4a4ea615849302c4cb",
-                "img_logo_url": "356cf5b0f68c77fd2ee20a5bd4983dc91fdcdb07",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
