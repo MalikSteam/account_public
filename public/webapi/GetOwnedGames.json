@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2264,
+        "game_count": 2263,
         "games": [
             {
                 "appid": 92,
@@ -23064,16 +23064,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0a438ad6638301f12d9b2302e153446880ad3eb3",
                 "img_logo_url": "244955df547fe2c8988cc5df9717eb94d9de2365",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1734750,
-                "name": "GB Rober Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "2eb84e0826067e96f188eea804ce067d679a9f8a",
-                "img_logo_url": "3b62ddb3fe37e89f9e01ac5b6b4e57c6faecbd9a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
