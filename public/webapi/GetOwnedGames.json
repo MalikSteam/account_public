@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2264,
+        "game_count": 2265,
         "games": [
             {
                 "appid": 92,
@@ -23378,6 +23378,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "123795261687b04c43c47c245734c0c0fde95303",
                 "img_logo_url": "acaba97d3fcce567780a18a9d7e1a6767f3e6c9a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1772170,
+                "name": "Golf Club Architect Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ad80cbfd148ef29dcfb5b8442719e5a0d941b442",
+                "img_logo_url": "de86e6d430f3a822f381b8d6d0267f787608c07c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
