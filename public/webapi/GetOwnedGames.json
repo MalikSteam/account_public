@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2263,
+        "game_count": 2262,
         "games": [
             {
                 "appid": 92,
@@ -22538,16 +22538,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9bbf5255608a2513047b8acf1a4d0486e59c64f0",
                 "img_logo_url": "e99a95631e2fb2f77cac1509cb9b5b998d87649f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1682310,
-                "name": "Destroyer: The U-Boat Hunter Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "536dfdcf93cfbadb9dd0d8139f058bb73baa8ce1",
-                "img_logo_url": "73ef79610b25461812d3743c31d4c9f54a8ec171",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
