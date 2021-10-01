@@ -21332,6 +21332,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1600360,
+                "name": "The Cycle Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "02005fcb9c24057b02bc71bfc897a947629db7f0",
+                "img_logo_url": "5c6de14eec7ae14653193315130d6b841c33db57",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1601110,
                 "name": "You, Calligrapher Playtest",
                 "playtime_forever": 0,
@@ -22240,16 +22250,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1655310,
-                "name": "Prison Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "2498b20e3a891216229d272dc255822e12b57de2",
-                "img_logo_url": "7ea7fb275bfc658548c7c2216abeeac0f1a9c4c3",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1655830,
                 "name": "Medieval Towns Playtest",
                 "playtime_forever": 0,
@@ -22968,16 +22968,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1719940,
-                "name": "System Under Surveillance Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "dd8882015709fbdb0d8fdec5423cda71ebbb7711",
-                "img_logo_url": "8ff68d3e2d20d508f6726488eabfbab8ff2711b7",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1720030,
                 "name": "SpaceTek Playtest",
                 "playtime_forever": 0,
@@ -23266,6 +23256,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8b9cc22d3a1cf48c9b1643d2cb7eca5848fb18b0",
                 "img_logo_url": "5134b7bd0549630564c67d6ce9d8110498844784",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23377,6 +23368,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bec5d58e4aef957f1e06fbd6ad5a168816fc8505",
                 "img_logo_url": "42ff36e61e14ca9afbcc66a70df2ff32e3c4d7a5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1770610,
+                "name": "Heroes of Agora Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b1d08712f8d623018b154dacd1169aaead9827f3",
+                "img_logo_url": "1f254836fbe6bafbf283d62c70f36759f77bbfb2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
