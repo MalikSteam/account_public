@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2267,
+        "game_count": 2268,
         "games": [
             {
                 "appid": 92,
@@ -22943,6 +22943,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0fa858cd8508615f2bb270d1fb2b3d20e514632b",
                 "img_logo_url": "3141f5730f3ab390936bfc04039ec2409851c41f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1716700,
+                "name": "AYATANA Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "263ce999c6ae24ca7119d59c73562642451745ee",
+                "img_logo_url": "66b70ef0817f8cbc304af90e46f454b892f2ba4c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
