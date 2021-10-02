@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2267,
+        "game_count": 2266,
         "games": [
             {
                 "appid": 92,
@@ -23298,16 +23298,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d1eb9d650082d8173e0baf552ac5c01bda20a730",
                 "img_logo_url": "130253d5e9ee9120680a826efaa0b83e477b11ea",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1759470,
-                "name": "Suspect Enemy Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "81f1b503dc8f8c176b4c186ebe227f6c331999d2",
-                "img_logo_url": "b2d9f578fe6dde15fdbae556aceae6944dea20ba",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
