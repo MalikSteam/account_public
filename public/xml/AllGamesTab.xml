@@ -1083,6 +1083,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/903730]]></storeLink>
 		</game>
 		<game>
+			<appID>1716700</appID>
+			<name><![CDATA[AYATANA Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1716700]]></storeLink>
+		</game>
+		<game>
 			<appID>503010</appID>
 			<name><![CDATA[Azulgar: Star Commanders]]></name>
 			
@@ -7883,6 +7889,12 @@
 			<name><![CDATA[My Sunny Resort]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/821610]]></storeLink>
+		</game>
+		<game>
+			<appID>1477610</appID>
+			<name><![CDATA[Myth of Empires Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1477610]]></storeLink>
 		</game>
 		<game>
 			<appID>1618190</appID>
