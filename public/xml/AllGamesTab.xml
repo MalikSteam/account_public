@@ -965,6 +965,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/385070/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1744190</appID>
+			<name><![CDATA[aton Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1744190]]></storeLink>
+		</game>
+		<game>
 			<appID>1019100</appID>
 			<name><![CDATA[Attack on Titan 2 - A.O.T.2 - 進撃の巨人２ Demo]]></name>
 			
@@ -11314,16 +11320,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -11580,6 +11586,12 @@
 			<name><![CDATA[The Hauntings Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1695270]]></storeLink>
+		</game>
+		<game>
+			<appID>1772320</appID>
+			<name><![CDATA[The Hidden Room Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1772320]]></storeLink>
 		</game>
 		<game>
 			<appID>633210</appID>
