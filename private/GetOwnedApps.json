@@ -10232,6 +10232,10 @@
         "name": "S.I.N. Unit Playtest"
     },
     {
+        "appid": 1744190,
+        "name": "aton Playtest"
+    },
+    {
         "appid": 1744240,
         "name": "Malmyr Playtest"
     },
@@ -10330,5 +10334,9 @@
     {
         "appid": 1772170,
         "name": "Golf Club Architect Playtest"
+    },
+    {
+        "appid": 1772320,
+        "name": "The Hidden Room Playtest"
     }
 ]
