@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2269,
+        "game_count": 2270,
         "games": [
             {
                 "appid": 92,
@@ -22084,6 +22084,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "032f83563fcd96e1aafe2da7a0e02696bfae76ee",
                 "img_logo_url": "779f06023a230e2b0c36199472e0cda759f778e4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1638720,
+                "name": "Battlefield\u2122 2042 Open Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "dc805cd05c36a1b26f4eb57b64301e6708e20776",
+                "img_logo_url": "bd34ccdb6d228634af74351b1928f6d36d964cfa",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
