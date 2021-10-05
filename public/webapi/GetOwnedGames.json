@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2270,
+        "game_count": 2271,
         "games": [
             {
                 "appid": 92,
@@ -21074,6 +21074,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "808ec0919be68550c107fc513522633dc7656885",
                 "img_logo_url": "98c569cbdbcdad921bdc0e1f1a8e93c319fd1408",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1538020,
+                "name": "Battle Map Studio Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ccb0adce608c0ffa707d047959d19a317e3e2cb3",
+                "img_logo_url": "28e754984718e7cc2872d51b9a33d35a21e46fa5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
