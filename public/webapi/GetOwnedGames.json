@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2270,
+        "game_count": 2271,
         "games": [
             {
                 "appid": 92,
@@ -23358,6 +23358,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "09971b7c83eb691ddfb1e54f95ebed379d0834e8",
                 "img_logo_url": "b52acc97939aae3f2376e54cb3b8c64ac85235e4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1766490,
+                "name": "Lonely Tribes Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "575101499b5090d1064f3da8d75edb802faa76fc",
+                "img_logo_url": "8f680180134d40fe54b0c3768c76fccd337d3da3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
