@@ -4350,6 +4350,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/391270]]></storeLink>
 		</game>
 		<game>
+			<appID>1777780</appID>
+			<name><![CDATA[Fira Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1777780]]></storeLink>
+		</game>
+		<game>
 			<appID>227700</appID>
 			<name><![CDATA[Firefall]]></name>
 			
