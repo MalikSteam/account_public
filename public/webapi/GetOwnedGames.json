@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2271,
+        "game_count": 2272,
         "games": [
             {
                 "appid": 92,
@@ -22742,6 +22742,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6e0232e348ef3cedc4049ef3c4523e9501fbb3a0",
                 "img_logo_url": "63cba3750a6f52f0b09d27439d68a7bed682b24e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1695460,
+                "name": "Two Against the Legion Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "741a648c73a43134481dfccd396d896099453f3b",
+                "img_logo_url": "49ce70ebd993563c80152ebc58baa62b5f854193",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
