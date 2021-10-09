@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2276,
+        "game_count": 2275,
         "games": [
             {
                 "appid": 92,
@@ -23368,16 +23368,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "586016ff72d9ea4c94dc640d1b46d373e03e3d65",
                 "img_logo_url": "5e77729a3b9e44b458bc51866afd0167ca5a070d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1762220,
-                "name": "Heat and Run Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "de9d8ec01cb9f443140440ceaea11e332e49b088",
-                "img_logo_url": "d9192706dc3a6500048916fdf16a2e6055fd8275",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
