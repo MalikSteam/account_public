@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2276,
+        "game_count": 2275,
         "games": [
             {
                 "appid": 92,
@@ -21753,16 +21753,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "648fbe512a722a35c574bc814ac5aaea6471f397",
                 "img_logo_url": "6525721d31d9432052748d1da0d99e6dc0eb3cfb",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1618190,
-                "name": "Mythos Party Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7ac4e4fba56d941076d7279ce21be16e20c11237",
-                "img_logo_url": "0748216da7122c3754efcc56300f7d8a245f9d60",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
