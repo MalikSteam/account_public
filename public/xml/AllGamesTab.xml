@@ -5267,12 +5267,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/701010]]></storeLink>
 		</game>
 		<game>
-			<appID>1584670</appID>
-			<name><![CDATA[HAAK Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1584670]]></storeLink>
-		</game>
-		<game>
 			<appID>365450</appID>
 			<name><![CDATA[Hacknet]]></name>
 			
@@ -11097,16 +11091,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -11620,6 +11614,14 @@
 			<name><![CDATA[The Hauntings Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1695270]]></storeLink>
+		</game>
+		<game>
+			<appID>1772320</appID>
+			<name><![CDATA[The Hidden Room Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1772320]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1772320]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1772320/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>633210</appID>
