@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2273,
+        "game_count": 2274,
         "games": [
             {
                 "appid": 92,
@@ -22518,6 +22518,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "91667b8e8b4dfefe32cc9fc4e8f6c8f14401d06d",
                 "img_logo_url": "e3c4f01763e59dc082aa03ec3b7066b60a983488",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1679100,
+                "name": "TheBlackHouse Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e65db6a020be5cf23ee2141b9844cff5565bcd40",
+                "img_logo_url": "a33c2c7e2d698f1323587ff010d0fcb27d105cc7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
