@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2274,
+        "game_count": 2273,
         "games": [
             {
                 "appid": 92,
@@ -22417,17 +22417,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b3b57efa6784b3f6954bcb79e29681cf9ec83550",
                 "img_logo_url": "2a4dff08e566f110ec19d136a44355495b5c9c42",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1670260,
-                "name": "Fruit Ninja VR 2 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "cb0c9e2dd0b83e777b44bc6a8d37d4828459694a",
-                "img_logo_url": "99b20ccdb1c6b8a783376d17aea94ee33cae0c43",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
