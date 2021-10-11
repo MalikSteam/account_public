@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2274,
+        "game_count": 2273,
         "games": [
             {
                 "appid": 92,
@@ -20791,16 +20791,6 @@
                 "img_icon_url": "8eae2b19c35dc4319a58ec553e4fb28f8eb60e84",
                 "img_logo_url": "2f3066e612a995a16eadc728540a2c50d83cffe3",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1477610,
-                "name": "Myth of Empires Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f8358bf999cd47e53f226602cfb2b12e59eba23b",
-                "img_logo_url": "59012601872b4bc9366e5ca97ab356abe714b642",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
