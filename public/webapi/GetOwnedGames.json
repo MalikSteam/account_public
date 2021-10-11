@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2273,
+        "game_count": 2274,
         "games": [
             {
                 "appid": 92,
@@ -22316,6 +22316,16 @@
                 "img_icon_url": "63c0fa365c3a833c205245c2b9ead9f06ce8d5e3",
                 "img_logo_url": "144309a0e21f93eb1b6eb556362e3b33797cc5e3",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1663190,
+                "name": "Alien Marauder (Playtest)",
+                "playtime_forever": 0,
+                "img_icon_url": "ea32cb84bc3ec9203b69c2fc9e71852e5c603dbf",
+                "img_logo_url": "7e7561a52482fba9a4cde8f1e31e486f414b44c6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
