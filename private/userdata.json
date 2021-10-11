@@ -5627,6 +5627,7 @@
         1677750,
         1678160,
         1678840,
+        1679100,
         1679240,
         1679970,
         1680030,
@@ -10844,7 +10845,8 @@
         633710,
         638049,
         604427,
-        597592
+        597592,
+        597228
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
@@ -11023,16 +11025,16 @@
             "tagid": 5055
         },
         {
+            "name": "World War II",
+            "tagid": 4150
+        },
+        {
             "name": "Competitive",
             "tagid": 3878
         },
         {
             "name": "Free to Play",
             "tagid": 113
-        },
-        {
-            "name": "World War II",
-            "tagid": 4150
         },
         {
             "name": "Online Co-Op",
