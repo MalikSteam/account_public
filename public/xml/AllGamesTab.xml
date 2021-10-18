@@ -372,12 +372,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/426970/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1615300</appID>
-			<name><![CDATA[Age of Rust Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1615300]]></storeLink>
-		</game>
-		<game>
 			<appID>226840</appID>
 			<name><![CDATA[Age of Wonders III]]></name>
 			
@@ -476,12 +470,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1054560]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1054560]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1054560/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1663190</appID>
-			<name><![CDATA[Alien Marauder (Playtest)]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1663190]]></storeLink>
 		</game>
 		<game>
 			<appID>563560</appID>
@@ -660,6 +648,12 @@
 			<name><![CDATA[Angels & Demigods]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/503160]]></storeLink>
+		</game>
+		<game>
+			<appID>1654240</appID>
+			<name><![CDATA[Animal Defense Versus Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1654240]]></storeLink>
 		</game>
 		<game>
 			<appID>576470</appID>
@@ -1508,6 +1502,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1685970/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1777640</appID>
+			<name><![CDATA[Black One Blood Brothers Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1777640]]></storeLink>
+		</game>
+		<game>
 			<appID>453890</appID>
 			<name><![CDATA[Black Rose]]></name>
 			
@@ -1852,12 +1852,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/681160]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/681160]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/681160/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1618890</appID>
-			<name><![CDATA[Breaking Box Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1618890]]></storeLink>
 		</game>
 		<game>
 			<appID>968310</appID>
@@ -3048,6 +3042,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/477200]]></storeLink>
 		</game>
 		<game>
+			<appID>1781790</appID>
+			<name><![CDATA[Desert Pirates Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1781790]]></storeLink>
+		</game>
+		<game>
 			<appID>283330</appID>
 			<name><![CDATA[Desert Thunder]]></name>
 			
@@ -3631,20 +3631,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -5245,12 +5245,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/446150/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1711320</appID>
-			<name><![CDATA[GunWorld VR Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1711320]]></storeLink>
-		</game>
-		<game>
 			<appID>242720</appID>
 			<name><![CDATA[GunZ 2: The Second Duel]]></name>
 			
@@ -5714,6 +5708,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/523680/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1784640</appID>
+			<name><![CDATA[Hope Despair Chaos Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1784640]]></storeLink>
+		</game>
+		<game>
 			<appID>1613510</appID>
 			<name><![CDATA[HopeLand Playtest]]></name>
 			
@@ -5738,12 +5738,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1613700]]></storeLink>
 		</game>
 		<game>
-			<appID>1471210</appID>
-			<name><![CDATA[HordeCore Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1471210]]></storeLink>
-		</game>
-		<game>
 			<appID>1571270</appID>
 			<name><![CDATA[Horns of Justice Playtest]]></name>
 			
@@ -5766,6 +5760,12 @@
 			<name><![CDATA[Hotline Miami 2: Wrong Number Digital Comic]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/341190]]></storeLink>
+		</game>
+		<game>
+			<appID>1780870</appID>
+			<name><![CDATA[House of Sin Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1780870]]></storeLink>
 		</game>
 		<game>
 			<appID>353360</appID>
@@ -5944,12 +5944,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/396030/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1695650</appID>
-			<name><![CDATA[Increlution - Closed Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1695650]]></storeLink>
-		</game>
-		<game>
 			<appID>847790</appID>
 			<name><![CDATA[Indentured Servant]]></name>
 			
@@ -6052,6 +6046,12 @@
 			<name><![CDATA[Insidia]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/592890]]></storeLink>
+		</game>
+		<game>
+			<appID>1683840</appID>
+			<name><![CDATA[Insula: Bounty Royale Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1683840]]></storeLink>
 		</game>
 		<game>
 			<appID>222880</appID>
@@ -6994,6 +6994,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/354290]]></storeLink>
 		</game>
 		<game>
+			<appID>1786700</appID>
+			<name><![CDATA[Lovely Planet Remix Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1786700]]></storeLink>
+		</game>
+		<game>
 			<appID>1478610</appID>
 			<name><![CDATA[Lover Playtest]]></name>
 			
@@ -7298,6 +7304,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/830470]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/830470]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/830470/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1782850</appID>
+			<name><![CDATA[Maze Mania: The Ultimate 3D Maze Game Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1782850]]></storeLink>
 		</game>
 		<game>
 			<appID>1613820</appID>
@@ -9138,6 +9150,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1619270]]></storeLink>
 		</game>
 		<game>
+			<appID>1743770</appID>
+			<name><![CDATA[Propnight Public Test]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1743770]]></storeLink>
+		</game>
+		<game>
 			<appID>60600</appID>
 			<name><![CDATA[ProtoGalaxy]]></name>
 			
@@ -9782,12 +9800,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/295550]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/295550]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/295550/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1769690</appID>
-			<name><![CDATA[RP7 Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1769690]]></storeLink>
 		</game>
 		<game>
 			<appID>372800</appID>
@@ -10669,6 +10681,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/340460/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1766780</appID>
+			<name><![CDATA[Spectrolite BETA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1766780]]></storeLink>
+		</game>
+		<game>
 			<appID>552770</appID>
 			<name><![CDATA[Speech Trainer]]></name>
 			
@@ -11203,12 +11221,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1616330]]></storeLink>
 		</game>
 		<game>
-			<appID>1757190</appID>
-			<name><![CDATA[Tafl Champions: Ancient Chess Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1757190]]></storeLink>
-		</game>
-		<game>
 			<appID>428870</appID>
 			<name><![CDATA[Take the Dream IX]]></name>
 			
@@ -11322,16 +11334,22 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
+			<appID>1707500</appID>
+			<name><![CDATA[Tennis Fighters Playtest]]></name>
 			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -11596,14 +11614,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1695270]]></storeLink>
 		</game>
 		<game>
-			<appID>1772320</appID>
-			<name><![CDATA[The Hidden Room Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1772320]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1772320]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1772320/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>633210</appID>
 			<name><![CDATA[The Hunger Games 360]]></name>
 			
@@ -11759,6 +11769,12 @@
 			<name><![CDATA[The Lord of the Rings Online™]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212500]]></storeLink>
+		</game>
+		<game>
+			<appID>1525200</appID>
+			<name><![CDATA[The Lost Legends of Redwall: The Scout Act III Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1525200]]></storeLink>
 		</game>
 		<game>
 			<appID>372540</appID>
@@ -12270,6 +12286,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/293560]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/293560]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/293560/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1751840</appID>
+			<name><![CDATA[Too Many Humans Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1751840]]></storeLink>
 		</game>
 		<game>
 			<appID>1520800</appID>
@@ -13436,6 +13458,8 @@
 			<name><![CDATA[World of Tanks]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1407200]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1407200]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1407200/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>444200</appID>
@@ -13579,6 +13603,8 @@
 			<name><![CDATA[Ylands]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/298610]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/298610]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/298610/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1601110</appID>
