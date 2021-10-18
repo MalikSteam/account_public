@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2273,
+        "game_count": 2277,
         "games": [
             {
                 "appid": 92,
@@ -1812,7 +1812,7 @@
                 "appid": 223750,
                 "name": "DCS World Steam Edition",
                 "playtime_forever": 0,
-                "img_icon_url": "25e21835af7a7ba1b5f2fb995185a97f320999b5",
+                "img_icon_url": "2d9534cd77c0a0a0d70e3d8f2981e1c7a829a900",
                 "img_logo_url": "27fff67df94901f4b58ded075f9a8ad20f74abeb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -2757,7 +2757,7 @@
                 "name": "Warface",
                 "playtime_forever": 0,
                 "img_icon_url": "fb8ff6e843ac7020086431da50a8b0a5d31c7bcc",
-                "img_logo_url": "0b9356d48068183409ba0a06920f2fc49c7a6728",
+                "img_logo_url": "294a7276cc59bc777a940c150fed07d393606363",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -13575,7 +13575,7 @@
                 "name": "World of Warships",
                 "playtime_forever": 161,
                 "img_icon_url": "eab230c20bbe2ddf4ccb34ab331f3b7f9c94c48f",
-                "img_logo_url": "396c3ae55fe21c64fd901e52caef8b0f4348aff7",
+                "img_logo_url": "0ce67774519a43220cb846df6a3c062fe531a59d",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 161,
                 "playtime_mac_forever": 0,
@@ -20416,6 +20416,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "503e4919ed77777d8fc11293a00904f8a45a238e",
                 "img_logo_url": "147abc115a0353ec7bb52fc4518fc0c99cb42114",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -20597,6 +20598,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fdedc7d172706ea39d2d2b389cd461cb4cbe7315",
                 "img_logo_url": "ee702ea511e6d718f872aeae40d7e2e36ae3a87d",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -20689,16 +20691,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "836c51911bd572d005cd4bbd4566287d2671483a",
                 "img_logo_url": "adb9106f4b93f3dacf7fe44de04358b006db4826",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1471210,
-                "name": "HordeCore Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "5c94b28cf89340896a0292563a39e4b61f84e447",
-                "img_logo_url": "7b21cab54c89fad8089807be39e457baabab0d9e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -20972,6 +20964,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e9718efbf864089085ede1c39b7e25ccac813308",
                 "img_logo_url": "240d3ae8a5aee3a713354b8f4f658f27ac7f1b2d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1525200,
+                "name": "The Lost Legends of Redwall: The Scout Act III Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "43bf59e405b8df1c8fe4ea8005119d40f8ea23c1",
+                "img_logo_url": "0bd1e906ba832a481b1663e2787f177788baab0a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21626,16 +21628,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1615300,
-                "name": "Age of Rust Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "748b49ae0da1e6b39aac0933987da8e8c9bfdb60",
-                "img_logo_url": "b4cf375a68c5fe50af6a902f3dce9249094f6d99",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1615410,
                 "name": "Tactical Breach Wizards Playtest",
                 "playtime_forever": 0,
@@ -21773,16 +21765,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0828fedd582384b6560048940dfb5384b3db3561",
                 "img_logo_url": "be0d5af8172214fc509d198e219ed3e7bb247339",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1618890,
-                "name": "Breaking Box Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f362227f223ce96d52632054a3af2cfd0d4834e3",
-                "img_logo_url": "f23371d4a8c2fc30eea7835d6084b6822a22aa4d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22220,6 +22202,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1654240,
+                "name": "Animal Defense Versus Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8732e4dec2a57f45fe7471c1ba00173c24b6c25d",
+                "img_logo_url": "de335dbcbdf0aaabf091767dc033456944a3e4be",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1655270,
                 "name": "Bodies of Water (VR) Playtest",
                 "playtime_forever": 0,
@@ -22306,16 +22298,6 @@
                 "img_icon_url": "63c0fa365c3a833c205245c2b9ead9f06ce8d5e3",
                 "img_logo_url": "144309a0e21f93eb1b6eb556362e3b33797cc5e3",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1663190,
-                "name": "Alien Marauder (Playtest)",
-                "playtime_forever": 0,
-                "img_icon_url": "ea32cb84bc3ec9203b69c2fc9e71852e5c603dbf",
-                "img_logo_url": "7e7561a52482fba9a4cde8f1e31e486f414b44c6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22582,6 +22564,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1683840,
+                "name": "Insula: Bounty Royale Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "834d8601f10ee27c0dc5dfc48da71f0e8b68b091",
+                "img_logo_url": "ce6ddd7143ab520e032a4c3c6e6f3318132dcb23",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1685120,
                 "name": "Tichu Playtest",
                 "playtime_forever": 0,
@@ -22766,16 +22758,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1695650,
-                "name": "Increlution - Closed Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "53b8cda514150d3792b315485a32622a37d62f77",
-                "img_logo_url": "1b68581ce73873c899c33b71955e5bfafef618e4",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1697920,
                 "name": "Polygon Wizards Playtest",
                 "playtime_forever": 0,
@@ -22856,6 +22838,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1707500,
+                "name": "Tennis Fighters Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "60f08ebfb5596ae7d889b5083ef0809c6c4c4ad1",
+                "img_logo_url": "00c9a39488168cf9e6a547d13246793c4c690c56",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1708790,
                 "name": "Smashpunks Playtest",
                 "playtime_forever": 0,
@@ -22891,16 +22883,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "08baa32f371745ab15a404c6454028ac1a592e53",
                 "img_logo_url": "b9926d4888bb53c5b7f7ed363f581fd5f2395b38",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1711320,
-                "name": "GunWorld VR Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "90f5e9cb61e022338798eb303ad21a6636fec5d9",
-                "img_logo_url": "5815f42cccd0a18f700faa6c2d6cfa9059054df4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23189,6 +23171,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1743770,
+                "name": "Propnight Public Test",
+                "playtime_forever": 0,
+                "img_icon_url": "a08a950bb15efdde626f686b0765dba71bd6ec6e",
+                "img_logo_url": "132211ed8d95ee11d832c9eeb725d95b37e43b92",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1743860,
                 "name": "eXpanSIM (Playtest)",
                 "playtime_forever": 0,
@@ -23311,21 +23303,21 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 571890,
-                "name": "ShapeLab",
+                "appid": 1751840,
+                "name": "Too Many Humans Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "ed00362bd25091e5717c1e62ecd717ae737403cb",
-                "img_logo_url": "2c7204e1feb6803c4b68ce8eb099df36eec0faee",
+                "img_icon_url": "0e628ea6d2c819d2a117796d79184983281a1aaa",
+                "img_logo_url": "bc612d96805e4aa20fd0680d8f37ceb6b5bfdbf6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1757190,
-                "name": "Tafl Champions: Ancient Chess Playtest",
+                "appid": 571890,
+                "name": "ShapeLab",
                 "playtime_forever": 0,
-                "img_icon_url": "d1eb9d650082d8173e0baf552ac5c01bda20a730",
-                "img_logo_url": "130253d5e9ee9120680a826efaa0b83e477b11ea",
+                "img_icon_url": "ed00362bd25091e5717c1e62ecd717ae737403cb",
+                "img_logo_url": "2c7204e1feb6803c4b68ce8eb099df36eec0faee",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23364,8 +23356,8 @@
                 "appid": 1766460,
                 "name": "Hop Skip and Thump Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "09971b7c83eb691ddfb1e54f95ebed379d0834e8",
-                "img_logo_url": "b52acc97939aae3f2376e54cb3b8c64ac85235e4",
+                "img_icon_url": "3ab6232d79f68c027e7d2996da2554d6240e66a4",
+                "img_logo_url": "fbc8c7cff22b2009dcfbef9483e3f1e6c7ea9de1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23376,6 +23368,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "575101499b5090d1064f3da8d75edb802faa76fc",
                 "img_logo_url": "8f680180134d40fe54b0c3768c76fccd337d3da3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1766780,
+                "name": "Spectrolite BETA",
+                "playtime_forever": 0,
+                "img_icon_url": "d76476db91b8b8e4b7b78a04316f02aa49f7697a",
+                "img_logo_url": "4186277bb74450f784d942cdf520223a7d607837",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23396,16 +23398,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bec5d58e4aef957f1e06fbd6ad5a168816fc8505",
                 "img_logo_url": "42ff36e61e14ca9afbcc66a70df2ff32e3c4d7a5",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1769690,
-                "name": "RP7 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "c3ee6101693c21ac5d95b45c21c28ae32fad2af0",
-                "img_logo_url": "6952d30fa11324e6061546b501c2bde92556d3f3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23441,12 +23433,11 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1772320,
-                "name": "The Hidden Room Playtest",
+                "appid": 1777640,
+                "name": "Black One Blood Brothers Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "20d3dba1899b12f2f840bddc844b84d1656fbbbe",
-                "img_logo_url": "95289877cbb2ae2302f7b7de6d1499199113875a",
-                "has_community_visible_stats": true,
+                "img_icon_url": "cfb6fb64d7cc35e81dae4fe6204b5c30f24fc5ab",
+                "img_logo_url": "9a545e3a66f7968e3acc736448cfd91876e28924",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23467,6 +23458,56 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d6ed994483a0f87e04c0dc299530a19df69fdd3c",
                 "img_logo_url": "0aa9e5d26bfe991245e8a6285cc7ec31f9b67f43",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1780870,
+                "name": "House of Sin Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b8c3898a65ec560e2cf930da918fcc923b756ce3",
+                "img_logo_url": "1562f21a08ead709df241a276972fa86343ca835",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1781790,
+                "name": "Desert Pirates Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0b80af76990e85e716c702d73d30a0a08255bb07",
+                "img_logo_url": "d1576a804f8e57c64de31cf71cfa2f73014b87d1",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1782850,
+                "name": "Maze Mania: The Ultimate 3D Maze Game Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3bfb4a8f04ad160f9c61456e49cdda98147161a6",
+                "img_logo_url": "1176032309fb7c8a17ddc1cd844a4d517ede1335",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1784640,
+                "name": "Hope Despair Chaos Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3b9e46ae2b11784a11653d3fec6521ed295988d9",
+                "img_logo_url": "d3b93a6a1cb39e46df7c3d5c22153bf3f9007196",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1786700,
+                "name": "Lovely Planet Remix Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d2b328087cb3836315d6cc0a5200f6ef2c0ef263",
+                "img_logo_url": "b4e2e24cc55288ed8a0642624ba1bd3ec3fbc65a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
