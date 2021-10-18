@@ -8864,6 +8864,10 @@
         "name": "Prometheus: Omex Rising Playtest"
     },
     {
+        "appid": 1525200,
+        "name": "The Lost Legends of Redwall: The Scout Act III Playtest"
+    },
+    {
         "appid": 1526820,
         "name": "Time to Morp Playtest"
     },
@@ -9868,6 +9872,10 @@
         "name": "Wardens Rising Playtest"
     },
     {
+        "appid": 1683840,
+        "name": "Insula: Bounty Royale Playtest"
+    },
+    {
         "appid": 1684850,
         "name": "Knife To Meet You Playtest"
     },
@@ -10050,6 +10058,10 @@
     {
         "appid": 1707210,
         "name": "MIR4 Playtest"
+    },
+    {
+        "appid": 1707500,
+        "name": "Tennis Fighters Playtest"
     },
     {
         "appid": 1708790,
@@ -10244,6 +10256,10 @@
         "name": "Eco Park Playtest"
     },
     {
+        "appid": 1743770,
+        "name": "Propnight Public Test"
+    },
+    {
         "appid": 1743860,
         "name": "eXpanSIM (Playtest)"
     },
@@ -10300,6 +10316,10 @@
         "name": "Magurele Mystery Playtest"
     },
     {
+        "appid": 1751840,
+        "name": "Too Many Humans Playtest"
+    },
+    {
         "appid": 1756350,
         "name": "Slayers, Inc. Playtest"
     },
@@ -10336,6 +10356,10 @@
         "name": "Lonely Tribes Playtest"
     },
     {
+        "appid": 1766780,
+        "name": "Spectrolite BETA"
+    },
+    {
         "appid": 1767800,
         "name": "Search for Surf Playtest"
     },
@@ -10368,11 +10392,35 @@
         "name": "The Hidden Room Playtest"
     },
     {
+        "appid": 1777640,
+        "name": "Black One Blood Brothers Playtest"
+    },
+    {
         "appid": 1777780,
         "name": "Fira Playtest"
     },
     {
         "appid": 1777900,
         "name": "Danglebox Playtest"
+    },
+    {
+        "appid": 1780870,
+        "name": "House of Sin Playtest"
+    },
+    {
+        "appid": 1781790,
+        "name": "Desert Pirates Playtest"
+    },
+    {
+        "appid": 1782850,
+        "name": "Maze Mania: The Ultimate 3D Maze Game Playtest"
+    },
+    {
+        "appid": 1784640,
+        "name": "Hope Despair Chaos Playtest"
+    },
+    {
+        "appid": 1786700,
+        "name": "Lovely Planet Remix Playtest"
     }
 ]
