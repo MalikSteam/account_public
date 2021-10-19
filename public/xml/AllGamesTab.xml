@@ -5817,6 +5817,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1638570]]></storeLink>
 		</game>
 		<game>
+			<appID>1741660</appID>
+			<name><![CDATA[I'm Not Jelly Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1741660]]></storeLink>
+		</game>
+		<game>
 			<appID>697610</appID>
 			<name><![CDATA[Idle Bouncer]]></name>
 			
@@ -11346,16 +11352,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
