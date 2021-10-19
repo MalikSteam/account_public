@@ -9150,12 +9150,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1619270]]></storeLink>
 		</game>
 		<game>
-			<appID>1743770</appID>
-			<name><![CDATA[Propnight Public Test]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1743770]]></storeLink>
-		</game>
-		<game>
 			<appID>60600</appID>
 			<name><![CDATA[ProtoGalaxy]]></name>
 			
@@ -9995,6 +9989,12 @@
 			<name><![CDATA[Seance: The Unquiet (Demo 2)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1012940]]></storeLink>
+		</game>
+		<game>
+			<appID>1767800</appID>
+			<name><![CDATA[Search for Surf Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1767800]]></storeLink>
 		</game>
 		<game>
 			<appID>1632250</appID>
