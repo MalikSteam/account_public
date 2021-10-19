@@ -23181,16 +23181,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1743770,
-                "name": "Propnight Public Test",
-                "playtime_forever": 0,
-                "img_icon_url": "a08a950bb15efdde626f686b0765dba71bd6ec6e",
-                "img_logo_url": "132211ed8d95ee11d832c9eeb725d95b37e43b92",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1743860,
                 "name": "eXpanSIM (Playtest)",
                 "playtime_forever": 0,
@@ -23388,6 +23378,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d76476db91b8b8e4b7b78a04316f02aa49f7697a",
                 "img_logo_url": "4186277bb74450f784d942cdf520223a7d607837",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1767800,
+                "name": "Search for Surf Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fe3e8a93488e281dd1c21697573d8586e735096a",
+                "img_logo_url": "39ce5b0f598d37d22ba3c49674247b2ff5b2ef1c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
