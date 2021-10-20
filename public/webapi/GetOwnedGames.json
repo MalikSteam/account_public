@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2279,
+        "game_count": 2278,
         "games": [
             {
                 "appid": 92,
@@ -23478,16 +23478,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d6ed994483a0f87e04c0dc299530a19df69fdd3c",
                 "img_logo_url": "0aa9e5d26bfe991245e8a6285cc7ec31f9b67f43",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1780870,
-                "name": "House of Sin Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b8c3898a65ec560e2cf930da918fcc923b756ce3",
-                "img_logo_url": "1562f21a08ead709df241a276972fa86343ca835",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
