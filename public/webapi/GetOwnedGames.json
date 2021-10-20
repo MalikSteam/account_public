@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2280,
+        "game_count": 2279,
         "games": [
             {
                 "appid": 92,
@@ -23488,16 +23488,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b8c3898a65ec560e2cf930da918fcc923b756ce3",
                 "img_logo_url": "1562f21a08ead709df241a276972fa86343ca835",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1781790,
-                "name": "Desert Pirates Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "0b80af76990e85e716c702d73d30a0a08255bb07",
-                "img_logo_url": "d1576a804f8e57c64de31cf71cfa2f73014b87d1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
