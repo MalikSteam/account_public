@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2277,
+        "game_count": 2278,
         "games": [
             {
                 "appid": 92,
@@ -23196,6 +23196,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8c69c3fb0308901db879e9a80c64a35f174b0f1c",
                 "img_logo_url": "f6fa6abe250cca5060a89396c744e5631ac16e69",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1743920,
+                "name": "Make Your Kingdom Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "db34e803f9661e56fb3ba717625ad4539ae60229",
+                "img_logo_url": "044e8037f84d674b57cd3800799bcb32977478d9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
