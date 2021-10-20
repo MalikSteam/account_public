@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2279,
+        "game_count": 2280,
         "games": [
             {
                 "appid": 92,
@@ -23528,6 +23528,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d2b328087cb3836315d6cc0a5200f6ef2c0ef263",
                 "img_logo_url": "b4e2e24cc55288ed8a0642624ba1bd3ec3fbc65a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1788420,
+                "name": "Dungeon Avenger Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "27a79d321d2a3c06edcbe51834ce0562bb7af62a",
+                "img_logo_url": "03429ac1086cb6c07f9c679349e4155e236963ee",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
