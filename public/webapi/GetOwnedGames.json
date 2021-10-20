@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2276,
+        "game_count": 2277,
         "games": [
             {
                 "appid": 92,
@@ -22984,6 +22984,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a57a614283e53ebb05373960e8618b5b27a8c679",
                 "img_logo_url": "a55a86cf143746b7df64c7711c6a036fd6e446f1",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1723000,
+                "name": "Cattle 101 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a6bab2a46fa12b5d44461c9e24d0c21e6663b805",
+                "img_logo_url": "5140cb17166e67fd62dae67846f8d680345d8750",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
