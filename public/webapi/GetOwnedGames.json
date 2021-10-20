@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2279,
+        "game_count": 2280,
         "games": [
             {
                 "appid": 92,
@@ -23438,6 +23438,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ad80cbfd148ef29dcfb5b8442719e5a0d941b442",
                 "img_logo_url": "de86e6d430f3a822f381b8d6d0267f787608c07c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1776530,
+                "name": "Exploding Babies Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "eef277f60fe23097d855098a55c46d0d4fd628de",
+                "img_logo_url": "509d3c6fe0b6415cc522cff4687e713821184d90",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
