@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2279,
+        "game_count": 2280,
         "games": [
             {
                 "appid": 92,
@@ -22354,6 +22354,17 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1666300,
+                "name": "Rogue Company Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ec36ff029402b9cf4e1f7829f293fd12a71e6ce1",
+                "img_logo_url": "c5748425a195be3e67343187e9b1b330e2476fda",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1667450,
                 "name": "Master Of Earth Playtest",
                 "playtime_forever": 0,
@@ -23093,7 +23104,7 @@
                 "appid": 1735440,
                 "name": "Light2Live Beta",
                 "playtime_forever": 0,
-                "img_icon_url": "396b4ec5e6de3b62845331a721f2ed617b0f3558",
+                "img_icon_url": "b84a98a9adf1937490785d995cc78956ea1245dd",
                 "img_logo_url": "bb69266959d678a5f263cec8fd2e945ca9a54370",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
