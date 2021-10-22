@@ -22313,16 +22313,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1665510,
-                "name": "Combots Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "aa91ed024e4c33ee5a11867240a05505077f6e4f",
-                "img_logo_url": "95ff0bceb3debf02c278bdd091073384705059ce",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1666210,
                 "name": "Graffiti Bombing Playtest",
                 "playtime_forever": 0,
@@ -23236,6 +23226,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "492f192b53a3e1b5a64bb374963cf13269589649",
                 "img_logo_url": "5d15a4c68dbb06246ff9033b36097b2d0f6b1f42",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1747770,
+                "name": "Trail of Ayash Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ac04fb961d330cd8789e3710e2102d0cfd25060e",
+                "img_logo_url": "3178f8c442850a654bc3f73f9c083b01dc7572a2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
