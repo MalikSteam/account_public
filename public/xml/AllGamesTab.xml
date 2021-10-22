@@ -1314,6 +1314,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/394740/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1538020</appID>
+			<name><![CDATA[Battle Map Studio Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1538020]]></storeLink>
+		</game>
+		<game>
 			<appID>392060</appID>
 			<name><![CDATA[BattleSouls]]></name>
 			
@@ -2078,12 +2084,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/451880/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1723000</appID>
-			<name><![CDATA[Cattle 101 Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1723000]]></storeLink>
-		</game>
-		<game>
 			<appID>1713440</appID>
 			<name><![CDATA[Caught in Nowhere Playtest]]></name>
 			
@@ -2345,6 +2345,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/336040]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/336040]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/336040/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1665510</appID>
+			<name><![CDATA[Combots Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1665510]]></storeLink>
 		</game>
 		<game>
 			<appID>399520</appID>
@@ -3036,6 +3042,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/477200]]></storeLink>
 		</game>
 		<game>
+			<appID>1781790</appID>
+			<name><![CDATA[Desert Pirates Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1781790]]></storeLink>
+		</game>
+		<game>
 			<appID>283330</appID>
 			<name><![CDATA[Desert Thunder]]></name>
 			
@@ -3611,14 +3623,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/291410/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1788420</appID>
-			<name><![CDATA[Dungeon Avenger Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1788420]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1788420]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1788420/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>236110</appID>
 			<name><![CDATA[Dungeon Defenders II]]></name>
 			
@@ -4173,12 +4177,6 @@
 			<name><![CDATA[eXpanSIM (Playtest)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1743860]]></storeLink>
-		</game>
-		<game>
-			<appID>1776530</appID>
-			<name><![CDATA[Exploding Babies Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1776530]]></storeLink>
 		</game>
 		<game>
 			<appID>223650</appID>
@@ -5764,6 +5762,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/341190]]></storeLink>
 		</game>
 		<game>
+			<appID>1780870</appID>
+			<name><![CDATA[House of Sin Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1780870]]></storeLink>
+		</game>
+		<game>
 			<appID>353360</appID>
 			<name><![CDATA[how do you Do It?]]></name>
 			
@@ -5811,12 +5815,6 @@
 			<name><![CDATA[Hypergliders Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1638570]]></storeLink>
-		</game>
-		<game>
-			<appID>1741660</appID>
-			<name><![CDATA[I'm Not Jelly Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1741660]]></storeLink>
 		</game>
 		<game>
 			<appID>697610</appID>
@@ -7177,10 +7175,10 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/357900/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1743920</appID>
-			<name><![CDATA[Make Your Kingdom Playtest]]></name>
+			<appID>1744240</appID>
+			<name><![CDATA[Malmyr Playtest]]></name>
 			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1743920]]></storeLink>
+			<storeLink><![CDATA[https://steamcommunity.com/app/1744240]]></storeLink>
 		</game>
 		<game>
 			<appID>461560</appID>
@@ -9993,6 +9991,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1012940]]></storeLink>
 		</game>
 		<game>
+			<appID>1767800</appID>
+			<name><![CDATA[Search for Surf Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1767800]]></storeLink>
+		</game>
+		<game>
 			<appID>1632250</appID>
 			<name><![CDATA[Search Playtest]]></name>
 			
@@ -10677,6 +10681,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/340460/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1766780</appID>
+			<name><![CDATA[Spectrolite BETA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1766780]]></storeLink>
+		</game>
+		<game>
 			<appID>552770</appID>
 			<name><![CDATA[Speech Trainer]]></name>
 			
@@ -11336,16 +11346,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -11767,6 +11777,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/212500]]></storeLink>
 		</game>
 		<game>
+			<appID>1525200</appID>
+			<name><![CDATA[The Lost Legends of Redwall: The Scout Act III Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1525200]]></storeLink>
+		</game>
+		<game>
 			<appID>372540</appID>
 			<name><![CDATA[The Lost Mythologies]]></name>
 			
@@ -12048,12 +12064,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/533690]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/533690]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/533690/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1733640</appID>
-			<name><![CDATA[This is Timmy Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1733640]]></storeLink>
 		</game>
 		<game>
 			<appID>529540</appID>
@@ -12354,12 +12364,6 @@
 			<name><![CDATA[TrackMania Nations Forever]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/11020]]></storeLink>
-		</game>
-		<game>
-			<appID>1747770</appID>
-			<name><![CDATA[Trail of Ayash Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1747770]]></storeLink>
 		</game>
 		<game>
 			<appID>335240</appID>
@@ -13272,12 +13276,6 @@
 			<name><![CDATA[Weelco VR]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/606010]]></storeLink>
-		</game>
-		<game>
-			<appID>1793080</appID>
-			<name><![CDATA[Welcome to Goodland Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1793080]]></storeLink>
 		</game>
 		<game>
 			<appID>655160</appID>
