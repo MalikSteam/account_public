@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2280,
+        "game_count": 2281,
         "games": [
             {
                 "appid": 92,
@@ -22844,6 +22844,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "60f08ebfb5596ae7d889b5083ef0809c6c4c4ad1",
                 "img_logo_url": "00c9a39488168cf9e6a547d13246793c4c690c56",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1707800,
+                "name": "We who are about to Die Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "13462e28a38162d322c40252448e4681bd31e26d",
+                "img_logo_url": "edf0e356e6572fcd92ed70a2d81c911c87f33a5d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
