@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2280,
+        "game_count": 2279,
         "games": [
             {
                 "appid": 92,
@@ -23509,16 +23509,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3b9e46ae2b11784a11653d3fec6521ed295988d9",
                 "img_logo_url": "d3b93a6a1cb39e46df7c3d5c22153bf3f9007196",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1786700,
-                "name": "Lovely Planet Remix Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d2b328087cb3836315d6cc0a5200f6ef2c0ef263",
-                "img_logo_url": "b4e2e24cc55288ed8a0642624ba1bd3ec3fbc65a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
