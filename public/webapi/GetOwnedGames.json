@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2280,
+        "game_count": 2279,
         "games": [
             {
                 "appid": 92,
@@ -23419,16 +23419,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bec5d58e4aef957f1e06fbd6ad5a168816fc8505",
                 "img_logo_url": "42ff36e61e14ca9afbcc66a70df2ff32e3c4d7a5",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1770610,
-                "name": "Heroes of Agora Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b1d08712f8d623018b154dacd1169aaead9827f3",
-                "img_logo_url": "1f254836fbe6bafbf283d62c70f36759f77bbfb2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
