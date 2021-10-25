@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2279,
+        "game_count": 2280,
         "games": [
             {
                 "appid": 92,
@@ -22308,6 +22308,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f397be6ad2d42f7e8f23f358ca03327bd3e01862",
                 "img_logo_url": "88210e8da6fa472c238b4cf778c873a5e39f3ba8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1665400,
+                "name": "ToneStone Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "efed1a9f5f00fae06a34fd73a34d8a8bf26db1d0",
+                "img_logo_url": "26de52234dda0bfb53acbbe0a82c47e1250fa4e4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
