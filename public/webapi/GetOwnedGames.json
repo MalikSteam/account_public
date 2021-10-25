@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2281,
+        "game_count": 2280,
         "games": [
             {
                 "appid": 92,
@@ -23340,16 +23340,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f2dde63bea7f9493d747b0bdb568b591c6ec743a",
                 "img_logo_url": "d61ba0b6beaeb61e4d4fa6ea438aa2268b1cab43",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1751840,
-                "name": "Too Many Humans Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "0e628ea6d2c819d2a117796d79184983281a1aaa",
-                "img_logo_url": "bc612d96805e4aa20fd0680d8f37ceb6b5bfdbf6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
