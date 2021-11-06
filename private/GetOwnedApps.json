@@ -5996,6 +5996,10 @@
         "name": "Nightcap: Babymaker"
     },
     {
+        "appid": 556130,
+        "name": "Drones, The Human Condition"
+    },
+    {
         "appid": 556880,
         "name": "Realm of the Mad God: \"Free Welcome Pack\""
     },
@@ -9248,6 +9252,10 @@
         "name": "Maze Qore Arena - Foresight"
     },
     {
+        "appid": 1614000,
+        "name": "Super Dungeon Designer Playtest"
+    },
+    {
         "appid": 1614060,
         "name": "Paint Chips Playtest"
     },
@@ -9520,6 +9528,10 @@
         "name": "The Bookwalker Playtest"
     },
     {
+        "appid": 1636120,
+        "name": "Gloria Victis - Free Test until 15th of November!"
+    },
+    {
         "appid": 1636130,
         "name": "ARRIVAL: ZERO EARTH Playtest"
     },
@@ -9788,6 +9800,10 @@
         "name": "Red Crucible: Able Archer Playtest"
     },
     {
+        "appid": 1670190,
+        "name": "Inverse Evolver Playtest"
+    },
+    {
         "appid": 1670260,
         "name": "Fruit Ninja VR 2 Playtest"
     },
@@ -9918,6 +9934,10 @@
     {
         "appid": 1686550,
         "name": "SlimeTime Playtest"
+    },
+    {
+        "appid": 1686660,
+        "name": "nanos world Halloween Playtest"
     },
     {
         "appid": 1687330,
@@ -10352,6 +10372,10 @@
         "name": "Too Many Humans Playtest"
     },
     {
+        "appid": 1753930,
+        "name": "Snatch Media Toolbox Playtest"
+    },
+    {
         "appid": 1756350,
         "name": "Slayers, Inc. Playtest"
     },
@@ -10440,6 +10464,10 @@
         "name": "Danglebox Playtest"
     },
     {
+        "appid": 1778180,
+        "name": "Collapse of Magic Playtest"
+    },
+    {
         "appid": 1780870,
         "name": "House of Sin Playtest"
     },
@@ -10460,6 +10488,10 @@
         "name": "Hope Despair Chaos Playtest"
     },
     {
+        "appid": 1785900,
+        "name": "I Am Your President Playtest"
+    },
+    {
         "appid": 1786700,
         "name": "Lovely Planet Remix Playtest"
     },
@@ -10474,5 +10506,37 @@
     {
         "appid": 1793080,
         "name": "Welcome to Goodland Playtest"
+    },
+    {
+        "appid": 1794940,
+        "name": "Solargene Playtest"
+    },
+    {
+        "appid": 1796670,
+        "name": "Star Pilot Playtest"
+    },
+    {
+        "appid": 1796830,
+        "name": "Scary Buddies Playtest"
+    },
+    {
+        "appid": 1799830,
+        "name": "EXP: War Trauma Playtest"
+    },
+    {
+        "appid": 1800220,
+        "name": "Moon Dancer Playtest"
+    },
+    {
+        "appid": 1803730,
+        "name": "Killer in the cabin Playtest"
+    },
+    {
+        "appid": 1805920,
+        "name": "Jigsaw Puzzle Dreams Playtest"
+    },
+    {
+        "appid": 1807280,
+        "name": "Barro 22 Playtest"
     }
 ]
