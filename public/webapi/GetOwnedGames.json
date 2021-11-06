@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2279,
+        "game_count": 2290,
         "games": [
             {
                 "appid": 92,
@@ -2757,7 +2757,7 @@
                 "name": "Warface",
                 "playtime_forever": 0,
                 "img_icon_url": "fb8ff6e843ac7020086431da50a8b0a5d31c7bcc",
-                "img_logo_url": "294a7276cc59bc777a940c150fed07d393606363",
+                "img_logo_url": "7665e18e673611e114f7d73402f650e545b849ad",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -18517,7 +18517,7 @@
                 "name": "Rogue Agent",
                 "playtime_forever": 0,
                 "img_icon_url": "d662fbfdb2538acdb43bf8ff3ad144392c9e5379",
-                "img_logo_url": "31b52915b91d2e5710d85d99beec26f44e2520c6",
+                "img_logo_url": "35cf38bfdec9758ceb525abe48871161e6fa1d87",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -19786,7 +19786,7 @@
                 "name": "Action Entities",
                 "playtime_forever": 0,
                 "img_icon_url": "a0726ac1a5c673572d668dc21d19add20f63ac8d",
-                "img_logo_url": "6a9958d9d67d53c82dceb76b86bbc91ab491a237",
+                "img_logo_url": "3f6ba8bdc9f016f37656e4fe9c85bb764ca2b658",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -20597,7 +20597,7 @@
                 "name": "World of Tanks",
                 "playtime_forever": 0,
                 "img_icon_url": "fdedc7d172706ea39d2d2b389cd461cb4cbe7315",
-                "img_logo_url": "ee702ea511e6d718f872aeae40d7e2e36ae3a87d",
+                "img_logo_url": "17395fa6a59f0c9ad0f4749661150c4300303a3a",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -20691,6 +20691,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "836c51911bd572d005cd4bbd4566287d2671483a",
                 "img_logo_url": "adb9106f4b93f3dacf7fe44de04358b006db4826",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1471210,
+                "name": "HordeCore Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5c94b28cf89340896a0292563a39e4b61f84e447",
+                "img_logo_url": "7b21cab54c89fad8089807be39e457baabab0d9e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21115,8 +21125,8 @@
                 "appid": 582660,
                 "name": "Black Desert",
                 "playtime_forever": 0,
-                "img_icon_url": "cc5f90c568bd698304bdb185c75517c7e24d44f7",
-                "img_logo_url": "a9848e246e8b9fcf5aaa01aa0e2296884081c2e8",
+                "img_icon_url": "bf5ccace0a692720984827bf042143d0d4b28a42",
+                "img_logo_url": "a95a8cfd91272ca751aecf3274e8d2687f9d8dc7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -21566,6 +21576,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1614000,
+                "name": "Super Dungeon Designer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "585ba98a89fa53908a1eab4265192ad8f89ee8dc",
+                "img_logo_url": "4d3d0b70157f4438f06f9dba16a0cb98da0d5393",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1614200,
                 "name": "World CHAMPIONS: Decathlon Playtest",
                 "playtime_forever": 0,
@@ -21944,7 +21964,7 @@
                 "appid": 1632250,
                 "name": "Search Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "bb14d453547af3f61cb17d8bba5ebc1b362fca5e",
+                "img_icon_url": "9583aec2615521f6cefc43a68a282dd2de578b66",
                 "img_logo_url": "6cd9bb68f2b2b4d07b5dd3d6a082d2a30e1e2433",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -22011,6 +22031,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1636120,
+                "name": "Gloria Victis - Free Test until 15th of November!",
+                "playtime_forever": 0,
+                "img_icon_url": "9d24742123239ad7bbcfac3148e848d6419e4d31",
+                "img_logo_url": "f1b960955b2c62408eab3934b542fc9abbc57970",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1636130,
                 "name": "ARRIVAL: ZERO EARTH Playtest",
                 "playtime_forever": 0,
@@ -22066,6 +22096,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "51e4caa82572ad63b86ee4c59e6e5de39c554195",
                 "img_logo_url": "f5330aeff73f46eb266629651d6ea8e538aa2212",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1642030,
+                "name": "Fragments Of A Mind Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bce2ebcb594ce762620a99b55b78c77db034ac20",
+                "img_logo_url": "6fe5197d86045c2475aca029bcb63dc21ca71aa7",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22187,16 +22228,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "cbc083182fe198bb29c8ba2377bfd57281ddef57",
                 "img_logo_url": "a900fbf589efb1b3c9900697143e805ce82632cd",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1654240,
-                "name": "Animal Defense Versus Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "8732e4dec2a57f45fe7471c1ba00173c24b6c25d",
-                "img_logo_url": "de335dbcbdf0aaabf091767dc033456944a3e4be",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22399,6 +22430,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b3b57efa6784b3f6954bcb79e29681cf9ec83550",
                 "img_logo_url": "2a4dff08e566f110ec19d136a44355495b5c9c42",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1670190,
+                "name": "Inverse Evolver Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b3c8002ef826360e417a3340c7972f97f4441826",
+                "img_logo_url": "4010363104917ed0dc293f05141a8bdd0c50dd0a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22738,16 +22779,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1695270,
-                "name": "The Hauntings Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "6e0232e348ef3cedc4049ef3c4523e9501fbb3a0",
-                "img_logo_url": "63cba3750a6f52f0b09d27439d68a7bed682b24e",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1695460,
                 "name": "Two Against the Legion Playtest",
                 "playtime_forever": 0,
@@ -22818,31 +22849,11 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1703530,
-                "name": "Gunnar\u2019s Conquest Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "276b9700c633a750a9738c876bb3ce3e11260595",
-                "img_logo_url": "4f61e0e25bcee225843ccd703962b6a253f795aa",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1704150,
                 "name": "Heart Of Muriet Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "478d143c17c68be0cef5e3326b5eb0f4ac41d7f3",
                 "img_logo_url": "03de887181c50abd041baee5c8f8ec1c50cef4f2",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1707500,
-                "name": "Tennis Fighters Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "60f08ebfb5596ae7d889b5083ef0809c6c4c4ad1",
-                "img_logo_url": "00c9a39488168cf9e6a547d13246793c4c690c56",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22903,17 +22914,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7a9d3d9fb73e0935af09cf2e4711f8b99488f021",
                 "img_logo_url": "1b70e7072e5e2a80252809e35afec6b4545f0f92",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1714840,
-                "name": "Circle Empires Tactics Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "025a0629c980894d70d534cefc8c38e14491c99d",
-                "img_logo_url": "37b4d90fb6942b0bc7d3e2a5ff10991857de7d49",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22994,6 +22994,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a57a614283e53ebb05373960e8618b5b27a8c679",
                 "img_logo_url": "a55a86cf143746b7df64c7711c6a036fd6e446f1",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23307,7 +23308,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8b9cc22d3a1cf48c9b1643d2cb7eca5848fb18b0",
                 "img_logo_url": "5134b7bd0549630564c67d6ce9d8110498844784",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23339,6 +23339,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f2dde63bea7f9493d747b0bdb568b591c6ec743a",
                 "img_logo_url": "d61ba0b6beaeb61e4d4fa6ea438aa2268b1cab43",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1753930,
+                "name": "Snatch Media Toolbox Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "997ddede58fca3950c9c747feccade40e3bc99e6",
+                "img_logo_url": "a4ef634a0ffa159203b8854675e8cff55a3ab42f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23384,21 +23394,21 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1766460,
-                "name": "Hop Skip and Thump Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3ab6232d79f68c027e7d2996da2554d6240e66a4",
-                "img_logo_url": "fbc8c7cff22b2009dcfbef9483e3f1e6c7ea9de1",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1766490,
                 "name": "Lonely Tribes Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "575101499b5090d1064f3da8d75edb802faa76fc",
                 "img_logo_url": "8f680180134d40fe54b0c3768c76fccd337d3da3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1767800,
+                "name": "Search for Surf Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fe3e8a93488e281dd1c21697573d8586e735096a",
+                "img_logo_url": "39ce5b0f598d37d22ba3c49674247b2ff5b2ef1c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23484,6 +23494,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1778180,
+                "name": "Collapse of Magic Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f20d8285166fd1d307178dae679d14b6d7eedeb8",
+                "img_logo_url": "9225a13be2098a920f3f8c7137a074c8e13cc0fe",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1781210,
                 "name": "Chenso Club Playtest",
                 "playtime_forever": 0,
@@ -23514,6 +23534,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1785900,
+                "name": "I Am Your President Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "574705dc4e3c068bb42b6bc302834addc380c83b",
+                "img_logo_url": "9feed40ff5c9e8e737614f55552e70002b73b94f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1788420,
                 "name": "Dungeon Avenger Playtest",
                 "playtime_forever": 0,
@@ -23530,6 +23560,87 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5afe4f4f61485fd2124a50f4e01d4c08cd70336d",
                 "img_logo_url": "2c39c876a2359ad78305532d83dfa9c1add39517",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1794940,
+                "name": "Solargene Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bf01fbe71bebd77b864f7ad5c63ac496e441bb80",
+                "img_logo_url": "c39666f41589a7608ee19b18002f40166b9e59eb",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1796670,
+                "name": "Star Pilot Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d3dede98fc47eb595d23587a9f7081d13cc7c7e2",
+                "img_logo_url": "cbfcf6ca980001e91641a5825f0d1d7813f37c3a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1796830,
+                "name": "Scary Buddies Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "66669a57f8f88cbcf3a87ee89ceda3a131c2d1f6",
+                "img_logo_url": "98b595fe4d7efca69982b84ab8554ca6f124c586",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1799830,
+                "name": "EXP: War Trauma Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7d9182c4d7e038199f65b5eb89b4d994f025b267",
+                "img_logo_url": "ee9ee65d4ab3a45f6423a9f25c328f14dd0e510d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1800220,
+                "name": "Moon Dancer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "61069165d3f4fe9391fea290450c46df3436a1fa",
+                "img_logo_url": "04b016b529273b3bfcb6e8cca384e62e38c907f7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1805920,
+                "name": "Jigsaw Puzzle Dreams Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "366f7f2ab8ea6ef7a17e8eb8d54dc9584a360591",
+                "img_logo_url": "7b7798243f9de22806ba8cba05e12e91a41d32a0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 556130,
+                "name": "Drones, The Human Condition",
+                "playtime_forever": 0,
+                "img_icon_url": "e8924f0912fd03de1e3d8c1e917bbe4d90c4488a",
+                "img_logo_url": "bd8fa00d14610b592e5d95347b0b7d2a860a9fd3",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1807280,
+                "name": "Barro 22 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fb6ceadb963f315809289a81b75847770e8a73c8",
+                "img_logo_url": "c0b6a2562233eb56fa6f901c95e5d34a87eefc46",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
