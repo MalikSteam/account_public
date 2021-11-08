@@ -10985,12 +10985,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/604190]]></storeLink>
 		</game>
 		<game>
-			<appID>1736770</appID>
-			<name><![CDATA[Storms II Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736770]]></storeLink>
-		</game>
-		<game>
 			<appID>631130</appID>
 			<name><![CDATA[Strata Design 3D SE]]></name>
 			
@@ -11141,16 +11135,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
