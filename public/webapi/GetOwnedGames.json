@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2288,
+        "game_count": 2289,
         "games": [
             {
                 "appid": 92,
@@ -22844,6 +22844,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a0116e9d5e7e858cb8b6d008b4ecdce97195b020",
                 "img_logo_url": "64b561ab91358340f1f3d1ac4fe87c2ed78c5627",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1703530,
+                "name": "Warriors & Mages Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "276b9700c633a750a9738c876bb3ce3e11260595",
+                "img_logo_url": "4f61e0e25bcee225843ccd703962b6a253f795aa",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
