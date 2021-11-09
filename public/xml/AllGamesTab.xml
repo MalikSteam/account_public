@@ -1218,6 +1218,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/463150/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1807280</appID>
+			<name><![CDATA[Barro 22 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1807280]]></storeLink>
+		</game>
+		<game>
 			<appID>338180</appID>
 			<name><![CDATA[Batla]]></name>
 			
@@ -3511,12 +3517,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/258700]]></storeLink>
 		</game>
 		<game>
-			<appID>1702250</appID>
-			<name><![CDATA[Dragon Saddle Melee Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1702250]]></storeLink>
-		</game>
-		<game>
 			<appID>381990</appID>
 			<name><![CDATA[Dragon Saga]]></name>
 			
@@ -3631,6 +3631,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/291410/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1788420</appID>
+			<name><![CDATA[Dungeon Avenger Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1788420]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1788420]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1788420/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>236110</appID>
 			<name><![CDATA[Dungeon Defenders II]]></name>
 			
@@ -3639,20 +3647,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -6395,12 +6403,6 @@
 			<name><![CDATA[Kathy Rain Demo]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/466590]]></storeLink>
-		</game>
-		<game>
-			<appID>1424910</appID>
-			<name><![CDATA[KEO]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1424910]]></storeLink>
 		</game>
 		<game>
 			<appID>1669150</appID>
@@ -10997,6 +10999,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/604190]]></storeLink>
 		</game>
 		<game>
+			<appID>1736770</appID>
+			<name><![CDATA[Storms II Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736770]]></storeLink>
+		</game>
+		<game>
 			<appID>631130</appID>
 			<name><![CDATA[Strata Design 3D SE]]></name>
 			
@@ -11147,16 +11155,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -11398,16 +11406,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -11544,6 +11552,12 @@
 			<name><![CDATA[The Cubicle.]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/452490]]></storeLink>
+		</game>
+		<game>
+			<appID>1600360</appID>
+			<name><![CDATA[The Cycle Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1600360]]></storeLink>
 		</game>
 		<game>
 			<appID>351940</appID>
@@ -12400,12 +12414,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/324810/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1789230</appID>
-			<name><![CDATA[ToyPark Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1789230]]></storeLink>
-		</game>
-		<game>
 			<appID>11020</appID>
 			<name><![CDATA[TrackMania Nations Forever]]></name>
 			
@@ -13256,12 +13264,6 @@
 			<name><![CDATA[War of Beach]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/398840]]></storeLink>
-		</game>
-		<game>
-			<appID>1703530</appID>
-			<name><![CDATA[Warriors & Mages Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1703530]]></storeLink>
 		</game>
 		<game>
 			<appID>1722230</appID>
