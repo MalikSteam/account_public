@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2293,
+        "game_count": 2294,
         "games": [
             {
                 "appid": 92,
@@ -21491,6 +21491,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f75e740d8d1f644aa06b80ef5bda743cc41a66f6",
                 "img_logo_url": "dd0b09aae0afa39edc651fd0dfd8d087bc76df3c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1613500,
+                "name": "Godsbane Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "18a1a0a5ec9a252bfde9773c0a3ee20ca364e7aa",
+                "img_logo_url": "2254f960573554e19476c5e9e2d978e7141de62c",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
