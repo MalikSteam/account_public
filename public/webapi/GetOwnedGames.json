@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2297,
+        "game_count": 2298,
         "games": [
             {
                 "appid": 92,
@@ -23670,6 +23670,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fd8b70a0b8c830279981f82b1ecc817a299d30b2",
                 "img_logo_url": "fde6b26eaad4f72d6e9e0e12b52d53207fc73efd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1805550,
+                "name": "SILO27: Crashlanded Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "879c3c22517e35e7f315b1466d0a25eaa30fd9a3",
+                "img_logo_url": "6b91ccffd4b23f649425679f400a267d9e26c932",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
