@@ -21405,16 +21405,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1606430,
-                "name": "Rubber Bandits Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "0c2e59a55eccd11a9f438cd54d191a6504e27e7a",
-                "img_logo_url": "e4d36e8502a987bf4945c4f9cb17cd5eced5816e",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1607090,
                 "name": "Bloody Merc Playtest",
                 "playtime_forever": 0,
@@ -21857,6 +21847,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9ce5f5a9063ebca4dc83dd89d569e035ba7038a5",
                 "img_logo_url": "72664de448da65572932dbd6a4373ea8825f7958",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1625640,
+                "name": "AB AETERNO Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "19138c6029645aa6db37e3f104959454c05ccc6d",
+                "img_logo_url": "b12dc752c822b5b2c7dac23cb2fbe5c3ee5162c3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
