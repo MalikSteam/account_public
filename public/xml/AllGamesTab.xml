@@ -1364,6 +1364,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/520090]]></storeLink>
 		</game>
 		<game>
+			<appID>1773500</appID>
+			<name><![CDATA[Beholder 3 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1773500]]></storeLink>
+		</game>
+		<game>
 			<appID>622650</appID>
 			<name><![CDATA[Bendy and the Ink Machine]]></name>
 			
