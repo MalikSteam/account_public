@@ -119,6 +119,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/AllianceofValiantArms/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1625640</appID>
+			<name><![CDATA[AB AETERNO Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1625640]]></storeLink>
+		</game>
+		<game>
 			<appID>434430</appID>
 			<name><![CDATA[Abbot's Book Demo]]></name>
 			
@@ -4410,18 +4416,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -9882,12 +9888,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/372800/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1606430</appID>
-			<name><![CDATA[Rubber Bandits Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1606430]]></storeLink>
-		</game>
-		<game>
 			<appID>357500</appID>
 			<name><![CDATA[Rumble Fighter: Unleashed]]></name>
 			
@@ -11436,16 +11436,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
