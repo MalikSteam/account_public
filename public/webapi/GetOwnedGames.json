@@ -23263,16 +23263,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1745230,
-                "name": "Age of Ascent Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "9b52143a77db2cf74c83b3f0760786f8ef0e92d7",
-                "img_logo_url": "ed040dc2fee70fa3efeaa3053764d41994f06544",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1746320,
                 "name": "Graduated Playtest",
                 "playtime_forever": 0,
@@ -23360,6 +23350,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f2dde63bea7f9493d747b0bdb568b591c6ec743a",
                 "img_logo_url": "d61ba0b6beaeb61e4d4fa6ea438aa2268b1cab43",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1753330,
+                "name": "Three Kingdoms : Hero Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "560990f74c571b9d8c4fda38477e6e59a7c09ad2",
+                "img_logo_url": "73ba0f2fc268860d9be2999d9cd3d50d932abcc6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
