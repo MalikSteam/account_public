@@ -9894,6 +9894,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/372800/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1606430</appID>
+			<name><![CDATA[Rubber Bandits Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1606430]]></storeLink>
+		</game>
+		<game>
 			<appID>357500</appID>
 			<name><![CDATA[Rumble Fighter: Unleashed]]></name>
 			
@@ -11191,16 +11197,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
