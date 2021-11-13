@@ -9214,6 +9214,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/637960]]></storeLink>
 		</game>
 		<game>
+			<appID>1797460</appID>
+			<name><![CDATA[Project Outbreak Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1797460]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1797460]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1797460/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>1618710</appID>
 			<name><![CDATA[Project Sparrow Playtest]]></name>
 			
@@ -11215,16 +11223,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
