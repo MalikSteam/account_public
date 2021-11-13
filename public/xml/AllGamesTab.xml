@@ -1442,6 +1442,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/903760]]></storeLink>
 		</game>
 		<game>
+			<appID>1702460</appID>
+			<name><![CDATA[Bio-Gun Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1702460]]></storeLink>
+		</game>
+		<game>
 			<appID>542870</appID>
 			<name><![CDATA[Biomydra]]></name>
 			
@@ -11460,16 +11466,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
