@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2301,
+        "game_count": 2302,
         "games": [
             {
                 "appid": 92,
@@ -23670,6 +23670,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "66669a57f8f88cbcf3a87ee89ceda3a131c2d1f6",
                 "img_logo_url": "98b595fe4d7efca69982b84ab8554ca6f124c586",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1797460,
+                "name": "Project Outbreak Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4f96957fb1934b5af5fd0fe267fcf94679b949de",
+                "img_logo_url": "366fb71ea4f565a799a8f9a6c4880066c7689ce2",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
