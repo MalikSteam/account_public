@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2301,
+        "game_count": 2302,
         "games": [
             {
                 "appid": 92,
@@ -23752,6 +23752,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6c346acdf438d40c002a0c171d6e82674bc81e15",
                 "img_logo_url": "bf3b0c71250cc82af0663a843cbe7e6b0d1eadb7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1814550,
+                "name": "Oasis: Dark Forest Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f93f1a617d197a9caa2d49c3e0557da053e60a9b",
+                "img_logo_url": "c763fe5d58e14e6a5cc0f928f255e888f81df9cf",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
