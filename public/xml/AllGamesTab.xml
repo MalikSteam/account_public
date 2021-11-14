@@ -8226,6 +8226,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/402890]]></storeLink>
 		</game>
 		<game>
+			<appID>1814550</appID>
+			<name><![CDATA[Oasis: Dark Forest Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1814550]]></storeLink>
+		</game>
+		<game>
 			<appID>633030</appID>
 			<name><![CDATA[Oats Studios - Volume 1]]></name>
 			
@@ -11217,16 +11223,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
