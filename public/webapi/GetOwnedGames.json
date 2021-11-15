@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2302,
+        "game_count": 2301,
         "games": [
             {
                 "appid": 92,
@@ -23410,16 +23410,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "586016ff72d9ea4c94dc640d1b46d373e03e3d65",
                 "img_logo_url": "5e77729a3b9e44b458bc51866afd0167ca5a070d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1764450,
-                "name": "Alien Hominid Invasion Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "c78448aaf92145b093acc0ef8982ad016c737d3e",
-                "img_logo_url": "27d9bb0a982794bea5e1cdfe2a0ca5b1555223dc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
