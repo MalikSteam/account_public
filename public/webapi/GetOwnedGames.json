@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2301,
+        "game_count": 2302,
         "games": [
             {
                 "appid": 92,
@@ -23732,6 +23732,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "47986b5f2ed994f6f98901f778ed2bd4521ce083",
                 "img_logo_url": "16e3f72cd56b1d2fcf69383d9cc1a1fe9bf46a3d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1809690,
+                "name": "Hidden Deep Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e4556d203c63771d827b67b06e4b048f5a1dbd34",
+                "img_logo_url": "83bcc7dc26f312438fdf493cfff2b0cc380dfd99",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
