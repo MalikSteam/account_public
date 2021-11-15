@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2300,
+        "game_count": 2301,
         "games": [
             {
                 "appid": 92,
@@ -23742,6 +23742,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f93f1a617d197a9caa2d49c3e0557da053e60a9b",
                 "img_logo_url": "c763fe5d58e14e6a5cc0f928f255e888f81df9cf",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1817990,
+                "name": "Shattle Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7916b5767bfe6938b930748f3c7da4d9860b75ea",
+                "img_logo_url": "d0cc0d925b0b425048a06a2744f9a08e8977078b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
