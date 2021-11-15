@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2301,
+        "game_count": 2300,
         "games": [
             {
                 "appid": 92,
@@ -23480,16 +23480,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ad80cbfd148ef29dcfb5b8442719e5a0d941b442",
                 "img_logo_url": "de86e6d430f3a822f381b8d6d0267f787608c07c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1773500,
-                "name": "Beholder 3 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f27a416e48e224e9d1dbaeb2be51ed72b000818f",
-                "img_logo_url": "249df6f19a5c852761aa54f175439514484e68f3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
