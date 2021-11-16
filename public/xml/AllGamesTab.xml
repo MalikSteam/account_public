@@ -10941,12 +10941,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/StarConflict/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1613540</appID>
-			<name><![CDATA[StarCrawlers Chimera Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1613540]]></storeLink>
-		</game>
-		<game>
 			<appID>415270</appID>
 			<name><![CDATA[Star Crusade CCG]]></name>
 			
@@ -11217,16 +11211,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
