@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2302,
+        "game_count": 2301,
         "games": [
             {
                 "appid": 92,
@@ -22047,16 +22047,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fee52aef7e3159a059fc8ead99c9199948b7f50a",
                 "img_logo_url": "e0c5f0d2f134b2bd65937c6c9c5e26d086612774",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1636120,
-                "name": "Gloria Victis - Free Test until 15th of November!",
-                "playtime_forever": 0,
-                "img_icon_url": "9d24742123239ad7bbcfac3148e848d6419e4d31",
-                "img_logo_url": "f1b960955b2c62408eab3934b542fc9abbc57970",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
