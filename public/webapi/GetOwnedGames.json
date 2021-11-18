@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2307,
+        "game_count": 2308,
         "games": [
             {
                 "appid": 92,
@@ -23812,6 +23812,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a21327d8bb031053751921967f4df39e67471fc7",
                 "img_logo_url": "cd5619d6b38ac6493d6b92f19fe00eab95520221",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1820040,
+                "name": "Trailmappers Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b4d8b42fa3094f5718131d65e777053d5d0c647c",
+                "img_logo_url": "1da2633f31669976afb2bf2db2b4fa027c7f305a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
