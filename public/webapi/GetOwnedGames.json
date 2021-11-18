@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2307,
+        "game_count": 2306,
         "games": [
             {
                 "appid": 92,
@@ -21572,16 +21572,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2a2bc4f6dc663b8ebfc3b6f3a0d2e944bb1d04ef",
                 "img_logo_url": "a2409370e178a21b9cb481c72174ae1ccfa1569c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1614000,
-                "name": "Super Dungeon Designer Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "585ba98a89fa53908a1eab4265192ad8f89ee8dc",
-                "img_logo_url": "4d3d0b70157f4438f06f9dba16a0cb98da0d5393",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
