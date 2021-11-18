@@ -11235,16 +11235,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12510,6 +12510,12 @@
 			<name><![CDATA[TrackMania Nations Forever]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/11020]]></storeLink>
+		</game>
+		<game>
+			<appID>1820040</appID>
+			<name><![CDATA[Trailmappers Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1820040]]></storeLink>
 		</game>
 		<game>
 			<appID>1747770</appID>
