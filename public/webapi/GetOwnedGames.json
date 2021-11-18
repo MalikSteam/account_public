@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2307,
+        "game_count": 2306,
         "games": [
             {
                 "appid": 92,
@@ -20933,16 +20933,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "be91c507f62ad117322af4672bb3033ae381fda9",
                 "img_logo_url": "725157dea52358f391cadbf4cb17e5006ff65db7",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1497800,
-                "name": "Armored Front Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "064f78bbc340a0f3c3860030b37f5165be77e351",
-                "img_logo_url": "6f0a79ee3b8fd8bc6fc2ea01de4ba48da2696015",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
