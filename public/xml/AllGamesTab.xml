@@ -5883,6 +5883,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1741660]]></storeLink>
 		</game>
 		<game>
+			<appID>1818860</appID>
+			<name><![CDATA[I Am Jesus Christ Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1818860]]></storeLink>
+		</game>
+		<game>
 			<appID>1785900</appID>
 			<name><![CDATA[I Am Your President Playtest]]></name>
 			
@@ -11480,16 +11486,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
