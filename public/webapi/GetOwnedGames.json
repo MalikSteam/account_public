@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2306,
+        "game_count": 2307,
         "games": [
             {
                 "appid": 92,
@@ -23792,6 +23792,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7916b5767bfe6938b930748f3c7da4d9860b75ea",
                 "img_logo_url": "d0cc0d925b0b425048a06a2744f9a08e8977078b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1818860,
+                "name": "I Am Jesus Christ Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7c12977c65c25070c5fd376c10e7613fdf29ab07",
+                "img_logo_url": "2ed5d52c8d7c60503bd8985e04cf67e37013880d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
