@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2306,
+        "game_count": 2307,
         "games": [
             {
                 "appid": 92,
@@ -23782,6 +23782,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7916b5767bfe6938b930748f3c7da4d9860b75ea",
                 "img_logo_url": "d0cc0d925b0b425048a06a2744f9a08e8977078b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1818530,
+                "name": "Ping Pong Pufferfish Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "20b2de8c016e1133c474028d56cf9f3dbce82ca9",
+                "img_logo_url": "75f1e456f20ce752b5ff7bec513e4da15f0a958f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
