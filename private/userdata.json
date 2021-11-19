@@ -11074,8 +11074,8 @@
         635060,
         992310,
         556870,
-        1334590,
         826600,
+        1334590,
         1093720,
         578080,
         575700,
@@ -11164,16 +11164,16 @@
             "tagid": 5055
         },
         {
-            "name": "World War II",
-            "tagid": 4150
-        },
-        {
             "name": "Competitive",
             "tagid": 3878
         },
         {
             "name": "Free to Play",
             "tagid": 113
+        },
+        {
+            "name": "World War II",
+            "tagid": 4150
         },
         {
             "name": "Online Co-Op",
