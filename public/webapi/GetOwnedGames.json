@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2309,
+        "game_count": 2310,
         "games": [
             {
                 "appid": 92,
@@ -23812,6 +23812,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a21327d8bb031053751921967f4df39e67471fc7",
                 "img_logo_url": "cd5619d6b38ac6493d6b92f19fe00eab95520221",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1819690,
+                "name": "Arena of Kings PTR",
+                "playtime_forever": 0,
+                "img_icon_url": "f33e1c61f6560935aa282656ac678a316c4aa756",
+                "img_logo_url": "b267961bbfef84dcbcd97f33dbc54f33097fed6a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
