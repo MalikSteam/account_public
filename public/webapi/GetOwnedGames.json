@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2308,
+        "game_count": 2309,
         "games": [
             {
                 "appid": 92,
@@ -23047,6 +23047,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6fea3dc4a41954977ccb7b67638a7b02b37d3d91",
                 "img_logo_url": "daedad839b2e0462a738ba560e58cd7a97e424fd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1730370,
+                "name": "Beat Stickman: Beyond Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "523a94766a14ed37070ed5f3573948cfeb0c9991",
+                "img_logo_url": "e4a1be62d3195b992a042a939d4e8cb9d227b86d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
