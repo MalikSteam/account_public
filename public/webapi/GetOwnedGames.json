@@ -23410,6 +23410,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "575101499b5090d1064f3da8d75edb802faa76fc",
                 "img_logo_url": "8f680180134d40fe54b0c3768c76fccd337d3da3",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
