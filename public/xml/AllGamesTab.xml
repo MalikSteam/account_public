@@ -4446,18 +4446,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -4928,6 +4928,12 @@
 			<name><![CDATA[Gangs of Space]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/504300]]></storeLink>
+		</game>
+		<game>
+			<appID>1768950</appID>
+			<name><![CDATA[Gangstar New York Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1768950]]></storeLink>
 		</game>
 		<game>
 			<appID>389530</appID>
@@ -6372,6 +6378,12 @@
 			<name><![CDATA[Jonah's Path]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/493810]]></storeLink>
+		</game>
+		<game>
+			<appID>1813750</appID>
+			<name><![CDATA[Jotaverse Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1813750]]></storeLink>
 		</game>
 		<game>
 			<appID>323580</appID>
@@ -11506,16 +11518,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
