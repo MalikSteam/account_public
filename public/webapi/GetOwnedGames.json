@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2314,
+        "game_count": 2315,
         "games": [
             {
                 "appid": 92,
@@ -22350,6 +22350,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "25fc39ee8da2d38f8616fbc99c1f85b4831f9d06",
                 "img_logo_url": "95a95b0719e59eb5977c3cdfef6873e59f9600b5",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1666300,
+                "name": "Rogue Company Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ec36ff029402b9cf4e1f7829f293fd12a71e6ce1",
+                "img_logo_url": "c5748425a195be3e67343187e9b1b330e2476fda",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
