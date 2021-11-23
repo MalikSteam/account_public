@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2311,
+        "game_count": 2312,
         "games": [
             {
                 "appid": 92,
@@ -23621,6 +23621,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d3dede98fc47eb595d23587a9f7081d13cc7c7e2",
                 "img_logo_url": "cbfcf6ca980001e91641a5825f0d1d7813f37c3a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1796700,
+                "name": "Secret of Sardinia Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9ac4f5553e5c2573837338e42612e1cc72353670",
+                "img_logo_url": "fa49d4172c4c2d0841e91726fdbf675bf62112bf",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
