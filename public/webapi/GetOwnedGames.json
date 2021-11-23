@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2312,
+        "game_count": 2314,
         "games": [
             {
                 "appid": 92,
@@ -23426,6 +23426,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1768950,
+                "name": "Gangstar New York Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d7b5385ff3dea4c937802cd52f1c987182ab4575",
+                "img_logo_url": "dfceb73efe744be568cc6f73ae36dd3c332fe47e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1769410,
                 "name": "Hero or Foe BETA",
                 "playtime_forever": 0,
@@ -23763,6 +23773,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6c346acdf438d40c002a0c171d6e82674bc81e15",
                 "img_logo_url": "bf3b0c71250cc82af0663a843cbe7e6b0d1eadb7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1813750,
+                "name": "Jotaverse Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f2691cb802311c81d4252576ca7adfcbaed557d6",
+                "img_logo_url": "ff297a7deaf47f94e29f8730b9119340c0d4ea1a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
