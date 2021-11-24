@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2320,
+        "game_count": 2321,
         "games": [
             {
                 "appid": 92,
@@ -23854,6 +23854,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7663207e3dbf70f6fcd747f86dfa975a29884187",
                 "img_logo_url": "9509c89e3fd194e3305275f444e7933e6608b1c8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1816160,
+                "name": "Forward: Escape the Fold (Playtest)",
+                "playtime_forever": 0,
+                "img_icon_url": "2af79ea16817a30da87f0b6ef5875ced2cfbb86b",
+                "img_logo_url": "8771983f13e1ce7ce79c2375cf6275665cc1b1e9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
