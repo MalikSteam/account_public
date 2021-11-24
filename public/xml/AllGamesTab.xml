@@ -9126,6 +9126,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/646400]]></storeLink>
 		</game>
 		<game>
+			<appID>1820630</appID>
+			<name><![CDATA[Potato Party: The Potatomancer Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1820630]]></storeLink>
+		</game>
+		<game>
 			<appID>201210</appID>
 			<name><![CDATA[Pox Nora]]></name>
 			
@@ -11544,16 +11550,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
