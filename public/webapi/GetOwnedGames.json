@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2319,
+        "game_count": 2320,
         "games": [
             {
                 "appid": 92,
@@ -23924,6 +23924,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b4d8b42fa3094f5718131d65e777053d5d0c647c",
                 "img_logo_url": "1da2633f31669976afb2bf2db2b4fa027c7f305a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1820630,
+                "name": "Potato Party: The Potatomancer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "00d32249d03a44cba3efb8f6edb4bcb282925f5f",
+                "img_logo_url": "788be7ccbead0f4022613803658176a1dc632a74",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
