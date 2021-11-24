@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2316,
+        "game_count": 2317,
         "games": [
             {
                 "appid": 92,
@@ -23602,6 +23602,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1dd955ea2f432fbc64b5e7562c6dfbf8315ae590",
                 "img_logo_url": "12297d8c2d09e5ff81ac54463027c099b85ef138",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1790390,
+                "name": "Scuffed Party Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "269a2d2e70117285b690ceb3179078585f2624e8",
+                "img_logo_url": "c2f4bc13ef9ee1336f0e446769a8f29944530672",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
