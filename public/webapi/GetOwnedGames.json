@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2315,
+        "game_count": 2316,
         "games": [
             {
                 "appid": 92,
@@ -22604,6 +22604,16 @@
                 "img_icon_url": "319b817f4c27157c16a024437e0cc33189ee8ecf",
                 "img_logo_url": "97ffd2bac09550d663bf438c3b1b6a53c13ef004",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1685570,
+                "name": "WILDLAND: Initial Attack playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2b569df71ae88580b1fdb5a3a3e0358e98fcfc42",
+                "img_logo_url": "a0f69d25c54e152565a0b3cd447fbe1706b85a25",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
