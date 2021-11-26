@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2322,
+        "game_count": 2323,
         "games": [
             {
                 "appid": 92,
@@ -21400,6 +21400,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e72a64610268adc7d5cb8f20ceda8428ffbad216",
                 "img_logo_url": "d06a29a17c5eee2759a48a56678df38a6490c227",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1606430,
+                "name": "Rubber Bandits Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0c2e59a55eccd11a9f438cd54d191a6504e27e7a",
+                "img_logo_url": "e4d36e8502a987bf4945c4f9cb17cd5eced5816e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
