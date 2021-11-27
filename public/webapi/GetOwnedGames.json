@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2323,
+        "game_count": 2324,
         "games": [
             {
                 "appid": 92,
@@ -23743,6 +23743,16 @@
                 "img_icon_url": "4f96957fb1934b5af5fd0fe267fcf94679b949de",
                 "img_logo_url": "366fb71ea4f565a799a8f9a6c4880066c7689ce2",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1797650,
+                "name": "Blue Fire: Void Maker Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9961fd0750e36e099f173a6cddc0400f377ca75e",
+                "img_logo_url": "6381270b79361506c07316df55911231d804dd48",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
