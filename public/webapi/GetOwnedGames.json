@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2324,
+        "game_count": 2323,
         "games": [
             {
                 "appid": 92,
@@ -23793,16 +23793,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "366f7f2ab8ea6ef7a17e8eb8d54dc9584a360591",
                 "img_logo_url": "7b7798243f9de22806ba8cba05e12e91a41d32a0",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1806380,
-                "name": "Battle Bands Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f7425d03f823805fc121ec9ce6ed16edf9187d4a",
-                "img_logo_url": "ee23db6f917f8791b62ea2bbffc8f88baf5a6d2c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
