@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2322,
+        "game_count": 2323,
         "games": [
             {
                 "appid": 92,
@@ -23965,6 +23965,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b1b5868111db3e83c4368967514cb0c6843936c2",
                 "img_logo_url": "60d9f51ae9d8c5e7bc9a72985213cc1f6720b4a7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1827990,
+                "name": "Nefarium Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bc7769e9ae1a29e3d794eb7f80cbb105d2e8dca0",
+                "img_logo_url": "8014a8debadf7a7acf9b66268bb22cafe804a2c4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
