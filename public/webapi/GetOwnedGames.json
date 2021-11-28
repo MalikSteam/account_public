@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2324,
+        "game_count": 2323,
         "games": [
             {
                 "appid": 92,
@@ -23179,16 +23179,6 @@
                 "img_icon_url": "cda5fb3fc1f01275c79de4fa2cb1a5b03899c4c2",
                 "img_logo_url": "f4d6b8664ef86b6ef228827d645cf2a2e8e51042",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1736930,
-                "name": "APICO Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "fe25656d393e502d30a58a2f55838400ac96b9f1",
-                "img_logo_url": "5c242bb6a2d9cb69424c5af036c1e8669365ce95",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
