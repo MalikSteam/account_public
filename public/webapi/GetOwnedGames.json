@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2321,
+        "game_count": 2322,
         "games": [
             {
                 "appid": 92,
@@ -23189,6 +23189,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1a5c835e3dd5d003514e915d61bed8e2759ef7bf",
                 "img_logo_url": "9e6ba7180776c98b898ac94c0bd68f575fe15817",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1739550,
+                "name": "Power to the People Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "577a09589a0706afff9f721abfa56b0bca91f86b",
+                "img_logo_url": "c1cab4112fe53f820313878c3c858fd698f0612e",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
