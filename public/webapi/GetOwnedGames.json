@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2324,
+        "game_count": 2325,
         "games": [
             {
                 "appid": 92,
@@ -23413,6 +23413,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "586016ff72d9ea4c94dc640d1b46d373e03e3d65",
                 "img_logo_url": "5e77729a3b9e44b458bc51866afd0167ca5a070d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1764480,
+                "name": "Kubberz Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f7b0cb35976b827d5a427a78a04b01610a345ee1",
+                "img_logo_url": "7c7b51a15888a961cbb8ca04f4b0c51082778eb4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
