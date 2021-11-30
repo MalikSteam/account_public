@@ -6717,6 +6717,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/329790/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1764480</appID>
+			<name><![CDATA[Kubberz Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1764480]]></storeLink>
+		</game>
+		<game>
 			<appID>513000</appID>
 			<name><![CDATA[Kuboom]]></name>
 			
@@ -11582,16 +11588,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
