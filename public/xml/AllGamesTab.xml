@@ -4,6 +4,16 @@
 	<steamID><![CDATA[PCGameit]]></steamID>
 	<games>
 		<game>
+			<appID>1515950</appID>
+			<name><![CDATA[Capcom Arcade Stadium]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1515950]]></storeLink>
+			<hoursLast2Weeks>1.0</hoursLast2Weeks>
+			<hoursOnRecord>1.0</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1515950]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1515950/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>943960</appID>
 			<name><![CDATA[3Buttons]]></name>
 			
@@ -2045,14 +2055,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/265770]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/265770]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/265770/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1515950</appID>
-			<name><![CDATA[Capcom Arcade Stadium]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1515950]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1515950]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1515950/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>686940</appID>
