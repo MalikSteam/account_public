@@ -20951,11 +20951,11 @@
             {
                 "appid": 1515950,
                 "name": "Capcom Arcade Stadium",
-                "playtime_forever": 0,
+                "playtime_forever": 60,
                 "img_icon_url": "2715c826a625a0cac409491c1982a459a71f7349",
                 "img_logo_url": "156183fdeb6f648a9bab29fe0600a8a87b9331e2",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
+                "playtime_windows_forever": 60,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
             },
