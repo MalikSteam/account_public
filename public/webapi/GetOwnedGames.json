@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2322,
+        "game_count": 2323,
         "games": [
             {
                 "appid": 92,
@@ -20944,6 +20944,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "46967ba55c4ae6ddbf9b1410740553b331a8b818",
                 "img_logo_url": "19b015b1c1af731bfc52ecd211b6e9dbf60ce80b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1515950,
+                "name": "Capcom Arcade Stadium",
+                "playtime_forever": 0,
+                "img_icon_url": "2715c826a625a0cac409491c1982a459a71f7349",
+                "img_logo_url": "156183fdeb6f648a9bab29fe0600a8a87b9331e2",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
