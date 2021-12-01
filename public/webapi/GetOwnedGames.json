@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2324,
+        "game_count": 2326,
         "games": [
             {
                 "appid": 92,
@@ -23185,6 +23185,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1739510,
+                "name": "Sinfeld Remastered Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c4b0d08772b2db0cddfdd16aba92f4c20d452871",
+                "img_logo_url": "9be8d3c48f777dc699799bd8c55bf5858a669a63",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1741660,
                 "name": "I'm Not Jelly Playtest",
                 "playtime_forever": 0,
@@ -23887,6 +23897,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7916b5767bfe6938b930748f3c7da4d9860b75ea",
                 "img_logo_url": "d0cc0d925b0b425048a06a2744f9a08e8977078b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1818520,
+                "name": "Getting It Up Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "da25276a5c54bba250fa0bb022d7863e88074a17",
+                "img_logo_url": "3fd9db8a71aed988a30845b04bbbad677c0bb6e0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
