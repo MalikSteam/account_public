@@ -439,6 +439,9 @@
         "768290": {
             "33779114": 2
         },
+        "771870": {
+            "39921923": 2
+        },
         "772430": {
             "33779114": 2
         },
@@ -664,9 +667,6 @@
         "937310": {
             "39921923": 2
         },
-        "938020": {
-            "39921923": 2
-        },
         "939620": {
             "33779114": 2
         },
@@ -889,6 +889,9 @@
         "1056180": {
             "33779114": 0
         },
+        "1059110": {
+            "39921923": 2
+        },
         "1062060": {
             "33779114": 0
         },
@@ -1054,6 +1057,9 @@
         "1147960": {
             "33779114": 2
         },
+        "1148560": {
+            "39921923": 2
+        },
         "1149580": {
             "33779114": 0
         },
@@ -1188,9 +1194,6 @@
         },
         "1182830": {
             "33779114": 0
-        },
-        "1183530": {
-            "39921923": 2
         },
         "1183590": {
             "33779114": 2
@@ -1612,9 +1615,6 @@
         "1304400": {
             "39921923": 2
         },
-        "1304780": {
-            "39921923": 2
-        },
         "1305130": {
             "39921923": 2
         },
@@ -1740,9 +1740,6 @@
         },
         "1363850": {
             "33779114": 2
-        },
-        "1363900": {
-            "39921923": 2
         },
         "1364390": {
             "33779114": 0
@@ -3003,6 +3000,9 @@
             "39921923": 2
         },
         "1813740": {
+            "39921923": 2
+        },
+        "1831740": {
             "39921923": 2
         }
     },
@@ -5856,7 +5856,8 @@
         1820040,
         1820630,
         1822620,
-        1827990
+        1827990,
+        1834350
     ],
     "rgOwnedPackages": [
         1,
@@ -11019,10 +11020,11 @@
         577208,
         645508,
         657537,
+        633000,
+        659981,
         623481,
         534367,
-        637075,
-        633000
+        637075
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
@@ -11181,84 +11183,84 @@
     ],
     "rgRecommendedTags": [
         {
-            "name": "Hero Shooter",
-            "tagid": 620519
+            "name": "1980s",
+            "tagid": 7743
         },
         {
-            "name": "Deckbuilding",
-            "tagid": 32322
+            "name": "2D Platformer",
+            "tagid": 5379
+        },
+        {
+            "name": "2D Fighter",
+            "tagid": 4736
+        },
+        {
+            "name": "Beat 'em up",
+            "tagid": 4158
+        },
+        {
+            "name": "1990's",
+            "tagid": 6691
+        },
+        {
+            "name": "Arcade",
+            "tagid": 1773
         },
         {
             "name": "Team-Based",
             "tagid": 5711
         },
         {
-            "name": "Card Game",
-            "tagid": 1666
-        },
-        {
-            "name": "eSports",
-            "tagid": 5055
+            "name": "Local Multiplayer",
+            "tagid": 7368
         },
         {
             "name": "Free to Play",
             "tagid": 113
         },
         {
-            "name": "World War II",
-            "tagid": 4150
+            "name": "3D",
+            "tagid": 4191
         },
         {
-            "name": "Competitive",
-            "tagid": 3878
-        },
-        {
-            "name": "Online Co-Op",
-            "tagid": 3843
-        },
-        {
-            "name": "PvP",
-            "tagid": 1775
-        },
-        {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
-            "name": "Shooter",
-            "tagid": 1774
+            "name": "Local Co-Op",
+            "tagid": 3841
         },
         {
             "name": "FPS",
             "tagid": 1663
         },
         {
-            "name": "Co-op",
-            "tagid": 1685
+            "name": "Online Co-Op",
+            "tagid": 3843
         },
         {
-            "name": "Strategy",
-            "tagid": 9
+            "name": "2D",
+            "tagid": 3871
         },
         {
-            "name": "Multiplayer",
-            "tagid": 3859
-        },
-        {
-            "name": "Story Rich",
-            "tagid": 1742
-        },
-        {
-            "name": "First-Person",
-            "tagid": 3839
+            "name": "Shooter",
+            "tagid": 1774
         },
         {
             "name": "Action",
             "tagid": 19
         },
         {
-            "name": "Adventure",
-            "tagid": 21
+            "name": "Strategy",
+            "tagid": 9
+        },
+        {
+            "name": "Co-op",
+            "tagid": 1685
+        },
+        {
+            "name": "Multiplayer",
+            "tagid": 3859
+        },
+        {
+            "name": "Singleplayer",
+            "tagid": 4182
         }
     ],
     "rgSecondaryLanguages": [],
