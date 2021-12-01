@@ -5037,6 +5037,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/260410/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1818520</appID>
+			<name><![CDATA[Getting It Up Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1818520]]></storeLink>
+		</game>
+		<game>
 			<appID>369200</appID>
 			<name><![CDATA[Ghost in the Shell: Stand Alone Complex - First Assault Online]]></name>
 			
@@ -10514,6 +10520,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/434520]]></storeLink>
 		</game>
 		<game>
+			<appID>1739510</appID>
+			<name><![CDATA[Sinfeld Remastered Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1739510]]></storeLink>
+		</game>
+		<game>
 			<appID>251970</appID>
 			<name><![CDATA[Sins of a Dark Age]]></name>
 			
@@ -11580,16 +11592,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
