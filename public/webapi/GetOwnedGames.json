@@ -20530,16 +20530,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1401240,
-                "name": "Project Xandata Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "0415205a489d97306422c59d5a1eb5e07e3fbdf4",
-                "img_logo_url": "2748545f8eb7c78338b7f42a561bdc755e94cf4b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 532210,
                 "name": "Life is Strange 2",
                 "playtime_forever": 246,
@@ -23299,8 +23289,9 @@
                 "appid": 1747770,
                 "name": "Trail of Ayash Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "ac04fb961d330cd8789e3710e2102d0cfd25060e",
+                "img_icon_url": "6fcb8eefb5105cf1ceaa67333b9201a0269143df",
                 "img_logo_url": "3178f8c442850a654bc3f73f9c083b01dc7572a2",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23997,6 +23988,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bc7769e9ae1a29e3d794eb7f80cbb105d2e8dca0",
                 "img_logo_url": "8014a8debadf7a7acf9b66268bb22cafe804a2c4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1834350,
+                "name": "December 24th Open Test",
+                "playtime_forever": 0,
+                "img_icon_url": "dfbe994d94a291aa9800f4bd1f9284dc34c68612",
+                "img_logo_url": "deeae2ea66582d207eab7b6bec6b4475f2bee314",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
