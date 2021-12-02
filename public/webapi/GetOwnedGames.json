@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2326,
+        "game_count": 2327,
         "games": [
             {
                 "appid": 92,
@@ -23897,6 +23897,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7916b5767bfe6938b930748f3c7da4d9860b75ea",
                 "img_logo_url": "d0cc0d925b0b425048a06a2744f9a08e8977078b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1818400,
+                "name": "Ancient Wars: Sparta Definitive Edition Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "73ad537c8b4774f2c30ecfd1d6a997f1c9963aa6",
+                "img_logo_url": "9f7ceffe3dbec8cd9921982e58f4b231440b3b7b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
