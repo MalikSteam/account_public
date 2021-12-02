@@ -11191,16 +11191,16 @@
     ],
     "rgRecommendedTags": [
         {
+            "name": "2D Fighter",
+            "tagid": 4736
+        },
+        {
             "name": "1980s",
             "tagid": 7743
         },
         {
             "name": "2D Platformer",
             "tagid": 5379
-        },
-        {
-            "name": "2D Fighter",
-            "tagid": 4736
         },
         {
             "name": "Beat 'em up",
