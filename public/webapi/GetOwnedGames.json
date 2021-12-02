@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2326,
+        "game_count": 2327,
         "games": [
             {
                 "appid": 92,
@@ -24006,6 +24006,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "dfbe994d94a291aa9800f4bd1f9284dc34c68612",
                 "img_logo_url": "deeae2ea66582d207eab7b6bec6b4475f2bee314",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1835920,
+                "name": "Those Who Rule Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c25379ff6fe71a53397077888a0409e283562675",
+                "img_logo_url": "898fd7e073215ed091e31209056f79a727a86287",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
