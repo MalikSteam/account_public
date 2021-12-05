@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2330,
+        "game_count": 2329,
         "games": [
             {
                 "appid": 92,
@@ -23754,16 +23754,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7d9182c4d7e038199f65b5eb89b4d994f025b267",
                 "img_logo_url": "ee9ee65d4ab3a45f6423a9f25c328f14dd0e510d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1800220,
-                "name": "Moon Dancer Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "61069165d3f4fe9391fea290450c46df3436a1fa",
-                "img_logo_url": "04b016b529273b3bfcb6e8cca384e62e38c907f7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
