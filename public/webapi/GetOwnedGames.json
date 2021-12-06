@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2328,
+        "game_count": 2327,
         "games": [
             {
                 "appid": 92,
@@ -20975,16 +20975,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9282b05be4e1617dad2bcff2ad6d881474c5dbc4",
                 "img_logo_url": "3c968669287c7b31713931bd4536b628132f4277",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1529210,
-                "name": "FORZA POLPO Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "437db288fe087fe8fdced1518306b6c547321a67",
-                "img_logo_url": "ac4fde1fb93069f87e97abc65ebb646729a04389",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
