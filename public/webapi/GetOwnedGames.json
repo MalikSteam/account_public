@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2329,
+        "game_count": 2328,
         "games": [
             {
                 "appid": 92,
@@ -23653,16 +23653,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5afe4f4f61485fd2124a50f4e01d4c08cd70336d",
                 "img_logo_url": "2c39c876a2359ad78305532d83dfa9c1add39517",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1793320,
-                "name": "RC Airplane Challenge Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "8660d8cf8c94b9f134877fc3df7ab26272bd1a75",
-                "img_logo_url": "0471105aa99953b7024ebcba7d78a482f647bf60",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
