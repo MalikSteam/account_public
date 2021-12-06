@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2326,
+        "game_count": 2327,
         "games": [
             {
                 "appid": 92,
@@ -20762,6 +20762,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "974ef6c9042425a98f2a5aadbda85decea2a9c68",
                 "img_logo_url": "f83dd77789c3f7e2284879d1ce6402241a9354f0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1475550,
+                "name": "Sou'wester Winds Alpha Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2dfa7ce39fcbebdcffceff698d700bfbf4600ee1",
+                "img_logo_url": "27a06c57e6fa26e0a80e8b5132b3e71fd9ce44ec",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
