@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2327,
+        "game_count": 2328,
         "games": [
             {
                 "appid": 92,
@@ -22462,6 +22462,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "8d64615c1ebbc9f26cbdd656a40a57df00b651eb",
                 "img_logo_url": "fb816ec402fe10b648c8032e201fd7a537df2524",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1674070,
+                "name": "Small War Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7f017d7af94e90d28fe04a992c885d2923195415",
+                "img_logo_url": "2dfe40d8a35887a970fe6ff3c1b3fb1a80256f5f",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
