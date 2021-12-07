@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2329,
+        "game_count": 2330,
         "games": [
             {
                 "appid": 92,
@@ -23816,6 +23816,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fb6ceadb963f315809289a81b75847770e8a73c8",
                 "img_logo_url": "c0b6a2562233eb56fa6f901c95e5d34a87eefc46",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1808970,
+                "name": "BounceShot Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "eb4c2751c3036efdb80dbc5db26b7728e65b904c",
+                "img_logo_url": "c107207772151ed814053887abbf917d60e381bb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
