@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2333,
+        "game_count": 2334,
         "games": [
             {
                 "appid": 92,
@@ -23673,7 +23673,7 @@
                 "name": "KEO",
                 "playtime_forever": 0,
                 "img_icon_url": "1dd955ea2f432fbc64b5e7562c6dfbf8315ae590",
-                "img_logo_url": "12297d8c2d09e5ff81ac54463027c099b85ef138",
+                "img_logo_url": "8ea3110c7492fc45d1e89c91d6828f854ba652e5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -24078,6 +24078,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ca1ff44617037476910a02177e0456563ac70d35",
                 "img_logo_url": "1a0a9e5fbf9bb735a87a0ea2c074bf2cb3031da3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1838440,
+                "name": "Platonic Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "832058f5146d1993903630112c4ce656600bad9d",
+                "img_logo_url": "711fceb98d5b09613ea55a5494b68da31d969ab5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
