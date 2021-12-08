@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2332,
+        "game_count": 2333,
         "games": [
             {
                 "appid": 92,
@@ -23393,6 +23393,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "95a7f0221c2a1e588049673e88912041737b6b08",
                 "img_logo_url": "7f835cc31b7673e7e3433c96f580376da18761b0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1752930,
+                "name": "Spell Realms Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2678cfbe2ca8a215bc1a4e7bb445feba21391410",
+                "img_logo_url": "5763c2a37cbf72aa3c01bc7eefcca4f35cfae686",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
