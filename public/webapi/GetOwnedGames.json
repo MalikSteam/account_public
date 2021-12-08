@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2334,
+        "game_count": 2333,
         "games": [
             {
                 "appid": 92,
@@ -23826,16 +23826,6 @@
                 "img_icon_url": "e8924f0912fd03de1e3d8c1e917bbe4d90c4488a",
                 "img_logo_url": "bd8fa00d14610b592e5d95347b0b7d2a860a9fd3",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1807280,
-                "name": "Barro 22 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "fb6ceadb963f315809289a81b75847770e8a73c8",
-                "img_logo_url": "c0b6a2562233eb56fa6f901c95e5d34a87eefc46",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
