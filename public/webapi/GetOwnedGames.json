@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2331,
+        "game_count": 2332,
         "games": [
             {
                 "appid": 92,
@@ -21787,6 +21787,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9dc0b9e9c149e65cb213c30364c57d4df2b47b8a",
                 "img_logo_url": "f0ed01890e12e4d722f606bcaeb84118dd9a6dee",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1619990,
+                "name": "SUPER PEOPLE CBT",
+                "playtime_forever": 0,
+                "img_icon_url": "6fedf9d33f1621f9afdf5594eed88605b316c85f",
+                "img_logo_url": "2acc0bddbdb29cd4f5748f5b2914ed4f8165beee",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
