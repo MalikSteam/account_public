@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2330,
+        "game_count": 2331,
         "games": [
             {
                 "appid": 92,
@@ -24017,6 +24017,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6952abc9386af6c3e4f36702084bfb8f73c54cd2",
                 "img_logo_url": "6d6a54ee98446f575b51937c70fc8e9ffbfeaa3e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1834160,
+                "name": "Classic Card Games 3D Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ef935dd3e41ce5c3a17824ee2fd51a4d1d31a059",
+                "img_logo_url": "d17c8423694c7a01474fb772560cbae87ce1753c",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
