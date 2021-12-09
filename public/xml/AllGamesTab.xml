@@ -11636,16 +11636,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13724,6 +13724,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1090190]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1090190]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1090190/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1751490</appID>
+			<name><![CDATA[Wing Breakers Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1751490]]></storeLink>
 		</game>
 		<game>
 			<appID>621300</appID>
