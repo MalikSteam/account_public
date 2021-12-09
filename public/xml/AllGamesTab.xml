@@ -4500,18 +4500,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -4568,6 +4568,12 @@
 			<name><![CDATA[FlatOut 4: Total Insanity Workshop Tool]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/625080]]></storeLink>
+		</game>
+		<game>
+			<appID>1792970</appID>
+			<name><![CDATA[Flippin Kaktus Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1792970]]></storeLink>
 		</game>
 		<game>
 			<appID>593400</appID>
