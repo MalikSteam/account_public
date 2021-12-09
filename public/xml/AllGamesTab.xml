@@ -12420,6 +12420,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/353130/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1526820</appID>
+			<name><![CDATA[Time to Morp Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1526820]]></storeLink>
+		</game>
+		<game>
 			<appID>651280</appID>
 			<name><![CDATA[TinkerQuarry]]></name>
 			
