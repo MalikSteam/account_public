@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2333,
+        "game_count": 2334,
         "games": [
             {
                 "appid": 92,
@@ -23866,6 +23866,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9d033cec283e4d1e38ef2bb236b43b383527e8ef",
                 "img_logo_url": "6397d6ce09eaee19bff22f1764a14e5ade45b2fa",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1811580,
+                "name": "\u6df1\u6c89\u4e4b\u706b DEEPENING FIRE Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d75143c2b2a64ff788028cdbc03608147bc1f123",
+                "img_logo_url": "5f37243fae79cc5d0f24475755f85e234d5c4c0b",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
