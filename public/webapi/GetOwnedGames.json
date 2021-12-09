@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2334,
+        "game_count": 2335,
         "games": [
             {
                 "appid": 92,
@@ -23373,6 +23373,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a1236c82ffd118ac8e3a9a4b4b546cac9c98147e",
                 "img_logo_url": "c9a3fbb5e3aacde62124cddd0f9f07f7862a1c6a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1751490,
+                "name": "Wing Breakers Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "abac09ae1c6f58d52312b03b726bdde402a6afdb",
+                "img_logo_url": "25c5f7eaf37a503d05b6cd9312fdd695a31f7017",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
