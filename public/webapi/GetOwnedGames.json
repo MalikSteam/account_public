@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2338,
+        "game_count": 2337,
         "games": [
             {
                 "appid": 92,
@@ -22432,16 +22432,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b3b57efa6784b3f6954bcb79e29681cf9ec83550",
                 "img_logo_url": "2a4dff08e566f110ec19d136a44355495b5c9c42",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1670190,
-                "name": "Inverse Evolver Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b3c8002ef826360e417a3340c7972f97f4441826",
-                "img_logo_url": "4010363104917ed0dc293f05141a8bdd0c50dd0a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
