@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2341,
+        "game_count": 2342,
         "games": [
             {
                 "appid": 92,
@@ -24149,6 +24149,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "832058f5146d1993903630112c4ce656600bad9d",
                 "img_logo_url": "711fceb98d5b09613ea55a5494b68da31d969ab5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1841950,
+                "name": "Hive Defender Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "462322661e9b1316e43820859d64639271f07a02",
+                "img_logo_url": "dc937cc10034715940bc114d45ed8822c229963b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
