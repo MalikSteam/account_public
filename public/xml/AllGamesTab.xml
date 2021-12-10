@@ -5838,6 +5838,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/863550/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1841950</appID>
+			<name><![CDATA[Hive Defender Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1841950]]></storeLink>
+		</game>
+		<game>
 			<appID>501470</appID>
 			<name><![CDATA[Hold the door!]]></name>
 			
@@ -11666,16 +11672,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
