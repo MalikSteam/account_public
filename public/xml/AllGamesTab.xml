@@ -3942,6 +3942,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/432290/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1813960</appID>
+			<name><![CDATA[Elemental War 2 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1813960]]></storeLink>
+		</game>
+		<game>
 			<appID>1650870</appID>
 			<name><![CDATA[Elerena Playtest]]></name>
 			
