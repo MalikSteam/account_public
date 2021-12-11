@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2342,
+        "game_count": 2341,
         "games": [
             {
                 "appid": 92,
@@ -23774,16 +23774,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d3dede98fc47eb595d23587a9f7081d13cc7c7e2",
                 "img_logo_url": "cbfcf6ca980001e91641a5825f0d1d7813f37c3a",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1796680,
-                "name": "SimplePlanes VR Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d3ca5fa03081cfa99643d1903c21141efce987d6",
-                "img_logo_url": "f9e245c71e639aadb81f8fff4c9c2614a3ce1ffb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
