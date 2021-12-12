@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2341,
+        "game_count": 2342,
         "games": [
             {
                 "appid": 92,
@@ -23825,6 +23825,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7d9182c4d7e038199f65b5eb89b4d994f025b267",
                 "img_logo_url": "ee9ee65d4ab3a45f6423a9f25c328f14dd0e510d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1801570,
+                "name": "LandCombatRen Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fd8b70a0b8c830279981f82b1ecc817a299d30b2",
+                "img_logo_url": "fde6b26eaad4f72d6e9e0e12b52d53207fc73efd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
