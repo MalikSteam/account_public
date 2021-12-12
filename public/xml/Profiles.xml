@@ -2,8 +2,8 @@
 <profile>
 	<steamID64>76561197966384101</steamID64>
 	<steamID><![CDATA[PCGameit]]></steamID>
-	<onlineState>online</onlineState>
-	<stateMessage><![CDATA[Online]]></stateMessage>
+	<onlineState>offline</onlineState>
+	<stateMessage><![CDATA[Offline]]></stateMessage>
 	<privacyState>public</privacyState>
 	<visibilityState>3</visibilityState>
 	
@@ -24,9 +24,9 @@
 		<mostPlayedGame>
 			<gameName><![CDATA[Capcom Arcade Stadium]]></gameName>
 			<gameLink><![CDATA[https://steamcommunity.com/app/1515950]]></gameLink>
-			<gameIcon><![CDATA[https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/2715c826a625a0cac409491c1982a459a71f7349.jpg]]></gameIcon>
-			<gameLogo><![CDATA[https://cdn.akamai.steamstatic.com/steam/apps/1515950/capsule_184x69.jpg]]></gameLogo>
-			<gameLogoSmall><![CDATA[https://cdn.akamai.steamstatic.com/steam/apps/1515950/capsule_184x69.jpg]]></gameLogoSmall>
+			<gameIcon><![CDATA[https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/1515950/2715c826a625a0cac409491c1982a459a71f7349.jpg]]></gameIcon>
+			<gameLogo><![CDATA[https://cdn.cloudflare.steamstatic.com/steam/apps/1515950/capsule_184x69.jpg]]></gameLogo>
+			<gameLogoSmall><![CDATA[https://cdn.cloudflare.steamstatic.com/steam/apps/1515950/capsule_184x69.jpg]]></gameLogoSmall>
 			<hoursPlayed>6.1</hoursPlayed>
 			<hoursOnRecord>6.1</hoursOnRecord>
 			<statsName><![CDATA[1515950]]></statsName>
