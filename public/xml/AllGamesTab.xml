@@ -14,12 +14,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1515950/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1843380</appID>
-			<name><![CDATA[---Red---Tether--> Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1843380]]></storeLink>
-		</game>
-		<game>
 			<appID>943960</appID>
 			<name><![CDATA[3Buttons]]></name>
 			
@@ -512,12 +506,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1054560/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1835720</appID>
-			<name><![CDATA[Alien Prop Hunt Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1835720]]></storeLink>
-		</game>
-		<game>
 			<appID>563560</appID>
 			<name><![CDATA[Alien Swarm: Reactive Drop]]></name>
 			
@@ -690,6 +678,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/266430/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1818400</appID>
+			<name><![CDATA[Ancient Wars: Sparta Definitive Edition Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1818400]]></storeLink>
+		</game>
+		<game>
 			<appID>503160</appID>
 			<name><![CDATA[Angels & Demigods]]></name>
 			
@@ -777,12 +771,6 @@
 			<name><![CDATA[AppGameKit Classic]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/325180]]></storeLink>
-		</game>
-		<game>
-			<appID>1652810</appID>
-			<name><![CDATA[Aquamarine Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1652810]]></storeLink>
 		</game>
 		<game>
 			<appID>534870</appID>
@@ -1264,6 +1252,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/463150/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1807280</appID>
+			<name><![CDATA[Barro 22 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1807280]]></storeLink>
+		</game>
+		<game>
 			<appID>338180</appID>
 			<name><![CDATA[Batla]]></name>
 			
@@ -1654,12 +1648,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/628530/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1722030</appID>
-			<name><![CDATA[Block'Em! Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1722030]]></storeLink>
-		</game>
-		<game>
 			<appID>302830</appID>
 			<name><![CDATA[BLOCKADE 3D]]></name>
 			
@@ -1849,12 +1837,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1053960]]></storeLink>
 		</game>
 		<game>
-			<appID>1808970</appID>
-			<name><![CDATA[BounceShot Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1808970]]></storeLink>
-		</game>
-		<game>
 			<appID>454070</appID>
 			<name><![CDATA[Boundel]]></name>
 			
@@ -1991,12 +1973,6 @@
 			<name><![CDATA[Bullet Run]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/211880]]></storeLink>
-		</game>
-		<game>
-			<appID>1821010</appID>
-			<name><![CDATA[Bullet Runner Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1821010]]></storeLink>
 		</game>
 		<game>
 			<appID>393970</appID>
@@ -2289,12 +2265,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/712410]]></storeLink>
 		</game>
 		<game>
-			<appID>1608630</appID>
-			<name><![CDATA[City of Beats Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1608630]]></storeLink>
-		</game>
-		<game>
 			<appID>266070</appID>
 			<name><![CDATA[City of Steam: Arkadia]]></name>
 			
@@ -2305,14 +2275,6 @@
 			<name><![CDATA[Clash of the Monsters]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/431500]]></storeLink>
-		</game>
-		<game>
-			<appID>1834160</appID>
-			<name><![CDATA[Classic Card Games 3D Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1834160]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1834160]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1834160/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>351410</appID>
@@ -4524,18 +4486,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -4592,12 +4554,6 @@
 			<name><![CDATA[FlatOut 4: Total Insanity Workshop Tool]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/625080]]></storeLink>
-		</game>
-		<game>
-			<appID>1792970</appID>
-			<name><![CDATA[Flippin Kaktus Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1792970]]></storeLink>
 		</game>
 		<game>
 			<appID>593400</appID>
@@ -4760,6 +4716,12 @@
 			<name><![CDATA[Forward: Escape the Fold (Playtest)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1816160]]></storeLink>
+		</game>
+		<game>
+			<appID>1529210</appID>
+			<name><![CDATA[FORZA POLPO Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1529210]]></storeLink>
 		</game>
 		<game>
 			<appID>528580</appID>
@@ -5838,12 +5800,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/863550/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1841950</appID>
-			<name><![CDATA[Hive Defender Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1841950]]></storeLink>
-		</game>
-		<game>
 			<appID>501470</appID>
 			<name><![CDATA[Hold the door!]]></name>
 			
@@ -6289,6 +6245,12 @@
 			<name><![CDATA[INVASION!]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/503630]]></storeLink>
+		</game>
+		<game>
+			<appID>1670190</appID>
+			<name><![CDATA[Inverse Evolver Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1670190]]></storeLink>
 		</game>
 		<game>
 			<appID>351790</appID>
@@ -6841,12 +6803,6 @@
 			<name><![CDATA[Lamia Must Die]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/385260]]></storeLink>
-		</game>
-		<game>
-			<appID>1801570</appID>
-			<name><![CDATA[LandCombatRen Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1801570]]></storeLink>
 		</game>
 		<game>
 			<appID>543650</appID>
@@ -7904,6 +7860,12 @@
 			<name><![CDATA[Moon Breakers]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/208030]]></storeLink>
+		</game>
+		<game>
+			<appID>1800220</appID>
+			<name><![CDATA[Moon Dancer Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1800220]]></storeLink>
 		</game>
 		<game>
 			<appID>361700</appID>
@@ -9089,12 +9051,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1613620]]></storeLink>
 		</game>
 		<game>
-			<appID>1838440</appID>
-			<name><![CDATA[Platonic Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1838440]]></storeLink>
-		</game>
-		<game>
 			<appID>1534430</appID>
 			<name><![CDATA[Play The Fox]]></name>
 			
@@ -9380,6 +9336,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1797460]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1797460]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1797460/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1618710</appID>
+			<name><![CDATA[Project Sparrow Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1618710]]></storeLink>
 		</game>
 		<game>
 			<appID>491790</appID>
@@ -10548,6 +10510,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/392450/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1796680</appID>
+			<name><![CDATA[SimplePlanes VR Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1796680]]></storeLink>
+		</game>
+		<game>
 			<appID>312280</appID>
 			<name><![CDATA[Simply Chess]]></name>
 			
@@ -10700,14 +10668,6 @@
 			<name><![CDATA[Slizer Battle Management System]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/673620]]></storeLink>
-		</game>
-		<game>
-			<appID>1674070</appID>
-			<name><![CDATA[Small War Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1674070]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1674070]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1674070/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1699810</appID>
@@ -10867,12 +10827,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/690060/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1475550</appID>
-			<name><![CDATA[Sou'wester Winds Alpha Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1475550]]></storeLink>
-		</game>
-		<game>
 			<appID>822800</appID>
 			<name><![CDATA[Soulfire]]></name>
 			
@@ -11013,12 +10967,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/444620]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/444620]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/444620/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1752930</appID>
-			<name><![CDATA[Spell Realms Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1752930]]></storeLink>
 		</game>
 		<game>
 			<appID>452230</appID>
@@ -11372,12 +11320,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/104700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1619990</appID>
-			<name><![CDATA[SUPER PEOPLE CBT]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1619990]]></storeLink>
-		</game>
-		<game>
 			<appID>675630</appID>
 			<name><![CDATA[Super POTUS Trump]]></name>
 			
@@ -11409,16 +11351,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -11547,12 +11489,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1616330]]></storeLink>
 		</game>
 		<game>
-			<appID>1757190</appID>
-			<name><![CDATA[Tafl Champions: Ancient Chess Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1757190]]></storeLink>
-		</game>
-		<game>
 			<appID>428870</appID>
 			<name><![CDATA[Take the Dream IX]]></name>
 			
@@ -11664,12 +11600,6 @@
 			<name><![CDATA[Tender: Creature Comforts Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
-		</game>
-		<game>
-			<appID>1707500</appID>
-			<name><![CDATA[Tennis Fighters Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
 			<appID>323370</appID>
@@ -12454,12 +12384,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/353130]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/353130]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/353130/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1526820</appID>
-			<name><![CDATA[Time to Morp Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1526820]]></storeLink>
 		</game>
 		<game>
 			<appID>651280</appID>
@@ -13768,12 +13692,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1090190/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1751490</appID>
-			<name><![CDATA[Wing Breakers Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1751490]]></storeLink>
-		</game>
-		<game>
 			<appID>621300</appID>
 			<name><![CDATA[Wing Pro 6]]></name>
 			
@@ -14187,18 +14105,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/684250]]></storeLink>
 		</game>
 		<game>
-			<appID>1811580</appID>
-			<name><![CDATA[深沉之火 DEEPENING FIRE Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1811580]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1811580]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1811580/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>1614220</appID>
 			<name><![CDATA[游戏人生：心魔 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1614220]]></storeLink>
+		</game>
+		<game>
+			<appID>1815250</appID>
+			<name><![CDATA[漂流佣兵 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1815250]]></storeLink>
 		</game>
 		<game>
 			<appID>590910</appID>
