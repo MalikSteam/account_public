@@ -512,6 +512,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1054560/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1835720</appID>
+			<name><![CDATA[Alien Prop Hunt Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1835720]]></storeLink>
+		</game>
+		<game>
 			<appID>563560</appID>
 			<name><![CDATA[Alien Swarm: Reactive Drop]]></name>
 			
@@ -4524,18 +4530,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
