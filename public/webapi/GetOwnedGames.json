@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2340,
+        "game_count": 2339,
         "games": [
             {
                 "appid": 92,
@@ -23453,16 +23453,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ed00362bd25091e5717c1e62ecd717ae737403cb",
                 "img_logo_url": "2c7204e1feb6803c4b68ce8eb099df36eec0faee",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1757190,
-                "name": "Tafl Champions: Ancient Chess Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d1eb9d650082d8173e0baf552ac5c01bda20a730",
-                "img_logo_url": "130253d5e9ee9120680a826efaa0b83e477b11ea",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
