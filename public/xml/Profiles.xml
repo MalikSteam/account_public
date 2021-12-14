@@ -20,18 +20,6 @@
 	<location><![CDATA[]]></location>
 	<realname><![CDATA[]]></realname>
 	<summary><![CDATA[ <a class="bb_link" href="https://steamcommunity.com/linkfilter/?url=https://pcgameit.com" target="_blank" rel="noreferrer" >PCGameit</a> <span class="bb_link_host">[pcgameit.com]</span>]]></summary>
- 	<mostPlayedGames>
-		<mostPlayedGame>
-			<gameName><![CDATA[Capcom Arcade Stadium]]></gameName>
-			<gameLink><![CDATA[https://steamcommunity.com/app/1515950]]></gameLink>
-			<gameIcon><![CDATA[https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/2715c826a625a0cac409491c1982a459a71f7349.jpg]]></gameIcon>
-			<gameLogo><![CDATA[https://cdn.akamai.steamstatic.com/steam/apps/1515950/capsule_184x69.jpg]]></gameLogo>
-			<gameLogoSmall><![CDATA[https://cdn.akamai.steamstatic.com/steam/apps/1515950/capsule_184x69.jpg]]></gameLogoSmall>
-			<hoursPlayed>0.9</hoursPlayed>
-			<hoursOnRecord>6.1</hoursOnRecord>
-			<statsName><![CDATA[1515950]]></statsName>
-		</mostPlayedGame>
-	</mostPlayedGames>
 
 
 	<groups>
