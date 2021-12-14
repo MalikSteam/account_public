@@ -1971,12 +1971,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/504630]]></storeLink>
 		</game>
 		<game>
-			<appID>1830510</appID>
-			<name><![CDATA[Buccaneers! Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1830510]]></storeLink>
-		</game>
-		<game>
 			<appID>497570</appID>
 			<name><![CDATA[Building the Great Wall of China 2]]></name>
 			
@@ -11396,16 +11390,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
