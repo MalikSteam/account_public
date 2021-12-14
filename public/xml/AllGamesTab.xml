@@ -4,16 +4,6 @@
 	<steamID><![CDATA[PCGameit]]></steamID>
 	<games>
 		<game>
-			<appID>1515950</appID>
-			<name><![CDATA[Capcom Arcade Stadium]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1515950]]></storeLink>
-			<hoursLast2Weeks>0.9</hoursLast2Weeks>
-			<hoursOnRecord>6.1</hoursOnRecord>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1515950]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1515950/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>1843380</appID>
 			<name><![CDATA[---Red---Tether--> Playtest]]></name>
 			
@@ -1055,6 +1045,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1629460]]></storeLink>
 		</game>
 		<game>
+			<appID>1827580</appID>
+			<name><![CDATA[Autopsy Simulator Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1827580]]></storeLink>
+		</game>
+		<game>
 			<appID>329280</appID>
 			<name><![CDATA[Avalon Lords: Dawn Rises]]></name>
 			
@@ -2091,6 +2087,15 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/265770]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/265770]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/265770/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1515950</appID>
+			<name><![CDATA[Capcom Arcade Stadium]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1515950]]></storeLink>
+			<hoursOnRecord>6.1</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1515950]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1515950/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>686940</appID>
@@ -4512,18 +4517,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -11397,16 +11402,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
