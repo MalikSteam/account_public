@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2339,
+        "game_count": 2338,
         "games": [
             {
                 "appid": 92,
@@ -23403,16 +23403,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f2dde63bea7f9493d747b0bdb568b591c6ec743a",
                 "img_logo_url": "d61ba0b6beaeb61e4d4fa6ea438aa2268b1cab43",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1751880,
-                "name": "Core Keeper Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "95a7f0221c2a1e588049673e88912041737b6b08",
-                "img_logo_url": "7f835cc31b7673e7e3433c96f580376da18761b0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
