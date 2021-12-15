@@ -23830,6 +23830,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1805770,
+                "name": "Chrysalis Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2b2f56784c61fed32976c33b8ba52e1cce58e04c",
+                "img_logo_url": "91e23095e00ed06373bfacd274d94e012128d178",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1805920,
                 "name": "Jigsaw Puzzle Dreams Playtest",
                 "playtime_forever": 0,
@@ -24089,16 +24099,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "c25379ff6fe71a53397077888a0409e283562675",
                 "img_logo_url": "898fd7e073215ed091e31209056f79a727a86287",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1836610,
-                "name": "Adarin Farm Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ca1ff44617037476910a02177e0456563ac70d35",
-                "img_logo_url": "1a0a9e5fbf9bb735a87a0ea2c074bf2cb3031da3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
