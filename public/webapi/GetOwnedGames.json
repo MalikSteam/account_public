@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2342,
+        "game_count": 2343,
         "games": [
             {
                 "appid": 92,
@@ -21605,6 +21605,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "df8a383452021ac671de6837cf8e7938a0adc193",
                 "img_logo_url": "0cd4e66db8381d11b2b5a3aa9c35bdb88e3a474f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1614930,
+                "name": "Setback Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8b4e2b5e7de6629c1767faf83df8acdf930a3802",
+                "img_logo_url": "722567ae5e63bb57be09a98569d25627e09081d7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
