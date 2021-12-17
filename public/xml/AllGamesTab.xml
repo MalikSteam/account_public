@@ -2153,6 +2153,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/451880/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1845120</appID>
+			<name><![CDATA[Catsploration Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1845120]]></storeLink>
+		</game>
+		<game>
 			<appID>1723000</appID>
 			<name><![CDATA[Cattle 101 Playtest]]></name>
 			
@@ -11315,6 +11321,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/693990]]></storeLink>
 		</game>
 		<game>
+			<appID>1652200</appID>
+			<name><![CDATA[subROV Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1652200]]></storeLink>
+		</game>
+		<game>
 			<appID>352700</appID>
 			<name><![CDATA[Subspace Continuum]]></name>
 			
@@ -11671,16 +11683,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
