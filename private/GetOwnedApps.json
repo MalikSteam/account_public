@@ -9684,6 +9684,10 @@
         "name": "Blueberry Playtest"
     },
     {
+        "appid": 1652200,
+        "name": "subROV Playtest"
+    },
+    {
         "appid": 1652810,
         "name": "Aquamarine Playtest"
     },
@@ -10846,5 +10850,9 @@
     {
         "appid": 1843380,
         "name": "---Red---Tether--> Playtest"
+    },
+    {
+        "appid": 1845120,
+        "name": "Catsploration Playtest"
     }
 ]
