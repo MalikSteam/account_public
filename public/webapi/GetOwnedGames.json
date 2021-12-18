@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2344,
+        "game_count": 2345,
         "games": [
             {
                 "appid": 92,
@@ -24109,6 +24109,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a3cf2e81f287da852cb64a5846dad8491d46d9f1",
                 "img_logo_url": "79335bebd6ad5ba639b420d4023256a975234672",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1833090,
+                "name": "Cowboy Life Simulator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "423e9dec1ffb9dc482fb57325b2882df785aa99b",
+                "img_logo_url": "c2df33da1a96fca3d1d2813a3ef2e6a04d6ea995",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
