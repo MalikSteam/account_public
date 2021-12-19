@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2345,
+        "game_count": 2346,
         "games": [
             {
                 "appid": 92,
@@ -24200,6 +24200,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "c2c3d5a632e06bc1d49a54fe8ad3e060b1442e2d",
                 "img_logo_url": "abb92c035dc8c697f2765aebe0387d2456fcc3c0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1850030,
+                "name": "The Indigo Parallel Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "44d401cdbd167429604cc2bc7196bc3dda6c291d",
+                "img_logo_url": "fd59957372630e251bd0554e1c6f44750cf14829",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
