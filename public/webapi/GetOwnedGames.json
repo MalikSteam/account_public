@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2346,
+        "game_count": 2345,
         "games": [
             {
                 "appid": 92,
@@ -24099,16 +24099,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bc7769e9ae1a29e3d794eb7f80cbb105d2e8dca0",
                 "img_logo_url": "8014a8debadf7a7acf9b66268bb22cafe804a2c4",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1829180,
-                "name": "CROWZ Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "a3cf2e81f287da852cb64a5846dad8491d46d9f1",
-                "img_logo_url": "79335bebd6ad5ba639b420d4023256a975234672",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
