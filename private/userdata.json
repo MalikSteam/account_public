@@ -11169,8 +11169,8 @@
         905370,
         468240,
         760510,
-        636150,
         553340,
+        636150,
         644670,
         551550,
         1001870,
@@ -11281,16 +11281,16 @@
             "tagid": 1663
         },
         {
+            "name": "Choices Matter",
+            "tagid": 6426
+        },
+        {
             "name": "Shooter",
             "tagid": 1774
         },
         {
             "name": "PvP",
             "tagid": 1775
-        },
-        {
-            "name": "Choices Matter",
-            "tagid": 6426
         },
         {
             "name": "Co-op",
