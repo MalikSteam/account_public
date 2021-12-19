@@ -11975,6 +11975,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/446990/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1850030</appID>
+			<name><![CDATA[The Indigo Parallel Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1850030]]></storeLink>
+		</game>
+		<game>
 			<appID>489000</appID>
 			<name><![CDATA[The Infinite Black]]></name>
 			
