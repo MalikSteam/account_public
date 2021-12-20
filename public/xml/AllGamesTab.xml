@@ -11426,16 +11426,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -11456,12 +11456,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/355840]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/355840]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/355840/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1548580</appID>
-			<name><![CDATA[Survival Quiz CITY Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1548580]]></storeLink>
 		</game>
 		<game>
 			<appID>606140</appID>
