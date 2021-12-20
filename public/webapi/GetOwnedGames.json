@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2343,
+        "game_count": 2342,
         "games": [
             {
                 "appid": 92,
@@ -23028,16 +23028,6 @@
                 "img_icon_url": "748a6b3defe52ccc3ab718d6589cbae0f659c132",
                 "img_logo_url": "d0f7cb61afd3f1a4cdb8b27ee6f96d77f715fbef",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1722030,
-                "name": "Block'Em! Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "5ee06805bf75f27ae976f855aa3139f887d837b3",
-                "img_logo_url": "d8bd04f6034fd13e9dff7642aecca52c147140a4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
