@@ -4517,18 +4517,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -8347,6 +8347,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/402890]]></storeLink>
 		</game>
 		<game>
+			<appID>1836540</appID>
+			<name><![CDATA[Oaken Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1836540]]></storeLink>
+		</game>
+		<game>
 			<appID>1814550</appID>
 			<name><![CDATA[Oasis: Dark Forest Playtest]]></name>
 			
@@ -8680,6 +8686,12 @@
 			<name><![CDATA[OzGrind Virtual Reality Showroom]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/639960]]></storeLink>
+		</game>
+		<game>
+			<appID>1831910</appID>
+			<name><![CDATA[Ozymandias Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1831910]]></storeLink>
 		</game>
 		<game>
 			<appID>441380</appID>
@@ -11671,16 +11683,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
