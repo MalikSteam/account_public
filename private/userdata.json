@@ -11281,16 +11281,16 @@
             "tagid": 1663
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
             "name": "Shooter",
             "tagid": 1774
         },
         {
             "name": "PvP",
             "tagid": 1775
+        },
+        {
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Co-op",
@@ -11305,20 +11305,20 @@
             "tagid": 1742
         },
         {
-            "name": "First-Person",
-            "tagid": 3839
-        },
-        {
-            "name": "Great Soundtrack",
-            "tagid": 1756
-        },
-        {
             "name": "Action",
             "tagid": 19
         },
         {
             "name": "Multiplayer",
             "tagid": 3859
+        },
+        {
+            "name": "First-Person",
+            "tagid": 3839
+        },
+        {
+            "name": "Great Soundtrack",
+            "tagid": 1756
         },
         {
             "name": "Singleplayer",
