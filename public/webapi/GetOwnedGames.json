@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2344,
+        "game_count": 2345,
         "games": [
             {
                 "appid": 92,
@@ -24069,6 +24069,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bc7769e9ae1a29e3d794eb7f80cbb105d2e8dca0",
                 "img_logo_url": "8014a8debadf7a7acf9b66268bb22cafe804a2c4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1829280,
+                "name": "Coal Mining Simulator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "762ede56c070904b9c4d6323a0145d7b8c702bc8",
+                "img_logo_url": "4c43c8418eba78601d359ffa0a858f2af7279ba2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
