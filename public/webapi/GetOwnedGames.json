@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2345,
+        "game_count": 2344,
         "games": [
             {
                 "appid": 92,
@@ -23715,16 +23715,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "269a2d2e70117285b690ceb3179078585f2624e8",
                 "img_logo_url": "c2f4bc13ef9ee1336f0e446769a8f29944530672",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1791440,
-                "name": "Vortle Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "4767a2899de5d988c6d93623aa2b17559d1c09e6",
-                "img_logo_url": "431969deec8e67a45c59885cdd33dee0d19c78b5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
