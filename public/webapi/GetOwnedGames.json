@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2343,
+        "game_count": 2344,
         "games": [
             {
                 "appid": 92,
@@ -24178,6 +24178,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d254ada598c0f9759b4ea9af27590695e66daa59",
                 "img_logo_url": "756fb79e7a64188875583e8a7fad874185dad730",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1854330,
+                "name": "SquareMan-Boy Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6570f3966e090dd7205e58bb35856cb65b20c823",
+                "img_logo_url": "e655e114c1e024553bc15ceed42c3d8d2cc66fd0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
