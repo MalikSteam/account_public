@@ -11120,6 +11120,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/356670]]></storeLink>
 		</game>
 		<game>
+			<appID>1854330</appID>
+			<name><![CDATA[SquareMan-Boy Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1854330]]></storeLink>
+		</game>
+		<game>
 			<appID>1625870</appID>
 			<name><![CDATA[Squirrelmageddon! Playtest]]></name>
 			
@@ -11432,16 +11438,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
