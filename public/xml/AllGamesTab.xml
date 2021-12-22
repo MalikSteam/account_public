@@ -4517,18 +4517,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -8668,14 +8668,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/692270]]></storeLink>
 		</game>
 		<game>
-			<appID>790750</appID>
-			<name><![CDATA[oVRshot]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/790750]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/790750]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/790750/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>639960</appID>
 			<name><![CDATA[OzGrind Virtual Reality Showroom]]></name>
 			
@@ -11315,6 +11307,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/StrongholdKingdoms/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>790750</appID>
+			<name><![CDATA[Stryker]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/790750]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/790750]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/790750/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>693990</appID>
 			<name><![CDATA[STYLY]]></name>
 			
@@ -11677,16 +11677,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
