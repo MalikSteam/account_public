@@ -10525,6 +10525,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/321480]]></storeLink>
 		</game>
 		<game>
+			<appID>1852850</appID>
+			<name><![CDATA[Signum Perfectum Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1852850]]></storeLink>
+		</game>
+		<game>
 			<appID>1633440</appID>
 			<name><![CDATA[Silcer Playtest]]></name>
 			
@@ -11677,16 +11683,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
