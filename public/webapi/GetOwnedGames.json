@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2344,
+        "game_count": 2346,
         "games": [
             {
                 "appid": 92,
@@ -23992,6 +23992,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1820150,
+                "name": "My Lovely Wife Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ab3b7788022a4dfc1f2154819f7692fc25e8f658",
+                "img_logo_url": "2f88620ec6beb1b3554319b5039bc2b283c5c8a2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1820630,
                 "name": "Potato Party: The Potatomancer Playtest",
                 "playtime_forever": 0,
@@ -24188,6 +24198,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6570f3966e090dd7205e58bb35856cb65b20c823",
                 "img_logo_url": "e655e114c1e024553bc15ceed42c3d8d2cc66fd0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1854350,
+                "name": "All Hands In One: \u4e07\u624b\u4e00\u4f53 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ae5d1f03ffcc6abda88d9ced82d0d2dfc40d98a4",
+                "img_logo_url": "649b92e86c966be3b3fd155337e6e4de928ea036",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
