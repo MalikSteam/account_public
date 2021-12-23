@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2345,
+        "game_count": 2346,
         "games": [
             {
                 "appid": 92,
@@ -20893,6 +20893,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1039ca9bab104f515b4215a5ced8a347e1227da7",
                 "img_logo_url": "444b10fe6b5e9c7d16e1bf69be2d622abeba85a3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1494790,
+                "name": "Crashers of Aetheria Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "20266051a18cc21d51540c0b19269924a6443583",
+                "img_logo_url": "13009f757dcff63fc165672a9ce988f806fe3672",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
