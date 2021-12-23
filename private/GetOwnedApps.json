@@ -10792,6 +10792,10 @@
         "name": "Trailmappers Playtest"
     },
     {
+        "appid": 1820150,
+        "name": "My Lovely Wife Playtest"
+    },
+    {
         "appid": 1820630,
         "name": "Potato Party: The Potatomancer Playtest"
     },
@@ -10886,5 +10890,9 @@
     {
         "appid": 1854330,
         "name": "SquareMan-Boy Playtest"
+    },
+    {
+        "appid": 1854350,
+        "name": "All Hands In One Playtest"
     }
 ]
