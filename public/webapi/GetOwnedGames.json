@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2347,
+        "game_count": 2348,
         "games": [
             {
                 "appid": 92,
@@ -22219,6 +22219,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "cbc083182fe198bb29c8ba2377bfd57281ddef57",
                 "img_logo_url": "a900fbf589efb1b3c9900697143e805ce82632cd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1653010,
+                "name": "Sea of Craft Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c9840fa3b1264cada033cbe5b8a7b1d65b18f431",
+                "img_logo_url": "31efd78f4688a240cd553cf811d084c13efbdc8f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
