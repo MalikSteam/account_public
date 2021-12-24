@@ -11337,12 +11337,12 @@
             "tagid": 1756
         },
         {
-            "name": "Singleplayer",
-            "tagid": 4182
-        },
-        {
             "name": "Adventure",
             "tagid": 21
+        },
+        {
+            "name": "Singleplayer",
+            "tagid": 4182
         }
     ],
     "rgSecondaryLanguages": [],
