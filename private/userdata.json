@@ -11277,16 +11277,16 @@
             "tagid": 5055
         },
         {
-            "name": "Competitive",
-            "tagid": 3878
+            "name": "Free to Play",
+            "tagid": 113
         },
         {
             "name": "World War II",
             "tagid": 4150
         },
         {
-            "name": "Free to Play",
-            "tagid": 113
+            "name": "Competitive",
+            "tagid": 3878
         },
         {
             "name": "Online Co-Op",
@@ -11321,14 +11321,6 @@
             "tagid": 1742
         },
         {
-            "name": "Action",
-            "tagid": 19
-        },
-        {
-            "name": "Multiplayer",
-            "tagid": 3859
-        },
-        {
             "name": "First-Person",
             "tagid": 3839
         },
@@ -11337,12 +11329,20 @@
             "tagid": 1756
         },
         {
-            "name": "Adventure",
-            "tagid": 21
+            "name": "Action",
+            "tagid": 19
+        },
+        {
+            "name": "Multiplayer",
+            "tagid": 3859
         },
         {
             "name": "Singleplayer",
             "tagid": 4182
+        },
+        {
+            "name": "Adventure",
+            "tagid": 21
         }
     ],
     "rgSecondaryLanguages": [],
