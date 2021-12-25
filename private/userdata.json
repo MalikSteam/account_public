@@ -11321,10 +11321,6 @@
             "tagid": 9
         },
         {
-            "name": "Multiplayer",
-            "tagid": 3859
-        },
-        {
             "name": "Story Rich",
             "tagid": 1742
         },
@@ -11339,6 +11335,10 @@
         {
             "name": "Action",
             "tagid": 19
+        },
+        {
+            "name": "Multiplayer",
+            "tagid": 3859
         },
         {
             "name": "Singleplayer",
