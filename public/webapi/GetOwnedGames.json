@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2350,
+        "game_count": 2349,
         "games": [
             {
                 "appid": 92,
@@ -23682,16 +23682,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "269a2d2e70117285b690ceb3179078585f2624e8",
                 "img_logo_url": "c2f4bc13ef9ee1336f0e446769a8f29944530672",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1792300,
-                "name": "Orbital Combat Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "da81b7d98ee97c4e573f1a97c2827fba4f28be34",
-                "img_logo_url": "20184946b6ff370d78e64b14a401e230ad77ca5d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
