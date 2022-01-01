@@ -15473,8 +15473,8 @@
                 "appid": 636930,
                 "name": "Soundscape VR",
                 "playtime_forever": 0,
-                "img_icon_url": "0aee2755f426d1e1ada92ab6acd807d3ff974a31",
-                "img_logo_url": "5454123cc73b6013a69872fb53b69c8b4c8c0413",
+                "img_icon_url": "42a82ade0ff149a5d6e944c1e031b83f0236b335",
+                "img_logo_url": "b1f6e5b5271275cb1e9b2de80fc5bb4b5c54855c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -20727,6 +20727,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1472640,
+                "name": "Gold Hunter Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3485323e7a7549a88efa9fbf008528688f88d42c",
+                "img_logo_url": "08ddbf6e075b75e0264de39964d86b27cb3a9d27",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1472760,
                 "name": "Heart in the Dark Playtest",
                 "playtime_forever": 0,
@@ -22214,16 +22224,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1652200,
-                "name": "subROV Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3bc0379c5cd9c00598cd9f54b1ab183eb60c660b",
-                "img_logo_url": "1fa083a9c4f0c70b16a6766a3978bd1fb5c1fae9",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1652810,
                 "name": "Aquamarine Playtest",
                 "playtime_forever": 0,
@@ -22299,6 +22299,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "60d99e872b8ba155ad041a36a536a055fc9ee470",
                 "img_logo_url": "3494a57d6736545538f60478eccdf08b5066e1c2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1661870,
+                "name": "PIGROMANCE Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0f38fe835c9007dd819b53505f30e215856b7a70",
+                "img_logo_url": "081fcf3446452c4a4301715b38cfebf3a5064049",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23677,11 +23687,11 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1792740,
-                "name": "Super Buckyball Tournament Playtest",
+                "appid": 1792300,
+                "name": "Orbital Combat Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "f377b1b386388d12bc8e6e85929dae5423a31227",
-                "img_logo_url": "fd1d73a2bc451c2be45fd8d1f44abe72ba634a0c",
+                "img_icon_url": "da81b7d98ee97c4e573f1a97c2827fba4f28be34",
+                "img_logo_url": "20184946b6ff370d78e64b14a401e230ad77ca5d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23783,16 +23793,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7d9182c4d7e038199f65b5eb89b4d994f025b267",
                 "img_logo_url": "ee9ee65d4ab3a45f6423a9f25c328f14dd0e510d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1801570,
-                "name": "LandCombatRen Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "fd8b70a0b8c830279981f82b1ecc817a299d30b2",
-                "img_logo_url": "fde6b26eaad4f72d6e9e0e12b52d53207fc73efd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -24071,16 +24071,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1833090,
-                "name": "Cowboy Life Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "423e9dec1ffb9dc482fb57325b2882df785aa99b",
-                "img_logo_url": "c2df33da1a96fca3d1d2813a3ef2e6a04d6ea995",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1834160,
                 "name": "Classic Card Games 3D Playtest",
                 "playtime_forever": 0,
@@ -24142,6 +24132,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1839460,
+                "name": "Azy - Old School FPS Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6ca8d36ce357c9695ceb63613937b041f2bf2bf6",
+                "img_logo_url": "1342e934a79bc557514e69fd78ab9ede58c43a03",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1841950,
                 "name": "Hive Defender Playtest",
                 "playtime_forever": 0,
@@ -24157,6 +24157,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "0a80625eb5d83449b7943ec284da2f2aefbe6142",
                 "img_logo_url": "9def8ff7edd55cd54a8c592d004a29a9a0d6c14c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1843720,
+                "name": "Skullborn Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a141b179e6f48b44e6a6a0c8bdb40e223326740f",
+                "img_logo_url": "1ea1113ce279cbd63a024c875fad0892766c9545",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -24207,16 +24217,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fe29eef1b9d29e08f8082fe763a70d455d6e3771",
                 "img_logo_url": "815fcd49f7247d087fa32977eb5bb3529e716989",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1852850,
-                "name": "Signum Perfectum Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d254ada598c0f9759b4ea9af27590695e66daa59",
-                "img_logo_url": "756fb79e7a64188875583e8a7fad874185dad730",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
