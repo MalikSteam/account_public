@@ -8700,6 +8700,10 @@
         "name": "Firing Vibes Playtest"
     },
     {
+        "appid": 1472640,
+        "name": "Gold Hunter Playtest"
+    },
+    {
         "appid": 1472760,
         "name": "Heart in the Dark Playtest"
     },
@@ -9766,6 +9770,10 @@
     {
         "appid": 1661320,
         "name": "Predecessor Playtest"
+    },
+    {
+        "appid": 1661870,
+        "name": "PIGROMANCE Playtest"
     },
     {
         "appid": 1662190,
@@ -10868,12 +10876,20 @@
         "name": "Platonic Playtest"
     },
     {
+        "appid": 1839460,
+        "name": "Azy - Old School FPS Playtest"
+    },
+    {
         "appid": 1841950,
         "name": "Hive Defender Playtest"
     },
     {
         "appid": 1843380,
         "name": "---Red---Tether--> Playtest"
+    },
+    {
+        "appid": 1843720,
+        "name": "Skullborn Playtest"
     },
     {
         "appid": 1845120,
