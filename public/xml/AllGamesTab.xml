@@ -4535,18 +4535,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -8585,12 +8585,6 @@
 			<name><![CDATA[Orake Classic]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/516510]]></storeLink>
-		</game>
-		<game>
-			<appID>1792300</appID>
-			<name><![CDATA[Orbital Combat Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1792300]]></storeLink>
 		</game>
 		<game>
 			<appID>801910</appID>
