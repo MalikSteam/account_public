@@ -1143,6 +1143,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1473200]]></storeLink>
 		</game>
 		<game>
+			<appID>1839460</appID>
+			<name><![CDATA[Azy - Old School FPS Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1839460]]></storeLink>
+		</game>
+		<game>
 			<appID>660880</appID>
 			<name><![CDATA[b]]></name>
 			
@@ -2626,12 +2632,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/589460/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1833090</appID>
-			<name><![CDATA[Cowboy Life Simulator Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1833090]]></storeLink>
-		</game>
-		<game>
 			<appID>516470</appID>
 			<name><![CDATA[CRAPPY ZOMBIE GAME]]></name>
 			
@@ -3770,20 +3770,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -5192,6 +5192,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/385890]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/385890]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/385890/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1472640</appID>
+			<name><![CDATA[Gold Hunter Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1472640]]></storeLink>
 		</game>
 		<game>
 			<appID>1772170</appID>
@@ -6846,12 +6852,6 @@
 			<name><![CDATA[Lamia Must Die]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/385260]]></storeLink>
-		</game>
-		<game>
-			<appID>1801570</appID>
-			<name><![CDATA[LandCombatRen Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1801570]]></storeLink>
 		</game>
 		<game>
 			<appID>543650</appID>
@@ -8581,6 +8581,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/516510]]></storeLink>
 		</game>
 		<game>
+			<appID>1792300</appID>
+			<name><![CDATA[Orbital Combat Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1792300]]></storeLink>
+		</game>
+		<game>
 			<appID>801910</appID>
 			<name><![CDATA[Orbos]]></name>
 			
@@ -8927,6 +8933,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/382850]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/382850]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/382850/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1661870</appID>
+			<name><![CDATA[PIGROMANCE Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1661870]]></storeLink>
 		</game>
 		<game>
 			<appID>1709480</appID>
@@ -10561,12 +10573,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/321480]]></storeLink>
 		</game>
 		<game>
-			<appID>1852850</appID>
-			<name><![CDATA[Signum Perfectum Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1852850]]></storeLink>
-		</game>
-		<game>
 			<appID>1633440</appID>
 			<name><![CDATA[Silcer Playtest]]></name>
 			
@@ -10662,6 +10668,12 @@
 			<name><![CDATA[Skull Ball Heroes]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/521330]]></storeLink>
+		</game>
+		<game>
+			<appID>1843720</appID>
+			<name><![CDATA[Skullborn Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1843720]]></storeLink>
 		</game>
 		<game>
 			<appID>1749670</appID>
@@ -11369,12 +11381,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/693990]]></storeLink>
 		</game>
 		<game>
-			<appID>1652200</appID>
-			<name><![CDATA[subROV Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1652200]]></storeLink>
-		</game>
-		<game>
 			<appID>352700</appID>
 			<name><![CDATA[Subspace Continuum]]></name>
 			
@@ -11413,12 +11419,6 @@
 			<name><![CDATA[Super]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/598170]]></storeLink>
-		</game>
-		<game>
-			<appID>1792740</appID>
-			<name><![CDATA[Super Buckyball Tournament Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1792740]]></storeLink>
 		</game>
 		<game>
 			<appID>212800</appID>
@@ -11474,16 +11474,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
