@@ -1266,6 +1266,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/463150/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1807280</appID>
+			<name><![CDATA[Barro 22 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1807280]]></storeLink>
+		</game>
+		<game>
 			<appID>338180</appID>
 			<name><![CDATA[Batla]]></name>
 			
@@ -4529,18 +4535,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
