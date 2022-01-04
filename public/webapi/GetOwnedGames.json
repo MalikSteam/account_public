@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2351,
+        "game_count": 2352,
         "games": [
             {
                 "appid": 92,
@@ -24137,6 +24137,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "832058f5146d1993903630112c4ce656600bad9d",
                 "img_logo_url": "711fceb98d5b09613ea55a5494b68da31d969ab5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1838590,
+                "name": "Thief Simulator 2 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1a0096a2d161fa9a84cebaf12c631780858e9cec",
+                "img_logo_url": "77f763b1837f5ed1f125ebebdc8d70ec573724c9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
