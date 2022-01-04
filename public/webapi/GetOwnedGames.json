@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2351,
+        "game_count": 2350,
         "games": [
             {
                 "appid": 92,
@@ -21817,16 +21817,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "212894c574eff91c998e89a822246c7bf177fe03",
                 "img_logo_url": "1250ef8379015fc5fcba4e3593125504646eaacf",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1622380,
-                "name": "Goons: Legends of the Hockeyverse Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ebbde58a74203576999fbb86c44e23acc29a3304",
-                "img_logo_url": "9b10a052184e24e0cc44523b43e4b2308e374501",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
