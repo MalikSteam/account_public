@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2352,
+        "game_count": 2351,
         "games": [
             {
                 "appid": 92,
@@ -24036,16 +24036,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b1b5868111db3e83c4368967514cb0c6843936c2",
                 "img_logo_url": "60d9f51ae9d8c5e7bc9a72985213cc1f6720b4a7",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1827580,
-                "name": "Autopsy Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "4e29c4311ba48e820eecc9a5ff39f712a8a0cbfd",
-                "img_logo_url": "bb3e39d28923d32fee209c342338643f9c925514",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
