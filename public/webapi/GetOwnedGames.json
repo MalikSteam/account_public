@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2350,
+        "game_count": 2351,
         "games": [
             {
                 "appid": 92,
@@ -24237,6 +24237,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ae5d1f03ffcc6abda88d9ced82d0d2dfc40d98a4",
                 "img_logo_url": "649b92e86c966be3b3fd155337e6e4de928ea036",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1856180,
+                "name": "Blacksmith Legends Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e2d7638e6829eb240392286adc176a64d047ff09",
+                "img_logo_url": "0881955047f292ebb43a731e2c566ec87cf04589",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
