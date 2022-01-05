@@ -22234,16 +22234,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1653010,
-                "name": "Sea of Craft Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "c9840fa3b1264cada033cbe5b8a7b1d65b18f431",
-                "img_logo_url": "31efd78f4688a240cd553cf811d084c13efbdc8f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1655270,
                 "name": "Bodies of Water (VR) Playtest",
                 "playtime_forever": 0,
@@ -22795,6 +22785,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "67d3685a6bced80a424ef3c364e43fe9864a3c98",
                 "img_logo_url": "49ce70ebd993563c80152ebc58baa62b5f854193",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1695960,
+                "name": "NeverDeath Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "87d62a2b9705a9b9735da2dacb2d5e5512aa16c5",
+                "img_logo_url": "746c9d1e3ce42d579d26063044f8de3d5b7740f2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
