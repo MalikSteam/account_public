@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2349,
+        "game_count": 2348,
         "games": [
             {
                 "appid": 92,
@@ -23986,16 +23986,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b4d8b42fa3094f5718131d65e777053d5d0c647c",
                 "img_logo_url": "1da2633f31669976afb2bf2db2b4fa027c7f305a",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1820150,
-                "name": "My Lovely Wife Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ab3b7788022a4dfc1f2154819f7692fc25e8f658",
-                "img_logo_url": "2f88620ec6beb1b3554319b5039bc2b283c5c8a2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
