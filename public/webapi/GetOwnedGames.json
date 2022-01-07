@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2350,
+        "game_count": 2351,
         "games": [
             {
                 "appid": 92,
@@ -24248,6 +24248,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "aafcc29f05c8dc11860595e70d77d1da7ad131f7",
                 "img_logo_url": "7bb308c54032c09a24834e135ba78fd276ab74c2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1862090,
+                "name": "Buggy Game Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "80e4a20d6e33893e9656559d4985aba257ee6ee8",
+                "img_logo_url": "c9a71db5ea1bb39592b55c352e27f4ee5261422b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
