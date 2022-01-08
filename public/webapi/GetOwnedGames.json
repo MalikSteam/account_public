@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2353,
+        "game_count": 2355,
         "games": [
             {
                 "appid": 92,
@@ -22981,6 +22981,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1715270,
+                "name": "HEATED Alpha Test",
+                "playtime_forever": 0,
+                "img_icon_url": "d0fec796fa063e2e886d4a484ab4bf009af63f00",
+                "img_logo_url": "61fce8cae7fdd0821e81928d7684dd177357efb1",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1716550,
                 "name": "A World Abandoned Playtest",
                 "playtime_forever": 0,
@@ -24238,6 +24248,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ae5d1f03ffcc6abda88d9ced82d0d2dfc40d98a4",
                 "img_logo_url": "649b92e86c966be3b3fd155337e6e4de928ea036",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1854610,
+                "name": "Goose vs Zombies Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6f3a3684356d7ab20a55a08bc98d1c3de8062a5a",
+                "img_logo_url": "c5c9c569a6439eee8904b31d702df5f4d52d250d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
