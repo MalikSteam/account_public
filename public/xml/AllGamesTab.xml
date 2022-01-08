@@ -11060,6 +11060,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/552770]]></storeLink>
 		</game>
 		<game>
+			<appID>1857320</appID>
+			<name><![CDATA[SpeedingRoad Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1857320]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1857320]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1857320/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>455440</appID>
 			<name><![CDATA[Spell Fighter VR]]></name>
 			
@@ -11733,16 +11741,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
