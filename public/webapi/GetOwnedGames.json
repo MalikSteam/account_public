@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2356,
+        "game_count": 2358,
         "games": [
             {
                 "appid": 92,
@@ -24077,6 +24077,26 @@
                 "playtime_forever": 0,
                 "img_icon_url": "762ede56c070904b9c4d6323a0145d7b8c702bc8",
                 "img_logo_url": "4c43c8418eba78601d359ffa0a858f2af7279ba2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1831590,
+                "name": "Grimstar: Welcome to the savage planet Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b024a53dd2626a21edaeabd0fa37db6bed037678",
+                "img_logo_url": "c53bbb6d0b0ba2caf3266d2d5dac81277c1b9ee2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1831640,
+                "name": "Grimstar: Crystals are the New Oil! Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b024a53dd2626a21edaeabd0fa37db6bed037678",
+                "img_logo_url": "c53bbb6d0b0ba2caf3266d2d5dac81277c1b9ee2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
