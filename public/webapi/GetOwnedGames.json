@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2355,
+        "game_count": 2356,
         "games": [
             {
                 "appid": 92,
@@ -23563,6 +23563,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ad80cbfd148ef29dcfb5b8442719e5a0d941b442",
                 "img_logo_url": "de86e6d430f3a822f381b8d6d0267f787608c07c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1772630,
+                "name": "Huckleberry Fields Forever: Level Player",
+                "playtime_forever": 0,
+                "img_icon_url": "29f4946bcc2f26fb4aaaa77c7c63a2b48ace5e3f",
+                "img_logo_url": "f45626cca8c67a9f7df5d938ac2a41fbec3b7bad",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
