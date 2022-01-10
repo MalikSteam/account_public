@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2358,
+        "game_count": 2357,
         "games": [
             {
                 "appid": 92,
@@ -23523,16 +23523,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3f25a4ad8ae0bbbc7b583aa3e43b0e60f9ec2ef0",
                 "img_logo_url": "7849024966ffc5b67fc20e625d4a65fa7858357e",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1768950,
-                "name": "Gangstar New York Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "fcc21bb5231ddc2ad2eff193e9223f9a4a2c2c29",
-                "img_logo_url": "dfceb73efe744be568cc6f73ae36dd3c332fe47e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
