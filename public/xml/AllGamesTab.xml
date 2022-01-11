@@ -6056,6 +6056,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1785900]]></storeLink>
 		</game>
 		<game>
+			<appID>623820</appID>
+			<name><![CDATA[Icesolation]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/623820]]></storeLink>
+		</game>
+		<game>
 			<appID>697610</appID>
 			<name><![CDATA[Idle Bouncer]]></name>
 			
@@ -8417,6 +8423,14 @@
 			<name><![CDATA[Nyctophilia]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/402890]]></storeLink>
+		</game>
+		<game>
+			<appID>572300</appID>
+			<name><![CDATA[Nyheim]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/572300]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/572300]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/572300/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1814550</appID>
@@ -11785,16 +11799,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13281,6 +13295,14 @@
 			<name><![CDATA[Unturned - Early Access]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/429881]]></storeLink>
+		</game>
+		<game>
+			<appID>646380</appID>
+			<name><![CDATA[Uphill Skiing]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/646380]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/646380]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/646380/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>619020</appID>
