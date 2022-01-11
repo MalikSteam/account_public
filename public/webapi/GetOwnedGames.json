@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2358,
+        "game_count": 2361,
         "games": [
             {
                 "appid": 92,
@@ -24330,6 +24330,38 @@
                 "playtime_forever": 0,
                 "img_icon_url": "80e4a20d6e33893e9656559d4985aba257ee6ee8",
                 "img_logo_url": "c9a71db5ea1bb39592b55c352e27f4ee5261422b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 623820,
+                "name": "Icesolation",
+                "playtime_forever": 0,
+                "img_icon_url": "d9367e101a687ac54c347d3587c41c01af42dfca",
+                "img_logo_url": "a5fb0c59f101b902d5e9a2bb03288e66b3c51f26",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 572300,
+                "name": "Nyheim",
+                "playtime_forever": 0,
+                "img_icon_url": "46f91aa33d3643fad36d04b76a6aa1ca714ca792",
+                "img_logo_url": "af8929f9d95cebf54ad5c7705ee6ec30ca8bb2a7",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 646380,
+                "name": "Uphill Skiing",
+                "playtime_forever": 0,
+                "img_icon_url": "f8e1742d0bef58562004e46a09c9c9b8c4bf12b3",
+                "img_logo_url": "95ef3e206c2d8007c97b6394589a81f48e7596c5",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
