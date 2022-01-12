@@ -9281,7 +9281,7 @@
     },
     {
         "appid": 1613800,
-        "name": "Tidewoken Alpha Test"
+        "name": "Tidewoken Public Test"
     },
     {
         "appid": 1613820,
@@ -10170,6 +10170,10 @@
     {
         "appid": 1704150,
         "name": "Heart Of Muriet Playtest"
+    },
+    {
+        "appid": 1705660,
+        "name": "WW2 Rebuilder Playtest"
     },
     {
         "appid": 1707210,
