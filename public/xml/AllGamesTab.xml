@@ -14047,6 +14047,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/416130/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1705660</appID>
+			<name><![CDATA[WW2 Rebuilder Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1705660]]></storeLink>
+		</game>
+		<game>
 			<appID>251950</appID>
 			<name><![CDATA[WWII Online]]></name>
 			
