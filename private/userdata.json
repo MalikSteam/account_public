@@ -1,6 +1,7 @@
 {
     "bAllowAppImpressions": true,
     "bShowFilteredUserReviewScores": true,
+    "nCartLineItemCount": 0,
     "nRemainingCartDiscount": 0,
     "nTotalCartDiscount": 0,
     "rgAppsInCart": [],
