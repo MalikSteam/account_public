@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2359,
+        "game_count": 2360,
         "games": [
             {
                 "appid": 92,
@@ -22876,6 +22876,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "478d143c17c68be0cef5e3326b5eb0f4ac41d7f3",
                 "img_logo_url": "03de887181c50abd041baee5c8f8ec1c50cef4f2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1705660,
+                "name": "WW2 Rebuilder Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "afc397fef0944f6c77c1014b9daad814a4104bbe",
+                "img_logo_url": "2fccad5f3dab16e1fe7a6127937cbfd18f9f8b0e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
