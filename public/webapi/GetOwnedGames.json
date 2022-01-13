@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2359,
+        "game_count": 2360,
         "games": [
             {
                 "appid": 92,
@@ -20681,6 +20681,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "836c51911bd572d005cd4bbd4566287d2671483a",
                 "img_logo_url": "adb9106f4b93f3dacf7fe44de04358b006db4826",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1471210,
+                "name": "HordeCore Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5c94b28cf89340896a0292563a39e4b61f84e447",
+                "img_logo_url": "7b21cab54c89fad8089807be39e457baabab0d9e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
