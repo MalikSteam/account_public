@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2360,
+        "game_count": 2361,
         "games": [
             {
                 "appid": 92,
@@ -24320,6 +24320,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "80e4a20d6e33893e9656559d4985aba257ee6ee8",
                 "img_logo_url": "c9a71db5ea1bb39592b55c352e27f4ee5261422b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1869140,
+                "name": "Bushi Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3cfad17fa1be3ebe532fd704057d5abac8892f76",
+                "img_logo_url": "dafa2bebade40e7dd1287d9b1468138c23e6a332",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
