@@ -2019,6 +2019,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/615050]]></storeLink>
 		</game>
 		<game>
+			<appID>1869140</appID>
+			<name><![CDATA[Bushi Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1869140]]></storeLink>
+		</game>
+		<game>
 			<appID>397900</appID>
 			<name><![CDATA[Business Tour - Online Multiplayer Board Game]]></name>
 			
@@ -11787,16 +11793,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
