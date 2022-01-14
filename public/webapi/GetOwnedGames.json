@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2360,
+        "game_count": 2361,
         "games": [
             {
                 "appid": 92,
@@ -21411,6 +21411,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5ffa768f5189cebb90d32aa804e0470852313cae",
                 "img_logo_url": "4ef66cc2c452d50de07b8695929f0d0e1f36ecc2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1611740,
+                "name": "BattleBit Remastered Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1e2600c319e8f30162427eadaa6bb4d063823c62",
+                "img_logo_url": "0d5daec9c7e42835cb0eba16f42d0ff351e3f3c6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
