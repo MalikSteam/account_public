@@ -5928,7 +5928,8 @@
         1857320,
         1861480,
         1862090,
-        1869140
+        1869140,
+        1870520
     ],
     "rgOwnedPackages": [
         1,
@@ -11163,7 +11164,8 @@
         673954,
         610605,
         672489,
-        571582
+        571582,
+        673139
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
@@ -11354,16 +11356,16 @@
             "tagid": 1663
         },
         {
-            "name": "Choices Matter",
-            "tagid": 6426
-        },
-        {
             "name": "Shooter",
             "tagid": 1774
         },
         {
             "name": "PvP",
             "tagid": 1775
+        },
+        {
+            "name": "Choices Matter",
+            "tagid": 6426
         },
         {
             "name": "Co-op",
