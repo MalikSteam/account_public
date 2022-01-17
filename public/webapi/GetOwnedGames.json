@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2361,
+        "game_count": 2362,
         "games": [
             {
                 "appid": 92,
@@ -24330,6 +24330,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3cfad17fa1be3ebe532fd704057d5abac8892f76",
                 "img_logo_url": "dafa2bebade40e7dd1287d9b1468138c23e6a332",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1870520,
+                "name": "Bombyx Edge Alpha",
+                "playtime_forever": 0,
+                "img_icon_url": "d33cb98c65d72146fef57c9952fd31ccf1734c55",
+                "img_logo_url": "63d2cf686bfe0cad6cbb47b90b4ec710b7c48e27",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
