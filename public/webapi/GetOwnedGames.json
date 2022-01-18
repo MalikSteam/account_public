@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2363,
+        "game_count": 2362,
         "games": [
             {
                 "appid": 92,
@@ -24179,16 +24179,6 @@
                 "img_icon_url": "6bf2ea9cf62db2d9efdc927458351fc9ee02ce86",
                 "img_logo_url": "07cc45437f71725675239c89c9602c72107b1154",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1843380,
-                "name": "---Red---Tether--> Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "0a80625eb5d83449b7943ec284da2f2aefbe6142",
-                "img_logo_url": "9def8ff7edd55cd54a8c592d004a29a9a0d6c14c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
