@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2362,
+        "game_count": 2363,
         "games": [
             {
                 "appid": 92,
@@ -13771,7 +13771,7 @@
                 "appid": 575720,
                 "name": "Mighty Party",
                 "playtime_forever": 0,
-                "img_icon_url": "2e5649fcf25819ce048b0c01329b5d5699559f99",
+                "img_icon_url": "ea6c5b328dbcc6a61a27c9f4b78aee49bedf9b3c",
                 "img_logo_url": "95fa1ef9163e36e40001475e12e9292274466cab",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
@@ -22766,6 +22766,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7e099fd645d4a442adb8f44cef8e37b00ac26c4f",
                 "img_logo_url": "99159fb7311e85da0d6316fc231f9dfebbcac50d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1695090,
+                "name": "SANABI Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4423214aba47f9700e2a99718ab77e6ada7e83bb",
+                "img_logo_url": "35165e7207d01046e82496980da58f3c98fba590",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
