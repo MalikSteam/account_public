@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2363,
+        "game_count": 2362,
         "games": [
             {
                 "appid": 92,
@@ -23309,16 +23309,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b9ad2f1dc6bdaa8500c2d46a456ee09d9868afcd",
                 "img_logo_url": "a1edf4d7540370e0686ad1127d76c7ce26c2bb2b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1746320,
-                "name": "Graduated Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "492f192b53a3e1b5a64bb374963cf13269589649",
-                "img_logo_url": "5d15a4c68dbb06246ff9033b36097b2d0f6b1f42",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
