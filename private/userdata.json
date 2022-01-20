@@ -11386,20 +11386,20 @@
             "tagid": 1742
         },
         {
-            "name": "First-Person",
-            "tagid": 3839
-        },
-        {
-            "name": "Great Soundtrack",
-            "tagid": 1756
-        },
-        {
             "name": "Action",
             "tagid": 19
         },
         {
             "name": "Multiplayer",
             "tagid": 3859
+        },
+        {
+            "name": "First-Person",
+            "tagid": 3839
+        },
+        {
+            "name": "Great Soundtrack",
+            "tagid": 1756
         },
         {
             "name": "Singleplayer",
