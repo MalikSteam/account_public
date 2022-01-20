@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2363,
+        "game_count": 2364,
         "games": [
             {
                 "appid": 92,
@@ -23462,6 +23462,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f7b0cb35976b827d5a427a78a04b01610a345ee1",
                 "img_logo_url": "7c7b51a15888a961cbb8ca04f4b0c51082778eb4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1765230,
+                "name": "Facteroids Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7a71bf42bb25f0b343d5a963e3427f159e7bd082",
+                "img_logo_url": "560d88ed6c087ba52dcae60f23a66444185745c9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
