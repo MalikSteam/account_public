@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2361,
+        "game_count": 2362,
         "games": [
             {
                 "appid": 92,
@@ -23896,6 +23896,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f2691cb802311c81d4252576ca7adfcbaed557d6",
                 "img_logo_url": "ff297a7deaf47f94e29f8730b9119340c0d4ea1a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1813960,
+                "name": "Elemental War 2 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "aac0aea9bda456dec77a3e34545e984c9e1179ab",
+                "img_logo_url": "05c66224b931fadd120385f402b26a9ae88b0680",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
