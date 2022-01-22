@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2368,
+        "game_count": 2369,
         "games": [
             {
                 "appid": 92,
@@ -23632,6 +23632,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "141b158916f97a467f5780c1e1d3afc468d388b3",
                 "img_logo_url": "f3772684155ba49fcca312f366f889882823aff0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1781620,
+                "name": "Deduction Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "74b1f43db98b65f0ea06220c08fd04646b29effc",
+                "img_logo_url": "415549dd133705ff2ff292a8adc047ad7818b987",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
