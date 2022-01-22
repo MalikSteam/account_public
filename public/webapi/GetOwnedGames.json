@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2366,
+        "game_count": 2368,
         "games": [
             {
                 "appid": 92,
@@ -22234,6 +22234,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1656020,
+                "name": "Mortal Rite Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "881534b6fc27a76de3900f52d1020a83ae5107f6",
+                "img_logo_url": "316d758b42025bbaea20b70f09805eadefe86bf6",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1656070,
                 "name": "Open Bar Playtest",
                 "playtime_forever": 0,
@@ -24349,6 +24359,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "80e4a20d6e33893e9656559d4985aba257ee6ee8",
                 "img_logo_url": "c9a71db5ea1bb39592b55c352e27f4ee5261422b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1862560,
+                "name": "Robotica Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6d3098a5fc81152df5a0807510e1ffe6e726d46a",
+                "img_logo_url": "c70742ea9e14132835e95e3534486d9eadcba8cd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
