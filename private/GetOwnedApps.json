@@ -9752,6 +9752,10 @@
         "name": "Medieval Towns Playtest"
     },
     {
+        "appid": 1656020,
+        "name": "Mortal Rite Playtest"
+    },
+    {
         "appid": 1656070,
         "name": "Open Bar Playtest"
     },
@@ -11026,6 +11030,10 @@
     {
         "appid": 1862090,
         "name": "Buggy Game Playtest"
+    },
+    {
+        "appid": 1862560,
+        "name": "Robotica Playtest"
     },
     {
         "appid": 1863070,
