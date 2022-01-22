@@ -4571,18 +4571,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -8105,6 +8105,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1725420]]></storeLink>
 		</game>
 		<game>
+			<appID>1656020</appID>
+			<name><![CDATA[Mortal Rite Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1656020]]></storeLink>
+		</game>
+		<game>
 			<appID>687980</appID>
 			<name><![CDATA[Mothlight]]></name>
 			
@@ -10096,6 +10102,12 @@
 			<name><![CDATA[RoboSports VR]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/549880]]></storeLink>
+		</game>
+		<game>
+			<appID>1862560</appID>
+			<name><![CDATA[Robotica Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1862560]]></storeLink>
 		</game>
 		<game>
 			<appID>285090</appID>
