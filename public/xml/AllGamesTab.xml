@@ -9509,6 +9509,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1797460/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1872210</appID>
+			<name><![CDATA[Project Speed 2 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1872210]]></storeLink>
+		</game>
+		<game>
 			<appID>491790</appID>
 			<name><![CDATA[Project Syria]]></name>
 			
@@ -11847,16 +11853,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
