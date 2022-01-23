@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2370,
+        "game_count": 2371,
         "games": [
             {
                 "appid": 92,
@@ -24389,6 +24389,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f401911358312e47563877dd60df2110489efae7",
                 "img_logo_url": "d3a4c4a9f1b511cf19e6eee574d14e8e1b085694",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1867150,
+                "name": "\u5929\u4e0b\u9556\u5c40 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "82c563af86a592ae6811e4dc8b4ed88b38ab392f",
+                "img_logo_url": "3a80b55678544f65514714a2b63994fe03b1bff6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
