@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2368,
+        "game_count": 2369,
         "games": [
             {
                 "appid": 92,
@@ -24227,6 +24227,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3939fa69850d9f4b1d8fba8fbc6ac3d2f515ab5a",
                 "img_logo_url": "b72b0fb89825241f7c391f3585ce9bb137a4cf53",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1850720,
+                "name": "La Maledizione dell'Uccello Serpente Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d5a5bb4467ac3d3cb4ec951154f65a29975a5d73",
+                "img_logo_url": "3bf3c9c928d214693e001579688103db17d6f2ad",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
