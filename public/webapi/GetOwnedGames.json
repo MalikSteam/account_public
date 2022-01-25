@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2368,
+        "game_count": 2369,
         "games": [
             {
                 "appid": 92,
@@ -24197,6 +24197,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "80c48a8031a0cfd18fd682e1fa6dca439bc11d45",
                 "img_logo_url": "5bfea14b026464a11103aa4f8e3e9beb45e1c179",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1849500,
+                "name": "Draken Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "719cacf37c9915d100d07a444193a05da93fefe0",
+                "img_logo_url": "fc0d2a44abfb9f303de2c3528d6663a759a146bc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
