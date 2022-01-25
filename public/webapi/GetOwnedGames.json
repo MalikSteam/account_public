@@ -24282,16 +24282,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1854610,
-                "name": "Goose vs Zombies Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "6f3a3684356d7ab20a55a08bc98d1c3de8062a5a",
-                "img_logo_url": "c5c9c569a6439eee8904b31d702df5f4d52d250d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1857320,
                 "name": "SpeedingRoad Playtest",
                 "playtime_forever": 0,
@@ -24430,6 +24420,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "04ef2229318bbd9d23f544503c81c028ffdcbf8b",
                 "img_logo_url": "9c51a364202fc22038d87654c61ecbf4d6b6a3a7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1880110,
+                "name": "Whispers of Ancient Stone Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "436ef635f49464e3fac8c07bcd6f53a7c92ac480",
+                "img_logo_url": "3af837c9d019d465fdc1a0fea7085cbd486d625f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
