@@ -3676,6 +3676,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/263500/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1849500</appID>
+			<name><![CDATA[Draken Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1849500]]></storeLink>
+		</game>
+		<game>
 			<appID>266030</appID>
 			<name><![CDATA[DRAKERZ-Confrontation]]></name>
 			
