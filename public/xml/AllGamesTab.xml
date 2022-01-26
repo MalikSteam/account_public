@@ -2098,6 +2098,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1515950/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1881090</appID>
+			<name><![CDATA[Capelord: Bounty Hunters Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1881090]]></storeLink>
+		</game>
+		<game>
 			<appID>686940</appID>
 			<name><![CDATA[Captivus]]></name>
 			
@@ -4577,18 +4583,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -11588,16 +11594,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -13054,6 +13060,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/539370]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/539370]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/539370/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1877070</appID>
+			<name><![CDATA[Twilight Wars Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1877070]]></storeLink>
 		</game>
 		<game>
 			<appID>454910</appID>
