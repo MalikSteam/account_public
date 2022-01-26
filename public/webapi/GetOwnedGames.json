@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2371,
+        "game_count": 2373,
         "games": [
             {
                 "appid": 92,
@@ -24455,11 +24455,31 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1877070,
+                "name": "Twilight Wars Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a03d0a7af925b3d39fea567e7766c3aaf720948f",
+                "img_logo_url": "bcd6b8b1d0180bad1827d917da109c545740e604",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1880110,
                 "name": "Whispers of Ancient Stone Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "436ef635f49464e3fac8c07bcd6f53a7c92ac480",
                 "img_logo_url": "3af837c9d019d465fdc1a0fea7085cbd486d625f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1881090,
+                "name": "Capelord: Bounty Hunters Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "52081a12871127661a447a9346368f25540e12e4",
+                "img_logo_url": "3ec0e118fc9aa8d82424972d1555875f70b44b47",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
