@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2373,
+        "game_count": 2374,
         "games": [
             {
                 "appid": 92,
@@ -22027,6 +22027,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "fee52aef7e3159a059fc8ead99c9199948b7f50a",
                 "img_logo_url": "e0c5f0d2f134b2bd65937c6c9c5e26d086612774",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1636390,
+                "name": "Hexarchy Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1d27f82833c959a16bfdc9d7ffbf37ca1b308d0b",
+                "img_logo_url": "bdfe9ac7597934dec1f8d001a274f76cc3aa6df4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
