@@ -11080,7 +11080,15 @@
         "name": "Treason Playtest"
     },
     {
+        "appid": 1877070,
+        "name": "Twilight Wars Playtest"
+    },
+    {
         "appid": 1880110,
         "name": "Whispers of Ancient Stone Playtest"
+    },
+    {
+        "appid": 1881090,
+        "name": "Capelord: Bounty Hunters Playtest"
     }
 ]
