@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2374,
+        "game_count": 2375,
         "games": [
             {
                 "appid": 92,
@@ -24086,6 +24086,16 @@
                 "img_icon_url": "ef935dd3e41ce5c3a17824ee2fd51a4d1d31a059",
                 "img_logo_url": "d17c8423694c7a01474fb772560cbae87ce1753c",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1834180,
+                "name": "Short Circuit Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "89e9942c5479bc71202cff89fa074a50e5340ab2",
+                "img_logo_url": "5517a363749121399b8f693a2f863765899bac7c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
