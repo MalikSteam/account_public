@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2375,
+        "game_count": 2376,
         "games": [
             {
                 "appid": 92,
@@ -21543,6 +21543,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d866f54ce9a2bf3a4786de78ce0473f826545e1c",
                 "img_logo_url": "38b9219319e34e3b5716156075efe0c00d144695",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1613800,
+                "name": "Tidewoken Public Test",
+                "playtime_forever": 0,
+                "img_icon_url": "f31d6af59bb459310c10ed6d7fde83ae30201193",
+                "img_logo_url": "18362e48b37be39f1e6a283c0a7c14a71a9f5b2e",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
