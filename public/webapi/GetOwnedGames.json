@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2375,
+        "game_count": 2376,
         "games": [
             {
                 "appid": 92,
@@ -21391,6 +21391,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e063779bd3d31adb1672c5bc7e404f076e665a25",
                 "img_logo_url": "2533472eecd9bcdca9dfa10da0d2aa49131f5aa2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1608060,
+                "name": "Dungeon Swappers Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "49be50002ec9b7dfb11d47f9e0b180104c6a453d",
+                "img_logo_url": "f1c070ab15292b47455e7cee40c02be12da0cf1c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
