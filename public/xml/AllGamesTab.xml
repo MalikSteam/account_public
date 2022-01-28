@@ -3856,6 +3856,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/407730]]></storeLink>
 		</game>
 		<game>
+			<appID>1608060</appID>
+			<name><![CDATA[Dungeon Swappers Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1608060]]></storeLink>
+		</game>
+		<game>
 			<appID>213650</appID>
 			<name><![CDATA[Dwarfs F2P]]></name>
 			
@@ -11851,16 +11857,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
