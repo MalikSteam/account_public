@@ -5470,6 +5470,7 @@
         1607090,
         1607490,
         1607520,
+        1608060,
         1608160,
         1608630,
         1608760,
@@ -11211,7 +11212,8 @@
         670892,
         675830,
         677336,
-        678880
+        678880,
+        570325
     ],
     "rgPackagesInCart": [],
     "rgPreferredPlatforms": [],
@@ -11430,20 +11432,20 @@
             "tagid": 1742
         },
         {
-            "name": "First-Person",
-            "tagid": 3839
-        },
-        {
-            "name": "Great Soundtrack",
-            "tagid": 1756
-        },
-        {
             "name": "Action",
             "tagid": 19
         },
         {
             "name": "Multiplayer",
             "tagid": 3859
+        },
+        {
+            "name": "First-Person",
+            "tagid": 3839
+        },
+        {
+            "name": "Great Soundtrack",
+            "tagid": 1756
         },
         {
             "name": "Singleplayer",
