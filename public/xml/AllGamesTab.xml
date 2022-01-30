@@ -5814,12 +5814,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/283880/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1769410</appID>
-			<name><![CDATA[Hero or Foe BETA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1769410]]></storeLink>
-		</game>
-		<game>
 			<appID>482920</appID>
 			<name><![CDATA[Hero Zero]]></name>
 			
@@ -5884,6 +5878,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/457330]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/457330]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/457330/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1849830</appID>
+			<name><![CDATA[Highrise City Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1849830]]></storeLink>
 		</game>
 		<game>
 			<appID>342570</appID>
