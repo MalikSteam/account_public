@@ -23527,16 +23527,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1769410,
-                "name": "Hero or Foe BETA",
-                "playtime_forever": 0,
-                "img_icon_url": "bec5d58e4aef957f1e06fbd6ad5a168816fc8505",
-                "img_logo_url": "42ff36e61e14ca9afbcc66a70df2ff32e3c4d7a5",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1770750,
                 "name": "\u65f6\u4e4b\u71b5 \u5f00\u53d1\u6d4b\u8bd5\u7248",
                 "playtime_forever": 0,
@@ -24228,6 +24218,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "719cacf37c9915d100d07a444193a05da93fefe0",
                 "img_logo_url": "fc0d2a44abfb9f303de2c3528d6663a759a146bc",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1849830,
+                "name": "Highrise City Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "564679b225fb021ea0fb705d5f906e4193f1753b",
+                "img_logo_url": "dcc570e965f8a9460c0cb988942807048dc93017",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
