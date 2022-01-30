@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2377,
+        "game_count": 2376,
         "games": [
             {
                 "appid": 92,
@@ -24329,16 +24329,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ccf4a0fc087313d22047aa117dd4e697a9d4f4ca",
                 "img_logo_url": "a6077d22800916af7efddc54d56bc1b97ed5fac5",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1860230,
-                "name": "Chaotic Nightmare",
-                "playtime_forever": 0,
-                "img_icon_url": "e1d03da6b5b8c7bbb7f497f821df4b2c3cd40c2a",
-                "img_logo_url": "de0d853be997feb6f60568ac7bd609f23fc6815c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
