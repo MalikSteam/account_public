@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2376,
+        "game_count": 2377,
         "games": [
             {
                 "appid": 92,
@@ -24511,6 +24511,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d56925f1d49741d887ec07f8e47b50d3bbb6207d",
                 "img_logo_url": "d865c2fa6c4effbfa314fcfc4d86450122b04ae5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1889060,
+                "name": "LPTG Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ed66ebf63cadc5f7b9f5de1767f04b9fbbcaaf22",
+                "img_logo_url": "5d6c636efbde21a3191761b68bde52ad018224a4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
