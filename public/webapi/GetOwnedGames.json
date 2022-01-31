@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2377,
+        "game_count": 2378,
         "games": [
             {
                 "appid": 92,
@@ -24309,6 +24309,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ccf4a0fc087313d22047aa117dd4e697a9d4f4ca",
                 "img_logo_url": "a6077d22800916af7efddc54d56bc1b97ed5fac5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1858670,
+                "name": "Mocap Fusion [ VR ] Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bde0aa84a7559b02a6bb1a9c50b6b8876a9313a6",
+                "img_logo_url": "d8201a9a453cba0eb67ff7b5b8aac45c154b615d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
