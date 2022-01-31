@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2377,
+        "game_count": 2378,
         "games": [
             {
                 "appid": 92,
@@ -24481,6 +24481,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a03d0a7af925b3d39fea567e7766c3aaf720948f",
                 "img_logo_url": "bcd6b8b1d0180bad1827d917da109c545740e604",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1877150,
+                "name": "DarkBlood -Reborn- Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ddb616301621a25ad691c105494424746dfaddda",
+                "img_logo_url": "bfccf8b8f3c97856502cc8dec87c11bbe3a485f5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
