@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2378,
+        "game_count": 2377,
         "games": [
             {
                 "appid": 92,
@@ -23692,16 +23692,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5afe4f4f61485fd2124a50f4e01d4c08cd70336d",
                 "img_logo_url": "2c39c876a2359ad78305532d83dfa9c1add39517",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1794940,
-                "name": "Solargene Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "bf01fbe71bebd77b864f7ad5c63ac496e441bb80",
-                "img_logo_url": "c39666f41589a7608ee19b18002f40166b9e59eb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
