@@ -21396,16 +21396,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1608060,
-                "name": "Dungeon Swappers Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "49be50002ec9b7dfb11d47f9e0b180104c6a453d",
-                "img_logo_url": "f1c070ab15292b47455e7cee40c02be12da0cf1c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1608760,
                 "name": "Disaster Drive Playtest",
                 "playtime_forever": 0,
@@ -24329,6 +24319,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ccf4a0fc087313d22047aa117dd4e697a9d4f4ca",
                 "img_logo_url": "a6077d22800916af7efddc54d56bc1b97ed5fac5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1860230,
+                "name": "Chaotic Nightmare",
+                "playtime_forever": 0,
+                "img_icon_url": "e1d03da6b5b8c7bbb7f497f821df4b2c3cd40c2a",
+                "img_logo_url": "de0d853be997feb6f60568ac7bd609f23fc6815c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
