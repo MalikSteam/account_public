@@ -10990,12 +10990,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/510630]]></storeLink>
 		</game>
 		<game>
-			<appID>1794940</appID>
-			<name><![CDATA[Solargene Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1794940]]></storeLink>
-		</game>
-		<game>
 			<appID>668770</appID>
 			<name><![CDATA[Solarium]]></name>
 			
@@ -11618,16 +11612,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
