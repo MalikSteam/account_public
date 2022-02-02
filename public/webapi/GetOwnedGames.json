@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2375,
+        "game_count": 2377,
         "games": [
             {
                 "appid": 92,
@@ -24262,6 +24262,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1855530,
+                "name": "From Warrior to Hero (Idle 3D RPG) Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "95a0669735e48952a45559bd40e444e680b30a5a",
+                "img_logo_url": "268233c777d7eee2ae2f939886ffaab744fa2cb8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1857320,
                 "name": "SpeedingRoad Playtest",
                 "playtime_forever": 0,
@@ -24460,6 +24470,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ddb616301621a25ad691c105494424746dfaddda",
                 "img_logo_url": "bfccf8b8f3c97856502cc8dec87c11bbe3a485f5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1878060,
+                "name": "Idle Spiral Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9ead02195f3e1ef51ba89d998afda25732b93f82",
+                "img_logo_url": "1f8a75027dea036cd9558ce2abe4466e4ab3fde6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
