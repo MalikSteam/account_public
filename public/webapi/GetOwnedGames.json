@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2377,
+        "game_count": 2378,
         "games": [
             {
                 "appid": 92,
@@ -24440,6 +24440,16 @@
                 "img_icon_url": "f8e1742d0bef58562004e46a09c9c9b8c4bf12b3",
                 "img_logo_url": "95ef3e206c2d8007c97b6394589a81f48e7596c5",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1874470,
+                "name": "Metal Shock Game Playtest(WIP)",
+                "playtime_forever": 0,
+                "img_icon_url": "cfad318aa10d06d777cffd493cec5ba8900bfc12",
+                "img_logo_url": "adf6de91324d5fd6e493bc030d25d159efe93e9c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
