@@ -7711,6 +7711,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/362070]]></storeLink>
 		</game>
 		<game>
+			<appID>1874470</appID>
+			<name><![CDATA[Metal Shock Game Playtest(WIP)]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1874470]]></storeLink>
+		</game>
+		<game>
 			<appID>356310</appID>
 			<name><![CDATA[METAL SLUG DEFENSE]]></name>
 			
@@ -11867,16 +11873,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
