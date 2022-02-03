@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2381,
+        "game_count": 2382,
         "games": [
             {
                 "appid": 92,
@@ -24481,6 +24481,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a03d0a7af925b3d39fea567e7766c3aaf720948f",
                 "img_logo_url": "bcd6b8b1d0180bad1827d917da109c545740e604",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1877140,
+                "name": "Achilles: Legends Untold Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "0cf3c1a662f36869923fc95b8230ccb8197f003f",
+                "img_logo_url": "45ec2e74713af3fc02753a7c7b8c371445978b9a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
