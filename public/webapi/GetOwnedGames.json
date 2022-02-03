@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2380,
+        "game_count": 2381,
         "games": [
             {
                 "appid": 92,
@@ -24148,6 +24148,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "c2c3d5a632e06bc1d49a54fe8ad3e060b1442e2d",
                 "img_logo_url": "abb92c035dc8c697f2765aebe0387d2456fcc3c0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1845410,
+                "name": "Stadium Renovator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c726b314670033ed77381a0f715965093d1ba5e8",
+                "img_logo_url": "e9bbf2e232c8874c7896d586461e9cb80b7245d4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
