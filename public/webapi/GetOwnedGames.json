@@ -21537,17 +21537,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1613800,
-                "name": "Tidewoken Public Test",
-                "playtime_forever": 0,
-                "img_icon_url": "f31d6af59bb459310c10ed6d7fde83ae30201193",
-                "img_logo_url": "18362e48b37be39f1e6a283c0a7c14a71a9f5b2e",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1613820,
                 "name": "Maze Qore Arena - Playtest",
                 "playtime_forever": 0,
@@ -24077,6 +24066,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "c25379ff6fe71a53397077888a0409e283562675",
                 "img_logo_url": "898fd7e073215ed091e31209056f79a727a86287",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1838390,
+                "name": "Smipat and the Lost Bones Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5176c677476140e0938736fcfa46609ec38433d0",
+                "img_logo_url": "c1d5f0a75eaa503aa506b8141d47f749635abcfc",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
