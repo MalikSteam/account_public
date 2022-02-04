@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2381,
+        "game_count": 2380,
         "games": [
             {
                 "appid": 92,
@@ -24188,16 +24188,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "44d401cdbd167429604cc2bc7196bc3dda6c291d",
                 "img_logo_url": "fd59957372630e251bd0554e1c6f44750cf14829",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1850710,
-                "name": "Crossfire: Legion Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3939fa69850d9f4b1d8fba8fbc6ac3d2f515ab5a",
-                "img_logo_url": "b72b0fb89825241f7c391f3585ce9bb137a4cf53",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
