@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2382,
+        "game_count": 2381,
         "games": [
             {
                 "appid": 92,
@@ -22755,16 +22755,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7e099fd645d4a442adb8f44cef8e37b00ac26c4f",
                 "img_logo_url": "99159fb7311e85da0d6316fc231f9dfebbcac50d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1695090,
-                "name": "SANABI Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "4423214aba47f9700e2a99718ab77e6ada7e83bb",
-                "img_logo_url": "35165e7207d01046e82496980da58f3c98fba590",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
