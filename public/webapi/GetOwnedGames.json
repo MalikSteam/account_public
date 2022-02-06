@@ -23117,6 +23117,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "eea1bb5972ad7f4438492b0aa784b8acc4e633cc",
                 "img_logo_url": "2e0234037c313b1c7b404dfb5a3dd47849d7c86d",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
