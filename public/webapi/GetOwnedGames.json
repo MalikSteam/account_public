@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2383,
+        "game_count": 2382,
         "games": [
             {
                 "appid": 92,
@@ -24229,16 +24229,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d6c37c3ca0f04858d219e29e359b0bdee9630144",
                 "img_logo_url": "5f4ecf78c8be985c3b6d9c0777b3513515a09887",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1852880,
-                "name": "Last Group Out Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "da6c27ac62f29f6845f470fb1930cfafd3e51729",
-                "img_logo_url": "f1d07526c2e5856ee579379843f2218d414937d2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
