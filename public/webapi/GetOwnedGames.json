@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2381,
+        "game_count": 2380,
         "games": [
             {
                 "appid": 92,
@@ -24542,16 +24542,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1ea1d6570fed40402ce9e27eee3ab292380bd70e",
                 "img_logo_url": "4010a979688ac2f03aa13e79b8b869fce2605ce4",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1887240,
-                "name": "World War 3 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "091387afc53c2f1a7488950dd5cd15c7c7745f0a",
-                "img_logo_url": "a9724bad6df594e6a9bb9e8de91fd58ffaa8de8a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
