@@ -636,6 +636,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/203290/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1890720</appID>
+			<name><![CDATA[American Theft 80s Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1890720]]></storeLink>
+		</game>
+		<game>
 			<appID>463740</appID>
 			<name><![CDATA[American Truck Simulator - Arizona]]></name>
 			
@@ -4595,18 +4601,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -10747,12 +10753,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1633440]]></storeLink>
 		</game>
 		<game>
-			<appID>1805550</appID>
-			<name><![CDATA[SILO27: Crashlanded Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1805550]]></storeLink>
-		</game>
-		<game>
 			<appID>392450</appID>
 			<name><![CDATA[Silver Creek Falls - Chapter 1]]></name>
 			
@@ -11652,16 +11652,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
