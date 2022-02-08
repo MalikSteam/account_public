@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2380,
+        "game_count": 2381,
         "games": [
             {
                 "appid": 92,
@@ -24129,6 +24129,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a141b179e6f48b44e6a6a0c8bdb40e223326740f",
                 "img_logo_url": "1ea1113ce279cbd63a024c875fad0892766c9545",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1844480,
+                "name": "Software Company Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5db0e6618ccda07eda1fa03e0e95bd2df4353f81",
+                "img_logo_url": "0a14557819da9e4fffebc589f499f37897dda0cf",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
