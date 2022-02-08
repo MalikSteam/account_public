@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2380,
+        "game_count": 2379,
         "games": [
             {
                 "appid": 92,
@@ -24502,16 +24502,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "52081a12871127661a447a9346368f25540e12e4",
                 "img_logo_url": "3ec0e118fc9aa8d82424972d1555875f70b44b47",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1884920,
-                "name": "Purry Furry Adventurry Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d56925f1d49741d887ec07f8e47b50d3bbb6207d",
-                "img_logo_url": "d865c2fa6c4effbfa314fcfc4d86450122b04ae5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
