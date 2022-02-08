@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2379,
+        "game_count": 2380,
         "games": [
             {
                 "appid": 92,
@@ -21118,6 +21118,16 @@
                 "img_icon_url": "da5db7b9d28a85df37b6e5cad73ddcce9614db94",
                 "img_logo_url": "6b22e3c848473b721830626d421ac840be35488c",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1548580,
+                "name": "Survival Quiz CITY Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b7583bfa8ab06d61f1de05759bc059e4fd73f556",
+                "img_logo_url": "3c67d4e1ffaf83af92c787d98875993304e49d42",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
