@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2381,
+        "game_count": 2380,
         "games": [
             {
                 "appid": 92,
@@ -24390,16 +24390,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d33cb98c65d72146fef57c9952fd31ccf1734c55",
                 "img_logo_url": "63d2cf686bfe0cad6cbb47b90b4ec710b7c48e27",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1872210,
-                "name": "Project Speed 2 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "11a8dc49e7c607309bad17ef180cc954e9c4aa67",
-                "img_logo_url": "e584613565963a088552f200d7f52eeaf0c29eca",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
