@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2381,
+        "game_count": 2382,
         "games": [
             {
                 "appid": 92,
@@ -24562,6 +24562,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7a0f7765286f16d7828903ea97dc348b3935e54d",
                 "img_logo_url": "ee6013666ecd6f62e40be6cf656dac831a4b059e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1899870,
+                "name": "Hunter Project: Operation Survive Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a70a61da25851a10f346496415fccb101e73483c",
+                "img_logo_url": "9c9d8fc9975f83d51d1fff33f2a3744f31baa085",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
