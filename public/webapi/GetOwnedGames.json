@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2382,
+        "game_count": 2380,
         "games": [
             {
                 "appid": 92,
@@ -23477,16 +23477,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1767800,
-                "name": "Search for Surf Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "fe3e8a93488e281dd1c21697573d8586e735096a",
-                "img_logo_url": "39ce5b0f598d37d22ba3c49674247b2ff5b2ef1c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1768070,
                 "name": "The Black Grimoire: Cursebreaker Playtest",
                 "playtime_forever": 0,
@@ -24006,16 +23996,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b024a53dd2626a21edaeabd0fa37db6bed037678",
                 "img_logo_url": "c53bbb6d0b0ba2caf3266d2d5dac81277c1b9ee2",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1831910,
-                "name": "Ozymandias Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "267c0bb51175f55aa86ea8711d5f5ccebe3652ed",
-                "img_logo_url": "9a836aa8ddc63a844ee7d35842016c14f90fd6f1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
