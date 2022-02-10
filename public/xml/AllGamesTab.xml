@@ -11895,16 +11895,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -14404,6 +14404,12 @@
 			<name><![CDATA[月之暗面 The Dark Side Of The Moon]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/684250]]></storeLink>
+		</game>
+		<game>
+			<appID>1900760</appID>
+			<name><![CDATA[洋流朋克 Ocean Current Punk Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1900760]]></storeLink>
 		</game>
 		<game>
 			<appID>1811580</appID>
