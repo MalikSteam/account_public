@@ -23122,17 +23122,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1732250,
-                "name": "Oldowan Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "eea1bb5972ad7f4438492b0aa784b8acc4e633cc",
-                "img_logo_url": "2e0234037c313b1c7b404dfb5a3dd47849d7c86d",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1733260,
                 "name": "Painter's Pets Playtest",
                 "playtime_forever": 0,
@@ -24522,6 +24511,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1ea1d6570fed40402ce9e27eee3ab292380bd70e",
                 "img_logo_url": "4010a979688ac2f03aa13e79b8b869fce2605ce4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1886770,
+                "name": "Ex0 Escape Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "18c4646ece04efeda00efb82f9c2e8c2b0eced6c",
+                "img_logo_url": "92c5499cb973fb8000209a66c62371d3f5ba1a3e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
