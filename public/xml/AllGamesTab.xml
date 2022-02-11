@@ -6465,6 +6465,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/676770/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1903550</appID>
+			<name><![CDATA[Islets Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1903550]]></storeLink>
+		</game>
+		<game>
 			<appID>610940</appID>
 			<name><![CDATA[iStorm]]></name>
 			
