@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2378,
+        "game_count": 2379,
         "games": [
             {
                 "appid": 92,
@@ -24531,6 +24531,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "da4e445d4a1a6ee6343124f27d912954e1d5932f",
                 "img_logo_url": "063ec779b30d7d631e27c1aea7d0ddd0196da04e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1903550,
+                "name": "Islets Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bcfb8b3bd541953f43229898ef74b423da5700ef",
+                "img_logo_url": "45f3316b44b96dbeb5697430393604315a86f015",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
