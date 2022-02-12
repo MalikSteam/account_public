@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2380,
+        "game_count": 2379,
         "games": [
             {
                 "appid": 92,
@@ -24249,16 +24249,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e1d03da6b5b8c7bbb7f497f821df4b2c3cd40c2a",
                 "img_logo_url": "de0d853be997feb6f60568ac7bd609f23fc6815c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1861480,
-                "name": "Witch Slide Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "aafcc29f05c8dc11860595e70d77d1da7ad131f7",
-                "img_logo_url": "7bb308c54032c09a24834e135ba78fd276ab74c2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
