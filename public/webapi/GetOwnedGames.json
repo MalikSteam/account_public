@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2379,
+        "game_count": 2380,
         "games": [
             {
                 "appid": 92,
@@ -24541,6 +24541,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bcfb8b3bd541953f43229898ef74b423da5700ef",
                 "img_logo_url": "45f3316b44b96dbeb5697430393604315a86f015",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1905470,
+                "name": "Ball Game Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e8e43eb52741a280a2851f6919bbc7a5f126d965",
+                "img_logo_url": "a80319b52c771ae31936b2ea00fb664a776db60f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
