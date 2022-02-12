@@ -11901,16 +11901,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -14011,12 +14011,6 @@
 			<name><![CDATA[Witan]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/486490]]></storeLink>
-		</game>
-		<game>
-			<appID>1861480</appID>
-			<name><![CDATA[Witch Slide Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1861480]]></storeLink>
 		</game>
 		<game>
 			<appID>458890</appID>
