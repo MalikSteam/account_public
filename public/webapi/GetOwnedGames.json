@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2378,
+        "game_count": 2377,
         "games": [
             {
                 "appid": 92,
@@ -24501,16 +24501,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a70a61da25851a10f346496415fccb101e73483c",
                 "img_logo_url": "9c9d8fc9975f83d51d1fff33f2a3744f31baa085",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1900760,
-                "name": "\u6d0b\u6d41\u670b\u514b Ocean Current Punk Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "da4e445d4a1a6ee6343124f27d912954e1d5932f",
-                "img_logo_url": "063ec779b30d7d631e27c1aea7d0ddd0196da04e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
