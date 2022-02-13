@@ -11638,16 +11638,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -14398,12 +14398,6 @@
 			<name><![CDATA[月之暗面 The Dark Side Of The Moon]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/684250]]></storeLink>
-		</game>
-		<game>
-			<appID>1900760</appID>
-			<name><![CDATA[洋流朋克 Ocean Current Punk Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1900760]]></storeLink>
 		</game>
 		<game>
 			<appID>1811580</appID>
