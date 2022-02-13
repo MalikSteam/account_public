@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2376,
+        "game_count": 2377,
         "games": [
             {
                 "appid": 92,
@@ -24441,6 +24441,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "52081a12871127661a447a9346368f25540e12e4",
                 "img_logo_url": "3ec0e118fc9aa8d82424972d1555875f70b44b47",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1881820,
+                "name": "Operation Valor Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3e0c1a9379dc6d2aa77f528ddb3b70c5c702fc9a",
+                "img_logo_url": "0dca24be36c4009d27cfbc489bb882e9026a2e06",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
