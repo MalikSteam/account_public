@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2374,
+        "game_count": 2375,
         "games": [
             {
                 "appid": 92,
@@ -24471,6 +24471,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7a0f7765286f16d7828903ea97dc348b3935e54d",
                 "img_logo_url": "ee6013666ecd6f62e40be6cf656dac831a4b059e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1902270,
+                "name": "Snow Plow Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "192514d9e7c26f84d202541ced729ef08599c1cb",
+                "img_logo_url": "c0832b4da3fbf9f3923d5d3691db6e3adf37a4e7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
