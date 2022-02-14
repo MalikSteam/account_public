@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2377,
+        "game_count": 2376,
         "games": [
             {
                 "appid": 92,
@@ -22228,16 +22228,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2ae2f6c10aa5a91360d77948447f47d2a1979574",
                 "img_logo_url": "b70d763c610e996caec31328cc3387e8e3149883",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1656020,
-                "name": "Mortal Rite Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "881534b6fc27a76de3900f52d1020a83ae5107f6",
-                "img_logo_url": "316d758b42025bbaea20b70f09805eadefe86bf6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
