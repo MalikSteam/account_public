@@ -8147,12 +8147,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1725420]]></storeLink>
 		</game>
 		<game>
-			<appID>1656020</appID>
-			<name><![CDATA[Mortal Rite Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1656020]]></storeLink>
-		</game>
-		<game>
 			<appID>687980</appID>
 			<name><![CDATA[Mothlight]]></name>
 			
@@ -11895,16 +11889,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
