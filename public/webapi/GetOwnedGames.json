@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2375,
+        "game_count": 2376,
         "games": [
             {
                 "appid": 92,
@@ -24471,6 +24471,17 @@
                 "playtime_forever": 0,
                 "img_icon_url": "7a0f7765286f16d7828903ea97dc348b3935e54d",
                 "img_logo_url": "ee6013666ecd6f62e40be6cf656dac831a4b059e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1894710,
+                "name": "Technicity Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6dce3b8c4b45dc5048f5d99469cde83bbbfa9e91",
+                "img_logo_url": "1158bbacfd32f099970a6224e5d3c13fbddecfa2",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
