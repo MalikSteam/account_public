@@ -4613,18 +4613,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -9365,6 +9365,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/356520]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/356520]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/356520/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1854650</appID>
+			<name><![CDATA[Post-Apo Builder Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1854650]]></storeLink>
 		</game>
 		<game>
 			<appID>646400</appID>
