@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2377,
+        "game_count": 2378,
         "games": [
             {
                 "appid": 92,
@@ -23733,6 +23733,16 @@
                 "img_icon_url": "e8924f0912fd03de1e3d8c1e917bbe4d90c4488a",
                 "img_logo_url": "bd8fa00d14610b592e5d95347b0b7d2a860a9fd3",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1807160,
+                "name": "Celestial Empire Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "297daab0e57f4d24ee895c4663945b13039cf437",
+                "img_logo_url": "afbfccd51fc85ae576acd5f5d896ae851cf34f0e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
