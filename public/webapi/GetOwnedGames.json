@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2384,
+        "game_count": 2385,
         "games": [
             {
                 "appid": 92,
@@ -24513,6 +24513,16 @@
                 "img_icon_url": "6dce3b8c4b45dc5048f5d99469cde83bbbfa9e91",
                 "img_logo_url": "1158bbacfd32f099970a6224e5d3c13fbddecfa2",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1895060,
+                "name": "Indy Pro '22: Rebirth of the Territories Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "24c355c39db3a55e11217c7ca7d8cf686f002a2a",
+                "img_logo_url": "1244d13e05abd6afcf42328fa31d1a9cf118df11",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
