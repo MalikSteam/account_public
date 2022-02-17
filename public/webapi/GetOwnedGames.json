@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2382,
+        "game_count": 2383,
         "games": [
             {
                 "appid": 92,
@@ -24513,6 +24513,16 @@
                 "img_icon_url": "6dce3b8c4b45dc5048f5d99469cde83bbbfa9e91",
                 "img_logo_url": "1158bbacfd32f099970a6224e5d3c13fbddecfa2",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1898470,
+                "name": "Home VR Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "069494fddaa743237cda44531d009304c775ee88",
+                "img_logo_url": "2d3d3678df8a0580579f76fbb25fb451837da73c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
