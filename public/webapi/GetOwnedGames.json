@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2383,
+        "game_count": 2384,
         "games": [
             {
                 "appid": 92,
@@ -23550,8 +23550,8 @@
                 "appid": 1778180,
                 "name": "Collapse of Magic Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "f20d8285166fd1d307178dae679d14b6d7eedeb8",
-                "img_logo_url": "9225a13be2098a920f3f8c7137a074c8e13cc0fe",
+                "img_icon_url": "048bdb0c03d5f87911ac686408629b1d40982400",
+                "img_logo_url": "e9fd386615be16cc20572b78bedae1e2988f7efb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -24523,6 +24523,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "069494fddaa743237cda44531d009304c775ee88",
                 "img_logo_url": "2d3d3678df8a0580579f76fbb25fb451837da73c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1898730,
+                "name": "Orbit.Industries Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ee28f8a9748e3dca3c52ca5bb110aa04fa9888c6",
+                "img_logo_url": "da4de84ba5a169b76ddaa3c66005dcf1ca23348b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
