@@ -22031,16 +22031,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1636390,
-                "name": "Hexarchy Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1d27f82833c959a16bfdc9d7ffbf37ca1b308d0b",
-                "img_logo_url": "bdfe9ac7597934dec1f8d001a274f76cc3aa6df4",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1638570,
                 "name": "Hypergliders Playtest",
                 "playtime_forever": 0,
@@ -23604,6 +23594,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3bfb4a8f04ad160f9c61456e49cdda98147161a6",
                 "img_logo_url": "1176032309fb7c8a17ddc1cd844a4d517ede1335",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1784610,
+                "name": "Cafe Owner Simulator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b85e9b1207e7bddae2fced53a332b6967a38e841",
+                "img_logo_url": "c87a911fd6d732ea241736243e08c93781a312a7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
