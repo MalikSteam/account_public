@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2388,
+        "game_count": 2387,
         "games": [
             {
                 "appid": 92,
@@ -24484,16 +24484,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3e0c1a9379dc6d2aa77f528ddb3b70c5c702fc9a",
                 "img_logo_url": "0dca24be36c4009d27cfbc489bb882e9026a2e06",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1884980,
-                "name": "CTRL Phreak Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "25063bc36a5d7e11eb7171abb3799f4625848f53",
-                "img_logo_url": "3273accf865f858664ae9521d353ee48be64d148",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
