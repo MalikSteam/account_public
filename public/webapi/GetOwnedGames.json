@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2386,
+        "game_count": 2387,
         "games": [
             {
                 "appid": 92,
@@ -24603,6 +24603,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "eecf3eb5488d2053ada0edebf408e68921054da5",
                 "img_logo_url": "392e231740a19518053847ea701fbf77ee34f6a3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1905920,
+                "name": "King Rabbit - Race Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c767b12648b07d401a9f5bf62bd76108ade1fbb3",
+                "img_logo_url": "83acfba522f073a4281885f49c0af8cb5cdc1142",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
