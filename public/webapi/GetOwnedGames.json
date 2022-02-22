@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2386,
+        "game_count": 2387,
         "games": [
             {
                 "appid": 92,
@@ -24613,6 +24613,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "06078e4c91b46c86d5ffd186b30203b7d60bba9a",
                 "img_logo_url": "61e290c5f843cef2d9e07a4294153702e0451dac",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1908930,
+                "name": "Descend Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "af590d6ebd86969df5633c3ad5d0ba77c31e3b7b",
+                "img_logo_url": "4bacf48a0e3a971b93bbb266ce6a2321cebb3d12",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
