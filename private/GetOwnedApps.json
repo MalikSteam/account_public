@@ -11232,6 +11232,10 @@
         "name": "Hunter Project: Operation Survive Playtest"
     },
     {
+        "appid": 1900730,
+        "name": "\u5931\u843d\u7684\u738b\u5ea7TCG Playtest"
+    },
+    {
         "appid": 1900760,
         "name": "\u6d0b\u6d41\u670b\u514b Ocean Current Punk Playtest"
     },
@@ -11266,5 +11270,9 @@
     {
         "appid": 1908930,
         "name": "Descend Playtest"
+    },
+    {
+        "appid": 1911810,
+        "name": "The Cruel Dreamer Marchosias Playtest"
     }
 ]
