@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2386,
+        "game_count": 2387,
         "games": [
             {
                 "appid": 92,
@@ -23562,6 +23562,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3bfb4a8f04ad160f9c61456e49cdda98147161a6",
                 "img_logo_url": "1176032309fb7c8a17ddc1cd844a4d517ede1335",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1784200,
+                "name": "The Night Walkers Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e0614fb9afc07b5b0debabdac09e6811cd7d5b1b",
+                "img_logo_url": "3db0321054fcbab1df8643aa69802a8ac266b03c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
