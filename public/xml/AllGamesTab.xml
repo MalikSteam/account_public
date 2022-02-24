@@ -4595,18 +4595,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -14468,6 +14468,12 @@
 			<name><![CDATA[月之暗面 The Dark Side Of The Moon]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/684250]]></storeLink>
+		</game>
+		<game>
+			<appID>1900760</appID>
+			<name><![CDATA[洋流朋克 Ocean Current Punk Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1900760]]></storeLink>
 		</game>
 		<game>
 			<appID>1811580</appID>
