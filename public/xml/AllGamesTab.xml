@@ -4595,18 +4595,18 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/343750]]></storeLink>
 		</game>
 		<game>
+			<appID>1736380</appID>
+			<name><![CDATA[Fireside Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
+		</game>
+		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Fireside Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1726030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1726030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1726030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1736380</appID>
-			<name><![CDATA[Fireside Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736380]]></storeLink>
 		</game>
 		<game>
 			<appID>351630</appID>
@@ -7457,6 +7457,12 @@
 			<name><![CDATA[MagixHome VR]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/537060]]></storeLink>
+		</game>
+		<game>
+			<appID>1810640</appID>
+			<name><![CDATA[Magnet Crusher Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1810640]]></storeLink>
 		</game>
 		<game>
 			<appID>1751580</appID>
