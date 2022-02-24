@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2389,
+        "game_count": 2390,
         "games": [
             {
                 "appid": 92,
@@ -23784,6 +23784,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e4556d203c63771d827b67b06e4b048f5a1dbd34",
                 "img_logo_url": "83bcc7dc26f312438fdf493cfff2b0cc380dfd99",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1810640,
+                "name": "Magnet Crusher Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "101e4cd951d3c83ea1f2182fd4232d9d49613118",
+                "img_logo_url": "fa23f757c19bcc49616e414df54489a7dc1d1c16",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
