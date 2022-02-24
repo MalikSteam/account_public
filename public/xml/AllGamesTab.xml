@@ -9030,6 +9030,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1715110]]></storeLink>
 		</game>
 		<game>
+			<appID>1910190</appID>
+			<name><![CDATA[Peril Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1910190]]></storeLink>
+		</game>
+		<game>
 			<appID>545570</appID>
 			<name><![CDATA[PHAT PHROG]]></name>
 			
@@ -11927,16 +11933,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
