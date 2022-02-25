@@ -7353,6 +7353,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1692680]]></storeLink>
 		</game>
 		<game>
+			<appID>1916530</appID>
+			<name><![CDATA[Lúcido Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1916530]]></storeLink>
+		</game>
+		<game>
 			<appID>212200</appID>
 			<name><![CDATA[Mabinogi]]></name>
 			
@@ -10079,12 +10085,6 @@
 			<name><![CDATA[Riftnote Beta]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1612090]]></storeLink>
-		</game>
-		<game>
-			<appID>1886430</appID>
-			<name><![CDATA[Ring of Titans Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1886430]]></storeLink>
 		</game>
 		<game>
 			<appID>574440</appID>
