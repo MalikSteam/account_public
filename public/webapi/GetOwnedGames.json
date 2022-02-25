@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2388,
+        "game_count": 2387,
         "games": [
             {
                 "appid": 92,
@@ -24623,16 +24623,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "af590d6ebd86969df5633c3ad5d0ba77c31e3b7b",
                 "img_logo_url": "4bacf48a0e3a971b93bbb266ce6a2321cebb3d12",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1911810,
-                "name": "The Cruel Dreamer Marchosias Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "2c94affd7760ff99ca2ef6259fff47d88314c5b6",
-                "img_logo_url": "510343ec01f465e3ad90068493cdc7dc68a08687",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
