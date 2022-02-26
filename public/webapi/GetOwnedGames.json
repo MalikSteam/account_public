@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2388,
+        "game_count": 2389,
         "games": [
             {
                 "appid": 92,
@@ -24633,6 +24633,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "6edda22fcc54a3ad388326e6dce1fceff3643707",
                 "img_logo_url": "31e210a8fed3f04542dbfdf466f8812c1ec88a17",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1918580,
+                "name": "Pluto's Island Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1feaea4d46ff593bebb25ae99862932510948b9d",
+                "img_logo_url": "89c4821f2a89a66bc433a74f9ee3849ea53ebd85",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
