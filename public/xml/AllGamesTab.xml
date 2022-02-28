@@ -3812,20 +3812,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -8338,8 +8338,6 @@
 			<name><![CDATA[Neon Force Pushers]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/835450]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/835450]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/835450/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>740250</appID>
@@ -9706,12 +9704,6 @@
 			<name><![CDATA[Quintet]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/340350]]></storeLink>
-		</game>
-		<game>
-			<appID>1878700</appID>
-			<name><![CDATA[R.E.A.C.T Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1878700]]></storeLink>
 		</game>
 		<game>
 			<appID>1676540</appID>
