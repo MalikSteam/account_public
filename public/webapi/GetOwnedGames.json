@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2389,
+        "game_count": 2388,
         "games": [
             {
                 "appid": 92,
@@ -18406,7 +18406,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a489f5abf1b566267b4999045135a5e2a7ebba73",
                 "img_logo_url": "d58df17be5b51f631cdb81ecd593bf88b7a8796c",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -24402,16 +24401,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f3b913c7cc7b85d70ea2e388083d394aae17436e",
                 "img_logo_url": "d483f1983056e6615e0fe97ecebdd621abae01a0",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1878700,
-                "name": "R.E.A.C.T Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "4e5df1398783067c75f794492ae9c4320e714b8d",
-                "img_logo_url": "b860f66622b2a16e5adf11cb4b7c89118125ef00",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
