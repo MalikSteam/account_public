@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2390,
+        "game_count": 2392,
         "games": [
             {
                 "appid": 92,
@@ -23707,6 +23707,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1798030,
+                "name": "The Vaults Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a77845765a62c8a7287e2d70eccf32e629d860a4",
+                "img_logo_url": "c28758675179f6ad9c9596b596870bd9fb52ffee",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1799830,
                 "name": "EXP: War Trauma Playtest",
                 "playtime_forever": 0,
@@ -24198,6 +24208,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "95a0669735e48952a45559bd40e444e680b30a5a",
                 "img_logo_url": "268233c777d7eee2ae2f939886ffaab744fa2cb8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1855790,
+                "name": "Aquarist Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ad778a2a6d031ce259c31361c0ee1ed323cc14a1",
+                "img_logo_url": "ebe3e3d065bf516d970f10daa44ac77ab229a7e4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
