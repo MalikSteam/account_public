@@ -11635,6 +11635,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/104700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1863230</appID>
+			<name><![CDATA[Supernova Tactics Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1863230]]></storeLink>
+		</game>
+		<game>
 			<appID>1619990</appID>
 			<name><![CDATA[SUPER PEOPLE CBT]]></name>
 			
@@ -11672,16 +11678,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -11937,16 +11943,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
