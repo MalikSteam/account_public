@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2389,
+        "game_count": 2390,
         "games": [
             {
                 "appid": 92,
@@ -24269,6 +24269,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f401911358312e47563877dd60df2110489efae7",
                 "img_logo_url": "d3a4c4a9f1b511cf19e6eee574d14e8e1b085694",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1863230,
+                "name": "Supernova Tactics Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d75624b79a509da7c43d781ba6ce5322b327e854",
+                "img_logo_url": "e786725cdb584d44024c2dd67109735bb8a79e67",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
