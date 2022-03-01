@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2388,
+        "game_count": 2389,
         "games": [
             {
                 "appid": 92,
@@ -24592,6 +24592,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "06078e4c91b46c86d5ffd186b30203b7d60bba9a",
                 "img_logo_url": "61e290c5f843cef2d9e07a4294153702e0451dac",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1908070,
+                "name": "Captain Soda Alpha Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9313bfa007068c67b17a1b85327b907561fb9d8f",
+                "img_logo_url": "055d0d96c7166e8677958c79b8f08b2b58791578",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
