@@ -23723,6 +23723,7 @@
                 "playtime_forever": 0,
                 "img_icon_url": "a77845765a62c8a7287e2d70eccf32e629d860a4",
                 "img_logo_url": "c28758675179f6ad9c9596b596870bd9fb52ffee",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
