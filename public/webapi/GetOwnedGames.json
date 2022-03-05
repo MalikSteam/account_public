@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2396,
+        "game_count": 2395,
         "games": [
             {
                 "appid": 92,
@@ -22198,16 +22198,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "397c05829e9ff03113c4671bcdedb6db8d79c9e3",
                 "img_logo_url": "c50478b2d8c3a1ae4738a5e9be6a3031bb3d0f11",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1652200,
-                "name": "subROV Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3bc0379c5cd9c00598cd9f54b1ab183eb60c660b",
-                "img_logo_url": "1fa083a9c4f0c70b16a6766a3978bd1fb5c1fae9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
