@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2395,
+        "game_count": 2396,
         "games": [
             {
                 "appid": 92,
@@ -24704,6 +24704,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1feaea4d46ff593bebb25ae99862932510948b9d",
                 "img_logo_url": "89c4821f2a89a66bc433a74f9ee3849ea53ebd85",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1921400,
+                "name": "Note Brawl Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "499e66cc0caba3efca7f2f6e374dd185f0160816",
+                "img_logo_url": "1b347d761d9d931680a2c1b459269438a8ebc7ce",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
