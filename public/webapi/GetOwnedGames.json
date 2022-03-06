@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2396,
+        "game_count": 2397,
         "games": [
             {
                 "appid": 92,
@@ -24584,6 +24584,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "3f326358cc185076eedca84a89a51c02817b311e",
                 "img_logo_url": "955567531bc368f3992b8a7ad77e4e56d1145646",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1901000,
+                "name": "Restart Zero Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "38fa4f53605afa52b244857c4922e57d73185e11",
+                "img_logo_url": "338017827f6fff52e2037d5ca29a81d0906af3b3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
