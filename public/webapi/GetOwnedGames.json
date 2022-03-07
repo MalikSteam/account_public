@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2398,
+        "game_count": 2397,
         "games": [
             {
                 "appid": 92,
@@ -24654,16 +24654,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "c767b12648b07d401a9f5bf62bd76108ade1fbb3",
                 "img_logo_url": "83acfba522f073a4281885f49c0af8cb5cdc1142",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1906060,
-                "name": "Lumencraft Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "06078e4c91b46c86d5ffd186b30203b7d60bba9a",
-                "img_logo_url": "61e290c5f843cef2d9e07a4294153702e0451dac",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
