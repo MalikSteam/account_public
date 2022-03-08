@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2396,
+        "game_count": 2395,
         "games": [
             {
                 "appid": 92,
@@ -1172,17 +1172,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e5261501c78d38e16e4b1fff2655965d2e1265c9",
                 "img_logo_url": "865fe58aa6bc656f70541a62a08d2eb71f60ea06",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 272350,
-                "name": "Tom Clancy's Ghost Recon Phantoms - EU",
-                "playtime_forever": 0,
-                "img_icon_url": "7ca714724bfc22fc9601d8b65f65c47f5d4103f3",
-                "img_logo_url": "e6d16e51104bc385e99ff6b14f5fb016c813590d",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
