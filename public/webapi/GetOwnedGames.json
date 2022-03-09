@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2396,
+        "game_count": 2395,
         "games": [
             {
                 "appid": 92,
@@ -21909,15 +21909,6 @@
                 "name": "Chaotic Nightmare",
                 "playtime_forever": 0,
                 "img_icon_url": "e1d03da6b5b8c7bbb7f497f821df4b2c3cd40c2a",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1862090,
-                "name": "Buggy Game Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "80e4a20d6e33893e9656559d4985aba257ee6ee8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
