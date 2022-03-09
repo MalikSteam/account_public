@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2395,
+        "game_count": 2394,
         "games": [
             {
                 "appid": 92,
@@ -19440,16 +19440,6 @@
                 "name": "Hop Skip Jump Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "d866f54ce9a2bf3a4786de78ce0473f826545e1c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1613800,
-                "name": "Tidewoken Public Test",
-                "playtime_forever": 0,
-                "img_icon_url": "f31d6af59bb459310c10ed6d7fde83ae30201193",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
