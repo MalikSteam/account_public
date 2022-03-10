@@ -11338,5 +11338,9 @@
     {
         "appid": 1921400,
         "name": "Note Brawl Playtest"
+    },
+    {
+        "appid": 1930020,
+        "name": "Ignis Corruption Playtest"
     }
 ]
