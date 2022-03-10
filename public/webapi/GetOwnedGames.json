@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2393,
+        "game_count": 2392,
         "games": [
             {
                 "appid": 92,
@@ -20977,16 +20977,6 @@
                 "name": "Graduated Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "492f192b53a3e1b5a64bb374963cf13269589649",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1749130,
-                "name": "LEMURIA playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "47995f39dedf3be1a7822dfd6d303ea28b29d327",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
