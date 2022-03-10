@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2393,
+        "game_count": 2394,
         "games": [
             {
                 "appid": 92,
@@ -22261,6 +22261,16 @@
                 "name": "L\u00facido Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "6edda22fcc54a3ad388326e6dce1fceff3643707",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1916620,
+                "name": "ChestMate Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9fccbcb34227090347d0af51cf2d04383fa8d246",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
