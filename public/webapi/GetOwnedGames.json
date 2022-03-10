@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2394,
+        "game_count": 2393,
         "games": [
             {
                 "appid": 92,
@@ -20532,15 +20532,6 @@
                 "name": "Two Against the Legion Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "67d3685a6bced80a424ef3c364e43fe9864a3c98",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1695960,
-                "name": "NeverDeath Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "87d62a2b9705a9b9735da2dacb2d5e5512aa16c5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
