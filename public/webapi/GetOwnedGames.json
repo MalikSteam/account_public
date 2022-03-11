@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2394,
+        "game_count": 2395,
         "games": [
             {
                 "appid": 92,
@@ -22044,6 +22044,15 @@
                 "name": "Society's Paradigms Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f3b913c7cc7b85d70ea2e388083d394aae17436e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1878700,
+                "name": "R.E.A.C.T Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4e5df1398783067c75f794492ae9c4320e714b8d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
