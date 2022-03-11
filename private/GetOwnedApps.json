@@ -11008,6 +11008,10 @@
         "name": "Skullborn Playtest"
     },
     {
+        "appid": 1843870,
+        "name": "Obscurity: Unknown Threat Playtest"
+    },
+    {
         "appid": 1844480,
         "name": "Software Company Playtest"
     },
@@ -11346,5 +11350,9 @@
     {
         "appid": 1930020,
         "name": "Ignis Corruption Playtest"
+    },
+    {
+        "appid": 1931630,
+        "name": "Island Assault Playtest"
     }
 ]
