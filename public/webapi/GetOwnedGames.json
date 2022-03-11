@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2396,
+        "game_count": 2398,
         "games": [
             {
                 "appid": 92,
@@ -21731,6 +21731,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1843870,
+                "name": "Obscurity: Unknown Threat Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d5242d6767e0b67218f32014ce78b9f00441b737",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1844480,
                 "name": "Software Company Playtest",
                 "playtime_forever": 0,
@@ -22316,6 +22325,15 @@
                 "name": "Ignis Corruption Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "931f23ae44286f6f419be2a4071e13f2503208d6",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1931630,
+                "name": "Island Assault Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d78b540d3f55be8884514a2f30e42d22c8c94ce3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
