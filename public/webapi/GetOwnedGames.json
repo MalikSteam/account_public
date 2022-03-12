@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2396,
+        "game_count": 2395,
         "games": [
             {
                 "appid": 92,
@@ -22089,15 +22089,6 @@
                 "name": "Ex0 Escape Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "18c4646ece04efeda00efb82f9c2e8c2b0eced6c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1887240,
-                "name": "World War 3 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "091387afc53c2f1a7488950dd5cd15c7c7745f0a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
