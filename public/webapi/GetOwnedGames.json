@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2398,
+        "game_count": 2397,
         "games": [
             {
                 "appid": 92,
@@ -22116,15 +22116,6 @@
                 "name": "LPTG Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ed66ebf63cadc5f7b9f5de1767f04b9fbbcaaf22",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1890720,
-                "name": "American Theft 80s Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7a0f7765286f16d7828903ea97dc348b3935e54d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
