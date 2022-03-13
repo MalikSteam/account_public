@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2395,
+        "game_count": 2394,
         "games": [
             {
                 "appid": 92,
@@ -22298,15 +22298,6 @@
                 "name": "Ignis Corruption Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "931f23ae44286f6f419be2a4071e13f2503208d6",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1931630,
-                "name": "Island Assault Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d78b540d3f55be8884514a2f30e42d22c8c94ce3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
