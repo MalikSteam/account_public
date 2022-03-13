@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2393,
+        "game_count": 2392,
         "games": [
             {
                 "appid": 92,
@@ -21340,15 +21340,6 @@
                 "name": "Star Pilot Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "d3dede98fc47eb595d23587a9f7081d13cc7c7e2",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1796700,
-                "name": "Secret of Sardinia Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "9ac4f5553e5c2573837338e42612e1cc72353670",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
