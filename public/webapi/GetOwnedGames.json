@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2394,
+        "game_count": 2393,
         "games": [
             {
                 "appid": 92,
@@ -22289,15 +22289,6 @@
                 "name": "Note Brawl Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "499e66cc0caba3efca7f2f6e374dd185f0160816",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1930020,
-                "name": "Ignis Corruption Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "931f23ae44286f6f419be2a4071e13f2503208d6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
