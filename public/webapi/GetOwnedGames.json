@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2392,
+        "game_count": 2391,
         "games": [
             {
                 "appid": 92,
@@ -21744,15 +21744,6 @@
                 "name": "RocketBallZ Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "80c48a8031a0cfd18fd682e1fa6dca439bc11d45",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1849500,
-                "name": "Draken Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "719cacf37c9915d100d07a444193a05da93fefe0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
