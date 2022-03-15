@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2390,
+        "game_count": 2391,
         "games": [
             {
                 "appid": 92,
@@ -22262,6 +22262,15 @@
                 "name": "Note Brawl Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "499e66cc0caba3efca7f2f6e374dd185f0160816",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1934630,
+                "name": "FunWar Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b24325dbcbe4644eb7b1e8e2817d610a8a76d196",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
