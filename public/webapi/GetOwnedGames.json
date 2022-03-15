@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2391,
+        "game_count": 2392,
         "games": [
             {
                 "appid": 92,
@@ -22080,6 +22080,15 @@
                 "name": "LPTG Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ed66ebf63cadc5f7b9f5de1767f04b9fbbcaaf22",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1890290,
+                "name": "Ash & Rust Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bff5c480a76423cc621d5a900b1885a39ad698b4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
