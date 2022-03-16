@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2393,
+        "game_count": 2392,
         "games": [
             {
                 "appid": 92,
@@ -22271,15 +22271,6 @@
                 "name": "Note Brawl Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "499e66cc0caba3efca7f2f6e374dd185f0160816",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1928730,
-                "name": "Nebula Realms Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d079d7bc7e0e07297b7e9b28633eadcf28d6c214",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
