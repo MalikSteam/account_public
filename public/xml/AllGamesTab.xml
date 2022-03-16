@@ -4715,6 +4715,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/528580]]></storeLink>
 		</game>
 		<game>
+			<appID>1932560</appID>
+			<name><![CDATA[FPS Arena Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1932560]]></storeLink>
+		</game>
+		<game>
 			<appID>691730</appID>
 			<name><![CDATA[FPV Drone Simulator]]></name>
 			
@@ -11691,16 +11697,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
