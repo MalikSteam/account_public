@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2393,
+        "game_count": 2394,
         "games": [
             {
                 "appid": 92,
@@ -22135,6 +22135,15 @@
                 "name": "Orbit.Industries Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ee28f8a9748e3dca3c52ca5bb110aa04fa9888c6",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1899870,
+                "name": "Hunter Project: Operation Survive Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a70a61da25851a10f346496415fccb101e73483c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
