@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2397,
+        "game_count": 2398,
         "games": [
             {
                 "appid": 92,
@@ -21862,6 +21862,15 @@
                 "name": "Eternal Exodus Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ccf4a0fc087313d22047aa117dd4e697a9d4f4ca",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1857480,
+                "name": "\u957f\u5b89\u5730\u4e0b\u57ce Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fcf816cfd222d08c9bafbc2d89d7ad38f45dcd22",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
