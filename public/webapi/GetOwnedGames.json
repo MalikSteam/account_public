@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2396,
+        "game_count": 2397,
         "games": [
             {
                 "appid": 92,
@@ -22316,6 +22316,15 @@
                 "name": "FunWar Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b24325dbcbe4644eb7b1e8e2817d610a8a76d196",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1936690,
+                "name": "Gladiator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "67c0b90444f1fc3f150b0d980dae3934a41a78db",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
