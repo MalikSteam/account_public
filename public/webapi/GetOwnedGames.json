@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2399,
+        "game_count": 2400,
         "games": [
             {
                 "appid": 92,
@@ -22344,6 +22344,15 @@
                 "name": "Gladiator Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "67c0b90444f1fc3f150b0d980dae3934a41a78db",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1936930,
+                "name": "GHOSTWARE: Arena of the Dead [PLAYTEST]",
+                "playtime_forever": 0,
+                "img_icon_url": "b71c1736027d76cf5f32212ac94ac035529e97fb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
