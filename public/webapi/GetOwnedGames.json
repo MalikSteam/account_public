@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2400,
+        "game_count": 2401,
         "games": [
             {
                 "appid": 92,
@@ -21662,6 +21662,15 @@
                 "name": "December 24th Open Test",
                 "playtime_forever": 0,
                 "img_icon_url": "dfbe994d94a291aa9800f4bd1f9284dc34c68612",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1835000,
+                "name": "Bean Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3db61f9c21becf1c7d6e598a859541ad48e05578",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
