@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2401,
+        "game_count": 2402,
         "games": [
             {
                 "appid": 92,
@@ -22353,6 +22353,15 @@
                 "name": "GHOSTWARE: Arena of the Dead [PLAYTEST]",
                 "playtime_forever": 0,
                 "img_icon_url": "b71c1736027d76cf5f32212ac94ac035529e97fb",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1937450,
+                "name": "Ship Simulator Realistic Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f4003aad68f1f4450e7d33b105cc790ba857b1ca",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
