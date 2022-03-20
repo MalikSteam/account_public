@@ -10491,6 +10491,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/422250/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1937450</appID>
+			<name><![CDATA[Ship Simulator Realistic Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1937450]]></storeLink>
+		</game>
+		<game>
 			<appID>492800</appID>
 			<name><![CDATA[Shonen Idle Z]]></name>
 			
@@ -11741,16 +11747,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
