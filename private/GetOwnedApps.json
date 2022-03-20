@@ -11398,5 +11398,9 @@
     {
         "appid": 1937630,
         "name": "Star Salvager Playtest"
+    },
+    {
+        "appid": 1940990,
+        "name": "Ironsight Test Server"
     }
 ]
