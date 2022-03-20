@@ -19728,15 +19728,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1625870,
-                "name": "Squirrelmageddon! Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7e2dec01966c8247c439dffff7c5021b3cf47177",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1627370,
                 "name": "Space Mavericks Playtest",
                 "playtime_forever": 0,
@@ -22362,6 +22353,15 @@
                 "name": "GHOSTWARE: Arena of the Dead [PLAYTEST]",
                 "playtime_forever": 0,
                 "img_icon_url": "b71c1736027d76cf5f32212ac94ac035529e97fb",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1937630,
+                "name": "Star Salvager Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5d35720022628a4181f5bc762ed4e59d634e8e33",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
