@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2403,
+        "game_count": 2402,
         "games": [
             {
                 "appid": 92,
@@ -22200,15 +22200,6 @@
                 "name": "Ball Game Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "e8e43eb52741a280a2851f6919bbc7a5f126d965",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1905670,
-                "name": "The Masters: Survival Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f22baac995918cf773cc4eeca14c998b1336b12e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
