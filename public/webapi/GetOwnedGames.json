@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2400,
+        "game_count": 2399,
         "games": [
             {
                 "appid": 92,
@@ -21443,15 +21443,6 @@
                 "name": "Hidden Deep Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "e4556d203c63771d827b67b06e4b048f5a1dbd34",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1810640,
-                "name": "Magnet Crusher Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "101e4cd951d3c83ea1f2182fd4232d9d49613118",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
