@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2400,
+        "game_count": 2399,
         "games": [
             {
                 "appid": 92,
@@ -22272,15 +22272,6 @@
                 "name": "Reversilly Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "898d7695e3e995623481fb84460b0f0341d1800e",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1929490,
-                "name": "Medusa Sky: Survival Frontier Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ff6e57c82dbab6ef64be2ea02878c48511a79f93",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
