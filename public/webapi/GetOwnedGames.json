@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2399,
+        "game_count": 2400,
         "games": [
             {
                 "appid": 92,
@@ -22344,6 +22344,15 @@
                 "name": "Ironsight Test Server",
                 "playtime_forever": 0,
                 "img_icon_url": "7b72cbd5d3725688ae8dc3f9b5d99729384ff7cf",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1941090,
+                "name": "\u68a6\u5e7b\u4e09\u56fd2 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "748cac17f77020690f2613cdc8c07d00c59bf2ca",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
