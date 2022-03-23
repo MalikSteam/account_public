@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2401,
+        "game_count": 2402,
         "games": [
             {
                 "appid": 92,
@@ -21607,6 +21607,15 @@
                 "name": "Trash Sailors Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b1b5868111db3e83c4368967514cb0c6843936c2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1827050,
+                "name": "Afterimage Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1b2260c479fb37fa543ec09543fa2e3d8a817b78",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
