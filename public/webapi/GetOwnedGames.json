@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2404,
+        "game_count": 2405,
         "games": [
             {
                 "appid": 92,
@@ -18810,6 +18810,15 @@
                 "name": "Rise Of The Overlords Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "4ea9f3d2a4953282fa44cd2ddfd984dcb79e6be3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1478860,
+                "name": "Builder Simulator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d6994d09c3d5460009e23927eb1fba6d83518bac",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
