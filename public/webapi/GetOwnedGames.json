@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2402,
+        "game_count": 2404,
         "games": [
             {
                 "appid": 92,
@@ -20200,6 +20200,16 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1666300,
+                "name": "Rogue Company Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ec36ff029402b9cf4e1f7829f293fd12a71e6ce1",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1667450,
                 "name": "Master Of Earth Playtest",
                 "playtime_forever": 0,
@@ -22371,6 +22381,15 @@
                 "name": "LuPR: Lunar Post Recruit Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ad467cf9e5d7fb06df9e7b164eb5cf4ebf4ff4fd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1942620,
+                "name": "RSOD Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "47e9ceb89bdb0da60925499ceb3e4d0e40c38357",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
