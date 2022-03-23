@@ -9480,6 +9480,10 @@
         "name": "Tire Friend Playtest"
     },
     {
+        "appid": 1625380,
+        "name": "MIA Playtest"
+    },
+    {
         "appid": 1625640,
         "name": "AB AETERNO Playtest"
     },
@@ -11410,5 +11414,9 @@
     {
         "appid": 1941090,
         "name": "\u68a6\u5e7b\u4e09\u56fd2 Playtest"
+    },
+    {
+        "appid": 1941530,
+        "name": "LuPR: Lunar Post Recruit Playtest"
     }
 ]
