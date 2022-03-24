@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2405,
+        "game_count": 2406,
         "games": [
             {
                 "appid": 92,
@@ -22318,6 +22318,15 @@
                 "name": "Reversilly Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "898d7695e3e995623481fb84460b0f0341d1800e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1931530,
+                "name": "Groove Fit Island!! Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "0d8e3f7b77b1eba093bd9db43dfb7b7726ab88a0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
