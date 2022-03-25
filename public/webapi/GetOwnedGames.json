@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2405,
+        "game_count": 2404,
         "games": [
             {
                 "appid": 92,
@@ -20203,16 +20203,6 @@
                 "name": "Audioclash Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "25fc39ee8da2d38f8616fbc99c1f85b4831f9d06",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1666300,
-                "name": "Rogue Company Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ec36ff029402b9cf4e1f7829f293fd12a71e6ce1",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
