@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2406,
+        "game_count": 2405,
         "games": [
             {
                 "appid": 92,
@@ -20997,15 +20997,6 @@
                 "name": "S.I.N. Unit Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b9ad2f1dc6bdaa8500c2d46a456ee09d9868afcd",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1746320,
-                "name": "Graduated Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "492f192b53a3e1b5a64bb374963cf13269589649",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
