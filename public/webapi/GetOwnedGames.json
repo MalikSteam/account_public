@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2408,
+        "game_count": 2407,
         "games": [
             {
                 "appid": 92,
@@ -22363,15 +22363,6 @@
                 "name": "GHOSTWARE: Arena of the Dead [PLAYTEST]",
                 "playtime_forever": 0,
                 "img_icon_url": "b71c1736027d76cf5f32212ac94ac035529e97fb",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1937630,
-                "name": "Star Salvager Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "5d35720022628a4181f5bc762ed4e59d634e8e33",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
