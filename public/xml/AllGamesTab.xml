@@ -11263,12 +11263,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/438140]]></storeLink>
 		</game>
 		<game>
-			<appID>1937630</appID>
-			<name><![CDATA[Star Salvager Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1937630]]></storeLink>
-		</game>
-		<game>
 			<appID>815040</appID>
 			<name><![CDATA[Star Trek Adversaries]]></name>
 			
@@ -11512,16 +11506,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
