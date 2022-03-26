@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2406,
+        "game_count": 2407,
         "games": [
             {
                 "appid": 92,
@@ -22137,6 +22137,15 @@
                 "name": "Indy Pro '22: Rebirth of the Territories Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "24c355c39db3a55e11217c7ca7d8cf686f002a2a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1896360,
+                "name": "Get Tanked! Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "64af59577b9664128478a2d74b00c217c5ed01d7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
