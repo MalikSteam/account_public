@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2408,
+        "game_count": 2409,
         "games": [
             {
                 "appid": 92,
@@ -22082,6 +22082,15 @@
                 "name": "Operation Valor Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "3e0c1a9379dc6d2aa77f528ddb3b70c5c702fc9a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1884490,
+                "name": "Shibadungeon Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5f46faaf9a74355f744529fd1aeb59717d89c3f9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
