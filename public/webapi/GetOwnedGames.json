@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2408,
+        "game_count": 2409,
         "games": [
             {
                 "appid": 92,
@@ -19231,6 +19231,15 @@
                 "name": "GRIT Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f45f36e645ab90c6644375fabdc8b61c3ecd9bbd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1584670,
+                "name": "HAAK Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "282b2bd455a775b831d162441b226658fe070ba7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
