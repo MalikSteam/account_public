@@ -13673,6 +13673,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/107900/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1603440</appID>
+			<name><![CDATA[War Lab Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1603440]]></storeLink>
+		</game>
+		<game>
 			<appID>253510</appID>
 			<name><![CDATA[Warmachine Tactics]]></name>
 			
