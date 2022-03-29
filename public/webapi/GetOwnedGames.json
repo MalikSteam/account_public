@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2409,
+        "game_count": 2410,
         "games": [
             {
                 "appid": 92,
@@ -22390,6 +22390,15 @@
                 "name": "RACING BROS: ONLINE Playtest v0.01",
                 "playtime_forever": 0,
                 "img_icon_url": "9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1940130,
+                "name": "\u4e09\u56fd\u4ec1\u4e49\u4f20 the Romantic of Righteousness: SanGuo Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "eb6001319ceec8d79e82540c351da197f932cae3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
