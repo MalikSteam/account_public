@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2412,
+        "game_count": 2413,
         "games": [
             {
                 "appid": 92,
@@ -22326,6 +22326,15 @@
                 "name": "Reversilly Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "898d7695e3e995623481fb84460b0f0341d1800e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1928070,
+                "name": "Rightfully, Beary Arms Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f3c499c2c539e81781709c4f7d68e8a84a672e80",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
