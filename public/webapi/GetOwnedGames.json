@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2417,
+        "game_count": 2418,
         "games": [
             {
                 "appid": 92,
@@ -22499,6 +22499,15 @@
                 "name": "Planet Theta Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "6a27d1a66a21a131e9e1c21dd318fd80fb9c9146",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1942430,
+                "name": "Constellations: Puzzles in the Sky Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4c782cd7ee75e8e674adcfd680d9260e363360c6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
