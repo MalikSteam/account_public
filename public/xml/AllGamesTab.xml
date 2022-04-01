@@ -5694,12 +5694,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/464050/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1770610</appID>
-			<name><![CDATA[Heroes of Agora Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1770610]]></storeLink>
-		</game>
-		<game>
 			<appID>676490</appID>
 			<name><![CDATA[Heroes of Civilizations]]></name>
 			
@@ -11841,16 +11835,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
