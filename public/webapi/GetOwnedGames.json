@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2418,
+        "game_count": 2419,
         "games": [
             {
                 "appid": 92,
@@ -22517,6 +22517,15 @@
                 "name": "RSOD Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "47e9ceb89bdb0da60925499ceb3e4d0e40c38357",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1945040,
+                "name": "Vector Assault 2 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bbc9a738685e555ab5dc2fe5de1b0f5473aefc3b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
