@@ -11168,6 +11168,10 @@
         "name": "\u5929\u4e0b\u9556\u5c40 Playtest"
     },
     {
+        "appid": 1867390,
+        "name": "Camp Wars Playtest"
+    },
+    {
         "appid": 1869140,
         "name": "Bushi Playtest"
     },
@@ -11486,5 +11490,9 @@
     {
         "appid": 1945040,
         "name": "Vector Assault 2 Playtest"
+    },
+    {
+        "appid": 1946870,
+        "name": "Thunder League Playtest"
     }
 ]
