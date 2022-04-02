@@ -2075,6 +2075,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/485650/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1867390</appID>
+			<name><![CDATA[Camp Wars Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1867390]]></storeLink>
+		</game>
+		<game>
 			<appID>265770</appID>
 			<name><![CDATA[Cannons Lasers Rockets]]></name>
 			
@@ -11570,16 +11576,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12587,6 +12593,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/646960]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/646960]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/646960/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1946870</appID>
+			<name><![CDATA[Thunder League Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1946870]]></storeLink>
 		</game>
 		<game>
 			<appID>534500</appID>
