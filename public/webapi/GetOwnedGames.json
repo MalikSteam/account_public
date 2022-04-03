@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2423,
+        "game_count": 2422,
         "games": [
             {
                 "appid": 92,
@@ -22363,15 +22363,6 @@
                 "name": "Note Brawl Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "499e66cc0caba3efca7f2f6e374dd185f0160816",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1927060,
-                "name": "Reversilly Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "898d7695e3e995623481fb84460b0f0341d1800e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
