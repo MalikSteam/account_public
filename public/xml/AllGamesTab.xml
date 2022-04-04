@@ -9929,12 +9929,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/29110]]></storeLink>
 		</game>
 		<game>
-			<appID>1472070</appID>
-			<name><![CDATA[RetroArch Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1472070]]></storeLink>
-		</game>
-		<game>
 			<appID>357370</appID>
 			<name><![CDATA[Return NULL - Episode 1]]></name>
 			
@@ -11586,16 +11580,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
