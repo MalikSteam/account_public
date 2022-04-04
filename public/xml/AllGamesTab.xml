@@ -8202,6 +8202,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/264380/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1839770</appID>
+			<name><![CDATA[Nargül - Humans are among us]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1839770]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1839770]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1839770/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>675560</appID>
 			<name><![CDATA[NAVYFIELD]]></name>
 			
@@ -10790,6 +10798,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1495960]]></storeLink>
 		</game>
 		<game>
+			<appID>1948510</appID>
+			<name><![CDATA[Sleep Paralysis: The Uncanny Valley Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1948510]]></storeLink>
+		</game>
+		<game>
 			<appID>1734660</appID>
 			<name><![CDATA[Slimefrog Playtest]]></name>
 			
@@ -11843,16 +11857,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
