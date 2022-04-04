@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2422,
+        "game_count": 2421,
         "games": [
             {
                 "appid": 92,
@@ -22483,15 +22483,6 @@
                 "name": "Berserk Boy Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "2ae5811055d28887fcb94afb70c5ffada1b70390",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1942290,
-                "name": "Planet Theta Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "6a27d1a66a21a131e9e1c21dd318fd80fb9c9146",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
