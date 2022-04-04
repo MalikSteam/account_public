@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2422,
+        "game_count": 2421,
         "games": [
             {
                 "appid": 92,
@@ -18701,15 +18701,6 @@
                 "name": "HordeCore Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "5c94b28cf89340896a0292563a39e4b61f84e447",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1472070,
-                "name": "RetroArch Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3885a79d0088a6b265ed5cb50a80eb58ee12e027",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
