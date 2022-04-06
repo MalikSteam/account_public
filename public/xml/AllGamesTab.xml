@@ -4651,6 +4651,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/937350/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1861060</appID>
+			<name><![CDATA[FOONDA Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1861060]]></storeLink>
+		</game>
+		<game>
 			<appID>368980</appID>
 			<name><![CDATA[Force of Elements]]></name>
 			
