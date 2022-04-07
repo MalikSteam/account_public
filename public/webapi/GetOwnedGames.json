@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2420,
+        "game_count": 2421,
         "games": [
             {
                 "appid": 92,
@@ -22537,6 +22537,15 @@
                 "name": "Pale Night Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "19b8b0f74fd0fbcfb5394c44a1f2c165762067ba",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1956380,
+                "name": "Sovereign Syndicate Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "60dbfba97d56d442e805d1ba0211942727c3a84f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
