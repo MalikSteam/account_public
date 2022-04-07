@@ -8024,10 +8024,6 @@
         "name": "WorldQuest"
     },
     {
-        "appid": 855020,
-        "name": "Marie's Room - Soundtrack"
-    },
-    {
         "appid": 855910,
         "name": "Behind The Schemes: Swords of Ditto (onebitbeyond)"
     },
@@ -11526,5 +11522,9 @@
     {
         "appid": 1951510,
         "name": "Pale Night Playtest"
+    },
+    {
+        "appid": 1956380,
+        "name": "Sovereign Syndicate Playtest"
     }
 ]
