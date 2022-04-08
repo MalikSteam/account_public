@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2422,
+        "game_count": 2421,
         "games": [
             {
                 "appid": 92,
@@ -21532,15 +21532,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1813960,
-                "name": "Elemental War 2 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "aac0aea9bda456dec77a3e34545e984c9e1179ab",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1814550,
                 "name": "Oasis: Dark Forest Playtest",
                 "playtime_forever": 0,
@@ -22374,7 +22365,6 @@
                 "name": "Medusa Frontier Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ff6e57c82dbab6ef64be2ea02878c48511a79f93",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
