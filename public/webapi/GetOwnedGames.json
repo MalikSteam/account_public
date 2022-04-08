@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2421,
+        "game_count": 2422,
         "games": [
             {
                 "appid": 92,
@@ -22528,6 +22528,15 @@
                 "name": "Out of Sight Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "3084fa98fb3fb23364d6909ce139e57c1e6aaac6",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1951450,
+                "name": "Steel Ocean: Wolves of Deep Sea Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "814ccd615fe612fc00aed0db0ab8abf270066f1e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
