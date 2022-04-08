@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2422,
+        "game_count": 2423,
         "games": [
             {
                 "appid": 92,
@@ -22509,6 +22509,15 @@
                 "name": "Sleep Paralysis: The Uncanny Valley Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "0b046e8017b678808d8a22d412f36294d9ff41d1",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1948730,
+                "name": "Slam Dome Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ac0c82189488fb66e686f33081fbee206d37af8a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
