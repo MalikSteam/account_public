@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2423,
+        "game_count": 2424,
         "games": [
             {
                 "appid": 92,
@@ -18938,6 +18938,15 @@
                 "playtime_forever": 0,
                 "img_icon_url": "efa8d2a08de20e7a5e00bb6a60952d744827c45f",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1498720,
+                "name": "Oakenfold Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1e233a1de64746b76008b7c361aabc13527ec1b5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
