@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2425,
+        "game_count": 2424,
         "games": [
             {
                 "appid": 92,
@@ -21765,15 +21765,6 @@
                 "name": "Skullborn Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "a141b179e6f48b44e6a6a0c8bdb40e223326740f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1843870,
-                "name": "Obscurity: Unknown Threat Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d5242d6767e0b67218f32014ce78b9f00441b737",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
