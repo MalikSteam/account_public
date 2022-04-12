@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2424,
+        "game_count": 2425,
         "games": [
             {
                 "appid": 92,
@@ -20542,6 +20542,16 @@
                 "name": "FRIGID Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "bdcfd74e95f9da8fa857484f5a93c64eff0108ec",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1692190,
+                "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 2\u3000 Network Test",
+                "playtime_forever": 0,
+                "img_icon_url": "de4712d32cab78935a23b21831370b69824e6aeb",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
