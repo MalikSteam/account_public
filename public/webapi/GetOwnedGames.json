@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2425,
+        "game_count": 2426,
         "games": [
             {
                 "appid": 92,
@@ -22574,6 +22574,15 @@
                 "name": "Turbo Sloths Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "25d37d97ea9d25cac64b0689c635ecf7253e0d61",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1954030,
+                "name": "DINO MERCS Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5eb5017bac541730aac3f66bc04b0a2f1d5cb640",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
