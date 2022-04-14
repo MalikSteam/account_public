@@ -7615,12 +7615,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1782850]]></storeLink>
 		</game>
 		<game>
-			<appID>1613820</appID>
-			<name><![CDATA[Maze Qore Arena - Foresight]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1613820]]></storeLink>
-		</game>
-		<game>
 			<appID>607260</appID>
 			<name><![CDATA[McOsu]]></name>
 			
@@ -9550,6 +9544,12 @@
 			<name><![CDATA[Qantas VR]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/478000]]></storeLink>
+		</game>
+		<game>
+			<appID>1613820</appID>
+			<name><![CDATA[Qorena - Foresight]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1613820]]></storeLink>
 		</game>
 		<game>
 			<appID>611500</appID>
