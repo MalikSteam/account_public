@@ -11859,16 +11859,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13051,6 +13051,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/304050]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/304050]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/304050/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1827420</appID>
+			<name><![CDATA[Truck Mechanic: Dangerous Paths - Prologue Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1827420]]></storeLink>
 		</game>
 		<game>
 			<appID>521340</appID>
