@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2427,
+        "game_count": 2426,
         "games": [
             {
                 "appid": 92,
@@ -22484,15 +22484,6 @@
                 "name": "LuPR: Lunar Post Recruit Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ad467cf9e5d7fb06df9e7b164eb5cf4ebf4ff4fd",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1941610,
-                "name": "Berserk Boy Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "2ae5811055d28887fcb94afb70c5ffada1b70390",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
