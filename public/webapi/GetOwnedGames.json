@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2427,
+        "game_count": 2428,
         "games": [
             {
                 "appid": 92,
@@ -22520,6 +22520,15 @@
                 "name": "Vector Assault 2 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "bbc9a738685e555ab5dc2fe5de1b0f5473aefc3b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1946780,
+                "name": "Generic RPG Idle Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1d70db33559f790be948be4b3d854bf88485d770",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
