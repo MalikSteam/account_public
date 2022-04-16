@@ -11524,6 +11524,10 @@
         "name": "RSOD Playtest"
     },
     {
+        "appid": 1944230,
+        "name": "VR TRIBES Playtest"
+    },
+    {
         "appid": 1945040,
         "name": "Vector Assault 2 Playtest"
     },
@@ -11570,5 +11574,9 @@
     {
         "appid": 1956380,
         "name": "Sovereign Syndicate Playtest"
+    },
+    {
+        "appid": 1965030,
+        "name": "Erroneous Playtest"
     }
 ]
