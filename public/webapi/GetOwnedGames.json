@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2428,
+        "game_count": 2430,
         "games": [
             {
                 "appid": 92,
@@ -22516,6 +22516,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1944230,
+                "name": "VR TRIBES Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "94a95e69bf60f70d4cd8e85a34d6fc1b26654cbb",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1945040,
                 "name": "Vector Assault 2 Playtest",
                 "playtime_forever": 0,
@@ -22610,6 +22619,15 @@
                 "name": "Sovereign Syndicate Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "60dbfba97d56d442e805d1ba0211942727c3a84f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1965030,
+                "name": "Erroneous Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "717d1119fb77adee679ac638f60566e998ec85dc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
