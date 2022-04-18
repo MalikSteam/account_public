@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2432,
+        "game_count": 2431,
         "games": [
             {
                 "appid": 92,
@@ -22521,15 +22521,6 @@
                 "name": "RSOD Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "47e9ceb89bdb0da60925499ceb3e4d0e40c38357",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1944230,
-                "name": "VR TRIBES Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "94a95e69bf60f70d4cd8e85a34d6fc1b26654cbb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
