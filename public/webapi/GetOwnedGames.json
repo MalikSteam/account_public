@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2431,
+        "game_count": 2432,
         "games": [
             {
                 "appid": 92,
@@ -19587,6 +19587,15 @@
                 "name": "\u5927\u6d2a\u6c34\u7684\u6545\u4e8b Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "c478c624c80a00758ba7c2d6bb7d97c879de4ea5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1616290,
+                "name": "Golf Gang Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3f3ca9540bb780f1fa29556296d6c8564c457569",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
