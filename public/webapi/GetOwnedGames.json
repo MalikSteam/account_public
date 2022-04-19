@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2431,
+        "game_count": 2429,
         "games": [
             {
                 "appid": 92,
@@ -22434,15 +22434,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1938650,
-                "name": "Beku Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "2bd1fe888ade61e6f3ac525304f76d1e53330d71",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1939420,
                 "name": "Running in the Y2K Playtest",
                 "playtime_forever": 0,
@@ -22583,15 +22574,6 @@
                 "name": "Steel Ocean: Wolves of Deep Sea Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "814ccd615fe612fc00aed0db0ab8abf270066f1e",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1952010,
-                "name": "Ethyrial, Echoes of Yore Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "284ad07eeffab20c3ab59133f7feacc066eb55fc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
