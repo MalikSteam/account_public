@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2432,
+        "game_count": 2433,
         "games": [
             {
                 "appid": 92,
@@ -22647,6 +22647,15 @@
                 "name": "Erroneous Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "717d1119fb77adee679ac638f60566e998ec85dc",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1966960,
+                "name": "Burial Stone Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "996934eb0498f76743bf447ab176f8ec556fe55f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
