@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2432,
+        "game_count": 2431,
         "games": [
             {
                 "appid": 92,
@@ -22583,15 +22583,6 @@
                 "name": "Worst World Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "4e4dc02b8e282c4431810def59a3a8edaafc7e6b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1951450,
-                "name": "Steel Ocean: Wolves of Deep Sea Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "814ccd615fe612fc00aed0db0ab8abf270066f1e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
