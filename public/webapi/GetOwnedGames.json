@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2431,
+        "game_count": 2432,
         "games": [
             {
                 "appid": 92,
@@ -19986,6 +19986,15 @@
                 "playtime_forever": 0,
                 "img_icon_url": "bce2ebcb594ce762620a99b55b78c77db034ac20",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1642070,
+                "name": "Abyss King Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c0c8d61b46e41e564f1388baa0e986f7a891d1a2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
