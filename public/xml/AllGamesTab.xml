@@ -4525,12 +4525,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1777780]]></storeLink>
 		</game>
 		<game>
-			<appID>1931840</appID>
-			<name><![CDATA[Fire Commander Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1931840]]></storeLink>
-		</game>
-		<game>
 			<appID>227700</appID>
 			<name><![CDATA[Firefall]]></name>
 			
@@ -11925,16 +11919,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
