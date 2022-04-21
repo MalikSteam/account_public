@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2438,
+        "game_count": 2439,
         "games": [
             {
                 "appid": 92,
@@ -22658,6 +22658,15 @@
                 "name": "PANDO Engines Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f386cbe1562ef1e20f730c43f6639f11fc05fe35",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1962460,
+                "name": "Let's Cook Together 2 Beta-Test",
+                "playtime_forever": 0,
+                "img_icon_url": "9975e371eef9c316683c864456dd6a10c9915ee7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
