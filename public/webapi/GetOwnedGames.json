@@ -22121,6 +22121,7 @@
                 "name": "Idle Spiral Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "9ead02195f3e1ef51ba89d998afda25732b93f82",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22552,15 +22553,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1946870,
-                "name": "Thunder League Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d3948e95cd9de01328d8c75cdebce9e14460b2b8",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1948510,
                 "name": "Sleep Paralysis: The Uncanny Valley Playtest",
                 "playtime_forever": 0,
@@ -22657,6 +22649,15 @@
                 "name": "Down Fast VR Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "26cc4fa72e3f908fb22bc32dadfdb94a228c72b5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1958500,
+                "name": "Death Roads: Tournament Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "94597a9f21d07ce19e492961aad200b06861aa16",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
