@@ -3157,6 +3157,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/40]]></storeLink>
 		</game>
 		<game>
+			<appID>1958500</appID>
+			<name><![CDATA[Death Roads: Tournament Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1958500]]></storeLink>
+		</game>
+		<game>
 			<appID>1834350</appID>
 			<name><![CDATA[December 24th Open Test]]></name>
 			
@@ -6130,6 +6136,8 @@
 			<name><![CDATA[Idle Spiral Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1878060]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1878060]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1878060/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>466170</appID>
@@ -12669,12 +12677,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/646960]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/646960]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/646960/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1946870</appID>
-			<name><![CDATA[Thunder League Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1946870]]></storeLink>
 		</game>
 		<game>
 			<appID>534500</appID>
