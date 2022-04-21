@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2436,
+        "game_count": 2437,
         "games": [
             {
                 "appid": 92,
@@ -22356,6 +22356,15 @@
                 "name": "Pluto's Island Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1feaea4d46ff593bebb25ae99862932510948b9d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1918750,
+                "name": "Wish Talk Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ef977082dfa4883a2586d17b04a3d4ba6f0f2675",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
