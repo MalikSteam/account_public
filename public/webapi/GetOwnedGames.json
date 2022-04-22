@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2440,
+        "game_count": 2441,
         "games": [
             {
                 "appid": 92,
@@ -22604,6 +22604,15 @@
                 "name": "Worst World Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "4e4dc02b8e282c4431810def59a3a8edaafc7e6b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1951810,
+                "name": "Core Disruption Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "81d02b18bef8cf298dbbb4186a4a589d69ec6139",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
