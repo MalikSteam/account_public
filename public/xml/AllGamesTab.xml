@@ -2738,6 +2738,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/529240/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1954560</appID>
+			<name><![CDATA[Creature Lab Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1954560]]></storeLink>
+		</game>
+		<game>
 			<appID>38830</appID>
 			<name><![CDATA[CrimeCraft GangWars]]></name>
 			
@@ -11680,16 +11686,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
