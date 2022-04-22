@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2443,
+        "game_count": 2444,
         "games": [
             {
                 "appid": 92,
@@ -22650,6 +22650,15 @@
                 "name": "DINO MERCS Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "5eb5017bac541730aac3f66bc04b0a2f1d5cb640",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1954560,
+                "name": "Creature Lab Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2278ddf3750b84a2264df27b24729c3f105f0e8d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
