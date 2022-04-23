@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2445,
+        "game_count": 2446,
         "games": [
             {
                 "appid": 92,
@@ -22186,6 +22186,15 @@
                 "name": "Ex0 Escape Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "18c4646ece04efeda00efb82f9c2e8c2b0eced6c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1887540,
+                "name": "Saleblazers Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ea73345414226dc5487e2aa75a81f5b9a88b68b5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
