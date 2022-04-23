@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2446,
+        "game_count": 2445,
         "games": [
             {
                 "appid": 92,
@@ -21792,16 +21792,6 @@
                 "name": "Smipat and the Lost Bones Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "5176c677476140e0938736fcfa46609ec38433d0",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1839770,
-                "name": "Narg\u00fcl - Humans are among us",
-                "playtime_forever": 0,
-                "img_icon_url": "6f97c23df0617b161d3e03b3ca259c48340e9c9c",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
