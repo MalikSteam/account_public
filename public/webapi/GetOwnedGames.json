@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2445,
+        "game_count": 2446,
         "games": [
             {
                 "appid": 92,
@@ -21199,6 +21199,16 @@
                 "name": "Immortal-Paradise Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "586016ff72d9ea4c94dc640d1b46d373e03e3d65",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1764310,
+                "name": "Omegabot Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5e738428c31acd2ab011916869e1c1d34c46d1c0",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
