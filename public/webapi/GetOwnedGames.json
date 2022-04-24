@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2445,
+        "game_count": 2447,
         "games": [
             {
                 "appid": 92,
@@ -22199,6 +22199,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1891260,
+                "name": "News Reacts Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4935e39c863ad37096a07d6fe5cddafce8c2df97",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1891850,
                 "name": "Tank Mechanic Simulator VR Playtest",
                 "playtime_forever": 0,
@@ -22766,6 +22775,16 @@
                 "name": "Burial Stone Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "996934eb0498f76743bf447ab176f8ec556fe55f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1967780,
+                "name": "Rummy 3D Premium Closed Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "ef935dd3e41ce5c3a17824ee2fd51a4d1d31a059",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
