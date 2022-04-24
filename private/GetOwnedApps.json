@@ -11316,6 +11316,10 @@
         "name": "American Theft 80s Playtest"
     },
     {
+        "appid": 1891260,
+        "name": "News Reacts Playtest"
+    },
+    {
         "appid": 1891850,
         "name": "Tank Mechanic Simulator VR Playtest"
     },
@@ -11662,5 +11666,9 @@
     {
         "appid": 1966960,
         "name": "Burial Stone Playtest"
+    },
+    {
+        "appid": 1967780,
+        "name": "Rummy 3D Premium Closed Beta"
     }
 ]
