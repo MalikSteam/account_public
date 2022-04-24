@@ -8351,6 +8351,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/109600]]></storeLink>
 		</game>
 		<game>
+			<appID>1891260</appID>
+			<name><![CDATA[News Reacts Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1891260]]></storeLink>
+		</game>
+		<game>
 			<appID>1646990</appID>
 			<name><![CDATA[Nextera Closed Alpha]]></name>
 			
@@ -10257,6 +10263,14 @@
 			<name><![CDATA[Rumble Fighter: Unleashed]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/357500]]></storeLink>
+		</game>
+		<game>
+			<appID>1967780</appID>
+			<name><![CDATA[Rummy 3D Premium Closed Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1967780]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1967780]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1967780/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>360760</appID>
