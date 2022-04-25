@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2445,
+        "game_count": 2446,
         "games": [
             {
                 "appid": 92,
@@ -22767,6 +22767,15 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ef935dd3e41ce5c3a17824ee2fd51a4d1d31a059",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1972010,
+                "name": "Samsara Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b9b964cd8c7e9eefcd515f57d42cf3f32dda7f81",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
