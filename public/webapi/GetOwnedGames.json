@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2449,
+        "game_count": 2450,
         "games": [
             {
                 "appid": 92,
@@ -21966,6 +21966,15 @@
                 "name": "FOONDA Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "a47ad23c9fa5cd5e006a77bd139c95ad7127bd8e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1861320,
+                "name": "Baka Adventures Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "93816fe9ddd8b79d627e5fa293975de805362f82",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
