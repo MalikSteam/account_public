@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2448,
+        "game_count": 2449,
         "games": [
             {
                 "appid": 92,
@@ -20469,6 +20469,16 @@
                 "name": "WILDLAND: Initial Attack playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "2b569df71ae88580b1fdb5a3a3e0358e98fcfc42",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1685970,
+                "name": "Black Lotus Motel Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "43bb9233a77b90c5db400029eb2e7832d94b0e47",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
