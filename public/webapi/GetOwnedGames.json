@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2446,
+        "game_count": 2447,
         "games": [
             {
                 "appid": 92,
@@ -17766,7 +17766,7 @@
             },
             {
                 "appid": 1019100,
-                "name": "Attack on Titan 2 - A.O.T.2 - \u9032\u6483\u306e\u5de8\u4eba\uff12 Demo",
+                "name": "Attack on Titan 2 - A.O.T.2 - Demo",
                 "playtime_forever": 0,
                 "img_icon_url": "1d8ce89256675934d5532871b59c52b94467d8ac",
                 "playtime_windows_forever": 0,
@@ -22658,6 +22658,15 @@
                 "name": "Sovereign Syndicate Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "60dbfba97d56d442e805d1ba0211942727c3a84f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1956700,
+                "name": "Incremental Epic Hero 2 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "03e8877d7fbeff2902a086f6d101993a57c1d822",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
