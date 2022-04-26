@@ -1520,6 +1520,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/BlacklightRetribution/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1685970</appID>
+			<name><![CDATA[Black Lotus Motel Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1685970]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1685970]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1685970/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>1777640</appID>
 			<name><![CDATA[Black One Blood Brothers Playtest]]></name>
 			
@@ -11975,16 +11983,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
