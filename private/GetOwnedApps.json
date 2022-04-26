@@ -8345,7 +8345,7 @@
     },
     {
         "appid": 1019100,
-        "name": "Attack on Titan 2 - A.O.T.2 - \u9032\u6483\u306e\u5de8\u4eba\uff12 Demo"
+        "name": "Attack on Titan 2 - A.O.T.2 - Demo"
     },
     {
         "appid": 1021950,
@@ -11622,6 +11622,10 @@
     {
         "appid": 1956380,
         "name": "Sovereign Syndicate Playtest"
+    },
+    {
+        "appid": 1956700,
+        "name": "Incremental Epic Hero 2 Playtest"
     },
     {
         "appid": 1956880,
