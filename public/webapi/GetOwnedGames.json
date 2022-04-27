@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2452,
+        "game_count": 2453,
         "games": [
             {
                 "appid": 92,
@@ -20787,6 +20787,15 @@
                 "name": "HEATED Alpha Test",
                 "playtime_forever": 0,
                 "img_icon_url": "d0fec796fa063e2e886d4a484ab4bf009af63f00",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1715820,
+                "name": "Einar - Loki's Traps Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3558ef5e8dea33489c6140415dc90c290a1db694",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
