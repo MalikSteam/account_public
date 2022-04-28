@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2454,
+        "game_count": 2455,
         "games": [
             {
                 "appid": 92,
@@ -22821,6 +22821,15 @@
                 "name": "Burial Stone Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "996934eb0498f76743bf447ab176f8ec556fe55f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1967580,
+                "name": "Turbo Golf Racing Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "58526e4b42965ba59b1d3b25542e84b5d0a24ebf",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
