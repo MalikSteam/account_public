@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2453,
+        "game_count": 2454,
         "games": [
             {
                 "appid": 92,
@@ -22839,6 +22839,15 @@
                 "name": "Samsara Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b9b964cd8c7e9eefcd515f57d42cf3f32dda7f81",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1976940,
+                "name": "Isletopia Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "67aafc5e1ed17f3e68ae00e088c07721eab44a66",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
