@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2459,
+        "game_count": 2460,
         "games": [
             {
                 "appid": 92,
@@ -22894,6 +22894,15 @@
                 "name": "Wormhole Adventurer Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f6b8a676e55ac34e52df42a2253d3bf82349b334",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1980670,
+                "name": "Super Liquid Soccer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "241b19a24451d7fc329bd6eddbda41a7c8f5ea47",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
