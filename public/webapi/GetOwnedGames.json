@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2462,
+        "game_count": 2461,
         "games": [
             {
                 "appid": 92,
@@ -19159,15 +19159,6 @@
                 "name": "Lake Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "9f37a798ecc76342b33eaffd1142dfadd0b3ffa0",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1567030,
-                "name": "Retail Royale Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d27b6eae14c5def08b641519c33726ccfbcf89fc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
