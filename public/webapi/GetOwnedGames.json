@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2458,
+        "game_count": 2459,
         "games": [
             {
                 "appid": 92,
@@ -22867,6 +22867,15 @@
                 "name": "Who Run The City: Multiplayer Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f1c5c261acd153efba86a55b7d3daebce1722d12",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1976270,
+                "name": "Bounters Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4d7798ced5512c86e03679ba43051635aa5913d1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
