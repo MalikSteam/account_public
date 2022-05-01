@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2461,
+        "game_count": 2462,
         "games": [
             {
                 "appid": 92,
@@ -22739,6 +22739,15 @@
                 "name": "Down Fast VR Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "26cc4fa72e3f908fb22bc32dadfdb94a228c72b5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1957500,
+                "name": "Hero Clicker Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b9c030951abd34a12a1936c03b053baee22143d8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
