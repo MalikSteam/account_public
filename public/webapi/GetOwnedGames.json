@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2463,
+        "game_count": 2462,
         "games": [
             {
                 "appid": 92,
@@ -21554,16 +21554,6 @@
                 "name": "PriOne Beta test",
                 "playtime_forever": 0,
                 "img_icon_url": "9d033cec283e4d1e38ef2bb236b43b383527e8ef",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1811580,
-                "name": "\u6df1\u6c89\u4e4b\u706b DEEPENING FIRE Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d75143c2b2a64ff788028cdbc03608147bc1f123",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
