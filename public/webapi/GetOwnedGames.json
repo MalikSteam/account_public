@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2462,
+        "game_count": 2461,
         "games": [
             {
                 "appid": 92,
@@ -22902,15 +22902,6 @@
                 "name": "Wormhole Adventurer Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f6b8a676e55ac34e52df42a2253d3bf82349b334",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1977330,
-                "name": "ConquestAreas Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "dfc4b40f10b5215772039c1e8689575aa20a7fc2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
