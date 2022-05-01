@@ -316,12 +316,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1619120]]></storeLink>
 		</game>
 		<game>
-			<appID>1827050</appID>
-			<name><![CDATA[Afterimage Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1827050]]></storeLink>
-		</game>
-		<game>
 			<appID>349700</appID>
 			<name><![CDATA[Aftermath]]></name>
 			
@@ -2601,6 +2595,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/905370]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/905370]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/905370/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1977330</appID>
+			<name><![CDATA[ConquestAreas Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1977330]]></storeLink>
 		</game>
 		<game>
 			<appID>266450</appID>
@@ -6677,6 +6677,12 @@
 			<name><![CDATA[Juniper's Knot]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/687590]]></storeLink>
+		</game>
+		<game>
+			<appID>1956290</appID>
+			<name><![CDATA[K3LVN Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1956290]]></storeLink>
 		</game>
 		<game>
 			<appID>431930</appID>
@@ -12031,16 +12037,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -12277,6 +12283,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/887400]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/887400]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/887400/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1965400</appID>
+			<name><![CDATA[The Hexad Trials (Ning's Wing 3) Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1965400]]></storeLink>
 		</game>
 		<game>
 			<appID>1772320</appID>
