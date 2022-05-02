@@ -10906,12 +10906,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1749670]]></storeLink>
 		</game>
 		<game>
-			<appID>1964110</appID>
-			<name><![CDATA[Sky Caravan Open Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1964110]]></storeLink>
-		</game>
-		<game>
 			<appID>414530</appID>
 			<name><![CDATA[Skyforge]]></name>
 			
@@ -11760,16 +11754,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
