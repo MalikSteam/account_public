@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2462,
+        "game_count": 2463,
         "games": [
             {
                 "appid": 92,
@@ -22530,6 +22530,15 @@
                 "name": "LuPR: Lunar Post Recruit Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ad467cf9e5d7fb06df9e7b164eb5cf4ebf4ff4fd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1942160,
+                "name": "Universe 51: Tannh\u00e4user Wars Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b6ad1e46068873ecca1f997066b0302256ff26a2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
