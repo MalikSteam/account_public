@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2462,
+        "game_count": 2461,
         "games": [
             {
                 "appid": 92,
@@ -22140,15 +22140,6 @@
                 "name": "Society's Paradigms Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f3b913c7cc7b85d70ea2e388083d394aae17436e",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1878400,
-                "name": "CrossPlanet Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "4f7aafd1879874422325e7d0adf5920275cf369a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
