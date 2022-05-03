@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2462,
+        "game_count": 2461,
         "games": [
             {
                 "appid": 92,
@@ -21245,15 +21245,6 @@
                 "name": "The Black Grimoire: Cursebreaker Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "3f25a4ad8ae0bbbc7b583aa3e43b0e60f9ec2ef0",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1769880,
-                "name": "Lost Eidolons 2nd Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "9ef973673c526ae64f89e0e1d1a4763c35968b60",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
