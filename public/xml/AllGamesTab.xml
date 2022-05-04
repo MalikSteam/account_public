@@ -3854,6 +3854,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/730310/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1562450</appID>
+			<name><![CDATA[Dysterra Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1562450]]></storeLink>
+		</game>
+		<game>
 			<appID>17580</appID>
 			<name><![CDATA[Dystopia]]></name>
 			
