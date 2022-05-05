@@ -11778,5 +11778,9 @@
     {
         "appid": 1981040,
         "name": "\u9057\u5fd8\u4e4b\u5730 Playtest"
+    },
+    {
+        "appid": 1983160,
+        "name": "Slurkum Playtest"
     }
 ]
