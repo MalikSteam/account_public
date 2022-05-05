@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2464,
+        "game_count": 2465,
         "games": [
             {
                 "appid": 92,
@@ -21837,6 +21837,16 @@
                 "name": "Catsploration Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "c2c3d5a632e06bc1d49a54fe8ad3e060b1442e2d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1846640,
+                "name": "Hard West 2 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9e670e86a045c6a33083aa1f54b094f8721c98c9",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
