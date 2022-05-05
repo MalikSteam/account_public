@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2462,
+        "game_count": 2461,
         "games": [
             {
                 "appid": 92,
@@ -22029,15 +22029,6 @@
                 "name": "Demon's Run Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "0c94e4557f4ca89510ef3c0540642de2341576d6",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1867150,
-                "name": "\u5929\u4e0b\u9556\u5c40 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "82c563af86a592ae6811e4dc8b4ed88b38ab392f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
