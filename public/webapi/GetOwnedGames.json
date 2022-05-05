@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2463,
+        "game_count": 2464,
         "games": [
             {
                 "appid": 92,
@@ -22920,6 +22920,15 @@
                 "name": "\u9057\u5fd8\u4e4b\u5730 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "008d11a9ee3528a52d596ce1e3f68fd75bda000a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1983110,
+                "name": "TAnima Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "a46f1aaccb2b143062de36be4ee6774402171fc1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
