@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2467,
+        "game_count": 2468,
         "games": [
             {
                 "appid": 92,
@@ -22757,6 +22757,15 @@
                 "name": "Hero Clicker Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b9c030951abd34a12a1936c03b053baee22143d8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1958060,
+                "name": "BrainAccelerator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9c8ed5fdcf4fb0f066bded53074def9156b9d112",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
