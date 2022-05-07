@@ -11802,5 +11802,9 @@
     {
         "appid": 1983160,
         "name": "Slurkum Playtest"
+    },
+    {
+        "appid": 1990390,
+        "name": "Splitgate - Test Server"
     }
 ]
