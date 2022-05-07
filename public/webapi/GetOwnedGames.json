@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2468,
+        "game_count": 2466,
         "games": [
             {
                 "appid": 92,
@@ -20801,15 +20801,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1715820,
-                "name": "Einar - Loki's Traps Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3558ef5e8dea33489c6140415dc90c290a1db694",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1716550,
                 "name": "A World Abandoned Playtest",
                 "playtime_forever": 0,
@@ -21965,15 +21956,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "13bfbf5a883807474c4c7bcd96228801a3ab4377",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1857430,
-                "name": "Eternal Exodus Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ccf4a0fc087313d22047aa117dd4e697a9d4f4ca",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
