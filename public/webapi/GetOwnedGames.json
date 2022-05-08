@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2466,
+        "game_count": 2465,
         "games": [
             {
                 "appid": 92,
@@ -21763,15 +21763,6 @@
                 "name": "Those Who Rule Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "c25379ff6fe71a53397077888a0409e283562675",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1836540,
-                "name": "Oaken Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f4758398b9adf4afabc6d9b328db28f5d0138943",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
