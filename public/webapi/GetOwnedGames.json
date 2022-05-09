@@ -20491,16 +20491,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1685970,
-                "name": "Black Lotus Motel Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "43bb9233a77b90c5db400029eb2e7832d94b0e47",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1685980,
                 "name": "\u6218\u7403\u82f1\u96c4 Playtest",
                 "playtime_forever": 0,
@@ -22938,6 +22928,15 @@
                 "name": "Splitgate - Test Server",
                 "playtime_forever": 0,
                 "img_icon_url": "03e452b180ff77986c3957819bde4c69448a2d0f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1990450,
+                "name": "Cultivation Story: Reincarnation Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1a84e771f0714ecb8bea29f8c058ed57b12414cc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
