@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2466,
+        "game_count": 2467,
         "games": [
             {
                 "appid": 92,
@@ -22928,6 +22928,15 @@
                 "name": "Slurkum Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "6855fc768daac238e3a7ade5d3875063ebd0bf49",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1987580,
+                "name": "Case #1472 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "73ec7985937b67725e362fa732c865f94e717d74",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
