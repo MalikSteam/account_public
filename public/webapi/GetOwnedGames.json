@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2464,
+        "game_count": 2465,
         "games": [
             {
                 "appid": 92,
@@ -22937,6 +22937,15 @@
                 "name": "Cultivation Story: Reincarnation Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1a84e771f0714ecb8bea29f8c058ed57b12414cc",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1991550,
+                "name": "Genimas: Life reborn Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "305f3aee5c21b3bd1dc294ec856b47d08914242c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
