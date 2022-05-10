@@ -1975,12 +1975,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/497570]]></storeLink>
 		</game>
 		<game>
-			<appID>1964230</appID>
-			<name><![CDATA[Build Lands Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1964230]]></storeLink>
-		</game>
-		<game>
 			<appID>211880</appID>
 			<name><![CDATA[Bullet Run]]></name>
 			
@@ -11776,16 +11770,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
