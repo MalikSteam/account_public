@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2466,
+        "game_count": 2465,
         "games": [
             {
                 "appid": 92,
@@ -22756,15 +22756,6 @@
                 "name": "Death Roads: Tournament Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "94597a9f21d07ce19e492961aad200b06861aa16",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1962460,
-                "name": "Let's Cook Together 2 Beta-Test",
-                "playtime_forever": 0,
-                "img_icon_url": "9975e371eef9c316683c864456dd6a10c9915ee7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
