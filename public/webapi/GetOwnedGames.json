@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2467,
+        "game_count": 2468,
         "games": [
             {
                 "appid": 92,
@@ -22765,6 +22765,15 @@
                 "name": "DEAD CIDE CLUB Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1f6be68c4652bad221aaf1ba66a880d8a2a4df92",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1958430,
+                "name": "Castan Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b277241fe9257563602e689f0068feae10468b7f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
