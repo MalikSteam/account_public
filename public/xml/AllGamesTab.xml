@@ -9619,6 +9619,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1950050]]></storeLink>
 		</game>
 		<game>
+			<appID>1951670</appID>
+			<name><![CDATA[Project Wunderwaffe Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1951670]]></storeLink>
+		</game>
+		<game>
 			<appID>1525150</appID>
 			<name><![CDATA[Prometheus: Omex Rising Playtest]]></name>
 			
@@ -11770,16 +11776,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
