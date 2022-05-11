@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2466,
+        "game_count": 2467,
         "games": [
             {
                 "appid": 92,
@@ -22638,6 +22638,15 @@
                 "name": "Worst World Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "4e4dc02b8e282c4431810def59a3a8edaafc7e6b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1951670,
+                "name": "Project Wunderwaffe Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9f227681e01305b317339549388c7b30d7a6d643",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
