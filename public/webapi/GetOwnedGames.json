@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2467,
+        "game_count": 2466,
         "games": [
             {
                 "appid": 92,
@@ -22675,15 +22675,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d65b93c5f95585b667c2bf314a19cb7e645af926",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1953300,
-                "name": "Knight Crawlers Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d92874d3b74ec65ad2a1ba3f82ad108fe2886dd5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
