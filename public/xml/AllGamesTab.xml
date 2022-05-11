@@ -14319,6 +14319,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/397990/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1991760</appID>
+			<name><![CDATA[Word of mouth stories Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1991760]]></storeLink>
+		</game>
+		<game>
 			<appID>1614200</appID>
 			<name><![CDATA[World CHAMPIONS: Decathlon Playtest]]></name>
 			
