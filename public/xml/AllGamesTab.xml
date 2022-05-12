@@ -1837,6 +1837,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1808970]]></storeLink>
 		</game>
 		<game>
+			<appID>1979720</appID>
+			<name><![CDATA[Bound By Blades Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1979720]]></storeLink>
+		</game>
+		<game>
 			<appID>454070</appID>
 			<name><![CDATA[Boundel]]></name>
 			
@@ -12067,16 +12073,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13951,7 +13957,7 @@
 		</game>
 		<game>
 			<appID>436820</appID>
-			<name><![CDATA[Waltz of the Wizard]]></name>
+			<name><![CDATA[Waltz of the Wizard (Legacy demo)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/436820]]></storeLink>
 		</game>
