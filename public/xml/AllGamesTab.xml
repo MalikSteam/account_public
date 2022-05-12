@@ -4517,6 +4517,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/282100/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1779100</appID>
+			<name><![CDATA[FeetCry : ZombieLand Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1779100]]></storeLink>
+		</game>
+		<game>
 			<appID>851290</appID>
 			<name><![CDATA[Fesnia]]></name>
 			
