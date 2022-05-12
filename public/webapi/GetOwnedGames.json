@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2473,
+        "game_count": 2474,
         "games": [
             {
                 "appid": 92,
@@ -21353,6 +21353,15 @@
                 "name": "Collapse of Magic Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "048bdb0c03d5f87911ac686408629b1d40982400",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1779100,
+                "name": "FeetCry : ZombieLand Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d3246105956b8488eabcaa2653bec8b0f54b4d82",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
