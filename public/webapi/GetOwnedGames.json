@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2472,
+        "game_count": 2473,
         "games": [
             {
                 "appid": 92,
@@ -7250,7 +7250,7 @@
             },
             {
                 "appid": 436820,
-                "name": "Waltz of the Wizard",
+                "name": "Waltz of the Wizard (Legacy demo)",
                 "playtime_forever": 0,
                 "img_icon_url": "cd2d48823ee5a1160489ebf6213233367dd63e64",
                 "playtime_windows_forever": 0,
@@ -22901,6 +22901,15 @@
                 "name": "Terror of Hemasaurus Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "949807cfbb76d7e2c38c1a43b994d3f60075b39d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1979720,
+                "name": "Bound By Blades Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "7357a001e7fb12102ebaef40430457859161be61",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
