@@ -11782,16 +11782,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -14662,6 +14662,12 @@
 			<name><![CDATA[冒险之路(Adventure Road)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/703090]]></storeLink>
+		</game>
+		<game>
+			<appID>1939680</appID>
+			<name><![CDATA[境界：斩魂之刃 Play Test]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1939680]]></storeLink>
 		</game>
 		<game>
 			<appID>1664800</appID>
