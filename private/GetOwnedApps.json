@@ -3641,7 +3641,7 @@
     },
     {
         "appid": 436820,
-        "name": "Waltz of the Wizard"
+        "name": "Waltz of the Wizard (Legacy demo)"
     },
     {
         "appid": 437160,
@@ -11806,6 +11806,10 @@
     {
         "appid": 1977420,
         "name": "Terror of Hemasaurus Playtest"
+    },
+    {
+        "appid": 1979720,
+        "name": "Bound By Blades Playtest"
     },
     {
         "appid": 1980670,
