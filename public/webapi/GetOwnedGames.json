@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2474,
+        "game_count": 2473,
         "games": [
             {
                 "appid": 92,
@@ -22547,15 +22547,6 @@
                 "name": "\u68a6\u5e7b\u4e09\u56fd2 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "748cac17f77020690f2613cdc8c07d00c59bf2ca",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1941530,
-                "name": "LuPR: Lunar Post Recruit Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "ad467cf9e5d7fb06df9e7b164eb5cf4ebf4ff4fd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
