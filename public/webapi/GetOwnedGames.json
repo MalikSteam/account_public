@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2475,
+        "game_count": 2474,
         "games": [
             {
                 "appid": 92,
@@ -1177,7 +1177,7 @@
                 "appid": 206480,
                 "name": "Dungeons & Dragons Online\u00ae",
                 "playtime_forever": 0,
-                "img_icon_url": "76e27963cb17e17f9b102a0704822c5bb331cc39",
+                "img_icon_url": "bbdf63932527f9fd68e068f26fa7f9df853b9473",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -22556,15 +22556,6 @@
                 "name": "LuPR: Lunar Post Recruit Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ad467cf9e5d7fb06df9e7b164eb5cf4ebf4ff4fd",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1942160,
-                "name": "Universe 51: Tannh\u00e4user Wars Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b6ad1e46068873ecca1f997066b0302256ff26a2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
