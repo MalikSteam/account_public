@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2473,
+        "game_count": 2474,
         "games": [
             {
                 "appid": 92,
@@ -22828,6 +22828,15 @@
                 "name": "Virus_ (Un-Released)",
                 "playtime_forever": 0,
                 "img_icon_url": "f7a5027d514732bcfc9d5698cd2bf49e39f88f15",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1966030,
+                "name": "Necrosmith Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2868a8dc252a0a04c15d537354939ae52e27770a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
