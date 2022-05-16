@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2476,
+        "game_count": 2474,
         "games": [
             {
                 "appid": 92,
@@ -21860,15 +21860,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1843870,
-                "name": "Obscurity: Unknown Threat Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d5242d6767e0b67218f32014ce78b9f00441b737",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1845120,
                 "name": "Catsploration Playtest",
                 "playtime_forever": 0,
@@ -21910,15 +21901,6 @@
                 "name": "La Maledizione dell'Uccello Serpente Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "d5a5bb4467ac3d3cb4ec951154f65a29975a5d73",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1852280,
-                "name": "Regiments Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "fe29eef1b9d29e08f8082fe763a70d455d6e3771",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
