@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2473,
+        "game_count": 2475,
         "games": [
             {
                 "appid": 92,
@@ -22097,6 +22097,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1870290,
+                "name": "\u8db3\u7403\u68a6\u4e4b\u961f\u6d4b\u8bd5\u7248\u672cDFCTEST",
+                "playtime_forever": 0,
+                "img_icon_url": "3bfb4a8f04ad160f9c61456e49cdda98147161a6",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1870520,
                 "name": "Bombyx Edge Alpha",
                 "playtime_forever": 0,
@@ -22965,6 +22974,15 @@
                 "name": "Case #1472 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "73ec7985937b67725e362fa732c865f94e717d74",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1987620,
+                "name": "Fertile Heroine Seaworthy Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f347895ae5f6f41ce2b4269d6e304561efe509b2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
