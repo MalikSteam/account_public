@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2475,
+        "game_count": 2476,
         "games": [
             {
                 "appid": 92,
@@ -22866,6 +22866,15 @@
                 "name": "Android Simulator Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "edfe60ce57260f416e1688e4deff43b5fb261ded",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1971990,
+                "name": "scuffed Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2ffcb84751bf89ee1a5fbd8b2cf5631a7d24ee78",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
