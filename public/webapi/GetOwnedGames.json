@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2476,
+        "game_count": 2475,
         "games": [
             {
                 "appid": 92,
@@ -18774,15 +18774,6 @@
                 "name": "Spies & Soldiers Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "974ef6c9042425a98f2a5aadbda85decea2a9c68",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1475550,
-                "name": "Sou'wester Winds Alpha Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "4c8dd4d6c36277755f242d5655542a5f64d07ec4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
