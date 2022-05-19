@@ -612,6 +612,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/203290/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1994590</appID>
+			<name><![CDATA[American Catur/Traditional Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1994590]]></storeLink>
+		</game>
+		<game>
 			<appID>622310</appID>
 			<name><![CDATA[Amigo VR]]></name>
 			
