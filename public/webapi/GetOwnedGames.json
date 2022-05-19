@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2475,
+        "game_count": 2476,
         "games": [
             {
                 "appid": 92,
@@ -23029,6 +23029,15 @@
                 "playtime_forever": 0,
                 "img_icon_url": "5bb3fa316616d3f74ff9658f7ea40415f0395cbe",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1994590,
+                "name": "American Catur/Traditional Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "625477a76c58cda72ef391581d570a20709642ce",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
