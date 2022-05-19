@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2476,
+        "game_count": 2477,
         "games": [
             {
                 "appid": 92,
@@ -22956,6 +22956,15 @@
                 "name": "Slurkum Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "6855fc768daac238e3a7ade5d3875063ebd0bf49",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1984300,
+                "name": "HORROR TYCOON Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f3cbf820055c0de8249e2fbd1caec3f8bfe3ac82",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
