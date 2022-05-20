@@ -22208,6 +22208,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1887240,
+                "name": "World War 3 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "091387afc53c2f1a7488950dd5cd15c7c7745f0a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1887540,
                 "name": "Saleblazers Playtest",
                 "playtime_forever": 0,
@@ -22766,15 +22775,6 @@
                 "name": "Incremental Epic Hero 2 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "03e8877d7fbeff2902a086f6d101993a57c1d822",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1956880,
-                "name": "Down Fast VR Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "26cc4fa72e3f908fb22bc32dadfdb94a228c72b5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
