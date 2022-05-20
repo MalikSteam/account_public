@@ -2486,6 +2486,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/387970]]></storeLink>
 		</game>
 		<game>
+			<appID>1909980</appID>
+			<name><![CDATA[Clönk Alpha Test]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1909980]]></storeLink>
+		</game>
+		<game>
 			<appID>403690</appID>
 			<name><![CDATA[Codename: Rogue Fleet]]></name>
 			
