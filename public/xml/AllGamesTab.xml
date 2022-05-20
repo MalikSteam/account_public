@@ -3606,12 +3606,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/317360/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1956880</appID>
-			<name><![CDATA[Down Fast VR Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1956880]]></storeLink>
-		</game>
-		<game>
 			<appID>742170</appID>
 			<name><![CDATA[Dr. Frank's Build a Boyfriend]]></name>
 			
@@ -3836,20 +3830,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -14446,6 +14440,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/271920]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/271920]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/271920/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1887240</appID>
+			<name><![CDATA[World War 3 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1887240]]></storeLink>
 		</game>
 		<game>
 			<appID>466910</appID>
