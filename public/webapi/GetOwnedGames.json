@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2482,
+        "game_count": 2481,
         "games": [
             {
                 "appid": 92,
@@ -19413,15 +19413,6 @@
                 "name": "Riftnote Beta",
                 "playtime_forever": 0,
                 "img_icon_url": "7bd5369bddc927e2fe6526b9d856cabed0522ee4",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1613320,
-                "name": "Ultimate Fishing Simulator 2 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "a2665ac761f52d8dcedc1cb5ba5b5efba1cdac76",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
