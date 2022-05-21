@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2481,
+        "game_count": 2482,
         "games": [
             {
                 "appid": 92,
@@ -19104,6 +19104,15 @@
                 "playtime_forever": 0,
                 "img_icon_url": "da5db7b9d28a85df37b6e5cad73ddcce9614db94",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1549290,
+                "name": "Disruption Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "97ecd0f5e4e5f848bf1562adf5f07ce68d97871f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
