@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2482,
+        "game_count": 2481,
         "games": [
             {
                 "appid": 92,
@@ -20360,16 +20360,6 @@
                 "name": "The Unexpected Quest Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "630f9724022d7a6910a582ab4a55d62360405297",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1676110,
-                "name": "AST-Hero Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "77ff68e202862bfe8bd0c46e4432250c301c9226",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
