@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2483,
+        "game_count": 2484,
         "games": [
             {
                 "appid": 92,
@@ -22956,6 +22956,15 @@
                 "name": "Terror of Hemasaurus Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "949807cfbb76d7e2c38c1a43b994d3f60075b39d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1978950,
+                "name": "There Is No Light Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4ed870d610e0dd3df28bd18093dbd55c11c94269",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
