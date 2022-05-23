@@ -11830,16 +11830,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -11962,6 +11962,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/51100]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/TacticalIntervention]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/TacticalIntervention/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1691310</appID>
+			<name><![CDATA[Tactical Troops: Anthracite Shift Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1691310]]></storeLink>
 		</game>
 		<game>
 			<appID>1616330</appID>
