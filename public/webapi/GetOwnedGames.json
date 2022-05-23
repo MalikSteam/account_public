@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2481,
+        "game_count": 2482,
         "games": [
             {
                 "appid": 92,
@@ -22929,6 +22929,15 @@
                 "name": "Bounters Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "4d7798ced5512c86e03679ba43051635aa5913d1",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1976640,
+                "name": "Polygon Pursuit Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "017209380ca2f2eca43485b42e7a6ff3d6e688c9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
