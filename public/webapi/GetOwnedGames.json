@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2482,
+        "game_count": 2483,
         "games": [
             {
                 "appid": 92,
@@ -21043,6 +21043,15 @@
                 "name": "Sinfeld Remastered Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "c4b0d08772b2db0cddfdd16aba92f4c20d452871",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1740360,
+                "name": "SpiderHeck Multiplayer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "01f1d4f02f20fbdf051a28cd3960c6150e6e7aa0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
