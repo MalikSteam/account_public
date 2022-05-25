@@ -22807,6 +22807,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1959090,
+                "name": "Danger Forever Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1ee8a66c277db9b33224a9e8ed7d971cbf2f1227",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1962510,
                 "name": "Cradle of Sins - Public Test",
                 "playtime_forever": 0,
@@ -23055,15 +23064,6 @@
                 "name": "Genimas: Life reborn Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "305f3aee5c21b3bd1dc294ec856b47d08914242c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1991580,
-                "name": "\u730e\u9b54\u6218\u7eaa Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "6ae7cc901d5bf474137025cbf9538e2276090614",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
