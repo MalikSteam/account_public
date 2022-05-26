@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2483,
+        "game_count": 2482,
         "games": [
             {
                 "appid": 92,
@@ -22938,15 +22938,6 @@
                 "name": "Wormhole Adventurer Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f6b8a676e55ac34e52df42a2253d3bf82349b334",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1977420,
-                "name": "Terror of Hemasaurus Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "949807cfbb76d7e2c38c1a43b994d3f60075b39d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
