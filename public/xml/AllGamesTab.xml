@@ -8631,6 +8631,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/582030]]></storeLink>
 		</game>
 		<game>
+			<appID>1843870</appID>
+			<name><![CDATA[Obscurity: Unknown Threat Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1843870]]></storeLink>
+		</game>
+		<game>
 			<appID>549360</appID>
 			<name><![CDATA[ObserVR Beta]]></name>
 			
@@ -11836,16 +11842,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12515,6 +12521,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/450390]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/450390]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/450390/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2008890</appID>
+			<name><![CDATA[The Last Citadel Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2008890]]></storeLink>
 		</game>
 		<game>
 			<appID>593620</appID>
