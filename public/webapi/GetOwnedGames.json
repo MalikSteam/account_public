@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2484,
+        "game_count": 2486,
         "games": [
             {
                 "appid": 92,
@@ -23051,6 +23051,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1991490,
+                "name": "Kung Fu Legend Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "6664f91ccde11993e67b0f184f149e8e250b7ea8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1991550,
                 "name": "Genimas: Life reborn Playtest",
                 "playtime_forever": 0,
@@ -23119,6 +23128,15 @@
                 "name": "The Last Citadel Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "48665f69e8b8b1a9fa78ad79f6d79f4c80c4e724",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2010480,
+                "name": "ShapeR Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b52ee1f941f0edda3e0a59e47b7425dda0d6b6d0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
