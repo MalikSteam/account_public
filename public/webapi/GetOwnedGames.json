@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2482,
+        "game_count": 2484,
         "games": [
             {
                 "appid": 92,
@@ -21851,6 +21851,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1843870,
+                "name": "Obscurity: Unknown Threat Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d5242d6767e0b67218f32014ce78b9f00441b737",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1845120,
                 "name": "Catsploration Playtest",
                 "playtime_forever": 0,
@@ -23101,6 +23110,15 @@
                 "name": "Hardcore Trivia Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b77df2fca7b0c7c9a72f0d6ab91024c7c9f0669c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2008890,
+                "name": "The Last Citadel Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "48665f69e8b8b1a9fa78ad79f6d79f4c80c4e724",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
