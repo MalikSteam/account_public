@@ -7048,6 +7048,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/513000]]></storeLink>
 		</game>
 		<game>
+			<appID>1991490</appID>
+			<name><![CDATA[Kung Fu Legend Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1991490]]></storeLink>
+		</game>
+		<game>
 			<appID>374570</appID>
 			<name><![CDATA[Kung Fury]]></name>
 			
@@ -10763,6 +10769,12 @@
 			<name><![CDATA[Shapelab]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/571890]]></storeLink>
+		</game>
+		<game>
+			<appID>2010480</appID>
+			<name><![CDATA[ShapeR Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2010480]]></storeLink>
 		</game>
 		<game>
 			<appID>586030</appID>
