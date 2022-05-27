@@ -11892,6 +11892,10 @@
         "name": "Cultivation Story: Reincarnation Playtest"
     },
     {
+        "appid": 1991490,
+        "name": "Kung Fu Legend Playtest"
+    },
+    {
         "appid": 1991550,
         "name": "Genimas: Life reborn Playtest"
     },
@@ -11926,5 +11930,9 @@
     {
         "appid": 2008890,
         "name": "The Last Citadel Playtest"
+    },
+    {
+        "appid": 2010480,
+        "name": "ShapeR Playtest"
     }
 ]
