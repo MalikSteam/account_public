@@ -9483,16 +9483,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/646400]]></storeLink>
 		</game>
 		<game>
+			<appID>1953720</appID>
+			<name><![CDATA[Potato Arena Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1953720]]></storeLink>
+		</game>
+		<game>
 			<appID>1820630</appID>
 			<name><![CDATA[Potato Party: The Potatomancer Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1820630]]></storeLink>
-		</game>
-		<game>
-			<appID>1953720</appID>
-			<name><![CDATA[Potato Party Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1953720]]></storeLink>
 		</game>
 		<game>
 			<appID>201210</appID>
