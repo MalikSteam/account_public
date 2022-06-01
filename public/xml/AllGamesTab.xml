@@ -1239,6 +1239,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/643000/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2004100</appID>
+			<name><![CDATA[Bargue Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2004100]]></storeLink>
+		</game>
+		<game>
 			<appID>463150</appID>
 			<name><![CDATA[BARRIER X]]></name>
 			
@@ -4276,12 +4282,6 @@
 			<name><![CDATA[Eternal Senia]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/351640]]></storeLink>
-		</game>
-		<game>
-			<appID>1952010</appID>
-			<name><![CDATA[Ethyrial, Echoes of Yore Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1952010]]></storeLink>
 		</game>
 		<game>
 			<appID>690930</appID>
@@ -8392,12 +8392,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/338540]]></storeLink>
 		</game>
 		<game>
-			<appID>1966030</appID>
-			<name><![CDATA[Necrosmith Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1966030]]></storeLink>
-		</game>
-		<game>
 			<appID>469990</appID>
 			<name><![CDATA[NEKOPALIVE]]></name>
 			
@@ -8635,12 +8629,6 @@
 			<name><![CDATA[Oblivion Tesseract VR]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/582030]]></storeLink>
-		</game>
-		<game>
-			<appID>1843870</appID>
-			<name><![CDATA[Obscurity: Unknown Threat Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1843870]]></storeLink>
 		</game>
 		<game>
 			<appID>549360</appID>
@@ -10779,12 +10767,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/571890]]></storeLink>
 		</game>
 		<game>
-			<appID>2010480</appID>
-			<name><![CDATA[ShapeR Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2010480]]></storeLink>
-		</game>
-		<game>
 			<appID>586030</appID>
 			<name><![CDATA[Shardbound]]></name>
 			
@@ -11862,16 +11844,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12381,6 +12363,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/260430]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/260430]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/260430/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2012050</appID>
+			<name><![CDATA[The Galactic Junkers Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2012050]]></storeLink>
 		</game>
 		<game>
 			<appID>1685190</appID>
@@ -14696,6 +14684,12 @@
 			<name><![CDATA[Ziggurat 3D Chess]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/654680]]></storeLink>
+		</game>
+		<game>
+			<appID>1715760</appID>
+			<name><![CDATA[Zofia Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1715760]]></storeLink>
 		</game>
 		<game>
 			<appID>612020</appID>
