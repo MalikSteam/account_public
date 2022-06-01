@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2485,
+        "game_count": 2484,
         "games": [
             {
                 "appid": 92,
@@ -22074,15 +22074,6 @@
                 "name": "Camp Wars Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ba9d7eab00abcaf68e8afb3625b351b9635db1b9",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1867420,
-                "name": "LEAP Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3c9a089f3d142652bba51e3c02cb385c7055905c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
