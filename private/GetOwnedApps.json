@@ -10280,6 +10280,10 @@
         "name": "HEATED Alpha Test"
     },
     {
+        "appid": 1715760,
+        "name": "Zofia Playtest"
+    },
+    {
         "appid": 1715820,
         "name": "Einar - Loki's Traps Playtest"
     },
@@ -11928,11 +11932,19 @@
         "name": "Hardcore Trivia Playtest"
     },
     {
+        "appid": 2004100,
+        "name": "Bargue Playtest"
+    },
+    {
         "appid": 2008890,
         "name": "The Last Citadel Playtest"
     },
     {
         "appid": 2010480,
         "name": "ShapeR Playtest"
+    },
+    {
+        "appid": 2012050,
+        "name": "The Galactic Junkers Playtest"
     }
 ]
