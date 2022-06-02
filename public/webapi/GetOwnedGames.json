@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2485,
+        "game_count": 2486,
         "games": [
             {
                 "appid": 92,
@@ -22575,6 +22575,15 @@
                 "name": "VR TRIBES Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "94a95e69bf60f70d4cd8e85a34d6fc1b26654cbb",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1944350,
+                "name": "Mindfulness Simulator - ASMR Meditation Game Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "f5742e34adcb8fb9f51cfb6b37b50d1a38ac29be",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
