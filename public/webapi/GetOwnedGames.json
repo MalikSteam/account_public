@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2490,
+        "game_count": 2491,
         "games": [
             {
                 "appid": 92,
@@ -22420,6 +22420,16 @@
                 "name": "Wish Talk Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ef977082dfa4883a2586d17b04a3d4ba6f0f2675",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1920550,
+                "name": "Jasper Vice: Legends Untold Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "428ab206c4915cd36ae46ebc34018a854319b435",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
