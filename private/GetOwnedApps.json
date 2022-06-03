@@ -11928,6 +11928,10 @@
         "name": "American Catur/Traditional Playtest"
     },
     {
+        "appid": 1996270,
+        "name": "Dream magic will Beta version"
+    },
+    {
         "appid": 1997090,
         "name": "Animation Sketchpad Playtest"
     },
@@ -11970,5 +11974,9 @@
     {
         "appid": 2014960,
         "name": "Octopus Game Playtest"
+    },
+    {
+        "appid": 2019460,
+        "name": "\u6ee1\u5ead\u82b3\uff1a\u5b8b\u4e0a\u7e41\u534e Playtest"
     }
 ]
