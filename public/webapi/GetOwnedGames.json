@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2485,
+        "game_count": 2486,
         "games": [
             {
                 "appid": 92,
@@ -23128,6 +23128,15 @@
                 "name": "The Galactic Junkers Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "7c3d1b4129af5704f84c54b6a75c8ad5782619a5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2014960,
+                "name": "Octopus Game Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "4088cd5cf1fc1cd39b4f2bc7e79a7b5609f4e93a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
