@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2486,
+        "game_count": 2487,
         "games": [
             {
                 "appid": 92,
@@ -22875,6 +22875,15 @@
                 "name": "scuffed Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "2ffcb84751bf89ee1a5fbd8b2cf5631a7d24ee78",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1972520,
+                "name": "Hexane Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "387d9e5754ef1856fcf524e733fbc49e53df2e8f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
