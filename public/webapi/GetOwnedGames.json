@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2491,
+        "game_count": 2492,
         "games": [
             {
                 "appid": 92,
@@ -20450,6 +20450,15 @@
                 "name": "\u8d85\u903c\u771f\u7684\u653b\u57ce\u6a21\u62df\u5668 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "9bbf5255608a2513047b8acf1a4d0486e59c64f0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1681770,
+                "name": "Video Horror Society Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d20cc2dc883d7c9a67bf892115cfef5864472d29",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
