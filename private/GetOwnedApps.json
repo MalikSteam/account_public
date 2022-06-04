@@ -11972,12 +11972,20 @@
         "name": "The Last Citadel Playtest"
     },
     {
+        "appid": 2009240,
+        "name": "\u751f\u6b7b\u72d9\u51fb2 Playtest"
+    },
+    {
         "appid": 2010480,
         "name": "ShapeR Playtest"
     },
     {
         "appid": 2012050,
         "name": "The Galactic Junkers Playtest"
+    },
+    {
+        "appid": 2012200,
+        "name": "RhyVerse Playtest"
     },
     {
         "appid": 2014960,
