@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2494,
+        "game_count": 2495,
         "games": [
             {
                 "appid": 92,
@@ -21869,6 +21869,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1843870,
+                "name": "Obscurity: Unknown Threat Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d5242d6767e0b67218f32014ce78b9f00441b737",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1845120,
                 "name": "Catsploration Playtest",
                 "playtime_forever": 0,
@@ -23192,6 +23201,7 @@
                 "name": "RhyVerse Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b7ad6030989b1f89bbc993751d479453e8409cb5",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
