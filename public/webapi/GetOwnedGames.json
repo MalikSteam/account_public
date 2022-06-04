@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2495,
+        "game_count": 2496,
         "games": [
             {
                 "appid": 92,
@@ -23211,6 +23211,15 @@
                 "name": "It's Full of Stars Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "4088cd5cf1fc1cd39b4f2bc7e79a7b5609f4e93a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2015230,
+                "name": "Parabellum Galaxia Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1df8b2ce70502659b371831df4472e6a76925ea8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
