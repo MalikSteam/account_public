@@ -10187,6 +10187,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/604950/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2012200</appID>
+			<name><![CDATA[RhyVerse Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2012200]]></storeLink>
+		</game>
+		<game>
 			<appID>60</appID>
 			<name><![CDATA[Ricochet]]></name>
 			
@@ -11870,16 +11876,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -14878,6 +14884,12 @@
 			<name><![CDATA[烽火大秦]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1157330]]></storeLink>
+		</game>
+		<game>
+			<appID>2009240</appID>
+			<name><![CDATA[生死狙击2 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2009240]]></storeLink>
 		</game>
 		<game>
 			<appID>1615800</appID>
