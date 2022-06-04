@@ -6617,6 +6617,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/449140]]></storeLink>
 		</game>
 		<game>
+			<appID>2014960</appID>
+			<name><![CDATA[It's Full of Stars Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2014960]]></storeLink>
+		</game>
+		<game>
 			<appID>667120</appID>
 			<name><![CDATA[ITownGamePlay UNIVERSE]]></name>
 			
@@ -8669,12 +8675,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/708680]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/708680]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/708680/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2014960</appID>
-			<name><![CDATA[Octopus Game Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2014960]]></storeLink>
 		</game>
 		<game>
 			<appID>15700</appID>
