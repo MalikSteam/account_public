@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2497,
+        "game_count": 2498,
         "games": [
             {
                 "appid": 92,
@@ -22576,6 +22576,15 @@
                 "name": "\u68a6\u5e7b\u4e09\u56fd2 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "748cac17f77020690f2613cdc8c07d00c59bf2ca",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1942160,
+                "name": "Universe 51: Tannh\u00e4user Wars Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b6ad1e46068873ecca1f997066b0302256ff26a2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
