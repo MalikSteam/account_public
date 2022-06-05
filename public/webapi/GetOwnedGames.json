@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2496,
+        "game_count": 2497,
         "games": [
             {
                 "appid": 92,
@@ -23183,6 +23183,15 @@
                 "name": "\u751f\u6b7b\u72d9\u51fb2 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1504bdffda16f074bf1213b21281f14a98328715",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2010480,
+                "name": "ShapeR Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5705f3086dd8f8b95108a1dfc07194eed597cfe2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
