@@ -22785,6 +22785,7 @@
                 "name": "Incremental Epic Hero 2 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "03e8877d7fbeff2902a086f6d101993a57c1d822",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
