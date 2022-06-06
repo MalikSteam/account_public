@@ -10821,12 +10821,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/571890]]></storeLink>
 		</game>
 		<game>
-			<appID>2010480</appID>
-			<name><![CDATA[ShapeR Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2010480]]></storeLink>
-		</game>
-		<game>
 			<appID>586030</appID>
 			<name><![CDATA[Shardbound]]></name>
 			
@@ -10939,6 +10933,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/665920]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/665920]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/665920/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2010480</appID>
+			<name><![CDATA[SHPR playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2010480]]></storeLink>
 		</game>
 		<game>
 			<appID>321480</appID>
@@ -11904,16 +11904,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
