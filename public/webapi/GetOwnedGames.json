@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2502,
+        "game_count": 2501,
         "games": [
             {
                 "appid": 92,
@@ -23276,15 +23276,6 @@
                 "name": "\u6ee1\u5ead\u82b3\uff1a\u5b8b\u4e0a\u7e41\u534e Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1d5499baf238aad9dddf46a21727dca1f74abd0c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 2022160,
-                "name": "C&T Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f0092cc1d6a66258c97d5c92b110c37a39d7f37c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
