@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2500,
+        "game_count": 2501,
         "games": [
             {
                 "appid": 92,
@@ -10518,6 +10518,15 @@
             {
                 "appid": 1416840,
                 "name": "Behind The Schemes: Fall Guys (Mediatonic)",
+                "playtime_forever": 0,
+                "img_icon_url": "",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1430290,
+                "name": "Behind The Schemes: Serious Sam 4 (Croteam)",
                 "playtime_forever": 0,
                 "img_icon_url": "",
                 "playtime_windows_forever": 0,
