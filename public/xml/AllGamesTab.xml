@@ -2661,6 +2661,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/362060]]></storeLink>
 		</game>
 		<game>
+			<appID>2013110</appID>
+			<name><![CDATA[Contraband Police Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2013110]]></storeLink>
+		</game>
+		<game>
 			<appID>1558400</appID>
 			<name><![CDATA[Control:Override Playtest]]></name>
 			
@@ -12195,16 +12201,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
