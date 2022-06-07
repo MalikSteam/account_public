@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2500,
+        "game_count": 2499,
         "games": [
             {
                 "appid": 92,
@@ -22914,15 +22914,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "ef935dd3e41ce5c3a17824ee2fd51a4d1d31a059",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1968770,
-                "name": "Android Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "edfe60ce57260f416e1688e4deff43b5fb261ded",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
