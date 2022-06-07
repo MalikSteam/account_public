@@ -3364,6 +3364,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/497940]]></storeLink>
 		</game>
 		<game>
+			<appID>1982760</appID>
+			<name><![CDATA[DESTRUCTURE: Among Debris Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1982760]]></storeLink>
+		</game>
+		<game>
 			<appID>612620</appID>
 			<name><![CDATA[Detective Butler: Maiden Voyage Murder]]></name>
 			
@@ -12201,16 +12207,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
