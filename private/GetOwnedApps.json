@@ -11165,7 +11165,7 @@
     },
     {
         "appid": 1854350,
-        "name": "All Hands In One Playtest"
+        "name": "Out Of Hands Playtest"
     },
     {
         "appid": 1854610,
@@ -12018,6 +12018,10 @@
     {
         "appid": 2019460,
         "name": "\u6ee1\u5ead\u82b3\uff1a\u5b8b\u4e0a\u7e41\u534e Playtest"
+    },
+    {
+        "appid": 2019940,
+        "name": "Puppet Master Playtest"
     },
     {
         "appid": 2022160,
