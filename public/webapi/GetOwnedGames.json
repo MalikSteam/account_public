@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2505,
+        "game_count": 2507,
         "games": [
             {
                 "appid": 92,
@@ -23312,6 +23312,24 @@
                 "name": "Puppet Master Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "63e5281c23b0527c43a83898f70506d48ba31f85",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2022350,
+                "name": "The Backroom - Lost and Found Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "801caf2dc3815e13f4c5cf1e220410c43a6730ca",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2022600,
+                "name": "Free Multiplayer session - June 8 - 7pm GMT / 3pm ET",
+                "playtime_forever": 0,
+                "img_icon_url": "8da297a7164a18e7bee782f24c4a0b2d8842fd9e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
