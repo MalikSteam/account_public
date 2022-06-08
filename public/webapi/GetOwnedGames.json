@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2501,
+        "game_count": 2502,
         "games": [
             {
                 "appid": 92,
@@ -21953,9 +21953,9 @@
             },
             {
                 "appid": 1854350,
-                "name": "All Hands In One: \u4e07\u624b\u4e00\u4f53 Playtest",
+                "name": "Out Of Hands: \u4e07\u624b\u4e00\u4f53 Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "ae5d1f03ffcc6abda88d9ced82d0d2dfc40d98a4",
+                "img_icon_url": "5418f35bf06e61d8107f1fce9ad2ff20b3c54a08",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
@@ -23276,6 +23276,15 @@
                 "name": "\u6ee1\u5ead\u82b3\uff1a\u5b8b\u4e0a\u7e41\u534e Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1d5499baf238aad9dddf46a21727dca1f74abd0c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2019940,
+                "name": "Puppet Master Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "63e5281c23b0527c43a83898f70506d48ba31f85",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
