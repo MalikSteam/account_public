@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2499,
+        "game_count": 2500,
         "games": [
             {
                 "appid": 92,
@@ -22977,6 +22977,15 @@
                 "name": "There Is No Light Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "4ed870d610e0dd3df28bd18093dbd55c11c94269",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1979310,
+                "name": "VEILED EXPERTS GLOBAL BETA",
+                "playtime_forever": 0,
+                "img_icon_url": "e24b007521f550a051dc28d28e16178c8bf25b18",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
