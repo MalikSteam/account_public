@@ -4940,6 +4940,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/584170]]></storeLink>
 		</game>
 		<game>
+			<appID>2022600</appID>
+			<name><![CDATA[Free Multiplayer session - June 8 - 7pm GMT / 3pm ET]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2022600]]></storeLink>
+		</game>
+		<game>
 			<appID>339610</appID>
 			<name><![CDATA[FreeStyle 2: Street Basketball]]></name>
 			
@@ -11922,16 +11928,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12219,16 +12225,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -12287,6 +12293,12 @@
 			<name><![CDATA[The Awesome Adventures of Captain Spirit]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/845070]]></storeLink>
+		</game>
+		<game>
+			<appID>2022350</appID>
+			<name><![CDATA[The Backroom - Lost and Found Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2022350]]></storeLink>
 		</game>
 		<game>
 			<appID>219340</appID>
