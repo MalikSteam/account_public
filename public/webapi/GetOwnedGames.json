@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2504,
+        "game_count": 2505,
         "games": [
             {
                 "appid": 92,
@@ -22722,6 +22722,15 @@
                 "name": "Worst World Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "4e4dc02b8e282c4431810def59a3a8edaafc7e6b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1951510,
+                "name": "Pale Night Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "19b8b0f74fd0fbcfb5394c44a1f2c165762067ba",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
