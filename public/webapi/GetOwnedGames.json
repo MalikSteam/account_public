@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2503,
+        "game_count": 2504,
         "games": [
             {
                 "appid": 92,
@@ -21790,6 +21790,15 @@
                 "name": "Ozymandias Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "267c0bb51175f55aa86ea8711d5f5ccebe3652ed",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1833090,
+                "name": "Cowboy Life Simulator Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "423e9dec1ffb9dc482fb57325b2882df785aa99b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
