@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2507,
+        "game_count": 2508,
         "games": [
             {
                 "appid": 92,
@@ -23149,6 +23149,15 @@
                 "name": "American Catur/Traditional Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "625477a76c58cda72ef391581d570a20709642ce",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1996040,
+                "name": "Disney Speedstorm Closed Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "81737059aa22bae2b1c8fc774f7534a9ba7b5d24",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
