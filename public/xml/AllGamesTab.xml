@@ -14429,6 +14429,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/621300]]></storeLink>
 		</game>
 		<game>
+			<appID>2019000</appID>
+			<name><![CDATA[Wings Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2019000]]></storeLink>
+		</game>
+		<game>
 			<appID>458960</appID>
 			<name><![CDATA[Winning Putt: Golf Online]]></name>
 			
