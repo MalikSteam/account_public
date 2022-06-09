@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2509,
+        "game_count": 2510,
         "games": [
             {
                 "appid": 92,
@@ -23303,6 +23303,15 @@
                 "name": "Parabellum Galaxia Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1df8b2ce70502659b371831df4472e6a76925ea8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2017450,
+                "name": "Augury Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d6ed1b1bf456ad92742f8851cde9d8795813f262",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
