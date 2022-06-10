@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2510,
+        "game_count": 2511,
         "games": [
             {
                 "appid": 92,
@@ -21897,6 +21897,15 @@
                 "playtime_linux_forever": 0
             },
             {
+                "appid": 1843870,
+                "name": "Obscurity: Unknown Threat Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d5242d6767e0b67218f32014ce78b9f00441b737",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
                 "appid": 1845120,
                 "name": "Catsploration Playtest",
                 "playtime_forever": 0,
@@ -23293,7 +23302,7 @@
                 "appid": 2014960,
                 "name": "It's Full of Stars Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "a024af066bc6b0c86b347dae208516d9eea05c96",
+                "img_icon_url": "ea2d11d18c6b1276aa8b687e091fe4520312c452",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
