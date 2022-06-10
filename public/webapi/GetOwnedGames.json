@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2512,
+        "game_count": 2511,
         "games": [
             {
                 "appid": 92,
@@ -23239,15 +23239,6 @@
                 "name": "PSI Masquerade Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "91bb29ae6431c3291808edb5108455842fa1ee21",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 2004100,
-                "name": "Bargue Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1d25a0101655ccb1ddcdc0f69841efac92cb03e7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
