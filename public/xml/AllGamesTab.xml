@@ -4952,6 +4952,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2022600]]></storeLink>
 		</game>
 		<game>
+			<appID>2005650</appID>
+			<name><![CDATA[FREERIDE: The Personality Test Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2005650]]></storeLink>
+		</game>
+		<game>
 			<appID>339610</appID>
 			<name><![CDATA[FreeStyle 2: Street Basketball]]></name>
 			
@@ -12249,16 +12255,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13508,12 +13514,6 @@
 			<hoursOnRecord>7.1</hoursOnRecord>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/269710]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/269710/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1967580</appID>
-			<name><![CDATA[Turbo Golf Racing Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1967580]]></storeLink>
 		</game>
 		<game>
 			<appID>1952300</appID>
