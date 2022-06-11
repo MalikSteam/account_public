@@ -22936,15 +22936,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1967580,
-                "name": "Turbo Golf Racing Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "58526e4b42965ba59b1d3b25542e84b5d0a24ebf",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1967780,
                 "name": "Rummy 3D Premium Beta",
                 "playtime_forever": 0,
@@ -23239,6 +23230,15 @@
                 "name": "PSI Masquerade Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "91bb29ae6431c3291808edb5108455842fa1ee21",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2005650,
+                "name": "FREERIDE: The Personality Test Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "808e307f5b638d5c367a57da94a270cadd23c653",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
