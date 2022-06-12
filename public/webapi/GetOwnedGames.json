@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2510,
+        "game_count": 2511,
         "games": [
             {
                 "appid": 92,
@@ -22249,6 +22249,15 @@
                 "name": "Saleblazers Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ea73345414226dc5487e2aa75a81f5b9a88b68b5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1888020,
+                "name": "\u4ee3\u53f7\uff1a\u7edd\u4e16\u597d\u6b66\u529f Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3bfb4a8f04ad160f9c61456e49cdda98147161a6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
