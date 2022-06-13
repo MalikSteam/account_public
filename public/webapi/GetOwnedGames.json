@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2507,
+        "game_count": 2506,
         "games": [
             {
                 "appid": 92,
@@ -23185,15 +23185,6 @@
                 "name": "Unoffensible Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "045911b94b101a18a75bfc9d258ad27e40de5c7a",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 2001400,
-                "name": "The Shadow Government Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "866cbc0e94e633a051c114243fb1e0ac46d781c3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
