@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2506,
+        "game_count": 2507,
         "games": [
             {
                 "appid": 92,
@@ -19504,6 +19504,16 @@
                 "name": "Qorena - Foresight",
                 "playtime_forever": 0,
                 "img_icon_url": "2a2bc4f6dc663b8ebfc3b6f3a0d2e944bb1d04ef",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1614190,
+                "name": "Big Earth Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1b9e3e8ed0accbfff20087ec641bf2eb9fbf6d4e",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
