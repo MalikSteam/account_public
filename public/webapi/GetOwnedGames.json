@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2507,
+        "game_count": 2506,
         "games": [
             {
                 "appid": 92,
@@ -23231,15 +23231,6 @@
                 "name": "The Last Citadel Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "48665f69e8b8b1a9fa78ad79f6d79f4c80c4e724",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 2010480,
-                "name": "SHPR playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "5705f3086dd8f8b95108a1dfc07194eed597cfe2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
