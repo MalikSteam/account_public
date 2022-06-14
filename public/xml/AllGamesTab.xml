@@ -10967,12 +10967,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/665920/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>2010480</appID>
-			<name><![CDATA[SHPR playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2010480]]></storeLink>
-		</game>
-		<game>
 			<appID>321480</appID>
 			<name><![CDATA[Sigils of Elohim]]></name>
 			
@@ -12239,16 +12233,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
