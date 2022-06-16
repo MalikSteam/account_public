@@ -19968,6 +19968,7 @@
                 "name": "Flowstone Saga Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f751abe3527524658a77bbff92634a0ca6e7180f",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
