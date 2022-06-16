@@ -1,12 +1,21 @@
 {
     "response": {
-        "game_count": 2504,
+        "game_count": 2505,
         "games": [
             {
                 "appid": 92,
                 "name": "Codename Gordon",
                 "playtime_forever": 0,
                 "img_icon_url": "0903fd383b336d66df689fcc646f554b408412dd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 211,
+                "name": "Source SDK",
+                "playtime_forever": 0,
+                "img_icon_url": "50dd8fa4ea86581b1986e8b1d0560d58f41912ac",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
