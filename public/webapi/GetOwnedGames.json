@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2505,
+        "game_count": 2504,
         "games": [
             {
                 "appid": 92,
@@ -21974,15 +21974,6 @@
                 "name": "Post-Apo Builder Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "f4d990fada5965d42e7cd672809cb64756880d4d",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1855530,
-                "name": "From Warrior to Hero (Idle 3D RPG) Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "95a0669735e48952a45559bd40e444e680b30a5a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
