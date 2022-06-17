@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2505,
+        "game_count": 2506,
         "games": [
             {
                 "appid": 92,
@@ -23304,6 +23304,15 @@
                 "name": "Free Multiplayer session - June 8 - 7pm GMT / 3pm ET",
                 "playtime_forever": 0,
                 "img_icon_url": "8da297a7164a18e7bee782f24c4a0b2d8842fd9e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2052750,
+                "name": "Ikonei Island: An Earthlock Adventure Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "82e9fc003f7ad2b426410e47c75ea5077bb93c52",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
