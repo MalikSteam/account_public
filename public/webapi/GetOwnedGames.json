@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2506,
+        "game_count": 2507,
         "games": [
             {
                 "appid": 92,
@@ -23322,6 +23322,15 @@
                 "name": "Acorn City: Tropical! Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "48cc50239f14dfc1cf0b919203e23973bd1ada43",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2053690,
+                "name": "\u9547\u90aa Zhenxie Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "fb3d4adecbc632dce6291f2a3ad5affe3ca9933c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
