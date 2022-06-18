@@ -733,6 +733,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1172470/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1896280</appID>
+			<name><![CDATA[Apocalyptic Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1896280]]></storeLink>
+		</game>
+		<game>
 			<appID>1528600</appID>
 			<name><![CDATA[Apocrypha Playtest]]></name>
 			
