@@ -3860,20 +3860,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -11897,14 +11897,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/104700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1863230</appID>
-			<name><![CDATA[Supernova Tactics Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1863230]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1863230]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1863230/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>1619990</appID>
 			<name><![CDATA[SUPER PEOPLE CBT]]></name>
 			
@@ -14754,12 +14746,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/286100]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/286100]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/286100/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2017680</appID>
-			<name><![CDATA[Youmandriver Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2017680]]></storeLink>
 		</game>
 		<game>
 			<appID>416030</appID>
