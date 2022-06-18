@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2508,
+        "game_count": 2506,
         "games": [
             {
                 "appid": 92,
@@ -22080,16 +22080,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1863230,
-                "name": "Supernova Tactics Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d75624b79a509da7c43d781ba6ce5322b327e854",
-                "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1863760,
                 "name": "TowerFall with Friends Playtest",
                 "playtime_forever": 0,
@@ -23250,15 +23240,6 @@
                 "name": "Augury Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "d6ed1b1bf456ad92742f8851cde9d8795813f262",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 2017680,
-                "name": "Youmandriver Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "0feb86ebda21c316d13904c6bad3221cf3a12b4c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
