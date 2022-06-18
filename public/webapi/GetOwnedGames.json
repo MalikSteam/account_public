@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2507,
+        "game_count": 2508,
         "games": [
             {
                 "appid": 92,
@@ -22287,6 +22287,15 @@
                 "name": "Indy Pro '22: Rebirth of the Territories Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "24c355c39db3a55e11217c7ca7d8cf686f002a2a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 1896280,
+                "name": "Apocalyptic Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "f31313539bf18c8ac9726f873e1931c21d6e796b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
