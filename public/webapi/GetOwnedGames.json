@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2503,
+        "game_count": 2502,
         "games": [
             {
                 "appid": 92,
@@ -21006,15 +21006,6 @@
                 "name": "Fireside Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "eab98e890f68cb6c29c070399ad4a7a825d66dfa",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
-                "appid": 1736430,
-                "name": "Mage Tower: Call of Zadeus Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "3c4794a080add0e925ca731d96828ff8e4ed469e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
