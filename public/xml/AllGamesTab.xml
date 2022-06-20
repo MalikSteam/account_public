@@ -4709,12 +4709,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/625080]]></storeLink>
 		</game>
 		<game>
-			<appID>1574380</appID>
-			<name><![CDATA[Flea Madness Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1574380]]></storeLink>
-		</game>
-		<game>
 			<appID>1792970</appID>
 			<name><![CDATA[Flippin Kaktus Playtest]]></name>
 			
@@ -5846,6 +5840,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/524970]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/524970]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/524970/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2023480</appID>
+			<name><![CDATA[Hermea Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2023480]]></storeLink>
 		</game>
 		<game>
 			<appID>1957500</appID>
