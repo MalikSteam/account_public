@@ -19218,15 +19218,6 @@
                 "playtime_linux_forever": 0
             },
             {
-                "appid": 1574380,
-                "name": "Flea Madness Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "b4abbf35e667fc1fa7fb104bba36a9674f64afd3",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0
-            },
-            {
                 "appid": 1575330,
                 "name": "Friendly Fire: Arena",
                 "playtime_forever": 0,
@@ -23266,6 +23257,15 @@
                 "name": "Free Multiplayer session - June 8 - 7pm GMT / 3pm ET",
                 "playtime_forever": 0,
                 "img_icon_url": "8da297a7164a18e7bee782f24c4a0b2d8842fd9e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2023480,
+                "name": "Hermea Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "57cad4a7916daa48e38e4b2085898778d1747d21",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
