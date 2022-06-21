@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2503,
+        "game_count": 2504,
         "games": [
             {
                 "appid": 92,
@@ -23185,6 +23185,15 @@
                 "playtime_forever": 0,
                 "img_icon_url": "b7ad6030989b1f89bbc993751d479453e8409cb5",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0
+            },
+            {
+                "appid": 2013660,
+                "name": "LunarLux Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c7e12ebc4582f2f545c58dcf1873306d8cf233ec",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0
