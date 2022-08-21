@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2560,
+        "game_count": 2559,
         "games": [
             {
                 "appid": 92,
@@ -21015,6 +21015,7 @@
                 "name": "Oakenfold Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1e233a1de64746b76008b7c361aabc13527ec1b5",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -25927,16 +25928,6 @@
                 "name": "Food Truck Simulator Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "a0a4e36f74c4ecd7c6c5f970c680530afe6fbd03",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2062470,
-                "name": "ThanksTaking Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "57096bf20ee716a295c4198eb9004a8b5dc13cc5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
