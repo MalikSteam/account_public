@@ -668,6 +668,10 @@
         "name": "SolForge"
     },
     {
+        "appid": 232770,
+        "name": "POSTAL"
+    },
+    {
         "appid": 233130,
         "name": "Shadow Warrior"
     },
@@ -989,7 +993,7 @@
     },
     {
         "appid": 266310,
-        "name": "GameGuru"
+        "name": "GameGuru Classic"
     },
     {
         "appid": 266430,
@@ -4445,7 +4449,7 @@
     },
     {
         "appid": 485610,
-        "name": "Ball 3D"
+        "name": "Ball 3D: Soccer Online"
     },
     {
         "appid": 485650,
@@ -6160,6 +6164,10 @@
         "name": "Freedom Locomotion VR"
     },
     {
+        "appid": 584210,
+        "name": "Tom Clancy's Ghost Recon Wildlands Open Beta"
+    },
+    {
         "appid": 584970,
         "name": "theHunter - Extra Equipment"
     },
@@ -6238,6 +6246,10 @@
     {
         "appid": 591740,
         "name": "Sniper Fury"
+    },
+    {
+        "appid": 592531,
+        "name": "Ghost Recon Wildlands Ghost War Open Beta - Uplay Activation"
     },
     {
         "appid": 592780,
@@ -6422,6 +6434,10 @@
     {
         "appid": 608980,
         "name": "Arch Virtual HQ"
+    },
+    {
+        "appid": 608990,
+        "name": "The Archotek Project"
     },
     {
         "appid": 609940,
@@ -7824,6 +7840,10 @@
         "name": "Freakshow:Anniversary"
     },
     {
+        "appid": 769920,
+        "name": "Odysseus Kosmos and his Robot Quest - Episode 1"
+    },
+    {
         "appid": 771250,
         "name": "Doodle God: Mighty Trio"
     },
@@ -7866,6 +7886,10 @@
     {
         "appid": 801910,
         "name": "Orbos"
+    },
+    {
+        "appid": 802240,
+        "name": "SOS: Classic"
     },
     {
         "appid": 807100,
@@ -7998,6 +8022,10 @@
     {
         "appid": 847790,
         "name": "Indentured Servant"
+    },
+    {
+        "appid": 850800,
+        "name": "Huawei VR2 driver"
     },
     {
         "appid": 850990,
@@ -9473,7 +9501,7 @@
     },
     {
         "appid": 1619990,
-        "name": "SUPER PEOPLE CBT"
+        "name": "SUPER PEOPLE FINAL BETA"
     },
     {
         "appid": 1620260,
@@ -9709,7 +9737,7 @@
     },
     {
         "appid": 1647100,
-        "name": "Blight Playtest"
+        "name": "The Last Plague: Blight Playtest"
     },
     {
         "appid": 1647680,
@@ -10008,6 +10036,10 @@
         "name": "\u5deb\u5973\u5951\u7ea6 Playtest"
     },
     {
+        "appid": 1680060,
+        "name": "Box Knight Playtest"
+    },
+    {
         "appid": 1680360,
         "name": "Dark Prospect Playtest"
     },
@@ -10200,6 +10232,10 @@
         "name": "In The Black Playtest"
     },
     {
+        "appid": 1699020,
+        "name": "Mix Universe Playtest"
+    },
+    {
         "appid": 1699810,
         "name": "Smash MAGA! Trump Zombie Apocalypse Playtest"
     },
@@ -10257,7 +10293,7 @@
     },
     {
         "appid": 1707800,
-        "name": "We who are about to Die Playtest"
+        "name": "We Who Are About To Die Playtest"
     },
     {
         "appid": 1708790,
@@ -10346,6 +10382,10 @@
     {
         "appid": 1722030,
         "name": "Block'Em! Playtest"
+    },
+    {
+        "appid": 1722080,
+        "name": "SYNCED Playtest"
     },
     {
         "appid": 1722230,
@@ -10490,6 +10530,10 @@
     {
         "appid": 1742210,
         "name": "DROPTCH Playtest"
+    },
+    {
+        "appid": 1742400,
+        "name": "Andromeda Acolytes Beta"
     },
     {
         "appid": 1743060,
@@ -10708,6 +10752,10 @@
         "name": "Exploding Babies Playtest"
     },
     {
+        "appid": 1776580,
+        "name": "\u9152\u9986\u6cd5\u5e08 Playtest"
+    },
+    {
         "appid": 1777640,
         "name": "Black One Blood Brothers Playtest"
     },
@@ -10905,7 +10953,7 @@
     },
     {
         "appid": 1811580,
-        "name": "\u6df1\u6c89\u4e4b\u706b DEEPENING FIRE Playtest"
+        "name": "DEEPENING FIRE Playtest"
     },
     {
         "appid": 1813160,
@@ -10954,6 +11002,10 @@
     {
         "appid": 1818530,
         "name": "Ping Pong Pufferfish Playtest"
+    },
+    {
+        "appid": 1818740,
+        "name": "Eville Playtest"
     },
     {
         "appid": 1818860,
@@ -11252,6 +11304,10 @@
         "name": "Supernova Tactics Playtest"
     },
     {
+        "appid": 1863380,
+        "name": "NoiseBox.\u566a\u97f3\u76d2\u5b50 Playtest"
+    },
+    {
         "appid": 1863760,
         "name": "TowerFall with Friends Playtest"
     },
@@ -11441,7 +11497,7 @@
     },
     {
         "appid": 1900760,
-        "name": "\u6d0b\u6d41\u670b\u514b Ocean Current Punk Playtest"
+        "name": "Ocean Punk Playtest"
     },
     {
         "appid": 1901000,
@@ -11512,12 +11568,20 @@
         "name": "Gunsmith Simulator Playtest"
     },
     {
+        "appid": 1916020,
+        "name": "Mass-Energy Soldier Playtest"
+    },
+    {
         "appid": 1916530,
         "name": "L\u00facido Playtest"
     },
     {
         "appid": 1916620,
         "name": "ChestMate Playtest"
+    },
+    {
+        "appid": 1917080,
+        "name": "WW2 Rebuilder: Germany Prologue Playtest"
     },
     {
         "appid": 1917520,
@@ -11617,7 +11681,7 @@
     },
     {
         "appid": 1939680,
-        "name": "\u5883\u754c\uff1a\u65a9\u9b42\u4e4b\u5203 Play Test"
+        "name": "\u6b66\u52a8\u82cd\u7a79Play Test"
     },
     {
         "appid": 1940130,
@@ -11694,6 +11758,10 @@
     {
         "appid": 1950050,
         "name": "Project Utgardr Playtest"
+    },
+    {
+        "appid": 1950110,
+        "name": "Rogue Earth Playtest"
     },
     {
         "appid": 1950190,
@@ -11848,6 +11916,10 @@
         "name": "Android Simulator Playtest"
     },
     {
+        "appid": 1969220,
+        "name": "What was Playtest"
+    },
+    {
         "appid": 1971990,
         "name": "scuffed Playtest"
     },
@@ -11858,6 +11930,10 @@
     {
         "appid": 1972520,
         "name": "Hexane Playtest"
+    },
+    {
+        "appid": 1973390,
+        "name": "Zero World Playtest"
     },
     {
         "appid": 1974580,
@@ -11916,6 +11992,10 @@
         "name": "Horse Shelter 2022 Playtest"
     },
     {
+        "appid": 1982860,
+        "name": "HappyPlayers Playtest"
+    },
+    {
         "appid": 1983110,
         "name": "TAnima Playtest"
     },
@@ -11926,6 +12006,10 @@
     {
         "appid": 1984300,
         "name": "HORROR TYCOON Playtest"
+    },
+    {
+        "appid": 1986890,
+        "name": "Desert Revenant Playtest"
     },
     {
         "appid": 1987580,
@@ -11980,6 +12064,10 @@
         "name": "Dream magic will Beta version"
     },
     {
+        "appid": 1996530,
+        "name": "Come Back Home Please Beta"
+    },
+    {
         "appid": 1997090,
         "name": "Animation Sketchpad Playtest"
     },
@@ -12002,6 +12090,10 @@
     {
         "appid": 2003650,
         "name": "PSI Masquerade Playtest"
+    },
+    {
+        "appid": 2003950,
+        "name": "Goblin Gladiators Playtest"
     },
     {
         "appid": 2004100,
@@ -12036,8 +12128,16 @@
         "name": "Contraband Police Playtest"
     },
     {
+        "appid": 2013230,
+        "name": "Codename: Judgement Playtest"
+    },
+    {
         "appid": 2013660,
         "name": "LunarLux Playtest"
+    },
+    {
+        "appid": 2014090,
+        "name": "Neighbor Fight Playtest"
     },
     {
         "appid": 2014960,
@@ -12048,6 +12148,10 @@
         "name": "Parabellum Galaxia Playtest"
     },
     {
+        "appid": 2017190,
+        "name": "Wild Dose Playtest"
+    },
+    {
         "appid": 2017450,
         "name": "Augury Playtest"
     },
@@ -12056,8 +12160,20 @@
         "name": "Youmandriver Playtest"
     },
     {
+        "appid": 2017930,
+        "name": "CrossOver Playtest"
+    },
+    {
+        "appid": 2018410,
+        "name": "Acclimate Playtest"
+    },
+    {
         "appid": 2019000,
         "name": "Wings Playtest"
+    },
+    {
+        "appid": 2019390,
+        "name": "Last Meow Standing Playtest"
     },
     {
         "appid": 2019460,
@@ -12066,6 +12182,10 @@
     {
         "appid": 2019940,
         "name": "Puppet Master Playtest"
+    },
+    {
+        "appid": 2021060,
+        "name": "Forgotten Legends Playtest"
     },
     {
         "appid": 2021700,
@@ -12084,8 +12204,44 @@
         "name": "Free Multiplayer session - June 8 - 7pm GMT / 3pm ET"
     },
     {
+        "appid": 2023390,
+        "name": "Non Fingo VR Playtest"
+    },
+    {
         "appid": 2023480,
         "name": "Hermea Playtest"
+    },
+    {
+        "appid": 2023760,
+        "name": "MiniRoyale Playtest"
+    },
+    {
+        "appid": 2025540,
+        "name": "Zombie Jack Playtest"
+    },
+    {
+        "appid": 2026700,
+        "name": "The ordinary case of Margaret Luoni Playtest"
+    },
+    {
+        "appid": 2026830,
+        "name": "Microbrewery Tycoon Playtest"
+    },
+    {
+        "appid": 2027250,
+        "name": "\u2661beAt! -After the Summer- Playtest"
+    },
+    {
+        "appid": 2050940,
+        "name": "Offroad Mechanic Simulator Playtest"
+    },
+    {
+        "appid": 2050950,
+        "name": "Cruise Ship Manager Playtest"
+    },
+    {
+        "appid": 2051900,
+        "name": "Hellfire Tactics Playtest"
     },
     {
         "appid": 2052750,
@@ -12098,5 +12254,225 @@
     {
         "appid": 2053690,
         "name": "\u9547\u90aa Zhenxie Playtest"
+    },
+    {
+        "appid": 2054290,
+        "name": "Food Truck Simulator Playtest"
+    },
+    {
+        "appid": 2062470,
+        "name": "ThanksTaking Playtest"
+    },
+    {
+        "appid": 2062730,
+        "name": "Spellstorm Playtest"
+    },
+    {
+        "appid": 2063670,
+        "name": "Photoelektric Playtest"
+    },
+    {
+        "appid": 2065140,
+        "name": "Trombone Champ Playtest"
+    },
+    {
+        "appid": 2065650,
+        "name": "WAR DUST VR Playtest"
+    },
+    {
+        "appid": 2065910,
+        "name": "Floor Is Lava Playtest"
+    },
+    {
+        "appid": 2067340,
+        "name": "Aliens After Ava Playtest"
+    },
+    {
+        "appid": 2068730,
+        "name": "Sky of Tides Playtest"
+    },
+    {
+        "appid": 2069280,
+        "name": "Serious Fun Football Playtest"
+    },
+    {
+        "appid": 2072310,
+        "name": "My Museum Playtest"
+    },
+    {
+        "appid": 2072390,
+        "name": "Midnight Zone Playtest"
+    },
+    {
+        "appid": 2073350,
+        "name": "Frontline Grunt Playtest"
+    },
+    {
+        "appid": 2074030,
+        "name": "Chinese Frontiers Playtest"
+    },
+    {
+        "appid": 2076350,
+        "name": "\u8700\u5c71\uff1a\u521d\u7ae0 Playtest"
+    },
+    {
+        "appid": 2076960,
+        "name": "Dave Dave Dave Playtest"
+    },
+    {
+        "appid": 2077300,
+        "name": "Captain Gazman Day Of The Rage - Development Beta"
+    },
+    {
+        "appid": 2078430,
+        "name": "Top Down Zombies Playtest"
+    },
+    {
+        "appid": 2078470,
+        "name": "The Harvest Playtest"
+    },
+    {
+        "appid": 2078890,
+        "name": "Dark and Darker Playtest"
+    },
+    {
+        "appid": 2080050,
+        "name": "\u6d2a\u8352\u4e94\u884c\u754c test"
+    },
+    {
+        "appid": 2080740,
+        "name": "HotRobot Playtest"
+    },
+    {
+        "appid": 2080790,
+        "name": "Glyph-Bound Playtest"
+    },
+    {
+        "appid": 2082150,
+        "name": "SpellRogue Playtest"
+    },
+    {
+        "appid": 2082630,
+        "name": "Fant\u00f4me Playtest"
+    },
+    {
+        "appid": 2083260,
+        "name": "Rounds of Zombies Playtest"
+    },
+    {
+        "appid": 2085070,
+        "name": "RoBo: The Allectric Idventurer Playtest"
+    },
+    {
+        "appid": 2085190,
+        "name": "Viking Life Playtest"
+    },
+    {
+        "appid": 2085250,
+        "name": "Lunar Soil Playtest"
+    },
+    {
+        "appid": 2085670,
+        "name": "Formula TOP Playtest"
+    },
+    {
+        "appid": 2086510,
+        "name": "Is It You? Playtest"
+    },
+    {
+        "appid": 2087670,
+        "name": "Rawbots Beta"
+    },
+    {
+        "appid": 2088370,
+        "name": "PIGFACE MASSACRE Playtest"
+    },
+    {
+        "appid": 2089760,
+        "name": "Shatterline Playtest"
+    },
+    {
+        "appid": 2090060,
+        "name": "Nova Lands Playtest"
+    },
+    {
+        "appid": 2091040,
+        "name": "Stuntfest - World Tour Playtest"
+    },
+    {
+        "appid": 2096100,
+        "name": "ONAR Playtest"
+    },
+    {
+        "appid": 2097070,
+        "name": "Three Skies Open Beta"
+    },
+    {
+        "appid": 2098240,
+        "name": "ChibiTama Playtest"
+    },
+    {
+        "appid": 2099710,
+        "name": "Echo Playtest"
+    },
+    {
+        "appid": 2100800,
+        "name": "Highpoint Open Preview"
+    },
+    {
+        "appid": 2102850,
+        "name": "Deadhaus Sonata Playtest"
+    },
+    {
+        "appid": 2103050,
+        "name": "Neutrino Playtest"
+    },
+    {
+        "appid": 2104470,
+        "name": "Island Berry Playtest"
+    },
+    {
+        "appid": 2104810,
+        "name": "DinoLife Playtest"
+    },
+    {
+        "appid": 2105280,
+        "name": "Turbo Force Playtest"
+    },
+    {
+        "appid": 2105520,
+        "name": "Repetendium Playtest"
+    },
+    {
+        "appid": 2108350,
+        "name": "LAZ3RZ Playtest"
+    },
+    {
+        "appid": 2110810,
+        "name": "MetaShooter Playtest"
+    },
+    {
+        "appid": 2114620,
+        "name": "Goat's Tale 2 Playtest"
+    },
+    {
+        "appid": 2114870,
+        "name": "Herald of Havoc Playtest"
+    },
+    {
+        "appid": 2117340,
+        "name": "Stranded Nightmare Playtest"
+    },
+    {
+        "appid": 2121400,
+        "name": "Past Fate Open Alpha"
+    },
+    {
+        "appid": 2122670,
+        "name": "Hostile Mars: Prologue Playtest"
+    },
+    {
+        "appid": 2124280,
+        "name": "The Grizzled: Armistice Digital Beta"
     }
 ]
