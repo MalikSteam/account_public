@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2556,
+        "game_count": 2557,
         "games": [
             {
                 "appid": 92,
@@ -26250,6 +26250,16 @@
                 "name": "Repetendium Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "e3f0e143ebdbf6222db524807515863dd16eb4dd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2107890,
+                "name": "Rock Hoppers Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "90d3b0902a92ed62bdf1056d41872511b37c27be",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
