@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2558,
+        "game_count": 2557,
         "games": [
             {
                 "appid": 92,
@@ -25284,16 +25284,6 @@
                 "name": "Danger Forever Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1ee8a66c277db9b33224a9e8ed7d971cbf2f1227",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1961940,
-                "name": "Purple War Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "82a8700c7a6c53c8a4f85d213151be602cb7d45b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
