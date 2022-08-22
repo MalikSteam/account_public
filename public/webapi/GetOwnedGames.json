@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2557,
+        "game_count": 2556,
         "games": [
             {
                 "appid": 92,
@@ -25485,16 +25485,6 @@
                 "name": "Slurkum Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "6855fc768daac238e3a7ade5d3875063ebd0bf49",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1986890,
-                "name": "Desert Revenant Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "a2b46bf73578d549f610f50a82fffef4a3ccbd39",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
