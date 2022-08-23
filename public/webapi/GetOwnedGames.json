@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2559,
+        "game_count": 2558,
         "games": [
             {
                 "appid": 92,
@@ -26049,16 +26049,6 @@
                 "name": "The Harvest Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "c9662edb121efaf2a1f14ea87bf21cb5cf69289c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2078890,
-                "name": "Dark and Darker Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "a87bdc8b23a743165af2c5000ec3b3f7639d7e65",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
