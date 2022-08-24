@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2558,
+        "game_count": 2559,
         "games": [
             {
                 "appid": 92,
@@ -26170,6 +26170,16 @@
                 "name": "Shatterline Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "bae009b89e13e95a58fb4288a8e3ce280409791c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2090610,
+                "name": "Aka Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "d05da4904f7c63687e6ffa28c26e29e8f163e4ac",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
