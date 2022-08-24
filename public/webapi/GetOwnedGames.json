@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2559,
+        "game_count": 2560,
         "games": [
             {
                 "appid": 92,
@@ -26361,6 +26361,16 @@
                 "name": "The Grizzled: Armistice Digital Beta",
                 "playtime_forever": 0,
                 "img_icon_url": "805871e42873e60a46e4f704bbbd35768159a514",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2125180,
+                "name": "Solomon Snow - First Contact Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "637cee4c09823001547fbd5beabeda75ccd945b0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
