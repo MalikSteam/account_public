@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2561,
+        "game_count": 2560,
         "games": [
             {
                 "appid": 92,
@@ -25838,16 +25838,6 @@
                 "name": "Microbrewery Tycoon Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b2a7dcc83b201ea0f2f7f04f79d5900e3e6dea66",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2050940,
-                "name": "Offroad Mechanic Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "6c9d12da9ddebb783c749348be48f446ba5f0c35",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
