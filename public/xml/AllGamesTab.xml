@@ -3289,6 +3289,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/40]]></storeLink>
 		</game>
 		<game>
+			<appID>1958500</appID>
+			<name><![CDATA[Death Roads: Tournament Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1958500]]></storeLink>
+		</game>
+		<game>
 			<appID>1834350</appID>
 			<name><![CDATA[December 24th Open Test]]></name>
 			
@@ -12501,16 +12507,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
