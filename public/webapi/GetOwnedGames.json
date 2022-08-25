@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2559,
+        "game_count": 2560,
         "games": [
             {
                 "appid": 92,
@@ -25264,6 +25264,16 @@
                 "name": "Castan Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b277241fe9257563602e689f0068feae10468b7f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1958500,
+                "name": "Death Roads: Tournament Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "94597a9f21d07ce19e492961aad200b06861aa16",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
