@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2560,
+        "game_count": 2559,
         "games": [
             {
                 "appid": 92,
@@ -23351,16 +23351,6 @@
                 "name": "Floppy and the Sleepy Planet Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "7caf9d922d61e28a2e5980f0cf13b255ec07031b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1742400,
-                "name": "Andromeda Acolytes Beta",
-                "playtime_forever": 0,
-                "img_icon_url": "6793de7b7b42d3301bc914096a67f5f51b49d6d5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
