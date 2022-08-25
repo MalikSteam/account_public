@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2561,
+        "game_count": 2562,
         "games": [
             {
                 "appid": 92,
@@ -26349,6 +26349,16 @@
                 "name": "Hostile Mars: Prologue Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "a60236298c03198b7d6afdc14055dbc854aa6823",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2123670,
+                "name": "Exterminate Zombies: Get Paid Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "ca65cbd53f3d9481a2d43076ab4ebfc121f20d29",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
