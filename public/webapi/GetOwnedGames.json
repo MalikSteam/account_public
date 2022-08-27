@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2563,
+        "game_count": 2564,
         "games": [
             {
                 "appid": 92,
@@ -23767,6 +23767,17 @@
                 "name": "I Am Your President Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "574705dc4e3c068bb42b6bc302834addc380c83b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1788820,
+                "name": "Hitboxer Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bf9ed07be02f235ad386b0987ed0beff2f9f121b",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
