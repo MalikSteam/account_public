@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2570,
+        "game_count": 2569,
         "games": [
             {
                 "appid": 92,
@@ -20934,16 +20934,6 @@
                 "name": "RAWMEN Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "9eaaea42efa3beca40918865ca6fbeb7d9763653",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1488230,
-                "name": "The Troop Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "51a839024bacfb152380e5fd708ca6decb0c758f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
