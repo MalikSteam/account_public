@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2569,
+        "game_count": 2570,
         "games": [
             {
                 "appid": 92,
@@ -25971,6 +25971,16 @@
                 "name": "Photoelektric Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "0019a459f7e1294de0d5963141d08270536ef718",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2064890,
+                "name": "Geometry Arena 2 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b93b8694e7b1adfb9ea42ad7d0a8a3a77927acd6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
