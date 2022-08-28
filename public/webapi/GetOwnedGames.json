@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2568,
+        "game_count": 2569,
         "games": [
             {
                 "appid": 92,
@@ -26443,6 +26443,16 @@
                 "name": "Doodle God Universe Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "d17e3c17f68d6d7e3f3cb4473b167b605b8798b9",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2126150,
+                "name": "\u8854\u5c3e\uff1a\u9f99\u4e4b\u94c3 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "54b236b02b4b08f39f4927e1cb69c0472c7cbb87",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
