@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2569,
+        "game_count": 2568,
         "games": [
             {
                 "appid": 92,
@@ -26333,16 +26333,6 @@
                 "name": "MetaShooter Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "834380996028f6afd57c8bc61a7bc258063cf228",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2111880,
-                "name": "Ultimechs Pre-Season Preview - Aug. 25-28",
-                "playtime_forever": 0,
-                "img_icon_url": "e7b375a18cd62e69314d5c409dad0b1a165197be",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
