@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2569,
+        "game_count": 2568,
         "games": [
             {
                 "appid": 92,
@@ -24591,16 +24591,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "9ead02195f3e1ef51ba89d998afda25732b93f82",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1878400,
-                "name": "CrossPlanet Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "4f7aafd1879874422325e7d0adf5920275cf369a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
