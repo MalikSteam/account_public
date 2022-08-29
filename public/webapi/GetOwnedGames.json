@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2568,
+        "game_count": 2569,
         "games": [
             {
                 "appid": 92,
@@ -25700,6 +25700,16 @@
                 "name": "FREERIDE: The Personality Test Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "808e307f5b638d5c367a57da94a270cadd23c653",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2009240,
+                "name": "\u751f\u6b7b\u72d9\u51fb2 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1504bdffda16f074bf1213b21281f14a98328715",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
