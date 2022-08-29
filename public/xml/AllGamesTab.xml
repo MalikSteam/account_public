@@ -12260,16 +12260,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -14018,12 +14018,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/360870]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/360870]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/360870/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2111880</appID>
-			<name><![CDATA[Ultimechs Pre-Season Preview - Aug. 25-28]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2111880]]></storeLink>
 		</game>
 		<game>
 			<appID>1026840</appID>
