@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2568,
+        "game_count": 2569,
         "games": [
             {
                 "appid": 92,
@@ -26363,6 +26363,16 @@
                 "name": "Stranded Nightmare Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "877bc58017974ecd82723b853387be201e6cef35",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2118350,
+                "name": "My Newspaper Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8a32d44f3db71abe562b31c9c7bfbb84e4a1dc6b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
