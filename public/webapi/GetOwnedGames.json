@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2568,
+        "game_count": 2569,
         "games": [
             {
                 "appid": 92,
@@ -24143,6 +24143,16 @@
                 "name": "Ozymandias Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "267c0bb51175f55aa86ea8711d5f5ccebe3652ed",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1833070,
+                "name": "A Bad Game Of Football Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9364c0ed90a09e07f1ded861fc576710a1fec804",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
