@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2569,
+        "game_count": 2568,
         "games": [
             {
                 "appid": 92,
@@ -22970,16 +22970,6 @@
                 "name": "Warriors & Mages Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "276b9700c633a750a9738c876bb3ce3e11260595",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1704150,
-                "name": "Heart Of Muriet Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "478d143c17c68be0cef5e3326b5eb0f4ac41d7f3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
