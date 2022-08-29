@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2568,
+        "game_count": 2569,
         "games": [
             {
                 "appid": 92,
@@ -26263,6 +26263,16 @@
                 "name": "Neutrino Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "607bcdc242aeaad38ab468ed52ddf948b8b65923",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2103250,
+                "name": "Friction Alpha",
+                "playtime_forever": 0,
+                "img_icon_url": "f7854e694e606fbfd674daf0b467b8854776b0ff",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
