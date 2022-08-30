@@ -1,5 +1,5 @@
 {
-    "bAllowAppImpressions": true,
+    "bAllowAppImpressions": false,
     "bShowFilteredUserReviewScores": true,
     "nCartLineItemCount": 0,
     "nRemainingCartDiscount": 0,
