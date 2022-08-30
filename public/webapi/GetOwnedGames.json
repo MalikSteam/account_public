@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2570,
+        "game_count": 2569,
         "games": [
             {
                 "appid": 92,
@@ -21998,16 +21998,6 @@
                 "name": "Search Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "9583aec2615521f6cefc43a68a282dd2de578b66",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1632340,
-                "name": "A Dragon's Hoard Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "440d3b2b6fcb2fd45bebcd8897016a241f1394b7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
