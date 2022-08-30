@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2569,
+        "game_count": 2568,
         "games": [
             {
                 "appid": 92,
@@ -22839,16 +22839,6 @@
                 "name": "Luminus Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "2c56fd0c098266cbe23442162e1dad67c2db85b2",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1692730,
-                "name": "Tristan Cole's Pro Driver Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "05e17220df2a0f4509eaaf6f4cd3640fd51a4fec",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
