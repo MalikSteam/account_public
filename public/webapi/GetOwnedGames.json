@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2569,
+        "game_count": 2570,
         "games": [
             {
                 "appid": 92,
@@ -26193,6 +26193,16 @@
                 "name": "PIGFACE MASSACRE Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "2636fd5ef0b2cbc1a55e9681417f8047c75a6bf4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2089760,
+                "name": "Shatterline Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "bae009b89e13e95a58fb4288a8e3ce280409791c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
