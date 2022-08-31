@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2569,
+        "game_count": 2570,
         "games": [
             {
                 "appid": 92,
@@ -26362,6 +26362,16 @@
                 "name": "My Newspaper Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "8a32d44f3db71abe562b31c9c7bfbb84e4a1dc6b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2119720,
+                "name": "KartRider: Drift Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "362e353084248bac6e9e7428493f91896f97be8e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
