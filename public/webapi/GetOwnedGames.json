@@ -22581,16 +22581,6 @@
                 "rtime_last_played": 0
             },
             {
-                "appid": 1679110,
-                "name": "Hexahedra Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "07d0a38743ca54395a24b1d1d4cfcf285d576f74",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
                 "appid": 1679240,
                 "name": "Disaster crisis Playtest",
                 "playtime_forever": 0,
@@ -24932,6 +24922,16 @@
                 "name": "Gladiator Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "67c0b90444f1fc3f150b0d980dae3934a41a78db",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1937660,
+                "name": "CLOUDED Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "3bfb4a8f04ad160f9c61456e49cdda98147161a6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
