@@ -2484,6 +2484,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/377330/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1937660</appID>
+			<name><![CDATA[CLOUDED Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1937660]]></storeLink>
+		</game>
+		<game>
 			<appID>559460</appID>
 			<name><![CDATA[Cloud Pirates]]></name>
 			
@@ -6104,12 +6110,6 @@
 			<name><![CDATA[HEX: Shards of Fate]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/410380]]></storeLink>
-		</game>
-		<game>
-			<appID>1679110</appID>
-			<name><![CDATA[Hexahedra Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1679110]]></storeLink>
 		</game>
 		<game>
 			<appID>1972520</appID>
