@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2568,
+        "game_count": 2567,
         "games": [
             {
                 "appid": 92,
@@ -26362,16 +26362,6 @@
                 "name": "Past Fate Open Alpha",
                 "playtime_forever": 0,
                 "img_icon_url": "884964149852e1545755823d5f3620ffd87a185b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2122670,
-                "name": "Hostile Mars: Prologue Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "a60236298c03198b7d6afdc14055dbc854aa6823",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
