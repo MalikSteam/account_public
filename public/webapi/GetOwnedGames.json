@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2570,
+        "game_count": 2568,
         "games": [
             {
                 "appid": 92,
@@ -25675,16 +25675,6 @@
                 "rtime_last_played": 0
             },
             {
-                "appid": 2009240,
-                "name": "\u751f\u6b7b\u72d9\u51fb2 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1504bdffda16f074bf1213b21281f14a98328715",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
                 "appid": 2012200,
                 "name": "RhyVerse Playtest",
                 "playtime_forever": 0,
@@ -26192,16 +26182,6 @@
                 "name": "Shatterline Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "bae009b89e13e95a58fb4288a8e3ce280409791c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2090610,
-                "name": "Aka Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d05da4904f7c63687e6ffa28c26e29e8f163e4ac",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
