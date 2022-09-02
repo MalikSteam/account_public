@@ -14921,6 +14921,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/262410/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2002090</appID>
+			<name><![CDATA[World of Retailing BETA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2002090]]></storeLink>
+		</game>
+		<game>
 			<appID>393410</appID>
 			<name><![CDATA[World of Soccer ]]></name>
 			
