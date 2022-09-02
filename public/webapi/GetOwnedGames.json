@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2573,
+        "game_count": 2574,
         "games": [
             {
                 "appid": 92,
@@ -26452,6 +26452,16 @@
                 "name": "The Grizzled: Armistice Digital Beta",
                 "playtime_forever": 0,
                 "img_icon_url": "805871e42873e60a46e4f704bbbd35768159a514",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2124580,
+                "name": "Duelyst II Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "aadf9d40c285b4cd16c91b943fb366f88639d028",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
