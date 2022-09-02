@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2571,
+        "game_count": 2572,
         "games": [
             {
                 "appid": 92,
@@ -25679,6 +25679,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "045911b94b101a18a75bfc9d258ad27e40de5c7a",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2002090,
+                "name": "World of Retailing BETA",
+                "playtime_forever": 0,
+                "img_icon_url": "23a219b382c56de01623c77282b253c2520a0d68",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
