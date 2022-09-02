@@ -3912,6 +3912,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/291410/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2124580</appID>
+			<name><![CDATA[Duelyst II Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2124580]]></storeLink>
+		</game>
+		<game>
 			<appID>236110</appID>
 			<name><![CDATA[Dungeon Defenders II]]></name>
 			
@@ -12282,16 +12288,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
