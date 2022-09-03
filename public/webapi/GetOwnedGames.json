@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2576,
+        "game_count": 2577,
         "games": [
             {
                 "appid": 92,
@@ -26523,6 +26523,16 @@
                 "name": "Spike Mtn Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "e8cca26d669f0ca3f323607a9632639e58c21457",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2131590,
+                "name": "Heavyarms Assemble: WWII Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e1412dccd494cfe18511d1a1a67f0d4bd6b37196",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
