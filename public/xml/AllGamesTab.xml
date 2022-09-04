@@ -12607,16 +12607,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13631,6 +13631,12 @@
 			<name><![CDATA[Top Trumps Turbo]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/343180]]></storeLink>
+		</game>
+		<game>
+			<appID>2125790</appID>
+			<name><![CDATA[Torchlight: Infinite Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2125790]]></storeLink>
 		</game>
 		<game>
 			<appID>248570</appID>
