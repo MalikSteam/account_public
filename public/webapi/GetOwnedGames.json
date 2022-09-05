@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2579,
+        "game_count": 2576,
         "games": [
             {
                 "appid": 92,
@@ -21237,16 +21237,6 @@
                 "rtime_last_played": 0
             },
             {
-                "appid": 1562450,
-                "name": "Dysterra Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "e9bfbfbcb61d4d5f774c947ae7a66687fd044634",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
                 "appid": 1562580,
                 "name": "Traverse The Void Playtest",
                 "playtime_forever": 0,
@@ -21848,16 +21838,6 @@
                 "name": "BOX: Space Station Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "9dc0b9e9c149e65cb213c30364c57d4df2b47b8a",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1619990,
-                "name": "SUPER PEOPLE FINAL BETA",
-                "playtime_forever": 0,
-                "img_icon_url": "6fedf9d33f1621f9afdf5594eed88605b316c85f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -25699,16 +25679,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "045911b94b101a18a75bfc9d258ad27e40de5c7a",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2002090,
-                "name": "World of Retailing BETA",
-                "playtime_forever": 0,
-                "img_icon_url": "23a219b382c56de01623c77282b253c2520a0d68",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
