@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2574,
+        "game_count": 2573,
         "games": [
             {
                 "appid": 92,
@@ -26342,16 +26342,6 @@
                 "name": "Stranded Nightmare Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "877bc58017974ecd82723b853387be201e6cef35",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2117640,
-                "name": "No Fair Play Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7e138c6d7a851e99154db23b78701bac62bbbf44",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
