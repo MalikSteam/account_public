@@ -13002,6 +13002,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1735340]]></storeLink>
 		</game>
 		<game>
+			<appID>2015900</appID>
+			<name><![CDATA[The Last World Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2015900]]></storeLink>
+		</game>
+		<game>
 			<appID>394720</appID>
 			<name><![CDATA[The Legend of Tango]]></name>
 			
