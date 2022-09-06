@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2573,
+        "game_count": 2574,
         "games": [
             {
                 "appid": 92,
@@ -25740,6 +25740,16 @@
                 "name": "Parabellum Galaxia Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1df8b2ce70502659b371831df4472e6a76925ea8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2015900,
+                "name": "The Last World Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "99d91642c437de399ec11343d226c7c6cc16a40a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
