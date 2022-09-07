@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2574,
+        "game_count": 2573,
         "games": [
             {
                 "appid": 92,
@@ -26362,16 +26362,6 @@
                 "name": "My Newspaper Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "8a32d44f3db71abe562b31c9c7bfbb84e4a1dc6b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2121400,
-                "name": "Past Fate Open Alpha",
-                "playtime_forever": 0,
-                "img_icon_url": "884964149852e1545755823d5f3620ffd87a185b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
