@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2576,
+        "game_count": 2577,
         "games": [
             {
                 "appid": 92,
@@ -26463,6 +26463,16 @@
                 "name": "Heavyarms Assemble: WWII Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "e1412dccd494cfe18511d1a1a67f0d4bd6b37196",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2135550,
+                "name": "\u5c11\u4fa0\u4f20\u8bf4 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "72512f4577bebe59ffc3e190402199eabcc8d7c1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
