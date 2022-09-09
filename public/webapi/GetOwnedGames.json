@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2579,
+        "game_count": 2578,
         "games": [
             {
                 "appid": 92,
@@ -25336,16 +25336,6 @@
                 "name": "Virus_ (Un-Released)",
                 "playtime_forever": 0,
                 "img_icon_url": "f7a5027d514732bcfc9d5698cd2bf49e39f88f15",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1966960,
-                "name": "Burial Stone Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "996934eb0498f76743bf447ab176f8ec556fe55f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
