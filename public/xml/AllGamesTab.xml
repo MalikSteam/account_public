@@ -12294,16 +12294,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -15322,6 +15322,12 @@
 			<name><![CDATA[孙美琪疑案：雨儿胡同 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1710360]]></storeLink>
+		</game>
+		<game>
+			<appID>2135550</appID>
+			<name><![CDATA[少侠传说 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2135550]]></storeLink>
 		</game>
 		<game>
 			<appID>1680030</appID>
