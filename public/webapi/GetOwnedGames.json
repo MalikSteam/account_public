@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2580,
+        "game_count": 2581,
         "games": [
             {
                 "appid": 92,
@@ -25860,6 +25860,16 @@
                 "name": "The ordinary case of Margaret Luoni Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "c07b3c41ce0edaa513275028f6845ef4deed2270",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2026810,
+                "name": "Starfighter Renegade Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "24a813ab56a8f840f00b1b17099c9e5338dc4dc1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
