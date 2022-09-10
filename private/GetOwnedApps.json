@@ -11696,6 +11696,10 @@
         "name": "FPS Arena Playtest"
     },
     {
+        "appid": 1934560,
+        "name": "There Won't be Light Playtest"
+    },
+    {
         "appid": 1934630,
         "name": "FunWar Playtest"
     },
@@ -12658,5 +12662,9 @@
     {
         "appid": 2141240,
         "name": "CyberBlocker Complete Edition Playtest"
+    },
+    {
+        "appid": 2141540,
+        "name": "Planetary Exploration Company Playtest"
     }
 ]
