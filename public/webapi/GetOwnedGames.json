@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2578,
+        "game_count": 2579,
         "games": [
             {
                 "appid": 92,
@@ -25980,6 +25980,16 @@
                 "name": "Floor Is Lava Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "33907fc5ab88618502246de765ce4f824f4eb9ed",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2067100,
+                "name": "Warlander Open Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "9bc63957995b5210dea55b07db9053005719926c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
