@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2583,
+        "game_count": 2581,
         "games": [
             {
                 "appid": 92,
@@ -25433,16 +25433,6 @@
                 "rtime_last_played": 0
             },
             {
-                "appid": 1977140,
-                "name": "Wormhole Adventurer Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f6b8a676e55ac34e52df42a2253d3bf82349b334",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
                 "appid": 1978950,
                 "name": "There Is No Light Playtest",
                 "playtime_forever": 0,
@@ -26141,16 +26131,6 @@
                 "name": "Glyph-Bound Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "fdb573c8037505162a980787cae941d48dd59794",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2080830,
-                "name": "SquadBlast Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1c10eed0f558704a45a32d12e734a8b3b502fd23",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
