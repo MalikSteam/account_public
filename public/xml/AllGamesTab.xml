@@ -2279,12 +2279,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1717740]]></storeLink>
 		</game>
 		<game>
-			<appID>2123730</appID>
-			<name><![CDATA[Championship Wrestling Promoter Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2123730]]></storeLink>
-		</game>
-		<game>
 			<appID>222520</appID>
 			<name><![CDATA[Champions of Regnum]]></name>
 			
@@ -3261,12 +3255,6 @@
 			<name><![CDATA[Dead Earth Zombies Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1618630]]></storeLink>
-		</game>
-		<game>
-			<appID>2102850</appID>
-			<name><![CDATA[Deadhaus Sonata Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2102850]]></storeLink>
 		</game>
 		<game>
 			<appID>671700</appID>
@@ -12318,16 +12306,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
