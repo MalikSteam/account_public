@@ -8507,12 +8507,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/39000]]></storeLink>
 		</game>
 		<game>
-			<appID>2102010</appID>
-			<name><![CDATA[Moonbreaker Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2102010]]></storeLink>
-		</game>
-		<game>
 			<appID>1726030</appID>
 			<name><![CDATA[Mori Carta Playtest]]></name>
 			
@@ -12603,16 +12597,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
