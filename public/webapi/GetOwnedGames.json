@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2581,
+        "game_count": 2579,
         "games": [
             {
                 "appid": 92,
@@ -26248,16 +26248,6 @@
                 "rtime_last_played": 0
             },
             {
-                "appid": 2102850,
-                "name": "Deadhaus Sonata Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "c723d2f44f25cec132db5e9f503c3deedba5648a",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
                 "appid": 2103050,
                 "name": "Neutrino Playtest",
                 "playtime_forever": 0,
@@ -26382,16 +26372,6 @@
                 "name": "Exterminate Zombies: Get Paid Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ca65cbd53f3d9481a2d43076ab4ebfc121f20d29",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2123730,
-                "name": "Championship Wrestling Promoter Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7617ef5a9dc6e180fe1fcebdc1d484f0cb7cf907",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
