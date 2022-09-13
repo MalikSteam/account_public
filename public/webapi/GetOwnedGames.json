@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2579,
+        "game_count": 2580,
         "games": [
             {
                 "appid": 92,
@@ -26503,6 +26503,16 @@
                 "name": "\u5362\u6c9f\u6865\u4e8b\u53d8 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "2346d4f006c082a037a7eb9aaef188f807a9fae4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2138390,
+                "name": "Shadow of the Guild Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "7c2943587f0dcf09dd4393ca567221a3e5f07586",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
