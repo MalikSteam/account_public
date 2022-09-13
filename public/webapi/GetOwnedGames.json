@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2579,
+        "game_count": 2580,
         "games": [
             {
                 "appid": 92,
@@ -24022,6 +24022,16 @@
                 "name": "Ping Pong Pufferfish Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "20b2de8c016e1133c474028d56cf9f3dbce82ca9",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1818740,
+                "name": "Eville Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "482649116fc94342336bf91f407bfceea1f6cdd3",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
