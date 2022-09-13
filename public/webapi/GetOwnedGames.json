@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2580,
+        "game_count": 2579,
         "games": [
             {
                 "appid": 92,
@@ -26453,16 +26453,6 @@
                 "name": "Lightphobe Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "69fdeb6c0e3924ddb6c6d699b704add3f86447e2",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2129630,
-                "name": "Danghost Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "069084222eb53e68eda93d41c1234ee7766def06",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
