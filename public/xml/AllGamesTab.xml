@@ -4440,6 +4440,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/268850/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1818740</appID>
+			<name><![CDATA[Eville Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1818740]]></storeLink>
+		</game>
+		<game>
 			<appID>391820</appID>
 			<name><![CDATA[Evolution]]></name>
 			
