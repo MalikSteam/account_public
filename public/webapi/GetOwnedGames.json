@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2581,
+        "game_count": 2580,
         "games": [
             {
                 "appid": 92,
@@ -21604,16 +21604,6 @@
                 "name": "Hop Skip Jump Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "d866f54ce9a2bf3a4786de78ce0473f826545e1c",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1614000,
-                "name": "Super Dungeon Designer Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "585ba98a89fa53908a1eab4265192ad8f89ee8dc",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
