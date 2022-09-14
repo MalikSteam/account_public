@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2580,
+        "game_count": 2579,
         "games": [
             {
                 "appid": 92,
@@ -26434,16 +26434,6 @@
                 "name": "\u8854\u5c3e\uff1a\u9f99\u4e4b\u94c3 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "54b236b02b4b08f39f4927e1cb69c0472c7cbb87",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2128890,
-                "name": "Lightphobe Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "69fdeb6c0e3924ddb6c6d699b704add3f86447e2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
