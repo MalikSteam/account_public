@@ -7545,12 +7545,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/526730]]></storeLink>
 		</game>
 		<game>
-			<appID>2128890</appID>
-			<name><![CDATA[Lightphobe Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2128890]]></storeLink>
-		</game>
-		<game>
 			<appID>500660</appID>
 			<name><![CDATA[Limberjack]]></name>
 			
@@ -12605,16 +12599,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
