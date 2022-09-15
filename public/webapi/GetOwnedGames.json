@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2579,
+        "game_count": 2580,
         "games": [
             {
                 "appid": 92,
@@ -26434,6 +26434,16 @@
                 "name": "\u8854\u5c3e\uff1a\u9f99\u4e4b\u94c3 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "54b236b02b4b08f39f4927e1cb69c0472c7cbb87",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2128170,
+                "name": "Ghost of Ice Valley Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "b5e086479dad571ad77803cfcdfe91670c1a05ac",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
