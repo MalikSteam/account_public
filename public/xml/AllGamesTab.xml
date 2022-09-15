@@ -10819,6 +10819,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/295550/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1769690</appID>
+			<name><![CDATA[RP7 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1769690]]></storeLink>
+		</game>
+		<game>
 			<appID>372800</appID>
 			<name><![CDATA[RPG MO]]></name>
 			
