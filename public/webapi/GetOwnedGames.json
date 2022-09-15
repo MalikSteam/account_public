@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2583,
+        "game_count": 2584,
         "games": [
             {
                 "appid": 92,
@@ -23569,6 +23569,16 @@
                 "name": "The Black Grimoire: Cursebreaker Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "3f25a4ad8ae0bbbc7b583aa3e43b0e60f9ec2ef0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1769690,
+                "name": "RP7 Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c3ee6101693c21ac5d95b45c21c28ae32fad2af0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
