@@ -5396,6 +5396,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/369200]]></storeLink>
 		</game>
 		<game>
+			<appID>2128170</appID>
+			<name><![CDATA[Ghost of Ice Valley Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2128170]]></storeLink>
+		</game>
+		<game>
 			<appID>719690</appID>
 			<name><![CDATA[Ghost Recon Wildlands Ghost War Open Beta]]></name>
 			
@@ -12599,16 +12605,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
