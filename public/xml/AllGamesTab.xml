@@ -10615,6 +10615,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1928070]]></storeLink>
 		</game>
 		<game>
+			<appID>2148980</appID>
+			<name><![CDATA[Rikua Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2148980]]></storeLink>
+		</game>
+		<game>
 			<appID>574440</appID>
 			<name><![CDATA[Ripple Effect]]></name>
 			
@@ -12316,16 +12322,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
