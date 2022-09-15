@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2582,
+        "game_count": 2583,
         "games": [
             {
                 "appid": 92,
@@ -26576,6 +26576,16 @@
                 "name": "Huntscape Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "7c0278056e9df93457bca90d9ee3c69d37521932",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2145900,
+                "name": "RPG Stories Worldbuilder Alpha Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "1043f8a5d0e82cc72e1d3361d97fe0b4b930a86c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
