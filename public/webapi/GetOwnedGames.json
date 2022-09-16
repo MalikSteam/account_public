@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2590,
+        "game_count": 2591,
         "games": [
             {
                 "appid": 92,
@@ -22758,6 +22758,16 @@
                 "name": "Wastelander Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b7cb8ff0944ab6790b4710c58c9a5410f466d34f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1691310,
+                "name": "Tactical Troops: Anthracite Shift Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "892b0ceb0b2cd44a16ebbbb48ff89ed52a375812",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
