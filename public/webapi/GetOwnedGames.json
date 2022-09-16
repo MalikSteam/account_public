@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2588,
+        "game_count": 2589,
         "games": [
             {
                 "appid": 92,
@@ -22779,6 +22779,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "de4712d32cab78935a23b21831370b69824e6aeb",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1692200,
+                "name": "DRAGON BALL: THE BREAKERS Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "88c17b401d41cc8ada3fdf9d90969b50c415af59",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
