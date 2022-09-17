@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2595,
+        "game_count": 2596,
         "games": [
             {
                 "appid": 92,
@@ -24831,6 +24831,17 @@
                 "name": "Gunsmith Simulator Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "8e6e058646ae4053e92573d9673e767d9b48343d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1915000,
+                "name": "Golfing In Aether Beta",
+                "playtime_forever": 0,
+                "img_icon_url": "fed2f90f485b5b61774cc72172b4fa93d472c9a3",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
