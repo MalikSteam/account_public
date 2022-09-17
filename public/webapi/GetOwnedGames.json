@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2594,
+        "game_count": 2595,
         "games": [
             {
                 "appid": 92,
@@ -26384,6 +26384,17 @@
                 "name": "MetaShooter Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "834380996028f6afd57c8bc61a7bc258063cf228",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2110920,
+                "name": "The Unnamed Game Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "721f739e150de9cd7c43099a8fed6f349c7789c7",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
