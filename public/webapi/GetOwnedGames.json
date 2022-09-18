@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2595,
+        "game_count": 2596,
         "games": [
             {
                 "appid": 92,
@@ -25399,6 +25399,16 @@
                 "name": "What was Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "d42210697ee56fef745aab3ce820cbe663c2dba7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1970660,
+                "name": "Duterra Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "39109b167abf8b518bd6e0181eb8cdf64574376f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
