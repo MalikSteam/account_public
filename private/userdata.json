@@ -1,5 +1,5 @@
 {
-    "bAllowAppImpressions": false,
+    "bAllowAppImpressions": true,
     "bShowFilteredUserReviewScores": true,
     "nCartLineItemCount": 0,
     "nRemainingCartDiscount": 0,
@@ -2054,9 +2054,6 @@
         "1683570": {
             "39921923": 2
         },
-        "1686860": {
-            "39921923": 2
-        },
         "1688720": {
             "39921923": 2
         },
@@ -2721,6 +2718,9 @@
             "39921923": 2
         },
         "1969870": {
+            "39921923": 2
+        },
+        "1970610": {
             "39921923": 2
         },
         "1972300": {
