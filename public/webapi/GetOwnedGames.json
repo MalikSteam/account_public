@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2596,
+        "game_count": 2595,
         "games": [
             {
                 "appid": 92,
@@ -24791,16 +24791,6 @@
                 "name": "Descend Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "af590d6ebd86969df5633c3ad5d0ba77c31e3b7b",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 1909190,
-                "name": "Motomancer: Auto Battle Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "c4c60dd50598cb3713935553844d1962eb410511",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
