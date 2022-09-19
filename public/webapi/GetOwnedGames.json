@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2597,
+        "game_count": 2596,
         "games": [
             {
                 "appid": 92,
@@ -26677,16 +26677,6 @@
                 "name": "Planetary Exploration Company Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "595b469b4b0c64c7ec55c7c4d3d4669f01177f74",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2142020,
-                "name": "Screaming Chiceken: Ultimate Showdown [Play Test]",
-                "playtime_forever": 0,
-                "img_icon_url": "d69d54da766e246847226be229447b6fa93658f0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
