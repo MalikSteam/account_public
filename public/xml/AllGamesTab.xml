@@ -4398,6 +4398,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/366530]]></storeLink>
 		</game>
 		<game>
+			<appID>2078550</appID>
+			<name><![CDATA[Espresso Tycoon Prologue: Underwater Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2078550]]></storeLink>
+		</game>
+		<game>
 			<appID>582890</appID>
 			<name><![CDATA[Estranged: The Departure]]></name>
 			
@@ -10759,12 +10765,6 @@
 			<name><![CDATA[Rocket Island]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/883630]]></storeLink>
-		</game>
-		<game>
-			<appID>2107890</appID>
-			<name><![CDATA[Rock Hoppers Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2107890]]></storeLink>
 		</game>
 		<game>
 			<appID>449050</appID>
