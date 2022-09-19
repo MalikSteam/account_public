@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2596,
+        "game_count": 2595,
         "games": [
             {
                 "appid": 92,
@@ -24993,7 +24993,7 @@
                 "appid": 1937660,
                 "name": "CLOUDED Playtest",
                 "playtime_forever": 0,
-                "img_icon_url": "3bfb4a8f04ad160f9c61456e49cdda98147161a6",
+                "img_icon_url": "21df62c4316a6cb465c6a8f7d18803539e1fd6fb",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -26183,16 +26183,6 @@
                 "name": "Glyph-Bound Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "fdb573c8037505162a980787cae941d48dd59794",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2080830,
-                "name": "SquadBlast Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1c10eed0f558704a45a32d12e734a8b3b502fd23",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
