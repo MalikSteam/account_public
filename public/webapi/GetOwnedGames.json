@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2594,
+        "game_count": 2595,
         "games": [
             {
                 "appid": 92,
@@ -26717,6 +26717,16 @@
                 "name": "NOeSIS-\u8bc9\u8bf4\u8c0e\u8a00\u7684\u8bb0\u5fc6\u4e4b\u7269\u8bed \uff08\u8d85\u9ad8\u6e05FHD\u7248\uff09",
                 "playtime_forever": 0,
                 "img_icon_url": "c7685577a153131cef71dd0527e5e8c96a91b2e8",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2151890,
+                "name": "Wild Isles Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "53b4d78e13ddbe30133fb06a51ddc841c60282c2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
