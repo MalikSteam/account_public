@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2593,
+        "game_count": 2594,
         "games": [
             {
                 "appid": 92,
@@ -24458,6 +24458,16 @@
                 "name": "TowerFall with Friends Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "3dbf174fd0b5bae6bef2e51c22e150455574f778",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1863840,
+                "name": "Halberd Black Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "586bc1d37edc390336884284d998b625d4fc1852",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
