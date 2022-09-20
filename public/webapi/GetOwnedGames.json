@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2595,
+        "game_count": 2594,
         "games": [
             {
                 "appid": 92,
@@ -25912,16 +25912,6 @@
                 "name": "Microbrewery Tycoon Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b2a7dcc83b201ea0f2f7f04f79d5900e3e6dea66",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
-                "appid": 2026840,
-                "name": "\u9ec4\u8001\u997c\u68a6\u6e38\u60ca\u5947 Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "39570f5aa882fe6a9f4986288f96b73a1cc1c12d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
