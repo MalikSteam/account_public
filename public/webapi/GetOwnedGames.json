@@ -20920,16 +20920,6 @@
                 "rtime_last_played": 0
             },
             {
-                "appid": 1484490,
-                "name": "Black Skylands Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "c278b86884ab9f0dc050dfe45bef174eba781239",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0
-            },
-            {
                 "appid": 1487780,
                 "name": "RAWMEN Playtest",
                 "playtime_forever": 0,
@@ -24791,6 +24781,16 @@
                 "name": "King Rabbit - Race Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "be0f1dcc79a46e1fa0b1ac20bc4ea031b4e2c652",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1908070,
+                "name": "Captain Soda Alpha Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "9313bfa007068c67b17a1b85327b907561fb9d8f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
