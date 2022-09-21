@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2597,
+        "game_count": 2598,
         "games": [
             {
                 "appid": 92,
@@ -26384,6 +26384,17 @@
                 "name": "INCOMER Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "cc5b496534e7326788832d9e77a0776000e76ecd",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2109990,
+                "name": "Bugz Bows & Curses Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "e168035ef8718f8125efdec4045827a8f481f277",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
