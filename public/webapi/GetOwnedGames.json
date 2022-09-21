@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2598,
+        "game_count": 2599,
         "games": [
             {
                 "appid": 92,
@@ -26718,6 +26718,16 @@
                 "name": "Rikua Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "2e8f8e0e16c7215382662649f4a19d0a05190978",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2149350,
+                "name": "Nitro Kid Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "204fc44b6a4c3b4933b709b43263faf347f7e7b6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
