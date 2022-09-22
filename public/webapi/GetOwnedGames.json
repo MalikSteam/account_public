@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2599,
+        "game_count": 2600,
         "games": [
             {
                 "appid": 92,
@@ -26728,6 +26728,16 @@
                 "name": "Nitro Kid Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "204fc44b6a4c3b4933b709b43263faf347f7e7b6",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2151050,
+                "name": "Stella Pastoris Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "c4f9ae318e1d2f10a20167aa7cf5ad23f4e40afd",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
