@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2601,
+        "game_count": 2602,
         "games": [
             {
                 "appid": 92,
@@ -26234,6 +26234,16 @@
                 "name": "Rounds of Zombies Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "e79313758a349d29737e59b1c060b451d46031c3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2084480,
+                "name": "Petrified Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "98c4411e982c76a8fd21483a320b087f453b0ba1",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
