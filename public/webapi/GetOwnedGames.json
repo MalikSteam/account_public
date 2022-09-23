@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2600,
+        "game_count": 2601,
         "games": [
             {
                 "appid": 92,
@@ -26054,6 +26054,16 @@
                 "name": "Sky of Tides Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "25476b8d5a2f0896fc0aa852af9c8fa5e9e305d0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2068900,
+                "name": "DreadHaunt Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "2f967f1ce1154b1cbedf77277f870ed2d97e9a75",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
