@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 2603,
+        "game_count": 2604,
         "games": [
             {
                 "appid": 92,
@@ -26809,6 +26809,16 @@
                 "name": "Shadow Heroes Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "18e738d13494ebea9d5c40c30dd2e3eb229efe97",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 2159080,
+                "name": "Terminal Breach Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "8a456d4776fffe639d77ff99b28b5e0c2f34f1c4",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
