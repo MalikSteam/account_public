@@ -485,7 +485,7 @@
     },
     {
         "appid": 218170,
-        "name": "Age of Conan: Unchained OLD"
+        "name": "Age of Conan: Unchained (US Version)"
     },
     {
         "appid": 218210,
@@ -8348,6 +8348,10 @@
         "name": "Half-Life - The Freeman Chronicles: Episode 2: Part 2"
     },
     {
+        "appid": 1005240,
+        "name": "Pixel Puzzles Illustrations & Anime"
+    },
+    {
         "appid": 1011000,
         "name": "Infinite Art Museum"
     },
@@ -9464,6 +9468,10 @@
         "name": "MekaFighters Playtest"
     },
     {
+        "appid": 1618610,
+        "name": "Deliria BETA"
+    },
+    {
         "appid": 1618630,
         "name": "Dead Earth Zombies Playtest"
     },
@@ -10277,7 +10285,7 @@
     },
     {
         "appid": 1702460,
-        "name": "Bio-Gun Playtest"
+        "name": "BioGun Playtest"
     },
     {
         "appid": 1703530,
@@ -11181,7 +11189,7 @@
     },
     {
         "appid": 1840560,
-        "name": "Overprime CBT (Closed Beta Test)"
+        "name": "Paragon: The Overprime Final Test"
     },
     {
         "appid": 1841950,
@@ -11306,6 +11314,10 @@
     {
         "appid": 1857430,
         "name": "Eternal Exodus Playtest"
+    },
+    {
+        "appid": 1857440,
+        "name": "OctoRaid VR Playtest"
     },
     {
         "appid": 1857480,
@@ -11472,6 +11484,10 @@
         "name": "CTRL Phreak Playtest"
     },
     {
+        "appid": 1886100,
+        "name": "Bonding Ambivalence Playtest"
+    },
+    {
         "appid": 1886430,
         "name": "Ring of Titans Playtest"
     },
@@ -11601,7 +11617,7 @@
     },
     {
         "appid": 1909980,
-        "name": "Cl\u00f6nk Alpha Test"
+        "name": "IRON EVIL - Beta"
     },
     {
         "appid": 1910190,
@@ -11662,6 +11678,10 @@
     {
         "appid": 1922160,
         "name": "BrVR Backrooms Virtual Reality Playtest"
+    },
+    {
+        "appid": 1925130,
+        "name": "Grimlord Alpha Test"
     },
     {
         "appid": 1927060,
@@ -11870,6 +11890,10 @@
     {
         "appid": 1952680,
         "name": "Paladin's Passage Playtest"
+    },
+    {
+        "appid": 1953050,
+        "name": "Wedgie Simulator Playtest"
     },
     {
         "appid": 1953300,
@@ -12184,6 +12208,10 @@
         "name": "FREERIDE: The Personality Test Playtest"
     },
     {
+        "appid": 2007630,
+        "name": "Sliiide! Playtest"
+    },
+    {
         "appid": 2008890,
         "name": "The Last Citadel Playtest"
     },
@@ -12194,6 +12222,10 @@
     {
         "appid": 2010480,
         "name": "SHPR playtest"
+    },
+    {
+        "appid": 2011370,
+        "name": "Primateria Playtest"
     },
     {
         "appid": 2012050,
@@ -12268,6 +12300,10 @@
         "name": "Puppet Master Playtest"
     },
     {
+        "appid": 2020020,
+        "name": "Wheels of Duty Playtest"
+    },
+    {
         "appid": 2021060,
         "name": "Forgotten Legends Playtest"
     },
@@ -12340,6 +12376,10 @@
         "name": "Ikonei Island: An Earthlock Adventure Playtest"
     },
     {
+        "appid": 2053090,
+        "name": "Block N Load 2 Beta Test"
+    },
+    {
         "appid": 2053190,
         "name": "Acorn City: Tropical! Playtest"
     },
@@ -12350,6 +12390,14 @@
     {
         "appid": 2054290,
         "name": "Food Truck Simulator Playtest"
+    },
+    {
+        "appid": 2055850,
+        "name": "False Skies Playtest"
+    },
+    {
+        "appid": 2061160,
+        "name": "Ikki Unite Playtest"
     },
     {
         "appid": 2062470,
@@ -12372,6 +12420,10 @@
         "name": "Trombone Champ Playtest"
     },
     {
+        "appid": 2065390,
+        "name": "World Boss Playtest"
+    },
+    {
         "appid": 2065650,
         "name": "WAR DUST VR Playtest"
     },
@@ -12386,6 +12438,10 @@
     {
         "appid": 2067340,
         "name": "Aliens After Ava Playtest"
+    },
+    {
+        "appid": 2067520,
+        "name": "Byte Lynx Playtest"
     },
     {
         "appid": 2068730,
@@ -12418,6 +12474,10 @@
     {
         "appid": 2074030,
         "name": "Chinese Frontiers Playtest"
+    },
+    {
+        "appid": 2074930,
+        "name": "The First Descendant Steam Beta"
     },
     {
         "appid": 2076350,
@@ -12528,6 +12588,10 @@
         "name": "Hell is Others Playtest"
     },
     {
+        "appid": 2094990,
+        "name": "Sensorium Galaxy \u2013 PRISM Closed Beta"
+    },
+    {
         "appid": 2096100,
         "name": "ONAR Playtest"
     },
@@ -12580,6 +12644,10 @@
         "name": "Repetendium Playtest"
     },
     {
+        "appid": 2107680,
+        "name": "Warhaven Playtest"
+    },
+    {
         "appid": 2107890,
         "name": "Rock Hoppers Playtest"
     },
@@ -12616,12 +12684,20 @@
         "name": "Herald of Havoc Playtest"
     },
     {
+        "appid": 2115750,
+        "name": "MIGHT'N MOW'EM | Multiplayer Test"
+    },
+    {
         "appid": 2117340,
         "name": "Stranded Nightmare Playtest"
     },
     {
         "appid": 2117640,
         "name": "No Fair Play Playtest"
+    },
+    {
+        "appid": 2118090,
+        "name": "S.M.A.C.K. Playtest"
     },
     {
         "appid": 2118350,
@@ -12696,8 +12772,20 @@
         "name": "Lightphobe Playtest"
     },
     {
+        "appid": 2129550,
+        "name": "Divine Duel Playtest"
+    },
+    {
         "appid": 2129630,
         "name": "Danghost Playtest"
+    },
+    {
+        "appid": 2129880,
+        "name": "GUILTY GEAR -STRIVE- Crossplay Playtest"
+    },
+    {
+        "appid": 2131270,
+        "name": "Planet Surfer Playtest"
     },
     {
         "appid": 2131420,
@@ -12706,6 +12794,10 @@
     {
         "appid": 2131590,
         "name": "Heavyarms Assemble: WWII Playtest"
+    },
+    {
+        "appid": 2131610,
+        "name": "AlexanderBall: A Countryball Tale Playtest"
     },
     {
         "appid": 2135550,
@@ -12724,12 +12816,24 @@
         "name": "Headz Go Racing Playtest"
     },
     {
+        "appid": 2138680,
+        "name": "Civitas Playtest"
+    },
+    {
         "appid": 2138940,
         "name": "Enworden Playtest"
     },
     {
+        "appid": 2139050,
+        "name": "Bite Nite Playtest"
+    },
+    {
         "appid": 2139660,
         "name": "Steamcore Playtest"
+    },
+    {
+        "appid": 2139920,
+        "name": "Dream Fight Will Beta"
     },
     {
         "appid": 2140240,
@@ -12752,6 +12856,14 @@
         "name": "Screaming Chiceken: Ultimate Showdown [Play Test]"
     },
     {
+        "appid": 2143260,
+        "name": "Don't Underestimate Me Playtest"
+    },
+    {
+        "appid": 2143490,
+        "name": "\u9738\u738b\u9ab0 Playtest"
+    },
+    {
         "appid": 2143720,
         "name": "Huntscape Playtest"
     },
@@ -12760,8 +12872,20 @@
         "name": "RPG Stories Worldbuilder Alpha Playtest"
     },
     {
+        "appid": 2146130,
+        "name": "Asym Altered Axis Playtest"
+    },
+    {
+        "appid": 2146410,
+        "name": "The Events at Unity Farm Closed Beta"
+    },
+    {
         "appid": 2146670,
         "name": "Aria and the Crystal Kingdom Playtest"
+    },
+    {
+        "appid": 2148600,
+        "name": "Three Quarters Space Station"
     },
     {
         "appid": 2148980,
@@ -12788,8 +12912,16 @@
         "name": "Wild Isles Playtest"
     },
     {
+        "appid": 2152520,
+        "name": "Tray Racers! Playtest"
+    },
+    {
         "appid": 2154120,
         "name": "\u897f\u90e8\u5e7b\u60f3 West Fantasy Playtest"
+    },
+    {
+        "appid": 2156210,
+        "name": "Warhammer 40,000: Darktide Closed Beta"
     },
     {
         "appid": 2158970,
@@ -12798,5 +12930,85 @@
     {
         "appid": 2159080,
         "name": "Terminal Breach Playtest"
+    },
+    {
+        "appid": 2161060,
+        "name": "Rhythm Bang [PTB]"
+    },
+    {
+        "appid": 2162320,
+        "name": "Mist Legacy Playtest"
+    },
+    {
+        "appid": 2163640,
+        "name": "Textbound Tales Playtest"
+    },
+    {
+        "appid": 2166240,
+        "name": "Orya Playtest"
+    },
+    {
+        "appid": 2169650,
+        "name": "Milita Aventuro Playtest"
+    },
+    {
+        "appid": 2170010,
+        "name": "Deepest Chamber Playtest"
+    },
+    {
+        "appid": 2170770,
+        "name": "Fright Knight Legend Playtest"
+    },
+    {
+        "appid": 2171000,
+        "name": "Orebody: Binder's Tale Playtest"
+    },
+    {
+        "appid": 2171900,
+        "name": "Rite of Titans - alpha"
+    },
+    {
+        "appid": 2172200,
+        "name": "Infinite Tao Playtest"
+    },
+    {
+        "appid": 2173260,
+        "name": "CRETE Playtest"
+    },
+    {
+        "appid": 2173500,
+        "name": "Joy Flight Playtest"
+    },
+    {
+        "appid": 2174540,
+        "name": "Orbtangle Playtest"
+    },
+    {
+        "appid": 2176050,
+        "name": "The Trasamire Campaigns Playtest"
+    },
+    {
+        "appid": 2177920,
+        "name": "Wraithbinder Playtest"
+    },
+    {
+        "appid": 2179540,
+        "name": "Dominance Playtest"
+    },
+    {
+        "appid": 2180780,
+        "name": "Detective Super Star Playtest"
+    },
+    {
+        "appid": 2181690,
+        "name": "Sword King Playtest"
+    },
+    {
+        "appid": 2187400,
+        "name": "Frozenheim Playtest"
+    },
+    {
+        "appid": 2193260,
+        "name": "Spellstruck Playtest"
     }
 ]
