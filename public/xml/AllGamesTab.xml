@@ -12220,6 +12220,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1854330]]></storeLink>
 		</game>
 		<game>
+			<appID>2169070</appID>
+			<name><![CDATA[Stagdraft Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2169070]]></storeLink>
+		</game>
+		<game>
 			<appID>420790</appID>
 			<name><![CDATA[StarBreak]]></name>
 			
@@ -12827,16 +12833,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13355,6 +13361,12 @@
 			<name><![CDATA[The ordinary case of Margaret Luoni Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2026700]]></storeLink>
+		</game>
+		<game>
+			<appID>2126550</appID>
+			<name><![CDATA[The Outlast Trials Closed Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2126550]]></storeLink>
 		</game>
 		<game>
 			<appID>436160</appID>
