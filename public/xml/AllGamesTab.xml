@@ -5242,12 +5242,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/431540/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1948950</appID>
-			<name><![CDATA[Frozen Flame Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1948950]]></storeLink>
-		</game>
-		<game>
 			<appID>357480</appID>
 			<name><![CDATA[Frozen Free Fall: Snowball Fight]]></name>
 			
@@ -12538,16 +12532,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12827,16 +12821,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13651,6 +13645,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/646960]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/646960]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/646960/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2150780</appID>
+			<name><![CDATA[Throne of Bone Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2150780]]></storeLink>
 		</game>
 		<game>
 			<appID>534500</appID>
