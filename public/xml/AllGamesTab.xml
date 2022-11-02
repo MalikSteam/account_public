@@ -3651,6 +3651,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/698780]]></storeLink>
 		</game>
 		<game>
+			<appID>2179540</appID>
+			<name><![CDATA[Dominance Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2179540]]></storeLink>
+		</game>
+		<game>
 			<appID>2143260</appID>
 			<name><![CDATA[Don't Underestimate Me Playtest]]></name>
 			
@@ -3982,20 +3988,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -9412,12 +9418,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/491950/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>2166240</appID>
-			<name><![CDATA[Orya Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2166240]]></storeLink>
-		</game>
-		<game>
 			<appID>376310</appID>
 			<name><![CDATA[Otherland]]></name>
 			
@@ -11662,8 +11662,6 @@
 			<name><![CDATA[Sliiide! Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2007630]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2007630]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2007630/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1734660</appID>
@@ -12815,16 +12813,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13343,12 +13341,6 @@
 			<name><![CDATA[The ordinary case of Margaret Luoni Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2026700]]></storeLink>
-		</game>
-		<game>
-			<appID>2126550</appID>
-			<name><![CDATA[The Outlast Trials Closed Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2126550]]></storeLink>
 		</game>
 		<game>
 			<appID>436160</appID>
