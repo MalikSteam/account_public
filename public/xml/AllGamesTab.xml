@@ -1901,6 +1901,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2072010]]></storeLink>
 		</game>
 		<game>
+			<appID>2197940</appID>
+			<name><![CDATA[BOWLOUT Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2197940]]></storeLink>
+		</game>
+		<game>
 			<appID>1619930</appID>
 			<name><![CDATA[BOX: Space Station Playtest]]></name>
 			
@@ -3164,12 +3170,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1777900]]></storeLink>
 		</game>
 		<game>
-			<appID>2078890</appID>
-			<name><![CDATA[Dark and Darker Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2078890]]></storeLink>
-		</game>
-		<game>
 			<appID>332950</appID>
 			<name><![CDATA[Dark Deception]]></name>
 			
@@ -3988,20 +3988,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -12813,16 +12813,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -14845,12 +14845,6 @@
 			<name><![CDATA[Warhammer 40,000: Dawn of War III Open Beta]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/468630]]></storeLink>
-		</game>
-		<game>
-			<appID>2107680</appID>
-			<name><![CDATA[Warhaven Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2107680]]></storeLink>
 		</game>
 		<game>
 			<appID>786020</appID>
