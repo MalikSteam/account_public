@@ -3351,6 +3351,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/533200]]></storeLink>
 		</game>
 		<game>
+			<appID>2193610</appID>
+			<name><![CDATA[Degen Royale Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2193610]]></storeLink>
+		</game>
+		<game>
 			<appID>538110</appID>
 			<name><![CDATA[Delila's Gift]]></name>
 			
@@ -11960,6 +11966,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1718820]]></storeLink>
 		</game>
 		<game>
+			<appID>2140670</appID>
+			<name><![CDATA[SpaceBoots Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2140670]]></storeLink>
+		</game>
+		<game>
 			<appID>691540</appID>
 			<name><![CDATA[Space Fighter]]></name>
 			
@@ -12819,16 +12831,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
