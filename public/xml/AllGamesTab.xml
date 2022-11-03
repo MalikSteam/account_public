@@ -4566,6 +4566,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1886770]]></storeLink>
 		</game>
 		<game>
+			<appID>2134200</appID>
+			<name><![CDATA[Exo Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2134200]]></storeLink>
+		</game>
+		<game>
 			<appID>1799830</appID>
 			<name><![CDATA[EXP: War Trauma Playtest]]></name>
 			
@@ -12524,16 +12530,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
