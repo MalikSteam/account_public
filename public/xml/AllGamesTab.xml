@@ -9125,6 +9125,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/582030]]></storeLink>
 		</game>
 		<game>
+			<appID>1843870</appID>
+			<name><![CDATA[Obscurity: Unknown Threat Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1843870]]></storeLink>
+		</game>
+		<game>
 			<appID>549360</appID>
 			<name><![CDATA[ObserVR Beta]]></name>
 			
@@ -12652,6 +12658,12 @@
 			<name><![CDATA[Synthbiotic Dungeon]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1576880]]></storeLink>
+		</game>
+		<game>
+			<appID>2196760</appID>
+			<name><![CDATA[Synthwave Glider Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2196760]]></storeLink>
 		</game>
 		<game>
 			<appID>672000</appID>
