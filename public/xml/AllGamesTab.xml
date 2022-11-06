@@ -3363,6 +3363,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/538110]]></storeLink>
 		</game>
 		<game>
+			<appID>2148040</appID>
+			<name><![CDATA[Deltazone Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2148040]]></storeLink>
+		</game>
+		<game>
 			<appID>338810</appID>
 			<name><![CDATA[Demise of Nations]]></name>
 			
@@ -12572,16 +12578,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
