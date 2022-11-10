@@ -5001,6 +5001,8 @@
 			<name><![CDATA[Forest Grove Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617050]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1617050]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1617050/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>223390</appID>
@@ -15351,7 +15353,7 @@
 		</game>
 		<game>
 			<appID>844890</appID>
-			<name><![CDATA[World of Warships — Exclusive Starter Pack]]></name>
+			<name><![CDATA[World of Warships — Starter Pack: Ishizuchi]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/844890]]></storeLink>
 		</game>
@@ -15770,12 +15772,6 @@
 			<name><![CDATA[烽火大秦]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1157330]]></storeLink>
-		</game>
-		<game>
-			<appID>2009240</appID>
-			<name><![CDATA[生死狙击2 Test Server]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2009240]]></storeLink>
 		</game>
 		<game>
 			<appID>1615800</appID>
