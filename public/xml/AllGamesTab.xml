@@ -2934,12 +2934,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/884660/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>2050950</appID>
-			<name><![CDATA[Cruise Ship Manager Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2050950]]></storeLink>
-		</game>
-		<game>
 			<appID>402840</appID>
 			<name><![CDATA[Crusaders of the Lost Idols]]></name>
 			
@@ -6827,6 +6821,12 @@
 			<name><![CDATA[Insidia]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/592890]]></storeLink>
+		</game>
+		<game>
+			<appID>1732520</appID>
+			<name><![CDATA[INSPIRE Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1732520]]></storeLink>
 		</game>
 		<game>
 			<appID>1683840</appID>
