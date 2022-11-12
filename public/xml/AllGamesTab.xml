@@ -783,6 +783,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1855790]]></storeLink>
 		</game>
 		<game>
+			<appID>2121420</appID>
+			<name><![CDATA[Aquatico Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2121420]]></storeLink>
+		</game>
+		<game>
 			<appID>534870</appID>
 			<name><![CDATA[Arcane]]></name>
 			
@@ -3176,6 +3182,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1777900]]></storeLink>
 		</game>
 		<game>
+			<appID>1842230</appID>
+			<name><![CDATA[Dark Adaption Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1842230]]></storeLink>
+		</game>
+		<game>
 			<appID>332950</appID>
 			<name><![CDATA[Dark Deception]]></name>
 			
@@ -4006,20 +4018,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -7979,6 +7991,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/689400]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/689400]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/689400/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1736430</appID>
+			<name><![CDATA[Mage Tower: Call of Zadeus Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1736430]]></storeLink>
 		</game>
 		<game>
 			<appID>201190</appID>
@@ -14591,6 +14609,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/339600/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2209490</appID>
+			<name><![CDATA[VelocityRiftPlaytest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2209490]]></storeLink>
+		</game>
+		<game>
 			<appID>307290</appID>
 			<name><![CDATA[Velvet Sundown]]></name>
 			
@@ -15772,6 +15796,12 @@
 			<name><![CDATA[烽火大秦]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1157330]]></storeLink>
+		</game>
+		<game>
+			<appID>2196940</appID>
+			<name><![CDATA[究極大富豪 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2196940]]></storeLink>
 		</game>
 		<game>
 			<appID>1615800</appID>
