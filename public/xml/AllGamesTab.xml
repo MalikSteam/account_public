@@ -4106,6 +4106,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/862240/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2194080</appID>
+			<name><![CDATA[Earth From Another Sun Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2194080]]></storeLink>
+		</game>
+		<game>
 			<appID>1081740</appID>
 			<name><![CDATA[Easter Clicker: Idle Manager]]></name>
 			
@@ -14625,6 +14631,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/467990]]></storeLink>
 		</game>
 		<game>
+			<appID>2209960</appID>
+			<name><![CDATA[Vessels Of Decay Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2209960]]></storeLink>
+		</game>
+		<game>
 			<appID>264120</appID>
 			<name><![CDATA[Victory: The Age of Racing]]></name>
 			
@@ -14953,6 +14965,12 @@
 			<name><![CDATA[Warhammer 40,000: Dawn of War III Open Beta]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/468630]]></storeLink>
+		</game>
+		<game>
+			<appID>2107680</appID>
+			<name><![CDATA[Warhaven Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2107680]]></storeLink>
 		</game>
 		<game>
 			<appID>786020</appID>
