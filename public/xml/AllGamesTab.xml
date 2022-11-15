@@ -12614,16 +12614,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -15125,12 +15125,6 @@
 			<name><![CDATA[We The Voters]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/519530]]></storeLink>
-		</game>
-		<game>
-			<appID>1707800</appID>
-			<name><![CDATA[We Who Are About To Die Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1707800]]></storeLink>
 		</game>
 		<game>
 			<appID>544130</appID>
