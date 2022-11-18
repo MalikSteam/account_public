@@ -8893,7 +8893,7 @@
     },
     {
         "appid": 1498830,
-        "name": "Go Fight Fantastic! (Open Beta)"
+        "name": "Go Fight Fantastic (Playtest)"
     },
     {
         "appid": 1499160,
@@ -13110,6 +13110,10 @@
     {
         "appid": 2204090,
         "name": "Pirate Dragons Playtest"
+    },
+    {
+        "appid": 2204460,
+        "name": "Attack on King: Reloaded Playtest"
     },
     {
         "appid": 2206330,
