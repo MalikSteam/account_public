@@ -777,6 +777,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/325180]]></storeLink>
 		</game>
 		<game>
+			<appID>1652810</appID>
+			<name><![CDATA[Aquamarine Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1652810]]></storeLink>
+		</game>
+		<game>
 			<appID>1855790</appID>
 			<name><![CDATA[Aquarist Playtest]]></name>
 			
@@ -10400,6 +10406,12 @@
 			<name><![CDATA[Quanero]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/497820]]></storeLink>
+		</game>
+		<game>
+			<appID>2214800</appID>
+			<name><![CDATA[Quant Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2214800]]></storeLink>
 		</game>
 		<game>
 			<appID>304890</appID>
