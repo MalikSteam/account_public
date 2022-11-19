@@ -11644,6 +11644,10 @@
         "name": "Prison Life Playtest"
     },
     {
+        "appid": 1912790,
+        "name": "Power Chord Playtest"
+    },
+    {
         "appid": 1914150,
         "name": "Gunsmith Simulator Playtest"
     },
@@ -13044,6 +13048,10 @@
         "name": "Orbtangle Playtest"
     },
     {
+        "appid": 2174860,
+        "name": "Unity Pomodoro Playtest"
+    },
+    {
         "appid": 2176050,
         "name": "The Trasamire Campaigns Playtest"
     },
@@ -13116,6 +13124,10 @@
         "name": "Attack on King: Reloaded Playtest"
     },
     {
+        "appid": 2206090,
+        "name": "Artifice: War Tactics Playtest"
+    },
+    {
         "appid": 2206330,
         "name": "Orten Was The Case Playtest"
     },
@@ -13142,5 +13154,9 @@
     {
         "appid": 2214800,
         "name": "Quant Playtest"
+    },
+    {
+        "appid": 2219010,
+        "name": "Pillazon: MMO Drug Lord Tycoon Playtest"
     }
 ]
