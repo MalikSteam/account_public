@@ -4102,6 +4102,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/213650/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2219380</appID>
+			<name><![CDATA[Dwarven Realms Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2219380]]></storeLink>
+		</game>
+		<game>
 			<appID>730310</appID>
 			<name><![CDATA[DYNASTY WARRIORS 9]]></name>
 			
@@ -12949,16 +12955,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
