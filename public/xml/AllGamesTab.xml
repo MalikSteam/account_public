@@ -2087,6 +2087,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/211880]]></storeLink>
 		</game>
 		<game>
+			<appID>1821010</appID>
+			<name><![CDATA[Bullet Runner Prologue]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1821010]]></storeLink>
+		</game>
+		<game>
 			<appID>393970</appID>
 			<name><![CDATA[Burning Man: Beyond Black Rock]]></name>
 			
@@ -12949,16 +12955,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -15834,6 +15840,12 @@
 			<name><![CDATA[烽火大秦]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1157330]]></storeLink>
+		</game>
+		<game>
+			<appID>2009240</appID>
+			<name><![CDATA[生死狙击2 Test Server]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2009240]]></storeLink>
 		</game>
 		<game>
 			<appID>2196940</appID>
