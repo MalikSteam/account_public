@@ -9223,6 +9223,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/634060]]></storeLink>
 		</game>
 		<game>
+			<appID>1905640</appID>
+			<name><![CDATA[OBS Studio Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1905640]]></storeLink>
+		</game>
+		<game>
 			<appID>708680</appID>
 			<name><![CDATA[Octopus Bar]]></name>
 			
@@ -12621,6 +12627,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/SuperCrateBox/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1614000</appID>
+			<name><![CDATA[Super Dungeon Designer Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1614000]]></storeLink>
+		</game>
+		<game>
 			<appID>1980670</appID>
 			<name><![CDATA[Super Liquid Soccer Playtest]]></name>
 			
@@ -12961,16 +12973,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -15784,6 +15796,8 @@
 			<name><![CDATA[奇怪的RPG Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1902720]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1902720]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1902720/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1710360</appID>
@@ -15834,6 +15848,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2080050]]></storeLink>
 		</game>
 		<game>
+			<appID>2208170</appID>
+			<name><![CDATA[海岛新世界 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2208170]]></storeLink>
+		</game>
+		<game>
 			<appID>1614220</appID>
 			<name><![CDATA[游戏人生：心魔 Playtest]]></name>
 			
@@ -15852,6 +15872,12 @@
 			<name><![CDATA[烽火大秦]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1157330]]></storeLink>
+		</game>
+		<game>
+			<appID>2009240</appID>
+			<name><![CDATA[生死狙击2 Test Server]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2009240]]></storeLink>
 		</game>
 		<game>
 			<appID>2196940</appID>
