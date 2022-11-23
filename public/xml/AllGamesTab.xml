@@ -789,12 +789,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1855790]]></storeLink>
 		</game>
 		<game>
-			<appID>2121420</appID>
-			<name><![CDATA[Aquatico Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2121420]]></storeLink>
-		</game>
-		<game>
 			<appID>534870</appID>
 			<name><![CDATA[Arcane]]></name>
 			
@@ -5784,6 +5778,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/647670]]></storeLink>
 		</game>
 		<game>
+			<appID>2140720</appID>
+			<name><![CDATA[Gravity Maze Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2140720]]></storeLink>
+		</game>
+		<game>
 			<appID>1646460</appID>
 			<name><![CDATA[Gray Zone Playtest]]></name>
 			
@@ -8027,6 +8027,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/689400]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/689400]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/689400/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2177360</appID>
+			<name><![CDATA[Mafia Pigs Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2177360]]></storeLink>
 		</game>
 		<game>
 			<appID>1736430</appID>
@@ -15223,6 +15229,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2017190]]></storeLink>
 		</game>
 		<game>
+			<appID>2098490</appID>
+			<name><![CDATA[Wilderness Survival: The Conservationist Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2098490]]></storeLink>
+		</game>
+		<game>
 			<appID>2151890</appID>
 			<name><![CDATA[Wild Isles Playtest]]></name>
 			
@@ -15840,12 +15852,6 @@
 			<name><![CDATA[烽火大秦]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1157330]]></storeLink>
-		</game>
-		<game>
-			<appID>2009240</appID>
-			<name><![CDATA[生死狙击2 Test Server]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2009240]]></storeLink>
 		</game>
 		<game>
 			<appID>2196940</appID>
