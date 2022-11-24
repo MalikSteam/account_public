@@ -4038,20 +4038,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -6090,6 +6090,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/241640]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/241640]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/241640/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2193440</appID>
+			<name><![CDATA[HAWKED | Closed Alpha]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2193440]]></storeLink>
 		</game>
 		<game>
 			<appID>271290</appID>
@@ -9105,6 +9111,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2023390]]></storeLink>
 		</game>
 		<game>
+			<appID>2221180</appID>
+			<name><![CDATA[Nordic Ashes Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2221180]]></storeLink>
+		</game>
+		<game>
 			<appID>200110</appID>
 			<name><![CDATA[Nosgoth]]></name>
 			
@@ -9758,6 +9770,14 @@
 			<name><![CDATA[Penumbra: Necrologue]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/346290]]></storeLink>
+		</game>
+		<game>
+			<appID>1983410</appID>
+			<name><![CDATA[Phantom Brigade Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1983410]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1983410]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1983410/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>545570</appID>
@@ -12336,6 +12356,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/356670]]></storeLink>
 		</game>
 		<game>
+			<appID>2219030</appID>
+			<name><![CDATA[SPRINTFIRE Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2219030]]></storeLink>
+		</game>
+		<game>
 			<appID>2080830</appID>
 			<name><![CDATA[SquadBlast Playtest]]></name>
 			
@@ -12678,16 +12704,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -14701,12 +14727,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/467990]]></storeLink>
 		</game>
 		<game>
-			<appID>2209960</appID>
-			<name><![CDATA[Vessels Of Decay Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2209960]]></storeLink>
-		</game>
-		<game>
 			<appID>264120</appID>
 			<name><![CDATA[Victory: The Age of Racing]]></name>
 			
@@ -15872,12 +15892,6 @@
 			<name><![CDATA[烽火大秦]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1157330]]></storeLink>
-		</game>
-		<game>
-			<appID>2009240</appID>
-			<name><![CDATA[生死狙击2 Test Server]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2009240]]></storeLink>
 		</game>
 		<game>
 			<appID>2196940</appID>
