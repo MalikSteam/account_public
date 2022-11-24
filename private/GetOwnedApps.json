@@ -12132,6 +12132,10 @@
         "name": "Slurkum Playtest"
     },
     {
+        "appid": 1983410,
+        "name": "Phantom Brigade Playtest"
+    },
+    {
         "appid": 1984300,
         "name": "HORROR TYCOON Playtest"
     },
@@ -13108,6 +13112,10 @@
         "name": "Spellstruck Playtest"
     },
     {
+        "appid": 2193440,
+        "name": "HAWKED | Closed Alpha"
+    },
+    {
         "appid": 2193610,
         "name": "Degen Royale Playtest"
     },
@@ -13188,8 +13196,16 @@
         "name": "Pillazon: MMO Drug Lord Tycoon Playtest"
     },
     {
+        "appid": 2219030,
+        "name": "SPRINTFIRE Playtest"
+    },
+    {
         "appid": 2219380,
         "name": "Dwarven Realms Playtest"
+    },
+    {
+        "appid": 2221180,
+        "name": "Nordic Ashes Playtest"
     },
     {
         "appid": 2221900,
