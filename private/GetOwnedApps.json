@@ -12520,6 +12520,10 @@
         "name": "\u8700\u5c71\uff1a\u521d\u7ae0 Playtest"
     },
     {
+        "appid": 2076590,
+        "name": "Hooking Season Playtest"
+    },
+    {
         "appid": 2076960,
         "name": "Dave Dave Dave Playtest"
     },
@@ -13188,6 +13192,10 @@
         "name": "Pedigree Tactics Playtest"
     },
     {
+        "appid": 2212370,
+        "name": "Warlords: Under Siege Playtest"
+    },
+    {
         "appid": 2214800,
         "name": "Quant Playtest"
     },
@@ -13218,5 +13226,9 @@
     {
         "appid": 2221900,
         "name": "Fortune Handlers  Playtest"
+    },
+    {
+        "appid": 2222400,
+        "name": "Just Perfect Playtest"
     }
 ]
