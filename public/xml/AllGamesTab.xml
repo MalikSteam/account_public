@@ -2906,6 +2906,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/529240/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2173260</appID>
+			<name><![CDATA[CRETE Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2173260]]></storeLink>
+		</game>
+		<game>
 			<appID>38830</appID>
 			<name><![CDATA[CrimeCraft GangWars]]></name>
 			
@@ -3711,6 +3717,12 @@
 			<name><![CDATA[Doki Doki Literature Club]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/698780]]></storeLink>
+		</game>
+		<game>
+			<appID>2179540</appID>
+			<name><![CDATA[Dominance Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2179540]]></storeLink>
 		</game>
 		<game>
 			<appID>2143260</appID>
@@ -6459,6 +6471,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/523680/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2076590</appID>
+			<name><![CDATA[Hooking Season Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2076590]]></storeLink>
+		</game>
+		<game>
 			<appID>1784640</appID>
 			<name><![CDATA[Hope Despair Chaos Playtest]]></name>
 			
@@ -6684,6 +6702,12 @@
 			<name><![CDATA[IKEA VR Pancake Kitchen]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/611120]]></storeLink>
+		</game>
+		<game>
+			<appID>2061160</appID>
+			<name><![CDATA[Ikki Unite Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2061160]]></storeLink>
 		</game>
 		<game>
 			<appID>631660</appID>
@@ -12704,16 +12728,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12999,16 +13023,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -14326,12 +14350,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1952300/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1498770</appID>
-			<name><![CDATA[Turmoil Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1498770]]></storeLink>
-		</game>
-		<game>
 			<appID>689580</appID>
 			<name><![CDATA[TurnSignal]]></name>
 			
@@ -15081,6 +15099,12 @@
 			<name><![CDATA[War Lab Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1603440]]></storeLink>
+		</game>
+		<game>
+			<appID>2212370</appID>
+			<name><![CDATA[Warlords: Under Siege Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2212370]]></storeLink>
 		</game>
 		<game>
 			<appID>253510</appID>
