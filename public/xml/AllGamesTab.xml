@@ -3719,12 +3719,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/698780]]></storeLink>
 		</game>
 		<game>
-			<appID>2179540</appID>
-			<name><![CDATA[Dominance Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2179540]]></storeLink>
-		</game>
-		<game>
 			<appID>2143260</appID>
 			<name><![CDATA[Don't Underestimate Me Playtest]]></name>
 			
@@ -6096,12 +6090,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/241640]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/241640]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/241640/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2193440</appID>
-			<name><![CDATA[HAWKED | Closed Alpha]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2193440]]></storeLink>
 		</game>
 		<game>
 			<appID>271290</appID>
@@ -9249,14 +9237,6 @@
 			<name><![CDATA[OBS Studio Beta]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1905640]]></storeLink>
-		</game>
-		<game>
-			<appID>1900760</appID>
-			<name><![CDATA[Ocean Punk Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1900760]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1900760]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1900760/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>708680</appID>
@@ -12722,16 +12702,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -13761,6 +13741,12 @@
 			<name><![CDATA[The Way of Life Free Edition]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/310370]]></storeLink>
+		</game>
+		<game>
+			<appID>2225930</appID>
+			<name><![CDATA[The Wings of Dawn Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2225930]]></storeLink>
 		</game>
 		<game>
 			<appID>507210</appID>
