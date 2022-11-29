@@ -3673,10 +3673,10 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/252130/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1930870</appID>
-			<name><![CDATA[Divine Knockout Playtest]]></name>
+			<appID>1294660</appID>
+			<name><![CDATA[Divine Knockout (DKO)]]></name>
 			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1930870]]></storeLink>
+			<storeLink><![CDATA[https://steamcommunity.com/app/1294660]]></storeLink>
 		</game>
 		<game>
 			<appID>300040</appID>
@@ -6733,6 +6733,12 @@
 			<name><![CDATA[imos VR LOFT]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/665200]]></storeLink>
+		</game>
+		<game>
+			<appID>2226340</appID>
+			<name><![CDATA[Imperial Ambitions Beta Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2226340]]></storeLink>
 		</game>
 		<game>
 			<appID>424780</appID>
@@ -12702,16 +12708,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12997,16 +13003,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13391,12 +13397,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/450390]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/450390]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/450390/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2008890</appID>
-			<name><![CDATA[The Last Citadel Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2008890]]></storeLink>
 		</game>
 		<game>
 			<appID>593620</appID>
