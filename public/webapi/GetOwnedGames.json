@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1656,
+        "game_count": 1657,
         "games": [
             {
                 "appid": 92,
@@ -17285,6 +17285,16 @@
                 "playtime_forever": 0,
                 "img_icon_url": "f8e1742d0bef58562004e46a09c9c9b8c4bf12b3",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 0
+            },
+            {
+                "appid": 1294660,
+                "name": "Divine Knockout (DKO)",
+                "playtime_forever": 0,
+                "img_icon_url": "2f2112d19f357a6bdaccafbdda5bd3ad82bb0d9f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
