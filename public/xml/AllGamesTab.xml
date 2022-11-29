@@ -2906,12 +2906,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/529240/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>2173260</appID>
-			<name><![CDATA[CRETE Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2173260]]></storeLink>
-		</game>
-		<game>
 			<appID>38830</appID>
 			<name><![CDATA[CrimeCraft GangWars]]></name>
 			
@@ -3409,12 +3403,6 @@
 			<name><![CDATA[Delila's Gift]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/538110]]></storeLink>
-		</game>
-		<game>
-			<appID>2148040</appID>
-			<name><![CDATA[Deltazone Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2148040]]></storeLink>
 		</game>
 		<game>
 			<appID>338810</appID>
@@ -5411,6 +5399,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/294160]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/294160]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/294160/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2210010</appID>
+			<name><![CDATA[Gamble Tower Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2210010]]></storeLink>
 		</game>
 		<game>
 			<appID>1078000</appID>
