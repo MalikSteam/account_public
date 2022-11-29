@@ -8612,6 +8612,10 @@
         "name": "Artifact Foundry"
     },
     {
+        "appid": 1294660,
+        "name": "Divine Knockout (DKO)"
+    },
+    {
         "appid": 1336290,
         "name": "ARTHA"
     },
@@ -13238,5 +13242,9 @@
     {
         "appid": 2225930,
         "name": "The Wings of Dawn Playtest"
+    },
+    {
+        "appid": 2226340,
+        "name": "Imperial Ambitions Beta Playtest"
     }
 ]
