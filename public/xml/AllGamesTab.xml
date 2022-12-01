@@ -2010,6 +2010,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/968310]]></storeLink>
 		</game>
 		<game>
+			<appID>2213200</appID>
+			<name><![CDATA[Brewpub Simulator Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2213200]]></storeLink>
+		</game>
+		<game>
 			<appID>335330</appID>
 			<name><![CDATA[Brick-Force]]></name>
 			
@@ -6610,12 +6616,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1741660]]></storeLink>
 		</game>
 		<game>
-			<appID>1818860</appID>
-			<name><![CDATA[I Am Jesus Christ Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1818860]]></storeLink>
-		</game>
-		<game>
 			<appID>1785900</appID>
 			<name><![CDATA[I Am Your President Playtest]]></name>
 			
@@ -9113,12 +9113,6 @@
 			<name><![CDATA[Non Fingo VR Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2023390]]></storeLink>
-		</game>
-		<game>
-			<appID>2221180</appID>
-			<name><![CDATA[Nordic Ashes Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2221180]]></storeLink>
 		</game>
 		<game>
 			<appID>200110</appID>
