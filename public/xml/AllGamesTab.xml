@@ -3713,6 +3713,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/698780]]></storeLink>
 		</game>
 		<game>
+			<appID>2179540</appID>
+			<name><![CDATA[Dominance Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2179540]]></storeLink>
+		</game>
+		<game>
 			<appID>2143260</appID>
 			<name><![CDATA[Don't Underestimate Me Playtest]]></name>
 			
@@ -7749,6 +7755,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/526730]]></storeLink>
 		</game>
 		<game>
+			<appID>2128890</appID>
+			<name><![CDATA[Lightphobe Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2128890]]></storeLink>
+		</game>
+		<game>
 			<appID>500660</appID>
 			<name><![CDATA[Limberjack]]></name>
 			
@@ -9495,12 +9507,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/312450]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/312450]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/312450/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2171000</appID>
-			<name><![CDATA[Orebody: Binder's Tale Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2171000]]></storeLink>
 		</game>
 		<game>
 			<appID>544510</appID>
@@ -12704,16 +12710,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -14191,6 +14197,12 @@
 			<name><![CDATA[Traverse The Void Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1562580]]></storeLink>
+		</game>
+		<game>
+			<appID>2152520</appID>
+			<name><![CDATA[Tray Racers! Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2152520]]></storeLink>
 		</game>
 		<game>
 			<appID>1875450</appID>
@@ -15904,6 +15916,12 @@
 			<name><![CDATA[胸怀三国 OL / 삼국지를 품다 / Embrace the Three Kingdoms OL]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/987450]]></storeLink>
+		</game>
+		<game>
+			<appID>1900260</appID>
+			<name><![CDATA[虚拟主播模拟器 测试版]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1900260]]></storeLink>
 		</game>
 		<game>
 			<appID>2076350</appID>
