@@ -87,6 +87,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/347630]]></storeLink>
 		</game>
 		<game>
+			<appID>2211210</appID>
+			<name><![CDATA[22级艺科暑期PDP Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2211210]]></storeLink>
+		</game>
+		<game>
 			<appID>444420</appID>
 			<name><![CDATA[24 Hours 'til Rescue]]></name>
 			
@@ -2299,6 +2305,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/451880/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2229860</appID>
+			<name><![CDATA[Catching Spirits Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2229860]]></storeLink>
+		</game>
+		<game>
 			<appID>1845120</appID>
 			<name><![CDATA[Catsploration Playtest]]></name>
 			
@@ -2341,6 +2353,12 @@
 			<name><![CDATA[Chaos Heroes Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/290830]]></storeLink>
+		</game>
+		<game>
+			<appID>2174360</appID>
+			<name><![CDATA[ChaosWorld]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2174360]]></storeLink>
 		</game>
 		<game>
 			<appID>1860230</appID>
@@ -2759,6 +2777,12 @@
 			<name><![CDATA[Control:Override Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1558400]]></storeLink>
+		</game>
+		<game>
+			<appID>2241310</appID>
+			<name><![CDATA[Cook Fest Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2241310]]></storeLink>
 		</game>
 		<game>
 			<appID>359800</appID>
@@ -3345,6 +3369,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/40]]></storeLink>
 		</game>
 		<game>
+			<appID>2220430</appID>
+			<name><![CDATA[Deceive Inc. Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2220430]]></storeLink>
+		</game>
+		<game>
 			<appID>1834350</appID>
 			<name><![CDATA[December 24th Open Test]]></name>
 			
@@ -3848,6 +3878,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1722380/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2245590</appID>
+			<name><![CDATA[Dragonheir: Silent Gods Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2245590]]></storeLink>
+		</game>
+		<game>
 			<appID>661960</appID>
 			<name><![CDATA[Dragon Lords: 3D Strategy]]></name>
 			
@@ -4016,20 +4052,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -7556,6 +7592,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/385260]]></storeLink>
 		</game>
 		<game>
+			<appID>2239410</appID>
+			<name><![CDATA[Land of Towers Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2239410]]></storeLink>
+		</game>
+		<game>
 			<appID>543650</appID>
 			<name><![CDATA[Last Days]]></name>
 			
@@ -8773,6 +8815,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/687980]]></storeLink>
 		</game>
 		<game>
+			<appID>2248370</appID>
+			<name><![CDATA[Motordoom Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2248370]]></storeLink>
+		</game>
+		<game>
 			<appID>612590</appID>
 			<name><![CDATA[Mouse Playhouse]]></name>
 			
@@ -9555,6 +9603,12 @@
 			<name><![CDATA[Out Of Hands Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1854350]]></storeLink>
+		</game>
+		<game>
+			<appID>2209090</appID>
+			<name><![CDATA[Out of Orbit Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2209090]]></storeLink>
 		</game>
 		<game>
 			<appID>1949540</appID>
@@ -10478,6 +10532,12 @@
 			<name><![CDATA[Quantum Rush Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/304890]]></storeLink>
+		</game>
+		<game>
+			<appID>2213790</appID>
+			<name><![CDATA[Quarterstaff Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2213790]]></storeLink>
 		</game>
 		<game>
 			<appID>357910</appID>
@@ -11689,6 +11749,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/312280/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1841870</appID>
+			<name><![CDATA[SimRail - The Railway Simulator Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1841870]]></storeLink>
+		</game>
+		<game>
 			<appID>434520</appID>
 			<name><![CDATA[Simutrans]]></name>
 			
@@ -11895,6 +11961,12 @@
 			<name><![CDATA[Smashpunks Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1708790]]></storeLink>
+		</game>
+		<game>
+			<appID>2236250</appID>
+			<name><![CDATA[Smelogs Playground Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2236250]]></storeLink>
 		</game>
 		<game>
 			<appID>1838390</appID>
@@ -12661,6 +12733,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/SuperCrateBox/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2239270</appID>
+			<name><![CDATA[Superfuse Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2239270]]></storeLink>
+		</game>
+		<game>
 			<appID>1980670</appID>
 			<name><![CDATA[Super Liquid Soccer Playtest]]></name>
 			
@@ -13007,16 +13085,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13650,6 +13728,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1959110]]></storeLink>
 		</game>
 		<game>
+			<appID>2099760</appID>
+			<name><![CDATA[Theseus Protocol Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2099760]]></storeLink>
+		</game>
+		<game>
 			<appID>337950</appID>
 			<name><![CDATA[The SKIES]]></name>
 			
@@ -13889,6 +13973,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/651280]]></storeLink>
 		</game>
 		<game>
+			<appID>2100370</appID>
+			<name><![CDATA[Tiny Troopers: Global Ops - Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2100370]]></storeLink>
+		</game>
+		<game>
 			<appID>1624820</appID>
 			<name><![CDATA[Tire Friend Playtest]]></name>
 			
@@ -13901,6 +13991,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1472110]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1472110]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1472110/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1752980</appID>
+			<name><![CDATA[Tobii Horizon Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1752980]]></storeLink>
 		</game>
 		<game>
 			<appID>434120</appID>
@@ -14990,6 +15086,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/348700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2214510</appID>
+			<name><![CDATA[Wall World Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2214510]]></storeLink>
+		</game>
+		<game>
 			<appID>436820</appID>
 			<name><![CDATA[Waltz of the Wizard (Legacy demo)]]></name>
 			
@@ -15429,6 +15531,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/113900]]></storeLink>
 		</game>
 		<game>
+			<appID>1614310</appID>
+			<name><![CDATA[World of Football Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1614310]]></storeLink>
+		</game>
+		<game>
 			<appID>262410</appID>
 			<name><![CDATA[World of Guns: Gun Disassembly]]></name>
 			
@@ -15782,6 +15890,12 @@
 			<name><![CDATA[卢沟桥事变 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2136120]]></storeLink>
+		</game>
+		<game>
+			<appID>2235000</appID>
+			<name><![CDATA[叛逆AI模拟器 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2235000]]></storeLink>
 		</game>
 		<game>
 			<appID>1664800</appID>
