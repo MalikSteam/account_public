@@ -3369,12 +3369,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/40]]></storeLink>
 		</game>
 		<game>
-			<appID>2220430</appID>
-			<name><![CDATA[Deceive Inc. Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2220430]]></storeLink>
-		</game>
-		<game>
 			<appID>1834350</appID>
 			<name><![CDATA[December 24th Open Test]]></name>
 			
@@ -4058,20 +4052,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -12784,16 +12778,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -13979,12 +13973,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/651280]]></storeLink>
 		</game>
 		<game>
-			<appID>2100370</appID>
-			<name><![CDATA[Tiny Troopers: Global Ops - Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2100370]]></storeLink>
-		</game>
-		<game>
 			<appID>1624820</appID>
 			<name><![CDATA[Tire Friend Playtest]]></name>
 			
@@ -14221,6 +14209,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/874030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/874030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/874030/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2244730</appID>
+			<name><![CDATA[Towards the Unknown Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2244730]]></storeLink>
 		</game>
 		<game>
 			<appID>1863760</appID>
