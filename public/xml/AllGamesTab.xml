@@ -10481,6 +10481,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/ProtoGalaxy/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2259760</appID>
+			<name><![CDATA[Public Land Hunter Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2259760]]></storeLink>
+		</game>
+		<game>
 			<appID>542960</appID>
 			<name><![CDATA[Pumpkin SculptrVR]]></name>
 			
