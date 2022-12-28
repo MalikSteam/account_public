@@ -3224,12 +3224,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1842230]]></storeLink>
 		</game>
 		<game>
-			<appID>2078890</appID>
-			<name><![CDATA[Dark and Darker Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2078890]]></storeLink>
-		</game>
-		<game>
 			<appID>332950</appID>
 			<name><![CDATA[Dark Deception]]></name>
 			
@@ -6226,6 +6220,8 @@
 			<name><![CDATA[HELLIST Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1599650]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1599650]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1599650/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1473390</appID>
@@ -10316,12 +10312,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/465520/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1809430</appID>
-			<name><![CDATA[Primal Dominion Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1809430]]></storeLink>
-		</game>
-		<game>
 			<appID>636580</appID>
 			<name><![CDATA[Primal Reign]]></name>
 			
@@ -10566,12 +10556,6 @@
 			<name><![CDATA[Quantum Rush Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/304890]]></storeLink>
-		</game>
-		<game>
-			<appID>2213790</appID>
-			<name><![CDATA[Quarterstaff Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2213790]]></storeLink>
 		</game>
 		<game>
 			<appID>357910</appID>
