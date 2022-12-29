@@ -3592,6 +3592,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/333930/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2257180</appID>
+			<name><![CDATA[Disaster Area - Online test]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2257180]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2257180]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2257180/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>1679240</appID>
 			<name><![CDATA[Disaster crisis Playtest]]></name>
 			
@@ -4064,20 +4072,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -10835,12 +10843,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/382490/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1800140</appID>
-			<name><![CDATA[Relics of Cilldrea Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1800140]]></storeLink>
-		</game>
-		<game>
 			<appID>404580</appID>
 			<name><![CDATA[Relive]]></name>
 			
@@ -12796,16 +12798,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -16032,12 +16034,6 @@
 			<name><![CDATA[烽火大秦]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1157330]]></storeLink>
-		</game>
-		<game>
-			<appID>2009240</appID>
-			<name><![CDATA[生死狙击2 Test Server]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2009240]]></storeLink>
 		</game>
 		<game>
 			<appID>2229190</appID>
