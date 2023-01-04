@@ -1546,12 +1546,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/615460]]></storeLink>
 		</game>
 		<game>
-			<appID>2139050</appID>
-			<name><![CDATA[Bite Nite Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2139050]]></storeLink>
-		</game>
-		<game>
 			<appID>375220</appID>
 			<name><![CDATA[Bitweb]]></name>
 			
@@ -9655,12 +9649,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2209090]]></storeLink>
 		</game>
 		<game>
-			<appID>1949540</appID>
-			<name><![CDATA[Out of Sight Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1949540]]></storeLink>
-		</game>
-		<game>
 			<appID>293180</appID>
 			<name><![CDATA[Overcast - Walden and the Werewolf]]></name>
 			
@@ -13129,16 +13117,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -15339,6 +15327,12 @@
 			<name><![CDATA[Wartune]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/451230]]></storeLink>
+		</game>
+		<game>
+			<appID>2079740</appID>
+			<name><![CDATA[Warudo Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2079740]]></storeLink>
 		</game>
 		<game>
 			<appID>1689610</appID>
