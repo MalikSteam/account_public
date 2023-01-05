@@ -9155,12 +9155,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1458420/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>2248730</appID>
-			<name><![CDATA[Nightingale: Expanse Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2248730]]></storeLink>
-		</game>
-		<game>
 			<appID>2219750</appID>
 			<name><![CDATA[nightshift Playtest]]></name>
 			
@@ -10688,12 +10682,6 @@
 			<name><![CDATA[Rail Adventures - VR Tech Demo]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/222500]]></storeLink>
-		</game>
-		<game>
-			<appID>2152330</appID>
-			<name><![CDATA[Randy Blaster 3D Alpha]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2152330]]></storeLink>
 		</game>
 		<game>
 			<appID>943010</appID>
@@ -12824,16 +12812,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -13137,16 +13125,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13993,6 +13981,12 @@
 			<name><![CDATA[Throne of Bone Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2150780]]></storeLink>
+		</game>
+		<game>
+			<appID>2249150</appID>
+			<name><![CDATA[Throwing Master Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2249150]]></storeLink>
 		</game>
 		<game>
 			<appID>534500</appID>
