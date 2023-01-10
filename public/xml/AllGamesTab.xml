@@ -10366,6 +10366,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/465520/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1809430</appID>
+			<name><![CDATA[Primal Dominion Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1809430]]></storeLink>
+		</game>
+		<game>
 			<appID>636580</appID>
 			<name><![CDATA[Primal Reign]]></name>
 			
@@ -11450,12 +11456,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2225780]]></storeLink>
 		</game>
 		<game>
-			<appID>2244890</appID>
-			<name><![CDATA[SCP: Observer Public Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2244890]]></storeLink>
-		</game>
-		<game>
 			<appID>465760</appID>
 			<name><![CDATA[Scrap Garden]]></name>
 			
@@ -11831,12 +11831,6 @@
 			<name><![CDATA[Simutrans]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/434520]]></storeLink>
-		</game>
-		<game>
-			<appID>2174090</appID>
-			<name><![CDATA[Sincognito Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2174090]]></storeLink>
 		</game>
 		<game>
 			<appID>1739510</appID>
@@ -12856,16 +12850,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
