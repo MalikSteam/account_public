@@ -5830,6 +5830,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/436150/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2264980</appID>
+			<name><![CDATA[Grace Online Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2264980]]></storeLink>
+		</game>
+		<game>
 			<appID>1666210</appID>
 			<name><![CDATA[Graffiti Bombing Playtest]]></name>
 			
@@ -16018,12 +16024,6 @@
 			<name><![CDATA[卢沟桥事变 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2136120]]></storeLink>
-		</game>
-		<game>
-			<appID>2233060</appID>
-			<name><![CDATA[地心归途 Return From Core Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2233060]]></storeLink>
 		</game>
 		<game>
 			<appID>1664800</appID>
