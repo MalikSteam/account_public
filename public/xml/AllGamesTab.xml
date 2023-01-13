@@ -1598,6 +1598,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1777640]]></storeLink>
 		</game>
 		<game>
+			<appID>2243490</appID>
+			<name><![CDATA[Blackout Protocol Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2243490]]></storeLink>
+		</game>
+		<game>
 			<appID>453890</appID>
 			<name><![CDATA[Black Rose]]></name>
 			
@@ -12874,16 +12880,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
