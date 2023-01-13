@@ -508,14 +508,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1835720]]></storeLink>
 		</game>
 		<game>
-			<appID>2067340</appID>
-			<name><![CDATA[Aliens After Ava Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2067340]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2067340]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2067340/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>563560</appID>
 			<name><![CDATA[Alien Swarm: Reactive Drop]]></name>
 			
@@ -3777,12 +3769,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/698780]]></storeLink>
 		</game>
 		<game>
-			<appID>2179540</appID>
-			<name><![CDATA[Dominance Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2179540]]></storeLink>
-		</game>
-		<game>
 			<appID>2143260</appID>
 			<name><![CDATA[Don't Underestimate Me Playtest]]></name>
 			
@@ -3938,12 +3924,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1722380]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1722380]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1722380/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2245590</appID>
-			<name><![CDATA[Dragonheir: Silent Gods Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2245590]]></storeLink>
 		</game>
 		<game>
 			<appID>661960</appID>
@@ -4114,20 +4094,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -9369,12 +9349,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/582030]]></storeLink>
 		</game>
 		<game>
-			<appID>1843870</appID>
-			<name><![CDATA[Obscurity: Unknown Threat Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1843870]]></storeLink>
-		</game>
-		<game>
 			<appID>549360</appID>
 			<name><![CDATA[ObserVR Beta]]></name>
 			
@@ -11845,16 +11819,16 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/312280/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1841870</appID>
-			<name><![CDATA[SimRail - The Railway Simulator Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1841870]]></storeLink>
-		</game>
-		<game>
 			<appID>434520</appID>
 			<name><![CDATA[Simutrans]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/434520]]></storeLink>
+		</game>
+		<game>
+			<appID>2174090</appID>
+			<name><![CDATA[Sincognito Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2174090]]></storeLink>
 		</game>
 		<game>
 			<appID>1739510</appID>
@@ -12880,16 +12854,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -13193,16 +13167,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13345,6 +13319,12 @@
 			<name><![CDATA[The Cat and the Coup]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/95700]]></storeLink>
+		</game>
+		<game>
+			<appID>2266760</appID>
+			<name><![CDATA[The Cloud City Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2266760]]></storeLink>
 		</game>
 		<game>
 			<appID>452490</appID>
