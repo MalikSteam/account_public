@@ -216,6 +216,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/285580/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2273990</appID>
+			<name><![CDATA[Aces and Adventures Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2273990]]></storeLink>
+		</game>
+		<game>
 			<appID>651090</appID>
 			<name><![CDATA[Aces High III]]></name>
 			
@@ -905,6 +911,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/233630/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2274360</appID>
+			<name><![CDATA[A Simple Square Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2274360]]></storeLink>
+		</game>
+		<game>
 			<appID>612290</appID>
 			<name><![CDATA[ASTA Online]]></name>
 			
@@ -1285,6 +1297,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/643000]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/643000]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/643000/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1903900</appID>
+			<name><![CDATA[Barista: Rise and Grind Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1903900]]></storeLink>
 		</game>
 		<game>
 			<appID>463150</appID>
@@ -4094,20 +4112,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -9961,12 +9979,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1709480]]></storeLink>
 		</game>
 		<game>
-			<appID>2219010</appID>
-			<name><![CDATA[Pillazon: MMO Drug Lord Tycoon Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2219010]]></storeLink>
-		</game>
-		<game>
 			<appID>238260</appID>
 			<name><![CDATA[Pinball Arcade]]></name>
 			
@@ -13167,16 +13179,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13373,12 +13385,6 @@
 			<name><![CDATA[The Enlightened League of Bone Builders and the Osseous Enigma Content]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/517550]]></storeLink>
-		</game>
-		<game>
-			<appID>2146410</appID>
-			<name><![CDATA[The Events at Unity Farm Closed Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2146410]]></storeLink>
 		</game>
 		<game>
 			<appID>332650</appID>
