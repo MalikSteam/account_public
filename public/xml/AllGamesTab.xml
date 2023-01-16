@@ -3270,6 +3270,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1777900]]></storeLink>
 		</game>
 		<game>
+			<appID>2241500</appID>
+			<name><![CDATA[Darfall Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2241500]]></storeLink>
+		</game>
+		<game>
 			<appID>1842230</appID>
 			<name><![CDATA[Dark Adaption Playtest]]></name>
 			
@@ -12860,16 +12866,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12958,12 +12964,6 @@
 			<name><![CDATA[Symploké: La Leyenda de Gustavo Bueno ]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/678090]]></storeLink>
-		</game>
-		<game>
-			<appID>1722080</appID>
-			<name><![CDATA[SYNCED Open Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1722080]]></storeLink>
 		</game>
 		<game>
 			<appID>582830</appID>
@@ -13173,16 +13173,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
