@@ -1608,12 +1608,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1777640]]></storeLink>
 		</game>
 		<game>
-			<appID>2243490</appID>
-			<name><![CDATA[Blackout Protocol Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2243490]]></storeLink>
-		</game>
-		<game>
 			<appID>453890</appID>
 			<name><![CDATA[Black Rose]]></name>
 			
@@ -2735,12 +2729,6 @@
 			<hoursOnRecord>4.5</hoursOnRecord>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/COH2]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/COH2/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2245830</appID>
-			<name><![CDATA[Company of Heroes 3 - Multiplayer Tech Test]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2245830]]></storeLink>
 		</game>
 		<game>
 			<appID>681590</appID>
@@ -13167,16 +13155,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -15731,14 +15719,6 @@
 			<name><![CDATA[Worst World Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1950990]]></storeLink>
-		</game>
-		<game>
-			<appID>2177920</appID>
-			<name><![CDATA[Wraithbinder Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2177920]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2177920]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2177920/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>2123060</appID>
