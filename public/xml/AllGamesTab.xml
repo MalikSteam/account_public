@@ -5740,6 +5740,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/475530/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2264990</appID>
+			<name><![CDATA[Goi Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2264990]]></storeLink>
+		</game>
+		<game>
 			<appID>385890</appID>
 			<name><![CDATA[Golden Rush]]></name>
 			
@@ -8747,14 +8753,6 @@
 			<name><![CDATA[Mix Universe Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1699020]]></storeLink>
-		</game>
-		<game>
-			<appID>1692190</appID>
-			<name><![CDATA[MOBILE SUIT GUNDAM BATTLE OPERATION 2　 Network Test]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1692190]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1692190]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1692190/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>504730</appID>
@@ -13149,16 +13147,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
