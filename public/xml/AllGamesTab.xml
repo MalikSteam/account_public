@@ -5541,6 +5541,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/412400/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2281910</appID>
+			<name><![CDATA[Gatekeeper: Eclipse Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2281910]]></storeLink>
+		</game>
+		<game>
 			<appID>214420</appID>
 			<name><![CDATA[Gear Up]]></name>
 			
@@ -12274,12 +12280,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1627370]]></storeLink>
 		</game>
 		<game>
-			<appID>1896970</appID>
-			<name><![CDATA[Space Mechanic Simulator: Prologue Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1896970]]></storeLink>
-		</game>
-		<game>
 			<appID>413620</appID>
 			<name><![CDATA[Space Needle VR ]]></name>
 			
@@ -13147,16 +13147,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -16088,6 +16088,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1614220]]></storeLink>
 		</game>
 		<game>
+			<appID>2281830</appID>
+			<name><![CDATA[灵异校园 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2281830]]></storeLink>
+		</game>
+		<game>
 			<appID>590910</appID>
 			<name><![CDATA[炎黄战纪[Legacy of YanHuang]]]></name>
 			
@@ -16186,12 +16192,6 @@
 			<name><![CDATA[长生派对 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2245440]]></storeLink>
-		</game>
-		<game>
-			<appID>2143490</appID>
-			<name><![CDATA[霸王骰 Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2143490]]></storeLink>
 		</game>
 		<game>
 			<appID>1605380</appID>
