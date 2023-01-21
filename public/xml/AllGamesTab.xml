@@ -2333,12 +2333,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2229860]]></storeLink>
 		</game>
 		<game>
-			<appID>2232020</appID>
-			<name><![CDATA[Catoise Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2232020]]></storeLink>
-		</game>
-		<game>
 			<appID>1845120</appID>
 			<name><![CDATA[Catsploration Playtest]]></name>
 			
@@ -4094,20 +4088,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -4887,6 +4881,12 @@
 			<name><![CDATA[Fiesta Online NA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/300970]]></storeLink>
+		</game>
+		<game>
+			<appID>2277660</appID>
+			<name><![CDATA[Filthy Animals | Heist Simulator Multiplayer Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2277660]]></storeLink>
 		</game>
 		<game>
 			<appID>816590</appID>
@@ -6945,6 +6945,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/242700]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/242700]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/242700/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2237570</appID>
+			<name><![CDATA[Inkbound Technical Test]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2237570]]></storeLink>
 		</game>
 		<game>
 			<appID>343740</appID>
@@ -11173,6 +11179,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1504950]]></storeLink>
 		</game>
 		<game>
+			<appID>1666300</appID>
+			<name><![CDATA[Rogue Company Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1666300]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1666300]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1666300/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>1950110</appID>
 			<name><![CDATA[Rogue Earth Playtest]]></name>
 			
@@ -11821,6 +11835,12 @@
 			<name><![CDATA[Simutrans]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/434520]]></storeLink>
+		</game>
+		<game>
+			<appID>2174090</appID>
+			<name><![CDATA[Sincognito Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2174090]]></storeLink>
 		</game>
 		<game>
 			<appID>1739510</appID>
@@ -15455,6 +15475,12 @@
 			<name><![CDATA[Wilderness Survival: The Conservationist Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2098490]]></storeLink>
+		</game>
+		<game>
+			<appID>2237540</appID>
+			<name><![CDATA[Wild Growth TD Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2237540]]></storeLink>
 		</game>
 		<game>
 			<appID>2151890</appID>
