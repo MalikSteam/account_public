@@ -1293,12 +1293,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/643000/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1903900</appID>
-			<name><![CDATA[Barista: Rise and Grind Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1903900]]></storeLink>
-		</game>
-		<game>
 			<appID>463150</appID>
 			<name><![CDATA[BARRIER X]]></name>
 			
@@ -3469,6 +3463,8 @@
 			<name><![CDATA[DepowerBall Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1629920]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1629920]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1629920/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>270170</appID>
@@ -12860,16 +12856,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12952,6 +12948,12 @@
 			<name><![CDATA[Swordsman]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/364110]]></storeLink>
+		</game>
+		<game>
+			<appID>2251360</appID>
+			<name><![CDATA[Sylvio And The Mountains Giants Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2251360]]></storeLink>
 		</game>
 		<game>
 			<appID>678090</appID>
