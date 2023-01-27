@@ -12785,6 +12785,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/SuperCrateBox/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1614000</appID>
+			<name><![CDATA[Super Dungeon Designer Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1614000]]></storeLink>
+		</game>
+		<game>
 			<appID>2239270</appID>
 			<name><![CDATA[Superfuse Playtest]]></name>
 			
