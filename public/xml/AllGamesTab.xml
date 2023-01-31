@@ -2079,6 +2079,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1478860]]></storeLink>
 		</game>
 		<game>
+			<appID>2261390</appID>
+			<name><![CDATA[Builders of Greece Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2261390]]></storeLink>
+		</game>
+		<game>
 			<appID>497570</appID>
 			<name><![CDATA[Building the Great Wall of China 2]]></name>
 			
@@ -4084,20 +4090,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -4879,12 +4885,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/300970]]></storeLink>
 		</game>
 		<game>
-			<appID>2277660</appID>
-			<name><![CDATA[Filthy Animals | Heist Simulator Multiplayer Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2277660]]></storeLink>
-		</game>
-		<game>
 			<appID>816590</appID>
 			<name><![CDATA[FinalFire]]></name>
 			
@@ -5551,12 +5551,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/329110]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/329110]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/329110/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1946780</appID>
-			<name><![CDATA[Generic RPG Idle Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1946780]]></storeLink>
 		</game>
 		<game>
 			<appID>308600</appID>
@@ -6527,6 +6521,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/370770/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2240560</appID>
+			<name><![CDATA[Holstin Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2240560]]></storeLink>
+		</game>
+		<game>
 			<appID>55100</appID>
 			<name><![CDATA[Homefront]]></name>
 			
@@ -6979,12 +6979,6 @@
 			<name><![CDATA[Insidia]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/592890]]></storeLink>
-		</game>
-		<game>
-			<appID>1732520</appID>
-			<name><![CDATA[INSPIRE Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1732520]]></storeLink>
 		</game>
 		<game>
 			<appID>1683840</appID>
@@ -12842,16 +12836,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
