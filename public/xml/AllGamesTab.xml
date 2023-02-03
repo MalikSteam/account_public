@@ -9361,6 +9361,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/582030]]></storeLink>
 		</game>
 		<game>
+			<appID>1843870</appID>
+			<name><![CDATA[Obscurity: Unknown Threat Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1843870]]></storeLink>
+		</game>
+		<game>
 			<appID>549360</appID>
 			<name><![CDATA[ObserVR Beta]]></name>
 			
@@ -9904,6 +9910,12 @@
 			<name><![CDATA[Penumbra: Necrologue]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/346290]]></storeLink>
+		</game>
+		<game>
+			<appID>2269560</appID>
+			<name><![CDATA[Perseus: Titan Slayer Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2269560]]></storeLink>
 		</game>
 		<game>
 			<appID>1983410</appID>
@@ -13167,16 +13179,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13887,12 +13899,6 @@
 			<name><![CDATA[The Trap 2: Mindlock (beta)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/638800]]></storeLink>
-		</game>
-		<game>
-			<appID>2176050</appID>
-			<name><![CDATA[The Trasamire Campaigns Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2176050]]></storeLink>
 		</game>
 		<game>
 			<appID>669580</appID>
