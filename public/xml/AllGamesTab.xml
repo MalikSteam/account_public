@@ -346,6 +346,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1619120]]></storeLink>
 		</game>
 		<game>
+			<appID>1827050</appID>
+			<name><![CDATA[Afterimage Kickstarter Backer Exclusive Demo]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1827050]]></storeLink>
+		</game>
+		<game>
 			<appID>349700</appID>
 			<name><![CDATA[Aftermath]]></name>
 			
@@ -4586,12 +4592,6 @@
 			<name><![CDATA[Eternal Senia]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/351640]]></storeLink>
-		</game>
-		<game>
-			<appID>1952010</appID>
-			<name><![CDATA[Ethyrial, Echoes of Yore Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1952010]]></storeLink>
 		</game>
 		<game>
 			<appID>690930</appID>
@@ -13217,16 +13217,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
