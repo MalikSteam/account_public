@@ -4574,12 +4574,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/366530]]></storeLink>
 		</game>
 		<game>
-			<appID>1866140</appID>
-			<name><![CDATA[Espresso Tycoon Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1866140]]></storeLink>
-		</game>
-		<game>
 			<appID>582890</appID>
 			<name><![CDATA[Estranged: The Departure]]></name>
 			
@@ -5949,12 +5943,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/275390]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/275390]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/275390/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2129880</appID>
-			<name><![CDATA[GUILTY GEAR -STRIVE- Crossplay Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2129880]]></storeLink>
 		</game>
 		<game>
 			<appID>867750</appID>
@@ -11415,12 +11403,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/286940]]></storeLink>
 		</game>
 		<game>
-			<appID>2118090</appID>
-			<name><![CDATA[S.M.A.C.K. Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2118090]]></storeLink>
-		</game>
-		<game>
 			<appID>376140</appID>
 			<name><![CDATA[SAGA]]></name>
 			
@@ -12910,16 +12892,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -13217,16 +13199,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -14115,12 +14097,6 @@
 			<name><![CDATA[TinkerQuarry]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/651280]]></storeLink>
-		</game>
-		<game>
-			<appID>2100370</appID>
-			<name><![CDATA[Tiny Troopers: Global Ops - Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2100370]]></storeLink>
 		</game>
 		<game>
 			<appID>1624820</appID>
