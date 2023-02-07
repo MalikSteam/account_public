@@ -3427,6 +3427,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/540160]]></storeLink>
 		</game>
 		<game>
+			<appID>2247810</appID>
+			<name><![CDATA[Deducto 2 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2247810]]></storeLink>
+		</game>
+		<game>
 			<appID>526470</appID>
 			<name><![CDATA[Deep Below]]></name>
 			
@@ -12464,12 +12470,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1475280]]></storeLink>
 		</game>
 		<game>
-			<appID>2021700</appID>
-			<name><![CDATA[Spikair Volleyball Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2021700]]></storeLink>
-		</game>
-		<game>
 			<appID>99900</appID>
 			<name><![CDATA[Spiral Knights]]></name>
 			
@@ -12841,12 +12841,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/SuperCrateBox/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1614000</appID>
-			<name><![CDATA[Super Dungeon Designer Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1614000]]></storeLink>
-		</game>
-		<game>
 			<appID>1980670</appID>
 			<name><![CDATA[Super Liquid Soccer Playtest]]></name>
 			
@@ -12892,16 +12886,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -15489,12 +15483,6 @@
 			<name><![CDATA[Who Is Mike]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/377430]]></storeLink>
-		</game>
-		<game>
-			<appID>2017190</appID>
-			<name><![CDATA[Wild Dose Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2017190]]></storeLink>
 		</game>
 		<game>
 			<appID>2098490</appID>
