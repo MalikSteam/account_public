@@ -9894,6 +9894,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/346290]]></storeLink>
 		</game>
 		<game>
+			<appID>1715110</appID>
+			<name><![CDATA[Perfect Tides Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1715110]]></storeLink>
+		</game>
+		<game>
 			<appID>2269560</appID>
 			<name><![CDATA[Perseus: Titan Slayer Playtest]]></name>
 			
@@ -13163,16 +13169,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
