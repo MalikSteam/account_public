@@ -3439,12 +3439,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/538110]]></storeLink>
 		</game>
 		<game>
-			<appID>1618610</appID>
-			<name><![CDATA[Deliria BETA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1618610]]></storeLink>
-		</game>
-		<game>
 			<appID>338810</appID>
 			<name><![CDATA[Demise of Nations]]></name>
 			
@@ -9894,12 +9888,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1715110]]></storeLink>
 		</game>
 		<game>
-			<appID>2269560</appID>
-			<name><![CDATA[Perseus: Titan Slayer Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2269560]]></storeLink>
-		</game>
-		<game>
 			<appID>1983410</appID>
 			<name><![CDATA[Phantom Brigade Playtest]]></name>
 			
@@ -13163,16 +13151,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -14061,12 +14049,6 @@
 			<name><![CDATA[TinkerQuarry]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/651280]]></storeLink>
-		</game>
-		<game>
-			<appID>2100370</appID>
-			<name><![CDATA[Tiny Troopers: Global Ops - Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2100370]]></storeLink>
 		</game>
 		<game>
 			<appID>1624820</appID>
