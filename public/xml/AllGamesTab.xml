@@ -2426,6 +2426,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/662700]]></storeLink>
 		</game>
 		<game>
+			<appID>2257740</appID>
+			<name><![CDATA[Chop Chop Guys Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2257740]]></storeLink>
+		</game>
+		<game>
 			<appID>703760</appID>
 			<name><![CDATA[Chopper: Attack helicopters]]></name>
 			
@@ -6414,6 +6420,8 @@
 			<name><![CDATA[Hexane Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1972520]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1972520]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1972520/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1809690</appID>
@@ -12184,12 +12192,6 @@
 			<name><![CDATA[Soulpath Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1666230]]></storeLink>
-		</game>
-		<game>
-			<appID>2256070</appID>
-			<name><![CDATA[Soul Taker Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2256070]]></storeLink>
 		</game>
 		<game>
 			<appID>662470</appID>
