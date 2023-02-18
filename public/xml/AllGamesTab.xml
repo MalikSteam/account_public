@@ -4084,20 +4084,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -7711,7 +7711,7 @@
 		</game>
 		<game>
 			<appID>391720</appID>
-			<name><![CDATA[Layers of Fear]]></name>
+			<name><![CDATA[Layers of Fear (2016)]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/391720]]></storeLink>
 			<hoursOnRecord>4.3</hoursOnRecord>
@@ -9839,6 +9839,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1728000]]></storeLink>
 		</game>
 		<game>
+			<appID>2121400</appID>
+			<name><![CDATA[Past Fate Open Alpha]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2121400]]></storeLink>
+		</game>
+		<game>
 			<appID>238960</appID>
 			<name><![CDATA[Path of Exile]]></name>
 			
@@ -10853,14 +10859,6 @@
 			<name><![CDATA[Regimental Chess]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/362400]]></storeLink>
-		</game>
-		<game>
-			<appID>2211700</appID>
-			<name><![CDATA[Reign of Guilds Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2211700]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2211700]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2211700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>382490</appID>
