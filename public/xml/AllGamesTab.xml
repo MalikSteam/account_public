@@ -2426,12 +2426,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/662700]]></storeLink>
 		</game>
 		<game>
-			<appID>2257740</appID>
-			<name><![CDATA[Chop Chop Guys Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2257740]]></storeLink>
-		</game>
-		<game>
 			<appID>703760</appID>
 			<name><![CDATA[Chopper: Attack helicopters]]></name>
 			
@@ -5750,6 +5744,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1472640]]></storeLink>
 		</game>
 		<game>
+			<appID>2196540</appID>
+			<name><![CDATA[Goldilock One - PLAY TEST - Boss Challenge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2196540]]></storeLink>
+		</game>
+		<game>
 			<appID>1772170</appID>
 			<name><![CDATA[Golf Club Architect Playtest]]></name>
 			
@@ -8155,10 +8155,10 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/689400/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1736430</appID>
-			<name><![CDATA[Mage Tower: Call of Zadeus Playtest]]></name>
+			<appID>2177360</appID>
+			<name><![CDATA[Mafia Pigs Playtest]]></name>
 			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1736430]]></storeLink>
+			<storeLink><![CDATA[https://steamcommunity.com/app/2177360]]></storeLink>
 		</game>
 		<game>
 			<appID>201190</appID>
@@ -13125,16 +13125,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
