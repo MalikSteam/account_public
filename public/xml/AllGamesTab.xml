@@ -1624,6 +1624,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/550650/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2067830</appID>
+			<name><![CDATA[BLACK STIGMA Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2067830]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2067830]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2067830/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>530330</appID>
 			<name><![CDATA[Blameless]]></name>
 			
@@ -4078,20 +4086,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -12812,16 +12820,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -14255,12 +14263,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/874030]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/874030]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/874030/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2244730</appID>
-			<name><![CDATA[Towards the Unknown Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2244730]]></storeLink>
 		</game>
 		<game>
 			<appID>1863760</appID>
