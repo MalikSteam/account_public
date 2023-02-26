@@ -1624,14 +1624,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/550650/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>2067830</appID>
-			<name><![CDATA[BLACK STIGMA Beta]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2067830]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2067830]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2067830/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>530330</appID>
 			<name><![CDATA[Blameless]]></name>
 			
@@ -16136,12 +16128,6 @@
 			<name><![CDATA[蜀山：初章 Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2076350]]></storeLink>
-		</game>
-		<game>
-			<appID>2126150</appID>
-			<name><![CDATA[衔尾：龙之铃 Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2126150]]></storeLink>
 		</game>
 		<game>
 			<appID>2219210</appID>
