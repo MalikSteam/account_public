@@ -16263,7 +16263,10 @@
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
-                "rtime_last_played": 1541462437
+                "rtime_last_played": 1541462437,
+                "content_descriptorids": [
+                    5
+                ]
             },
             {
                 "appid": 978290,
@@ -17297,7 +17300,11 @@
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
-                "rtime_last_played": 0
+                "rtime_last_played": 0,
+                "content_descriptorids": [
+                    2,
+                    5
+                ]
             },
             {
                 "appid": 405780,
