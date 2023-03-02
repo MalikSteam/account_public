@@ -13101,16 +13101,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -14173,6 +14173,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/293560]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/293560]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/293560/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2123720</appID>
+			<name><![CDATA[Tomorrow Falls Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2123720]]></storeLink>
 		</game>
 		<game>
 			<appID>1665400</appID>
