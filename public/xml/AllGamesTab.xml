@@ -3986,6 +3986,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/498510]]></storeLink>
 		</game>
 		<game>
+			<appID>1996270</appID>
+			<name><![CDATA[Dream magic will Beta version]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1996270]]></storeLink>
+		</game>
+		<game>
 			<appID>335820</appID>
 			<name><![CDATA[Dream Of Mirror Online]]></name>
 			
@@ -4080,20 +4086,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -4558,6 +4564,12 @@
 			<name><![CDATA[Eternal Senia]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/351640]]></storeLink>
+		</game>
+		<game>
+			<appID>1952010</appID>
+			<name><![CDATA[Ethyrial, Echoes of Yore Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1952010]]></storeLink>
 		</game>
 		<game>
 			<appID>690930</appID>
@@ -5622,6 +5634,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/668180]]></storeLink>
 		</game>
 		<game>
+			<appID>2003160</appID>
+			<name><![CDATA[Ghosts of Tabor Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2003160]]></storeLink>
+		</game>
+		<game>
 			<appID>461750</appID>
 			<name><![CDATA[Ghoul Kid]]></name>
 			
@@ -5818,12 +5836,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/436150]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/436150]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/436150/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1666210</appID>
-			<name><![CDATA[Graffiti Bombing Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1666210]]></storeLink>
 		</game>
 		<game>
 			<appID>319730</appID>
@@ -6988,12 +7000,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/648870]]></storeLink>
 		</game>
 		<game>
-			<appID>1766110</appID>
-			<name><![CDATA[Interdimension Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1766110]]></storeLink>
-		</game>
-		<game>
 			<appID>1472340</appID>
 			<name><![CDATA[Into the Pyramid Playtest]]></name>
 			
@@ -7524,12 +7530,6 @@
 			<name><![CDATA[Knight&Princess]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1750090]]></storeLink>
-		</game>
-		<game>
-			<appID>1953300</appID>
-			<name><![CDATA[Knight Crawlers Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1953300]]></storeLink>
 		</game>
 		<game>
 			<appID>389430</appID>
@@ -9309,12 +9309,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/582030]]></storeLink>
 		</game>
 		<game>
-			<appID>1843870</appID>
-			<name><![CDATA[Obscurity: Unknown Threat Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1843870]]></storeLink>
-		</game>
-		<game>
 			<appID>549360</appID>
 			<name><![CDATA[ObserVR Beta]]></name>
 			
@@ -10170,6 +10164,8 @@
 			<name><![CDATA[Pluto's Island Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1918580]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1918580]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1918580/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>680310</appID>
@@ -10441,6 +10437,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1797460]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1797460]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1797460/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2205440</appID>
+			<name><![CDATA[Project OutFox Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2205440]]></storeLink>
 		</game>
 		<game>
 			<appID>491790</appID>
@@ -10927,6 +10929,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/270570/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1690410</appID>
+			<name><![CDATA[REVO Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1690410]]></storeLink>
+		</game>
+		<game>
 			<appID>317790</appID>
 			<name><![CDATA[Rexaura]]></name>
 			
@@ -11323,6 +11331,12 @@
 			<name><![CDATA[S.K.I.L.L. - Special Force 2]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/286940]]></storeLink>
+		</game>
+		<game>
+			<appID>2118090</appID>
+			<name><![CDATA[S.M.A.C.K. Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2118090]]></storeLink>
 		</game>
 		<game>
 			<appID>376140</appID>
@@ -12697,6 +12711,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/790750/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2091040</appID>
+			<name><![CDATA[Stuntfest - World Tour Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2091040]]></storeLink>
+		</game>
+		<game>
 			<appID>693990</appID>
 			<name><![CDATA[STYLY]]></name>
 			
@@ -12796,16 +12816,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -14799,6 +14819,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/646380/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1474090</appID>
+			<name><![CDATA[VAIL Alpha]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1474090]]></storeLink>
+		</game>
+		<game>
 			<appID>619020</appID>
 			<name><![CDATA[Valkyrie Blade VR]]></name>
 			
@@ -16056,6 +16082,12 @@
 			<name><![CDATA[生死狙击2 Test Server]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2009240]]></storeLink>
+		</game>
+		<game>
+			<appID>2229190</appID>
+			<name><![CDATA[百煉登神 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2229190]]></storeLink>
 		</game>
 		<game>
 			<appID>2196940</appID>
