@@ -4092,20 +4092,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -6985,6 +6985,12 @@
 			<name><![CDATA[Insidia]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/592890]]></storeLink>
+		</game>
+		<game>
+			<appID>1732520</appID>
+			<name><![CDATA[INSPIRE Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1732520]]></storeLink>
 		</game>
 		<game>
 			<appID>1683840</appID>
@@ -11805,6 +11811,12 @@
 			<name><![CDATA[Simutrans]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/434520]]></storeLink>
+		</game>
+		<game>
+			<appID>2174090</appID>
+			<name><![CDATA[Sincognito Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2174090]]></storeLink>
 		</game>
 		<game>
 			<appID>1739510</appID>
