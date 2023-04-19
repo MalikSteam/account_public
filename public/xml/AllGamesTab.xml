@@ -5156,12 +5156,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/585000]]></storeLink>
 		</game>
 		<game>
-			<appID>2085670</appID>
-			<name><![CDATA[Formula TOP Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2085670]]></storeLink>
-		</game>
-		<game>
 			<appID>36620</appID>
 			<name><![CDATA[Forsaken World ]]></name>
 			
@@ -13101,16 +13095,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
