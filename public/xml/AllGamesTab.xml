@@ -5515,6 +5515,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/504300]]></storeLink>
 		</game>
 		<game>
+			<appID>1768950</appID>
+			<name><![CDATA[Gangstar New York Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1768950]]></storeLink>
+		</game>
+		<game>
 			<appID>389530</appID>
 			<name><![CDATA[Garlock Online]]></name>
 			
@@ -12802,16 +12808,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
