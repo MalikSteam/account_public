@@ -6416,6 +6416,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1972520/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1636390</appID>
+			<name><![CDATA[Hexarchy Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1636390]]></storeLink>
+		</game>
+		<game>
 			<appID>1809690</appID>
 			<name><![CDATA[Hidden Deep Playtest]]></name>
 			
