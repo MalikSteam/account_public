@@ -11064,6 +11064,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/457710/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1605200</appID>
+			<name><![CDATA[Robin Hood - Sherwood Builders Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1605200]]></storeLink>
+		</game>
+		<game>
 			<appID>301520</appID>
 			<name><![CDATA[Robocraft]]></name>
 			
@@ -12786,16 +12792,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
