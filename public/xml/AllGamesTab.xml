@@ -4096,20 +4096,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -6199,6 +6199,40 @@
 			<name><![CDATA[Heaven's Voice Feast of Famine]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1060510]]></storeLink>
+		</game>
+		<game>
+			<appID>476480</appID>
+			<name><![CDATA[Heaven Forest - VR MMO]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/476480]]></storeLink>
+			<hoursOnRecord>6.0</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/476480]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/476480/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>360970</appID>
+			<name><![CDATA[Heaven Forest NIGHTS]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/360970]]></storeLink>
+			<hoursOnRecord>4.0</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/360970]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/360970/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>400250</appID>
+			<name><![CDATA[Heaven Island - VR MMO]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/400250]]></storeLink>
+			<hoursOnRecord>6.0</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/400250]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/400250/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>422100</appID>
+			<name><![CDATA[Heaven Island Life]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/422100]]></storeLink>
+			<hoursOnRecord>3.0</hoursOnRecord>
 		</game>
 		<game>
 			<appID>441020</appID>
@@ -13097,16 +13131,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -15523,6 +15557,15 @@
 			<name><![CDATA[Wizardry Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/221360]]></storeLink>
+		</game>
+		<game>
+			<appID>299460</appID>
+			<name><![CDATA[Woodle Tree Adventures]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/299460]]></storeLink>
+			<hoursOnRecord>3.0</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/299460]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/299460/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>397990</appID>
