@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1657,
+        "game_count": 1662,
         "games": [
             {
                 "appid": 92,
@@ -2502,6 +2502,17 @@
                 "rtime_last_played": 0
             },
             {
+                "appid": 299460,
+                "name": "Woodle Tree Adventures",
+                "playtime_forever": 182,
+                "img_icon_url": "69bd90435878b5c5508dcb960ee0224de73c2c22",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 1462802440
+            },
+            {
                 "appid": 299700,
                 "name": "Face of Mankind",
                 "playtime_forever": 0,
@@ -4552,6 +4563,17 @@
                 "has_leaderboards": true
             },
             {
+                "appid": 360970,
+                "name": "Heaven Forest NIGHTS",
+                "playtime_forever": 242,
+                "img_icon_url": "ae65f5f8fd0da9afd583a787ec8a978f4169a69e",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 1489675604
+            },
+            {
                 "appid": 361630,
                 "name": "404Sight",
                 "playtime_forever": 0,
@@ -5877,6 +5899,17 @@
                 "rtime_last_played": 0
             },
             {
+                "appid": 400250,
+                "name": "Heaven Island - VR MMO",
+                "playtime_forever": 362,
+                "img_icon_url": "870ea15929c9a6c56a9f8af94c402ae1478c0de0",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 1484008597
+            },
+            {
                 "appid": 402840,
                 "name": "Crusaders of the Lost Idols",
                 "playtime_forever": 0,
@@ -6405,6 +6438,16 @@
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 0
+            },
+            {
+                "appid": 422100,
+                "name": "Heaven Island Life",
+                "playtime_forever": 182,
+                "img_icon_url": "685998a7b9bd45ddd2344cd70912634e8038fc6f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 1462157132
             },
             {
                 "appid": 422250,
@@ -8613,6 +8656,17 @@
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 0
+            },
+            {
+                "appid": 476480,
+                "name": "Heaven Forest - VR MMO",
+                "playtime_forever": 362,
+                "img_icon_url": "b9b97677f887c963fb52c15020943c8f9cbccf09",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "rtime_last_played": 1487644805
             },
             {
                 "appid": 477130,
