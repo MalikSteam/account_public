@@ -1334,12 +1334,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/399660/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1611740</appID>
-			<name><![CDATA[BattleBit Remastered Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1611740]]></storeLink>
-		</game>
-		<game>
 			<appID>394230</appID>
 			<name><![CDATA[Battleborn]]></name>
 			
@@ -6440,6 +6434,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1972520]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1972520]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1972520/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1636390</appID>
+			<name><![CDATA[Hexarchy Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1636390]]></storeLink>
 		</game>
 		<game>
 			<appID>1809690</appID>
@@ -13129,16 +13129,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
