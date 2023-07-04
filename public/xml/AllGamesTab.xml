@@ -13271,6 +13271,13 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/452490]]></storeLink>
 		</game>
 		<game>
+			<appID>400240</appID>
+			<name><![CDATA[The Deer]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/400240]]></storeLink>
+			<hoursOnRecord>3.1</hoursOnRecord>
+		</game>
+		<game>
 			<appID>351940</appID>
 			<name><![CDATA[The Descendant]]></name>
 			
