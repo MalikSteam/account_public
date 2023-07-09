@@ -1309,6 +1309,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/643000/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1903900</appID>
+			<name><![CDATA[Barista: Rise and Grind Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1903900]]></storeLink>
+		</game>
+		<game>
 			<appID>463150</appID>
 			<name><![CDATA[BARRIER X]]></name>
 			
@@ -12812,16 +12818,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
