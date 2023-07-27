@@ -10835,14 +10835,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/362400]]></storeLink>
 		</game>
 		<game>
-			<appID>2211700</appID>
-			<name><![CDATA[Reign of Guilds Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2211700]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2211700]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2211700/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>1690430</appID>
 			<name><![CDATA[Relic Hunters Legend Closed Beta]]></name>
 			
@@ -12812,16 +12804,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
