@@ -6142,6 +6142,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/241640/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2193440</appID>
+			<name><![CDATA[HAWKED | Open Beta]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2193440]]></storeLink>
+		</game>
+		<game>
 			<appID>271290</appID>
 			<name><![CDATA[HAWKEN]]></name>
 			
