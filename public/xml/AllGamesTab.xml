@@ -6143,7 +6143,7 @@
 		</game>
 		<game>
 			<appID>2193440</appID>
-			<name><![CDATA[HAWKED | Open Beta (FREE BATTLE PASS)]]></name>
+			<name><![CDATA[HAWKED | Open Beta [LIVE NOW]]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2193440]]></storeLink>
 		</game>
@@ -6442,6 +6442,8 @@
 			<name><![CDATA[Hexarchy Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1636390]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1636390]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1636390/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1809690</appID>
