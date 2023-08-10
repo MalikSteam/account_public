@@ -17564,6 +17564,9 @@
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 1538618185,
+                "content_descriptorids": [
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
