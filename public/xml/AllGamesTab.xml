@@ -11171,12 +11171,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/843660/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1504950</appID>
-			<name><![CDATA[Rogue Card Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1504950]]></storeLink>
-		</game>
-		<game>
 			<appID>1950110</appID>
 			<name><![CDATA[Rogue Earth Playtest]]></name>
 			
@@ -12836,16 +12830,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
