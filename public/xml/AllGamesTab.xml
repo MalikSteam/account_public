@@ -2660,12 +2660,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1026820/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>2249740</appID>
-			<name><![CDATA[Colorless Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2249740]]></storeLink>
-		</game>
-		<game>
 			<appID>317410</appID>
 			<name><![CDATA[Color Symphony]]></name>
 			
@@ -12808,16 +12802,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
