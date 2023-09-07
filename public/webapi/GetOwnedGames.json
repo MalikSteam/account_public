@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1664,
+        "game_count": 1663,
         "games": [
             {
                 "appid": 92,
@@ -4529,18 +4529,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1720e286eea6bbd19a61f271793e6885ac7908cb",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "has_leaderboards": true,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 1005220,
-                "name": "Pixel Puzzles World War II Jigsaws",
-                "playtime_forever": 0,
-                "img_icon_url": "5d57f9012205b942a06791e4940c38329c760da9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
