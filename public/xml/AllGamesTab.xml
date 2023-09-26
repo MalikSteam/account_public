@@ -3493,6 +3493,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/477200]]></storeLink>
 		</game>
 		<game>
+			<appID>1781790</appID>
+			<name><![CDATA[Desert Pirates Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1781790]]></storeLink>
+		</game>
+		<game>
 			<appID>1986890</appID>
 			<name><![CDATA[Desert Revenant Playtest]]></name>
 			
@@ -4092,20 +4098,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>495910</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>212220</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>495910</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -10805,6 +10811,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/362400]]></storeLink>
 		</game>
 		<game>
+			<appID>2211700</appID>
+			<name><![CDATA[Reign of Guilds Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2211700]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2211700]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2211700/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>382490</appID>
 			<name><![CDATA[Relic Hunters Zero: Remix]]></name>
 			
@@ -15643,6 +15657,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1917080]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1917080]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1917080/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1705660</appID>
+			<name><![CDATA[WW2 Rebuilder Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1705660]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1705660]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1705660/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>251950</appID>
