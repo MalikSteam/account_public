@@ -6430,14 +6430,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1972520/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1636390</appID>
-			<name><![CDATA[Hexarchy Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1636390]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/1636390]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1636390/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>1809690</appID>
 			<name><![CDATA[Hidden Deep Playtest]]></name>
 			
@@ -6583,6 +6575,12 @@
 			<name><![CDATA[Hope Despair Chaos Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1784640]]></storeLink>
+		</game>
+		<game>
+			<appID>1613510</appID>
+			<name><![CDATA[HopeLand Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1613510]]></storeLink>
 		</game>
 		<game>
 			<appID>1734590</appID>
@@ -11448,12 +11446,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1790390]]></storeLink>
 		</game>
 		<game>
-			<appID>1971990</appID>
-			<name><![CDATA[scuffed Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1971990]]></storeLink>
-		</game>
-		<game>
 			<appID>1012940</appID>
 			<name><![CDATA[Seance: The Unquiet (Demo 2)]]></name>
 			
@@ -13091,16 +13083,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
