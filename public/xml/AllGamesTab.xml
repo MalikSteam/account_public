@@ -4100,20 +4100,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -7496,6 +7496,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/227180]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DawnofFantasyKingdomWars]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DawnofFantasyKingdomWars/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>2257700</appID>
+			<name><![CDATA[Kingdom´s Edge Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2257700]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2257700]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2257700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>1905920</appID>
@@ -16000,12 +16008,6 @@
 			<name><![CDATA[武动苍穹Play Test]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1939680]]></storeLink>
-		</game>
-		<game>
-			<appID>2080050</appID>
-			<name><![CDATA[洪荒五行界 test]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2080050]]></storeLink>
 		</game>
 		<game>
 			<appID>1614220</appID>
