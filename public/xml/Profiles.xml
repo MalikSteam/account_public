@@ -2,8 +2,8 @@
 <profile>
 	<steamID64>76561197966384101</steamID64>
 	<steamID><![CDATA[PCGameit]]></steamID>
-	<onlineState>offline</onlineState>
-	<stateMessage><![CDATA[Offline]]></stateMessage>
+	<onlineState>online</onlineState>
+	<stateMessage><![CDATA[Online]]></stateMessage>
 	<privacyState>public</privacyState>
 	<visibilityState>3</visibilityState>
 	
@@ -66,6 +66,9 @@
 			
 		</group>
 			<group isPrimary="0">
+				<groupID64>103582791440160998</groupID64>
+			</group>
+					<group isPrimary="0">
 				<groupID64>103582791463300522</groupID64>
 			</group>
 					<group isPrimary="0">
