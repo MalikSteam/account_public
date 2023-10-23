@@ -6553,12 +6553,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/55130/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1898470</appID>
-			<name><![CDATA[Home VR Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1898470]]></storeLink>
-		</game>
-		<game>
 			<appID>1065110</appID>
 			<name><![CDATA[Homeward Duck]]></name>
 			
@@ -13079,16 +13073,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
