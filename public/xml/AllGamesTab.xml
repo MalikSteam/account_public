@@ -8988,6 +8988,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1686660/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2189700</appID>
+			<name><![CDATA[nanos world™ Halloween Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2189700]]></storeLink>
+		</game>
+		<game>
 			<appID>264380</appID>
 			<name><![CDATA[Narcissu 1st & 2nd]]></name>
 			
@@ -13073,16 +13079,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
