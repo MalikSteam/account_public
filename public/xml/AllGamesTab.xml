@@ -13085,16 +13085,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -13310,12 +13310,6 @@
 			<name><![CDATA[The Expendabros]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/312990]]></storeLink>
-		</game>
-		<game>
-			<appID>2076040</appID>
-			<name><![CDATA[THE FINALS PLAYTEST]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2076040]]></storeLink>
 		</game>
 		<game>
 			<appID>522230</appID>
