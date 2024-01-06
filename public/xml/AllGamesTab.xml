@@ -8361,12 +8361,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/522090/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>2066010</appID>
-			<name><![CDATA[Medieval Knight - Closed Alpha]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2066010]]></storeLink>
-		</game>
-		<game>
 			<appID>1655830</appID>
 			<name><![CDATA[Medieval Towns Playtest]]></name>
 			
@@ -13067,16 +13061,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
