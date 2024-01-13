@@ -10807,14 +10807,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/362400]]></storeLink>
 		</game>
 		<game>
-			<appID>2211700</appID>
-			<name><![CDATA[Reign of Guilds Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2211700]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2211700]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2211700/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>382490</appID>
 			<name><![CDATA[Relic Hunters Zero: Remix]]></name>
 			
@@ -13045,16 +13037,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
