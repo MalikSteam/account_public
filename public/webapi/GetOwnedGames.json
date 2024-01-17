@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1663,
+        "game_count": 1658,
         "games": [
             {
                 "appid": 92,
@@ -168,50 +168,6 @@
                 "playtime_disconnected": 0
             },
             {
-                "appid": 61800,
-                "name": "AMD Driver Updater, Vista and 7, 32 bit",
-                "playtime_forever": 0,
-                "img_icon_url": "",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 61810,
-                "name": "AMD Driver Updater, Vista and 7, 64 bit",
-                "playtime_forever": 0,
-                "img_icon_url": "",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 61820,
-                "name": "AMD Driver Updater, XP, 32 bit",
-                "playtime_forever": 0,
-                "img_icon_url": "",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 61830,
-                "name": "AMD Driver Updater, XP, 64 bit",
-                "playtime_forever": 0,
-                "img_icon_url": "",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
                 "appid": 92500,
                 "name": "PC Gamer",
                 "playtime_forever": 0,
@@ -261,17 +217,6 @@
                 "name": "MINERVA: Metastasis",
                 "playtime_forever": 0,
                 "img_icon_url": "27e778ef4774f3e4535b1312c7d54833fac8eb73",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 238690,
-                "name": "Rising Storm Beta Dedicated Server",
-                "playtime_forever": 0,
-                "img_icon_url": "",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
