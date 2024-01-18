@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1658,
+        "game_count": 1655,
         "games": [
             {
                 "appid": 92,
@@ -173,39 +173,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "4f956c9c6bfbb586e61ad68069cb7822e73e19ee",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 212542,
-                "name": "Red Orchestra 2 - Dedicated Server",
-                "playtime_forever": 0,
-                "img_icon_url": "",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 215350,
-                "name": "Killing Floor Dedicated Server - Win32",
-                "playtime_forever": 0,
-                "img_icon_url": "",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 215360,
-                "name": "Killing Floor Dedicated Server - Linux",
-                "playtime_forever": 0,
-                "img_icon_url": "",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
