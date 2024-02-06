@@ -2087,6 +2087,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1478860]]></storeLink>
 		</game>
 		<game>
+			<appID>2261390</appID>
+			<name><![CDATA[Builders of Greece Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2261390]]></storeLink>
+		</game>
+		<game>
 			<appID>497570</appID>
 			<name><![CDATA[Building the Great Wall of China 2]]></name>
 			
@@ -13005,16 +13011,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
