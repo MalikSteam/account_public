@@ -9283,6 +9283,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/582030]]></storeLink>
 		</game>
 		<game>
+			<appID>1843870</appID>
+			<name><![CDATA[Obscurity: Unknown Threat Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1843870]]></storeLink>
+		</game>
+		<game>
 			<appID>549360</appID>
 			<name><![CDATA[ObserVR Beta]]></name>
 			
@@ -10765,14 +10771,6 @@
 			<name><![CDATA[Regimental Chess]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/362400]]></storeLink>
-		</game>
-		<game>
-			<appID>2211700</appID>
-			<name><![CDATA[Reign of Guilds Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2211700]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2211700]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2211700/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>382490</appID>
@@ -12692,16 +12690,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12993,16 +12991,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>389300</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
-		</game>
-		<game>
 			<appID>323370</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
+		</game>
+		<game>
+			<appID>389300</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
