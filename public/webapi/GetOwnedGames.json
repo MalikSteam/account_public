@@ -2335,6 +2335,10 @@
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -8204,6 +8208,9 @@
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -13742,6 +13749,9 @@
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -16373,6 +16383,9 @@
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -17965,6 +17978,10 @@
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 1545103958,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
