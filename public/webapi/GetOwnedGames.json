@@ -13780,6 +13780,8 @@
                 "playtime_linux_forever": 0,
                 "rtime_last_played": 0,
                 "content_descriptorids": [
+                    1,
+                    2,
                     5
                 ],
                 "playtime_disconnected": 0
