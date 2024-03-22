@@ -2972,6 +2972,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/386180/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1878400</appID>
+			<name><![CDATA[CrossPlanet Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1878400]]></storeLink>
+		</game>
+		<game>
 			<appID>444250</appID>
 			<name><![CDATA[Crown and Council]]></name>
 			
@@ -4082,20 +4088,20 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/236110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>212220</appID>
-			<name><![CDATA[Dungeon Fighter Online]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>495910</appID>
 			<name><![CDATA[Dungeon Fighter Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/495910]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/495910]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/495910/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>212220</appID>
+			<name><![CDATA[Dungeon Fighter Online]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/212220]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/DungeonFighterOnline]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/DungeonFighterOnline/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>982510</appID>
@@ -7091,12 +7097,6 @@
 			<name><![CDATA[Isekai Eternal Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/1597150]]></storeLink>
-		</game>
-		<game>
-			<appID>2086510</appID>
-			<name><![CDATA[Is It You? Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2086510]]></storeLink>
 		</game>
 		<game>
 			<appID>2104470</appID>
@@ -10197,6 +10197,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/POSTAL/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2216740</appID>
+			<name><![CDATA[PostApo Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2216740]]></storeLink>
+		</game>
+		<game>
 			<appID>646400</appID>
 			<name><![CDATA[Postity - VR Enthusiast community - Talk about VR in VR. Alongside other VR apps.]]></name>
 			
@@ -12971,16 +12977,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
@@ -15762,12 +15768,6 @@
 			<name><![CDATA[Zombie Jack Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2025540]]></storeLink>
-		</game>
-		<game>
-			<appID>2216740</appID>
-			<name><![CDATA[Zombie Land - Survival Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2216740]]></storeLink>
 		</game>
 		<game>
 			<appID>836940</appID>
