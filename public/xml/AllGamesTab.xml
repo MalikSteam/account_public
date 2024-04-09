@@ -596,6 +596,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/379870]]></storeLink>
 		</game>
 		<game>
+			<appID>1419270</appID>
+			<name><![CDATA[Altiros Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1419270]]></storeLink>
+		</game>
+		<game>
 			<appID>41300</appID>
 			<name><![CDATA[Altitude]]></name>
 			
@@ -763,6 +769,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/443580]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/443580]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/443580/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>1648440</appID>
+			<name><![CDATA[ANVIL_Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1648440]]></storeLink>
 		</game>
 		<game>
 			<appID>505700</appID>
@@ -4335,12 +4347,6 @@
 			<name><![CDATA[Elsword Free-to-Play]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/558230]]></storeLink>
-		</game>
-		<game>
-			<appID>1419270</appID>
-			<name><![CDATA[Elteria Adventures Alpha]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1419270]]></storeLink>
 		</game>
 		<game>
 			<appID>526400</appID>
@@ -13804,12 +13810,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/646960]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/646960]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/646960/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>2150780</appID>
-			<name><![CDATA[Throne of Bone Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2150780]]></storeLink>
 		</game>
 		<game>
 			<appID>2249150</appID>
