@@ -2866,12 +2866,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/589460/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>1833090</appID>
-			<name><![CDATA[Cowboy Life Simulator Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1833090]]></storeLink>
-		</game>
-		<game>
 			<appID>2210930</appID>
 			<name><![CDATA[Cowboys & Zombies VR Playtest]]></name>
 			
@@ -10371,6 +10365,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1951670]]></storeLink>
 		</game>
 		<game>
+			<appID>2123370</appID>
+			<name><![CDATA[Project Yo-Yo Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2123370]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2123370]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2123370/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>1525150</appID>
 			<name><![CDATA[Prometheus: Omex Rising Playtest]]></name>
 			
@@ -12937,16 +12939,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1707500]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
