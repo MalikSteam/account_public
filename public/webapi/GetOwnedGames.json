@@ -7868,6 +7868,7 @@
                 "name": "Simutrans",
                 "playtime_forever": 0,
                 "img_icon_url": "494eedca820a4f969ea4595e387d938c42ce802b",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
