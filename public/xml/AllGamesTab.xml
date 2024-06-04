@@ -10847,6 +10847,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/604950/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2161060</appID>
+			<name><![CDATA[Rhythm Bang [PTB]]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2161060]]></storeLink>
+		</game>
+		<game>
 			<appID>60</appID>
 			<name><![CDATA[Ricochet]]></name>
 			
@@ -12632,16 +12638,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
