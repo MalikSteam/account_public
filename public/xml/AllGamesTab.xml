@@ -12403,12 +12403,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/466660]]></storeLink>
 		</game>
 		<game>
-			<appID>2139660</appID>
-			<name><![CDATA[Steamcore Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/2139660]]></storeLink>
-		</game>
-		<game>
 			<appID>534600</appID>
 			<name><![CDATA[Steam Dev Days]]></name>
 			
@@ -12921,16 +12915,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
