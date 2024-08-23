@@ -10323,6 +10323,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/637960]]></storeLink>
 		</game>
 		<game>
+			<appID>2222400</appID>
+			<name><![CDATA[Project Nabo Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2222400]]></storeLink>
+		</game>
+		<game>
 			<appID>1797460</appID>
 			<name><![CDATA[Project Outbreak Playtest]]></name>
 			
@@ -14269,6 +14275,12 @@
 			<name><![CDATA[Turbo Force Playtest]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/2105280]]></storeLink>
+		</game>
+		<game>
+			<appID>1498770</appID>
+			<name><![CDATA[Turmoil Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1498770]]></storeLink>
 		</game>
 		<game>
 			<appID>689580</appID>
