@@ -2761,12 +2761,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/603140/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>905370</appID>
+			<appID>835570</appID>
 			<name><![CDATA[Conqueror's Blade]]></name>
 			
-			<storeLink><![CDATA[https://steamcommunity.com/app/905370]]></storeLink>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/905370]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/905370/achievements/]]></globalStatsLink>
+			<storeLink><![CDATA[https://steamcommunity.com/app/835570]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/835570]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/835570/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>266450</appID>
@@ -5469,6 +5469,14 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/214850]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/214850]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/214850/achievements/]]></globalStatsLink>
+		</game>
+		<game>
+			<appID>905370</appID>
+			<name><![CDATA[Game Migrated to Another Steam Page]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/905370]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/905370]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/905370/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>647430</appID>
@@ -12622,16 +12630,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
@@ -12911,16 +12919,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/1617590]]></storeLink>
 		</game>
 		<game>
-			<appID>323370</appID>
-			<name><![CDATA[TERA]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
-		</game>
-		<game>
 			<appID>389300</appID>
 			<name><![CDATA[TERA]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/389300]]></storeLink>
+		</game>
+		<game>
+			<appID>323370</appID>
+			<name><![CDATA[TERA]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/323370]]></storeLink>
 		</game>
 		<game>
 			<appID>384150</appID>
