@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1639,
+        "game_count": 1640,
         "games": [
             {
                 "appid": 440,
@@ -19334,8 +19334,25 @@
                 "playtime_disconnected": 0
             },
             {
-                "appid": 905370,
+                "appid": 835570,
                 "name": "Conqueror's Blade",
+                "playtime_forever": 0,
+                "img_icon_url": "146c4d41ab8c557a2a9ff1818d438e74de55942a",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 905370,
+                "name": "Game Migrated to Another Steam Page",
                 "playtime_forever": 0,
                 "img_icon_url": "83f7613e4b024912cd0e49633fdb41d76c804237",
                 "has_community_visible_stats": true,
