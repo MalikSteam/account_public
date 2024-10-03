@@ -41,6 +41,7 @@
         "market_hash_name": "UMP-45 | Mudder (Minimal Wear)",
         "commodity": 0,
         "market_tradable_restriction": 7,
+        "market_marketable_restriction": 7,
         "marketable": 1,
         "tags": [
             {
@@ -120,6 +121,7 @@
         "market_hash_name": "Graffiti | Piggles (Princess Pink)",
         "commodity": 1,
         "market_tradable_restriction": 7,
+        "market_marketable_restriction": 7,
         "marketable": 0,
         "tags": [
             {
@@ -178,6 +180,7 @@
         "market_hash_name": "5 Year Veteran Coin",
         "commodity": 0,
         "market_tradable_restriction": 7,
+        "market_marketable_restriction": 7,
         "marketable": 0,
         "tags": [
             {
