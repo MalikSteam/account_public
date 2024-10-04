@@ -8938,6 +8938,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/2014090]]></storeLink>
 		</game>
 		<game>
+			<appID>2222400</appID>
+			<name><![CDATA[Neighbors: Suburban Warfare - Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2222400]]></storeLink>
+		</game>
+		<game>
 			<appID>469990</appID>
 			<name><![CDATA[NEKOPALIVE]]></name>
 			
