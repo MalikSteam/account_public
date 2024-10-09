@@ -14,10 +14,6 @@
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 1618894404,
                 "has_leaderboards": true,
-                "content_descriptorids": [
-                    2,
-                    5
-                ],
                 "playtime_disconnected": 0
             },
             {
@@ -30,6 +26,9 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 1618894670,
+                "content_descriptorids": [
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -110,6 +109,10 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -134,6 +137,10 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 1461586264,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -146,6 +153,10 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -18516,6 +18527,9 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -18913,8 +18927,8 @@
                     1,
                     2,
                     3,
-                    5,
-                    4
+                    4,
+                    5
                 ],
                 "playtime_disconnected": 0
             },
@@ -18944,9 +18958,6 @@
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 1539051287,
                 "has_leaderboards": true,
-                "content_descriptorids": [
-                    5
-                ],
                 "playtime_disconnected": 0
             },
             {
@@ -20117,6 +20128,10 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
