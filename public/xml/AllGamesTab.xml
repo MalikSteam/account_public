@@ -4981,6 +4981,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/625080]]></storeLink>
 		</game>
 		<game>
+			<appID>1739440</appID>
+			<name><![CDATA[FlavorSpace Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1739440]]></storeLink>
+		</game>
+		<game>
 			<appID>1574380</appID>
 			<name><![CDATA[Flea Madness Playtest]]></name>
 			
@@ -5395,12 +5401,6 @@
 			<name><![CDATA[Fuse]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/257400]]></storeLink>
-		</game>
-		<game>
-			<appID>1739440</appID>
-			<name><![CDATA[Galactic Chef Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1739440]]></storeLink>
 		</game>
 		<game>
 			<appID>1470040</appID>
