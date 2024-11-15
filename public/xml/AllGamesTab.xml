@@ -2850,6 +2850,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/589460/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1833090</appID>
+			<name><![CDATA[Cowboy Life Simulator Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1833090]]></storeLink>
+		</game>
+		<game>
 			<appID>2210930</appID>
 			<name><![CDATA[Cowboys & Zombies VR Playtest]]></name>
 			
@@ -12606,16 +12612,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>477130</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
-		</game>
-		<game>
 			<appID>951690</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
+		</game>
+		<game>
+			<appID>477130</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
