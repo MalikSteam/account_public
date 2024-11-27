@@ -9,28 +9,34 @@
         "descriptions": [
             {
                 "type": "html",
-                "value": "Exterior: Minimal Wear"
+                "value": "Exterior: Minimal Wear",
+                "name": "exterior_wear"
             },
             {
                 "type": "html",
-                "value": " "
+                "value": " ",
+                "name": "blank"
             },
             {
                 "type": "html",
-                "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted in a marbleized pattern."
+                "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted in a marbleized pattern.",
+                "name": "description"
             },
             {
                 "type": "html",
-                "value": " "
+                "value": " ",
+                "name": "blank"
             },
             {
                 "type": "html",
                 "value": "The 2018 Inferno Collection",
-                "color": "9da1a9"
+                "color": "9da1a9",
+                "name": "itemset_name"
             },
             {
                 "type": "html",
-                "value": " "
+                "value": " ",
+                "name": "blank"
             }
         ],
         "tradable": 1,
@@ -161,15 +167,18 @@
         "descriptions": [
             {
                 "type": "html",
-                "value": "Has been a member of the Counter-Strike community for over 5 years."
+                "value": "Has been a member of the Counter-Strike community for over 5 years.",
+                "name": "description"
             },
             {
                 "type": "html",
-                "value": " "
+                "value": " ",
+                "name": "blank"
             },
             {
                 "type": "html",
-                "value": ""
+                "value": "",
+                "name": "attribute"
             }
         ],
         "tradable": 0,
