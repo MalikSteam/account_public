@@ -99,24 +99,29 @@
         "descriptions": [
             {
                 "type": "html",
-                "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges."
+                "value": "This graffiti can be applied to the in-game world. You can apply it until you run out of charges.",
+                "name": "description"
             },
             {
                 "type": "html",
-                "value": " "
+                "value": " ",
+                "name": "blank"
             },
             {
                 "type": "html",
                 "value": "",
-                "color": "00a000"
+                "color": "00a000",
+                "name": "attribute"
             },
             {
                 "type": "html",
-                "value": " "
+                "value": " ",
+                "name": "blank"
             },
             {
                 "type": "html",
-                "value": ""
+                "value": "",
+                "name": "attribute"
             }
         ],
         "tradable": 0,
