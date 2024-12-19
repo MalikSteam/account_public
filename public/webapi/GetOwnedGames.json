@@ -500,7 +500,7 @@
                 "appid": 113400,
                 "name": "APB Reloaded",
                 "playtime_forever": 0,
-                "img_icon_url": "3b3c7a71ffa158894640bef2795a82c6f52b136b",
+                "img_icon_url": "b6a59e44cf233981d277f179e167894d0d11b41b",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -2146,6 +2146,10 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
