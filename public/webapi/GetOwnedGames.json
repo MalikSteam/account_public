@@ -18815,6 +18815,7 @@
                 "name": "For Honor",
                 "playtime_forever": 789,
                 "img_icon_url": "64dd8eca34f0b5faeda135f057da1973806852f2",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
