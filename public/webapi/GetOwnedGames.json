@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1640,
+        "game_count": 1747,
         "games": [
             {
                 "appid": 440,
@@ -220,6 +220,18 @@
                 "name": "TrackMania Nations Forever",
                 "playtime_forever": 0,
                 "img_icon_url": "a422db7cb704324da48741b9e0a0cc193b566eb0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 242380,
+                "name": "Football Manager 2014 Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "9f1ad809a645864e24a46047ca3e702896138164",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -1934,6 +1946,19 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 238510,
+                "name": "Castlevania: Lords of Shadow - Ultimate Edition DEMO",
+                "playtime_forever": 0,
+                "img_icon_url": "104e616c60c642e395b51dea7e530177b895ab9b",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 239220,
                 "name": "The Mighty Quest For Epic Loot",
                 "playtime_forever": 0,
@@ -2809,10 +2834,34 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 302230,
+                "name": "XenoRaptor Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "7f7dea78354fda46e6844bdd8bdf969f422bfa64",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 302830,
                 "name": "BLOCKADE 3D",
                 "playtime_forever": 0,
                 "img_icon_url": "30bb5bd7471b01d76f093c3c4b063ace35cb109f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 303990,
+                "name": "Don Bradman Cricket 14 Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "602046524a9714e4eb25b7ce93337e8e1d373216",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -3144,6 +3193,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 313990,
+                "name": "TerraTech Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "d1ad24a148c2b08b48e13f97bb43681aa19b0a85",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 269910,
                 "name": "Xam",
                 "playtime_forever": 0,
@@ -3170,6 +3231,18 @@
                     2,
                     5
                 ],
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 314490,
+                "name": "Exodus Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "9ae1855775eb5583d129404cf2b7a64d46214bfb",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
                 "playtime_disconnected": 0
             },
             {
@@ -3287,6 +3360,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 317750,
+                "name": "REVERSE SIDE Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "4a40620de8adda64473669300e29852c907b575b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 200110,
                 "name": "Nosgoth",
                 "playtime_forever": 0,
@@ -3326,6 +3411,18 @@
                     1,
                     5
                 ],
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 317910,
+                "name": "Depth Hunter 2: Deep Dive Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "a570f2033268d3fffb3e6df1bff7785a91d91570",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
                 "playtime_disconnected": 0
             },
             {
@@ -3640,6 +3737,30 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 328300,
+                "name": "Quest for Infamy Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "2d1b54b306ccab0ff84bbd93d08b2fb4f1a03fc5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 328390,
+                "name": "Robot Roller-Derby Disco Dodgeball Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "4541ff8854e36cabfe3f5e57e46e9ffbba385eaa",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 223650,
                 "name": "F.E.A.R. Online",
                 "playtime_forever": 0,
@@ -3709,6 +3830,18 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2ed9f72ed933bbacb06a3f5ae6653600cf8bebce",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 330710,
+                "name": "The Talos Principle Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "acd071d0ffe0a48ba09f215535bd1780c9c6da4a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -3881,6 +4014,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 334880,
+                "name": "Squirreltopia Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "6ed568def55370dd3ef2f37307075004fddc1e32",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 334920,
                 "name": "Zero-K",
                 "playtime_forever": 0,
@@ -4007,6 +4152,18 @@
                 "name": "Karos",
                 "playtime_forever": 0,
                 "img_icon_url": "745f6ddc834c8ce816e3d147a41b587dea408f80",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 337710,
+                "name": "Tkl Online Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "67cfdff56605abbafd918d5d12f7b59dca142fa8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -4555,6 +4712,18 @@
                 "name": "16 Bit Arena",
                 "playtime_forever": 0,
                 "img_icon_url": "238ddf0e9db44cc62790f06f905e882a42265909",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 347680,
+                "name": "Tormentum - Dark Sorrow Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "2a7ba829b0a7296c140177088e00d6d45aef807d",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -5166,6 +5335,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 358780,
+                "name": "Pixel Survivors Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "9abd6dfe9876ff53d3b6827ab6b1d5c847ae29cc",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 357910,
                 "name": "QuestEvent",
                 "playtime_forever": 0,
@@ -5182,6 +5363,18 @@
                 "name": "Copa Petrobras de Marcas",
                 "playtime_forever": 0,
                 "img_icon_url": "9d3f1f3e1091d207023cd9e0e27470f81f3a5203",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 359980,
+                "name": "Alpha Version.0 Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "8dc22e80789c5b9524edff35cc69e55c3fec9179",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -5442,6 +5635,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 366820,
+                "name": "This Starry Midnight We Make - Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "f5343c94b3588a8ae89f9227cafd6072a547cf2c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 366800,
                 "name": "Mainland",
                 "playtime_forever": 0,
@@ -5540,6 +5745,23 @@
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
                 "has_leaderboards": true,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 371130,
+                "name": "Discouraged Workers Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "250cd57dd5544608a42729ca3f0a9e831a6dc8ed",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "content_descriptorids": [
+                    1,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -5669,6 +5891,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 374210,
+                "name": "SBX: Invasion Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "056f451cc0a85c64556194ec16ca2ebf01ab2273",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 374670,
                 "name": "Ember Strike",
                 "playtime_forever": 0,
@@ -5724,6 +5958,18 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d6acd260ba9742f669474c0fb81a42d79b960585",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 376670,
+                "name": "Vortex Attack Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "36e16129ee31fd02ec3cdd15131b8d1ec0f3ae00",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -5824,6 +6070,30 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 379040,
+                "name": "The Adventures of Tree Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "a1f0da62d9d8aa360106dde0740efb015137f918",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 379200,
+                "name": "Undone: Project Nightmare",
+                "playtime_forever": 0,
+                "img_icon_url": "5f62be7cb5a34256635f7cd227bccb8d6ef7287b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 379870,
                 "name": "Alteil: Horizons",
                 "playtime_forever": 0,
@@ -5880,6 +6150,18 @@
                 "name": "Teeworlds",
                 "playtime_forever": 0,
                 "img_icon_url": "830d8592f3eab3511bd0e750082e55a0c71286bd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 380930,
+                "name": "Train Valley Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "818a46171eb1296ade0cd43ce10d4a34ccd95d78",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -6153,6 +6435,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 385820,
+                "name": "Deficis Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "115238eb04d4a26a2a3450d9801824009e19e4ff",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 385850,
                 "name": "Life in the Dorms",
                 "playtime_forever": 0,
@@ -6271,6 +6565,18 @@
                 "name": "Clown House (Palya\u00e7o Evi)",
                 "playtime_forever": 0,
                 "img_icon_url": "905260620f4ec6fff61d0fb6605c0fcb1dd919a7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 388310,
+                "name": "Jet Racing Extreme Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "e06aeeb98ce357f53beff56c510392156ea4c0a8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -6482,6 +6788,18 @@
                 "playtime_forever": 0,
                 "img_icon_url": "98eeac53aa6f36af2af492e70ce2b4453f95d10e",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 393270,
+                "name": "TSIOQUE - Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "a7a68da24284611882e5e95a8ce5c54d2a5e4d57",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -6906,6 +7224,18 @@
                 "playtime_forever": 0,
                 "img_icon_url": "39cdf886c2bf9c7ed60445b5a24453e6919e08e0",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 404760,
+                "name": "ZombieZoid\u00ae Zenith Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "c669ef6b0419ef4275101f3f73b9587bd6636ea2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -7560,6 +7890,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 426110,
+                "name": "Ego Protocol Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "628b1260b9f1e64aac25c39a6d27c61b59167410",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 426560,
                 "name": "Full Tilt Poker",
                 "playtime_forever": 0,
@@ -7945,6 +8287,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 434550,
+                "name": "New Outbreak Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "1e1547f2d8225430ca3a48bc8e994506311ae80d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 435030,
                 "name": "Lost Lands: Mahjong",
                 "playtime_forever": 0,
@@ -8132,6 +8486,30 @@
                 "name": "Star Realms",
                 "playtime_forever": 0,
                 "img_icon_url": "1cef05c84bace3fcdf9d8ab0a561c57c72391e33",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 438170,
+                "name": "Subterrain Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "e015057878d7bb0ad6904fc9925bca3372a1ce7b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 438380,
+                "name": "Special Tactics Online MP Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "e109676cb3cd504f91bbdcd9d1ade1571446b32a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -8372,6 +8750,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 443230,
+                "name": "The Journey: Bob's Story. Game Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "5824aed37caf5b931ac301a7fb8330ee702b0a7d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 443530,
                 "name": "Adam and Eve: The Game - Chapter 1",
                 "playtime_forever": 0,
@@ -8460,6 +8850,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 444660,
+                "name": "Worlds of Chaos : Corruption Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "d1384666bcd2bcbc521e216decbcfb9a2c0e4b9f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 444930,
                 "name": "Zaccaria Pinball",
                 "playtime_forever": 0,
@@ -8491,6 +8893,18 @@
                 "name": "Battle Islands: Commanders",
                 "playtime_forever": 0,
                 "img_icon_url": "faed0e3493c7d8f09027037e16bbd11a335dd099",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 445790,
+                "name": "DUAL GEAR Pre-Alpha Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "9e332e42f63076b38f07ed0cddab9902a2dd2998",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -8895,6 +9309,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 450510,
+                "name": "Masquerade: The Baubles of Doom Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "882fbfe5dab18696707f58a947fd35b80d951756",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 451130,
                 "name": "Khan: Absolute Power",
                 "playtime_forever": 0,
@@ -8911,6 +9337,18 @@
                 "name": "Wartune",
                 "playtime_forever": 0,
                 "img_icon_url": "b2ccf304792a2c3aab273bb9b62ad6a71db0e69e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 451810,
+                "name": "UnderEarth Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "380b3656a5151e828dab0f07ce5c266bb0fdd98b",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -9140,6 +9578,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 455660,
+                "name": "ChromaGun Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "ce8fd85dcb1c7b556e90bbe1abbc24963ebaecb3",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 370070,
                 "name": "Wyrmsun",
                 "playtime_forever": 0,
@@ -9302,6 +9752,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 458010,
+                "name": "ZeGame Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 458560,
                 "name": "Plastic Playground",
                 "playtime_forever": 0,
@@ -9396,6 +9858,18 @@
                 "name": "SurrealVR",
                 "playtime_forever": 0,
                 "img_icon_url": "a43823f1f3747002b9dfe1566213c2f4e48bc46d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 461300,
+                "name": "Missileman Origins Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "953651f238dbe7c0d3cc7cc48ae8374d5d7a615c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -9609,6 +10083,30 @@
                 "name": "Sketchfab VR",
                 "playtime_forever": 0,
                 "img_icon_url": "9e1d526851ea401e7d523b8a2c919c94fba81bc4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 465090,
+                "name": "Don Bradman Cricket 17 Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "2c32273ccc3dc4c1815b89475497a2e40dfe40f9",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 465470,
+                "name": "Vertigo Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "3bcab2a07f8b4ed8044cbd51272749d41819592f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -9929,6 +10427,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 470570,
+                "name": "Paradox Paradigm Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "caa3ced0087a134e7c94306978ec56521b72b1f7",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 335950,
                 "name": "Insecters War",
                 "playtime_forever": 0,
@@ -9957,6 +10467,18 @@
                 "name": "Rec Room",
                 "playtime_forever": 0,
                 "img_icon_url": "8b4f9c24ad1df00f0db62ee79b6198a0bb96d044",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 471880,
+                "name": "AFL Evolution Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "e9037d9bfe22e562453a66b9e48c75ac039cdfb0",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -10055,6 +10577,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 474770,
+                "name": "WarFire Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "2dafd0cfe7095941ffde96744df5b7ef31da3446",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 368980,
                 "name": "Force of Elements",
                 "playtime_forever": 0,
@@ -10129,6 +10663,18 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 1487644805,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 476690,
+                "name": "Zenodyne R Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "01700f5f5a51d713c0ef041daaabec5a9d355b26",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
                 "playtime_disconnected": 0
             },
             {
@@ -10522,6 +11068,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 489620,
+                "name": "Mini Thief Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "005b09dc1f3d4ee772ab20880ba9d304cca041fd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 348840,
                 "name": "UFHO2",
                 "playtime_forever": 0,
@@ -10807,6 +11365,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 497330,
+                "name": "The Last Look Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "39a0ae5eb429485e83d197c729b674323d70086a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 479130,
                 "name": "ESEA",
                 "playtime_forever": 21995,
@@ -10973,6 +11543,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 500330,
+                "name": "Tetradecagon Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "a79c5bca504603fcdd61a7340d8a17080f23a611",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 273350,
                 "name": "Evolve Stage 2",
                 "playtime_forever": 242,
@@ -11008,6 +11590,21 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 500650,
+                "name": "CASE: Animatronics Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "0d47c18f977a93bd94a156fe2630ab8f71237bc2",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "content_descriptorids": [
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
@@ -11109,6 +11706,19 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 502620,
+                "name": "The Multidimensional Underwear Drawer Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "2b2ef90f23fa48067073dcee7424f1b1db4dec9d",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 35800,
                 "name": "BRAINPIPE: A Plunge to Unhumanity",
                 "playtime_forever": 0,
@@ -11171,6 +11781,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 503790,
+                "name": "Kisaragi no Hougyoku Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "31fbc7638aafcbcded5dd60fa38d043d4892c117",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 504300,
                 "name": "Gangs of Space",
                 "playtime_forever": 0,
@@ -11200,6 +11822,18 @@
                 "playtime_forever": 0,
                 "img_icon_url": "df1826525b4be52079ab98804cd75a8004cf211b",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 504740,
+                "name": "Typoman: Revised Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "44680606ed14db443e7c4028e6f2b13bd0bd07d7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -11246,10 +11880,34 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 505790,
+                "name": "Woven: Pre-Alpha Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "9f3c9adbe68dc8a752d5bca437eb2562bfa158f9",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 506140,
                 "name": "Shop Heroes",
                 "playtime_forever": 0,
                 "img_icon_url": "1469c2d49ef2f9e13e4e49cd415259a8a0af5f95",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 506180,
+                "name": "VR Fractals Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "f86512baa1cb46666a9c2fe555022c73501f20e2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -11449,6 +12107,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 510950,
+                "name": "HVR Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "e669cd167044dc5dfae2c63735dd5113dc2bceb0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 511360,
                 "name": "UNCORPOREAL - Holographic Photography Demo",
                 "playtime_forever": 0,
@@ -11615,6 +12285,30 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 515050,
+                "name": "CURSE Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "fc9351696f34f2c8c40d83d78d6a5f63220c6c8a",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 516340,
+                "name": "Fasaria World Online FREE Trial Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "bc1513532fff3f4a54f1f15c22d04435d245c402",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 516510,
                 "name": "Orake Classic",
                 "playtime_forever": 0,
@@ -11711,6 +12405,18 @@
                 "name": "The Journey Home",
                 "playtime_forever": 0,
                 "img_icon_url": "7645051153263d3306e64f3356842631439cf09b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 517410,
+                "name": "Galactic Fighters Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "e506f5d806fc8e2bb856be7d88d8c6208efd75ee",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -12208,6 +12914,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 527860,
+                "name": "PITCH-HIT : DEMO",
+                "playtime_forever": 0,
+                "img_icon_url": "a092650e88de32b84a2bf3cf5d556811b88a257e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 448930,
                 "name": "About Elise",
                 "playtime_forever": 0,
@@ -12295,6 +13013,18 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 1494514347,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 529310,
+                "name": "Blanco Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "4120914877847570fe431220dad438c1e49bbd92",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
                 "playtime_disconnected": 0
             },
             {
@@ -12401,6 +13131,18 @@
                 "name": "emoj.io",
                 "playtime_forever": 0,
                 "img_icon_url": "8607491b2012796672c1ddab00b7528f4e63758b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 531060,
+                "name": "Far Beyond: The prologue",
+                "playtime_forever": 0,
+                "img_icon_url": "7bab45caf10a2da490656cc11db73eebc045ef9c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -12764,6 +13506,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 540170,
+                "name": "El Ninja: Try It, Before You Die (DEMO)",
+                "playtime_forever": 0,
+                "img_icon_url": "ccf7f95ad59c2f35805f90269c8fcff57a85f4e5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 541190,
                 "name": "Nodiatis",
                 "playtime_forever": 0,
@@ -13076,6 +13830,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 547610,
+                "name": "The Uncertain: Last Quiet Day Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "53ae8e00b82d7f89bd370a08853247a9e1609e6e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 547870,
                 "name": "Clown2Beat",
                 "playtime_forever": 0,
@@ -13162,6 +13928,18 @@
                     1,
                     5
                 ],
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 550690,
+                "name": "Xark Alpha",
+                "playtime_forever": 0,
+                "img_icon_url": "8359a6d67bb234f40924dc80a589eb146414c012",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
                 "playtime_disconnected": 0
             },
             {
@@ -13263,6 +14041,20 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 555110,
+                "name": "HandPass VR Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "5b29911e89b8647de825d279b9f9152d1762d036",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "has_leaderboards": true,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 444200,
                 "name": "World of Tanks Blitz",
                 "playtime_forever": 0,
@@ -13288,6 +14080,18 @@
                     2,
                     5
                 ],
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 557540,
+                "name": "Legrand Legacy Prologue (Pre-Alpha)",
+                "playtime_forever": 0,
+                "img_icon_url": "eccf55150054612b67e1fc3b507971af480d176c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
                 "playtime_disconnected": 0
             },
             {
@@ -13320,6 +14124,18 @@
                 "name": "EVE Online",
                 "playtime_forever": 0,
                 "img_icon_url": "884d8c6482487e74b18ceef872ee9543a1c5828d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 558770,
+                "name": "Sorcerers of Kinetics (VR) Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "3c2395ac88fe7727d04b6f04d0fa45a6cef1e44c",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -13371,6 +14187,31 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 564240,
+                "name": "Eclipsed Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "1337a8d829d55d452c4e343c3e7303af51b17528",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 565420,
+                "name": "Bad Pad Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "bd8d44400d34393ce5671863913e2e7dedae1bdf",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 566130,
                 "name": "Witly - your language teacher in VR",
                 "playtime_forever": 0,
@@ -13409,10 +14250,48 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 567410,
+                "name": "Infinity Saga Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "b75440e858480761bee0bb79cd8c38d0df94ee36",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 569620,
+                "name": "Metamorfose S Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "a087967af3efe4f791c4f8c5e1217f1af218c176",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 572000,
                 "name": "President Erect VR",
                 "playtime_forever": 0,
                 "img_icon_url": "912591a13d1c661b66751f1b65112e81cc75c655",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "has_leaderboards": true,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 573310,
+                "name": "Cash_Out Multiplayer/Singeplayer Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "6b6bdaf18c3c4a6b83f900583168c3bcb0f8d396",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -13487,6 +14366,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 577200,
+                "name": "Animal Lover Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "69f24dc246e53d99fe1d0aab0b765c72a91e2c9c",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 463150,
                 "name": "BARRIER X",
                 "playtime_forever": 182,
@@ -13505,6 +14396,42 @@
                 "playtime_forever": 0,
                 "img_icon_url": "90bc633ae42027a23a06bc5b174fd37f2cb01b3f",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 579970,
+                "name": "Don't Mess Up Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "e9785f68254c1dd90e6d0aa2abc9e957b7166296",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 582000,
+                "name": "Three Kingdoms: The Last Warlord Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "458c87951ce6dfb0af27f4781781fd4486cf6d3b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 582140,
+                "name": "Alien Attack in Space Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "9da8e6f211f648b20e7ad591f36e3e8df663d773",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -13538,6 +14465,18 @@
                 "content_descriptorids": [
                     5
                 ],
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 583050,
+                "name": "SwingStar VR Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "272e7e9b5ce84d8befca749d30e64a7cff3933b4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
                 "playtime_disconnected": 0
             },
             {
@@ -13582,6 +14521,30 @@
                 "name": "Tom Clancy's Ghost Recon Wildlands Open Beta",
                 "playtime_forever": 0,
                 "img_icon_url": "de6456cfdf955d1476cd94668d7dc0880e4af05e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 584830,
+                "name": "PERFECT ANGLE: The puzzle game based on optical illusions Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "234d8bc154a906d411fd11c89d3ea625d010a773",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 584870,
+                "name": "The Sorceress Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "410723a1df1ed5fbb6c429e7aa7c830454c87e33",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -13795,6 +14758,18 @@
                 "playtime_forever": 0,
                 "img_icon_url": "e6e986459c1bea0a3ddbeda4f6bc7f079c79e53b",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 592880,
+                "name": "Off-Road Paradise: Trial 4x4 Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "dc86b8334bf2a33ae966ebb834dbfeddbb6fec06",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -14017,6 +14992,22 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 603540,
+                "name": "Soul Saber 2 Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "a68429443a44a76ff5ff45d0bdbc07bec0030c8d",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "content_descriptorids": [
+                    1,
+                    5
+                ],
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 600750,
                 "name": "Star Trek Timelines",
                 "playtime_forever": 0,
@@ -14035,6 +15026,18 @@
                 "playtime_forever": 0,
                 "img_icon_url": "d5300ffbd2f8e70cc841c6b315bf495e0f94746b",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 604080,
+                "name": "Arcane Raise - Aurora Novus",
+                "playtime_forever": 0,
+                "img_icon_url": "3eac652573f0bafec55c1523d0da5d0172d6e868",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -14230,6 +15233,18 @@
                 "name": "Null Vector",
                 "playtime_forever": 0,
                 "img_icon_url": "dffba63590aff1059734a844efeff570014ae2ea",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 608740,
+                "name": "Custom Town Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "c850b0b8318b8964e34a646a2958d5aa9c0df428",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -14463,6 +15478,30 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 612850,
+                "name": "The Letter Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "c58d3ab47f587e96a2298a8383991b7126d00b17",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 613340,
+                "name": "johns.gamed",
+                "playtime_forever": 0,
+                "img_icon_url": "acc2cfa7f377d5c1454716f2104fa38b009b6530",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 391820,
                 "name": "Evolution",
                 "playtime_forever": 0,
@@ -14627,6 +15666,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 617730,
+                "name": "Home Sweet Home Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "4323df2234558938dbcf55f74a4a0414a25b0bf9",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 510730,
                 "name": "Grim Seventh",
                 "playtime_forever": 0,
@@ -14751,6 +15802,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 622940,
+                "name": "Orange Season Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "dadfd0a30124a31f942949005c60fb410781d5c5",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 623840,
                 "name": "Ambre - a heartbreaking kinetic novel",
                 "playtime_forever": 0,
@@ -14867,6 +15930,18 @@
                 "content_descriptorids": [
                     5
                 ],
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 625640,
+                "name": "One Of The Last Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "24c8c2298cbe70e9f09f9bad29b37ce99cbd1cfd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
                 "playtime_disconnected": 0
             },
             {
@@ -15400,6 +16475,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 646880,
+                "name": "Aporia: Beyond The Valley Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "14a3946802879481b57f2fe2f247cf08d52cd5ff",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 386180,
                 "name": "Crossout",
                 "playtime_forever": 0,
@@ -15501,6 +16588,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 649070,
+                "name": "Legendary Hunter VR Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "b1b7a64f22d45e09094841865f4408adc17c2973",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 621300,
                 "name": "Wing Pro 6",
                 "playtime_forever": 0,
@@ -15568,6 +16667,18 @@
                 "playtime_forever": 0,
                 "img_icon_url": "2048e662788cc7c4a80f3f3273df3bfe7bba9888",
                 "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 650640,
+                "name": "Graze Counter Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "754673007e4db2a3f609d6c310d32461d22181ef",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -15703,6 +16814,20 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 654460,
+                "name": "Bump+Smack Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "71ec1a74ac3a16156eb6b5c3c3ddf767316a3e21",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "has_leaderboards": true,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 654680,
                 "name": "Ziggurat 3D Chess",
                 "playtime_forever": 0,
@@ -15757,6 +16882,18 @@
                 "name": "NOKBAK",
                 "playtime_forever": 0,
                 "img_icon_url": "4f7670aad8d66a8575878fb294740b2e34f0d250",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 655840,
+                "name": "The Contractor demo ",
+                "playtime_forever": 0,
+                "img_icon_url": "c32abb7f3d030611e3d5587553bec0ba3b209a7a",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -16136,6 +17273,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 667280,
+                "name": "iTowngameplay DIGITALIZE",
+                "playtime_forever": 0,
+                "img_icon_url": "08445fd1cc6596071fb7f8d29a2a15457f3a1a10",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 668770,
                 "name": "Solarium",
                 "playtime_forever": 0,
@@ -16201,6 +17350,18 @@
                 "name": "Pararea Beta",
                 "playtime_forever": 0,
                 "img_icon_url": "675ebf546a092475d241c4ae0ab8f5334161128e",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 671410,
+                "name": "RoboZone Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "ddbe56b0f23abf8d21a907e9168c46a57a023ad5",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -16602,6 +17763,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 682090,
+                "name": "Affliction Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "9452fc9e2b796ebd5df9d9e88f235a35f608bc98",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 682970,
                 "name": "MineFight",
                 "playtime_forever": 0,
@@ -16678,6 +17851,22 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 685320,
+                "name": "Something To Do With Love Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "6fc9a30470e8b09e75d64427a9e4178573ef6aa4",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "content_descriptorids": [
+                    1,
+                    5
+                ],
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 607770,
                 "name": "Moonatees",
                 "playtime_forever": 0,
@@ -16710,6 +17899,18 @@
                 "name": "Vectonic",
                 "playtime_forever": 0,
                 "img_icon_url": "69065596001bc14254ec6ab85d0504638b6fcfde",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 686560,
+                "name": "Simplefield Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "704d844084e62a12757ce2b8477f9ad5d29e3d83",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -16792,6 +17993,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 687550,
+                "name": "Metagalactic Blitz Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "d36c65f8bce0198c47d31d6be181f3cc0613e064",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 687590,
                 "name": "Juniper's Knot",
                 "playtime_forever": 0,
@@ -16820,6 +18033,18 @@
                 "name": "CINEVR",
                 "playtime_forever": 0,
                 "img_icon_url": "efb3e6fb315baf1910bc550818e0d3761b63c0dc",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 687930,
+                "name": "Voodoo Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "44ed9c844a24ee7058a94afae22626ccec9395e9",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -17410,6 +18635,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 703830,
+                "name": "Tyd wag vir Niemand Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "18429bdb62ef70ddc9f96197a0460e054a9972cc",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 543650,
                 "name": "Last Days",
                 "playtime_forever": 0,
@@ -17473,6 +18710,18 @@
                 "name": "Awakening",
                 "playtime_forever": 0,
                 "img_icon_url": "7a0e53fb8e8d71fb036e72c0c6734b5803a13679",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 708410,
+                "name": "VR Racket Ball Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "bef2ef3c6d78f98dfb8b54f13b9277ba30be36c7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -17687,6 +18936,18 @@
                 "name": "Krieg",
                 "playtime_forever": 0,
                 "img_icon_url": "65fadeac0f0c54ac71537ab7fab5647fd1d684cd",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 725150,
+                "name": "Detrita Battlegrounds Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "0582bb350188ae4698fb35e77a2c90cebe8377d8",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -18310,6 +19571,18 @@
                 "name": "WorldQuest",
                 "playtime_forever": 0,
                 "img_icon_url": "8b4dd0e160b09803ec96fd7fd22112a5ea4f52ed",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 856030,
+                "name": "Exorder Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "c513b90c34393de41bd7c3b71cc05117f457200e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
@@ -19660,6 +20933,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 1021980,
+                "name": "Jumps Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "0cc59923e471e20a01929dfabcfb70723a055754",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 1024980,
                 "name": "Tornado!",
                 "playtime_forever": 0,
@@ -20945,6 +22230,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 1594540,
+                "name": "Xanguito Aventura Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "29aa881daca561c3165a982fe4c2c404a7e66c1f",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 1597110,
                 "name": "DERE EXE: Rebirth of Horror",
                 "playtime_forever": 0,
@@ -21096,6 +22393,22 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 2059470,
+                "name": "Insectoid Descent Demo",
+                "playtime_forever": 0,
+                "img_icon_url": "df26d71bfa5c689fe979c14beb1beb145da767b0",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 1655485079,
+                "content_descriptorids": [
+                    2,
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
