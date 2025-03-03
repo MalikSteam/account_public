@@ -10073,6 +10073,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/684680/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1976640</appID>
+			<name><![CDATA[Polygon Pursuit Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1976640]]></storeLink>
+		</game>
+		<game>
 			<appID>1697920</appID>
 			<name><![CDATA[Polygon Wizards Playtest]]></name>
 			
