@@ -19894,6 +19894,9 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 1528933323,
+                "content_descriptorids": [
+                    5
+                ],
                 "playtime_disconnected": 0
             },
             {
