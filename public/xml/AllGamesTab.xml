@@ -1328,6 +1328,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/463150/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1807280</appID>
+			<name><![CDATA[Barro 22 Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1807280]]></storeLink>
+		</game>
+		<game>
 			<appID>338180</appID>
 			<name><![CDATA[Batla]]></name>
 			
@@ -12598,16 +12604,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
