@@ -14275,6 +14275,14 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/1877070/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2175500</appID>
+			<name><![CDATA[Twin Jet Racer Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2175500]]></storeLink>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/2175500]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/2175500/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>454910</appID>
 			<name><![CDATA[Twin Saga]]></name>
 			
