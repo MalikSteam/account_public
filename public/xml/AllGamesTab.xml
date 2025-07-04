@@ -5790,6 +5790,12 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/647670]]></storeLink>
 		</game>
 		<game>
+			<appID>1627370</appID>
+			<name><![CDATA[Gravity Blasters Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1627370]]></storeLink>
+		</game>
+		<game>
 			<appID>2140720</appID>
 			<name><![CDATA[Gravity Maze Playtest]]></name>
 			
@@ -12088,12 +12094,6 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/436180]]></storeLink>
 			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/436180]]></statsLink>
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/436180/achievements/]]></globalStatsLink>
-		</game>
-		<game>
-			<appID>1627370</appID>
-			<name><![CDATA[Space Mavericks Playtest]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/1627370]]></storeLink>
 		</game>
 		<game>
 			<appID>413620</appID>
