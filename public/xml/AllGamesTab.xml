@@ -5513,15 +5513,6 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/329110/achievements/]]></globalStatsLink>
 		</game>
 		<game>
-			<appID>308600</appID>
-			<name><![CDATA[Gene Shift Auto]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/308600]]></storeLink>
-			<hoursOnRecord>5.1</hoursOnRecord>
-			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/308600]]></statsLink>
-			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/308600/achievements/]]></globalStatsLink>
-		</game>
-		<game>
 			<appID>409510</appID>
 			<name><![CDATA[Genesis Online]]></name>
 			
@@ -11710,6 +11701,15 @@
 			<name><![CDATA[Sketchfab VR]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/464940]]></storeLink>
+		</game>
+		<game>
+			<appID>308600</appID>
+			<name><![CDATA[Skillshot City]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/308600]]></storeLink>
+			<hoursOnRecord>5.1</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/308600]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/308600/achievements/]]></globalStatsLink>
 		</game>
 		<game>
 			<appID>521330</appID>
