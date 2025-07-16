@@ -87,7 +87,8 @@
                 "localized_category_name": "Exterior",
                 "localized_tag_name": "Minimal Wear"
             }
-        ]
+        ],
+        "sealed": 0
     },
     {
         "appid": 730,
@@ -160,7 +161,8 @@
                 "localized_category_name": "Graffiti Color",
                 "localized_tag_name": "Princess Pink"
             }
-        ]
+        ],
+        "sealed": 0
     },
     {
         "appid": 730,
@@ -216,6 +218,7 @@
                 "localized_tag_name": "Extraordinary",
                 "color": "eb4b4b"
             }
-        ]
+        ],
+        "sealed": 0
     }
 ]
