@@ -9842,6 +9842,15 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/605850]]></storeLink>
 		</game>
 		<game>
+			<appID>509960</appID>
+			<name><![CDATA[Pinga Ponga]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/509960]]></storeLink>
+			<hoursOnRecord>3.8</hoursOnRecord>
+			<statsLink><![CDATA[https://steamcommunity.com/profiles/76561197966384101/stats/509960]]></statsLink>
+			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/509960/achievements/]]></globalStatsLink>
+		</game>
+		<game>
 			<appID>2226670</appID>
 			<name><![CDATA[Pingo Adventure Playtest]]></name>
 			
@@ -10440,6 +10449,18 @@
 			<name><![CDATA[Quantum Rush Online]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/304890]]></storeLink>
+		</game>
+		<game>
+			<appID>357910</appID>
+			<name><![CDATA[QuestEvent]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/357910]]></storeLink>
+		</game>
+		<game>
+			<appID>877500</appID>
+			<name><![CDATA[QuestEvent OST]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/877500]]></storeLink>
 		</game>
 		<game>
 			<appID>340350</appID>
