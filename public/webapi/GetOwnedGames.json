@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 4731,
+        "game_count": 4732,
         "games": [
             {
                 "appid": 219,
@@ -50255,6 +50255,19 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 1798630,
+                "name": "GG-Party Playtest",
+                "playtime_forever": 0,
+                "img_icon_url": "5adc8a007321836f9b7110ffb5c5d0bd3dd4ae3b",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 0,
+                "has_leaderboards": true,
                 "playtime_disconnected": 0
             },
             {
