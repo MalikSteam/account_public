@@ -2311,6 +2311,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/451880/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>2229860</appID>
+			<name><![CDATA[Catching Spirits Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/2229860]]></storeLink>
+		</game>
+		<game>
 			<appID>1845120</appID>
 			<name><![CDATA[Catsploration Playtest]]></name>
 			
@@ -12594,16 +12600,16 @@
 			<storeLink><![CDATA[https://steamcommunity.com/app/639870]]></storeLink>
 		</game>
 		<game>
-			<appID>951690</appID>
-			<name><![CDATA[Surge]]></name>
-			
-			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
-		</game>
-		<game>
 			<appID>477130</appID>
 			<name><![CDATA[Surge]]></name>
 			
 			<storeLink><![CDATA[https://steamcommunity.com/app/477130]]></storeLink>
+		</game>
+		<game>
+			<appID>951690</appID>
+			<name><![CDATA[Surge]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/951690]]></storeLink>
 		</game>
 		<game>
 			<appID>457420</appID>
