@@ -9808,6 +9808,7 @@
                 "name": "Momentum Mod Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "1204de67a03b5af9e0f4949c8890fc9df79f9fd6",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
