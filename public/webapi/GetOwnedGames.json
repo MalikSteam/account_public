@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1468,
+        "game_count": 1467,
         "games": [
             {
                 "appid": 10,
@@ -9809,18 +9809,6 @@
                 "playtime_forever": 0,
                 "img_icon_url": "1204de67a03b5af9e0f4949c8890fc9df79f9fd6",
                 "has_community_visible_stats": true,
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 1803730,
-                "name": "Killer in the cabin Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "d48fa3036af7f46a8d26065dc96788d00e4df67e",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
