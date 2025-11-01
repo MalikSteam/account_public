@@ -2432,6 +2432,12 @@
 			<globalStatsLink><![CDATA[https://steamcommunity.com/stats/703760/achievements/]]></globalStatsLink>
 		</game>
 		<game>
+			<appID>1478930</appID>
+			<name><![CDATA[Chornobyl Liquidators Playtest]]></name>
+			
+			<storeLink><![CDATA[https://steamcommunity.com/app/1478930]]></storeLink>
+		</game>
+		<game>
 			<appID>653220</appID>
 			<name><![CDATA[Chroma Blast]]></name>
 			
