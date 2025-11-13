@@ -4,7 +4,7 @@
         "classid": "3035571393",
         "instanceid": "1363818010",
         "currency": 0,
-        "background_color": "",
+        "background_color": "393b3e",
         "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkk4a0qB1T9s2jZ7B5LPWXMXSRz-pJvOhuRz39wUR1sWqGm9v7IC_FPQclCJp5E-YD4Bbum9axM7_l4VCKi48Qy3793zQJsHiVhPnxlA",
         "descriptions": [
             {
@@ -41,7 +41,7 @@
         ],
         "tradable": 1,
         "name": "UMP-45 | Mudder",
-        "name_color": "D2D2D2",
+        "name_color": "b0c3d9",
         "type": "Consumer Grade SMG",
         "market_name": "UMP-45 | Mudder (Minimal Wear)",
         "market_hash_name": "UMP-45 | Mudder (Minimal Wear)",
@@ -95,7 +95,7 @@
         "classid": "1989271437",
         "instanceid": "0",
         "currency": 0,
-        "background_color": "",
+        "background_color": "393b3e",
         "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0seuKG3jye3nHKXKARVhpTuFeNG-M_2WltLjBRW2YRel_S1sDePAD82AYacuAPhBvysdVrCO7mEhyDBs9ftFPYAOily0XZOtyyVYX0gdS",
         "descriptions": [
             {
@@ -127,7 +127,7 @@
         ],
         "tradable": 0,
         "name": "Graffiti | Piggles (Princess Pink)",
-        "name_color": "D2D2D2",
+        "name_color": "b0c3d9",
         "type": "Base Grade Graffiti",
         "market_name": "Graffiti | Piggles (Princess Pink)",
         "market_hash_name": "Graffiti | Piggles (Princess Pink)",
@@ -169,7 +169,7 @@
         "classid": "778383679",
         "instanceid": "0",
         "currency": 0,
-        "background_color": "",
+        "background_color": "402d2d",
         "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjTC_FN05oT741epGR73mMHmpXEO7aT2bfE9I_KVCDTGx7gj4LE5F3iykU504TvVnN7_JWXXMFEPozcG1w",
         "descriptions": [
             {
@@ -190,7 +190,7 @@
         ],
         "tradable": 0,
         "name": "5 Year Veteran Coin",
-        "name_color": "D2D2D2",
+        "name_color": "eb4b4b",
         "type": "Extraordinary Collectible",
         "market_name": "5 Year Veteran Coin",
         "market_hash_name": "5 Year Veteran Coin",
