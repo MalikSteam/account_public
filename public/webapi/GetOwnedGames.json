@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1467,
+        "game_count": 1466,
         "games": [
             {
                 "appid": 10,
@@ -2408,7 +2408,7 @@
                 "appid": 582890,
                 "name": "Estranged: The Departure",
                 "playtime_forever": 0,
-                "img_icon_url": "665d02d877f2dbb520404f977e4741709ddba122",
+                "img_icon_url": "17afe858d9730f0b6672f968d8361017abc4ab3d",
                 "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
@@ -16074,18 +16074,6 @@
                 "name": "Fortune: Rewritten Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "b44976910a277f955195eeed3d4bc5260d574614",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 2148040,
-                "name": "Deltazone Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1cc0f6e558b010ea01c72e1c41fa325a287744aa",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
