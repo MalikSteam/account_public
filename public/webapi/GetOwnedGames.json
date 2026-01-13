@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1465,
+        "game_count": 1464,
         "games": [
             {
                 "appid": 10,
@@ -16387,18 +16387,6 @@
                 "name": "Orebody: Binder's Tale Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "3e051d49f6a74cea1ae6cf3b9cc4b80c7fe0ecdc",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 2171370,
-                "name": "Sword & Shield Simulator Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "9eebb0850d4baf139d4e0bf8326f76c7d24688d6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
