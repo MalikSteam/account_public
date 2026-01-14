@@ -6,14 +6,16 @@
                 "given": 0,
                 "received": 1,
                 "points_given": "0",
-                "points_received": "34"
+                "points_received": "34",
+                "purchaseable": false
             },
             {
                 "reactionid": 5,
                 "given": 0,
                 "received": 1,
                 "points_given": "0",
-                "points_received": "34"
+                "points_received": "34",
+                "purchaseable": false
             }
         ],
         "ugc": [
@@ -22,14 +24,16 @@
                 "given": 0,
                 "received": 1,
                 "points_given": "0",
-                "points_received": "34"
+                "points_received": "34",
+                "purchaseable": false
             },
             {
                 "reactionid": 5,
                 "given": 0,
                 "received": 1,
                 "points_given": "0",
-                "points_received": "34"
+                "points_received": "34",
+                "purchaseable": false
             }
         ],
         "total_given": 0,
