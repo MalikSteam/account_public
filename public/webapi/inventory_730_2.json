@@ -88,7 +88,8 @@
                 "localized_tag_name": "Minimal Wear"
             }
         ],
-        "sealed": 0
+        "sealed": 0,
+        "on_market": 0
     },
     {
         "appid": 730,
@@ -162,7 +163,8 @@
                 "localized_tag_name": "Princess Pink"
             }
         ],
-        "sealed": 0
+        "sealed": 0,
+        "on_market": 0
     },
     {
         "appid": 730,
@@ -219,6 +221,7 @@
                 "color": "eb4b4b"
             }
         ],
-        "sealed": 0
+        "sealed": 0,
+        "on_market": 0
     }
 ]
