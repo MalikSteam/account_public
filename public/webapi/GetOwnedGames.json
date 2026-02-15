@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1463,
+        "game_count": 1462,
         "games": [
             {
                 "appid": 10,
@@ -14657,19 +14657,6 @@
                 "name": "Captain Gazman Day Of The Rage - Development Beta",
                 "playtime_forever": 0,
                 "img_icon_url": "0cb10fab0045f8c54193f91598b80e5c0ffcc82e",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 2078430,
-                "name": "Top Down Zombies Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "7c1edcac0fb7b3e7db5be8b75b2244f412451535",
-                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
