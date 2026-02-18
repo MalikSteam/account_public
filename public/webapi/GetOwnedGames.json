@@ -10829,6 +10829,7 @@
                 "name": "Goose vs Zombies Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "6f3a3684356d7ab20a55a08bc98d1c3de8062a5a",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
