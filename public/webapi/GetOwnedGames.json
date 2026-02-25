@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1460,
+        "game_count": 1462,
         "games": [
             {
                 "appid": 10,
@@ -1359,6 +1359,18 @@
                 "playtime_disconnected": 0
             },
             {
+                "appid": 357910,
+                "name": "QuestEvent",
+                "playtime_forever": 0,
+                "img_icon_url": "7087c2de213c40c7ed1eb232e88f3fb635830184",
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 1588116487,
+                "playtime_disconnected": 0
+            },
+            {
                 "appid": 360970,
                 "name": "Heaven Forest NIGHTS",
                 "playtime_forever": 242,
@@ -2089,6 +2101,19 @@
                 "playtime_linux_forever": 0,
                 "playtime_deck_forever": 0,
                 "rtime_last_played": 0,
+                "playtime_disconnected": 0
+            },
+            {
+                "appid": 509960,
+                "name": "Pinga Ponga",
+                "playtime_forever": 225,
+                "img_icon_url": "92bcb60cb0bbcef62d09b321d1c9aca4612fa91f",
+                "has_community_visible_stats": true,
+                "playtime_windows_forever": 0,
+                "playtime_mac_forever": 0,
+                "playtime_linux_forever": 0,
+                "playtime_deck_forever": 0,
+                "rtime_last_played": 1560310528,
                 "playtime_disconnected": 0
             },
             {
