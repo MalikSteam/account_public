@@ -110,22 +110,6 @@
                 "type": "html",
                 "value": " ",
                 "name": "blank"
-            },
-            {
-                "type": "html",
-                "value": "",
-                "color": "00a000",
-                "name": "attribute"
-            },
-            {
-                "type": "html",
-                "value": " ",
-                "name": "blank"
-            },
-            {
-                "type": "html",
-                "value": "",
-                "name": "attribute"
             }
         ],
         "tradable": 0,
@@ -187,11 +171,6 @@
                 "type": "html",
                 "value": " ",
                 "name": "blank"
-            },
-            {
-                "type": "html",
-                "value": "",
-                "name": "attribute"
             }
         ],
         "tradable": 0,
