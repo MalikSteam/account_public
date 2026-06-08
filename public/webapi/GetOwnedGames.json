@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1462,
+        "game_count": 1461,
         "games": [
             {
                 "appid": 10,
@@ -9731,18 +9731,6 @@
                 "name": "EXP: War Trauma Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "7d9182c4d7e038199f65b5eb89b4d994f025b267",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 1800140,
-                "name": "Relics of Cilldrea Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "1e046a98c9a5aeebf63a9e99bbb1f7b7d583f595",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
