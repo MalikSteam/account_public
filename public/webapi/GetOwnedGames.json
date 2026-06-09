@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1461,
+        "game_count": 1460,
         "games": [
             {
                 "appid": 10,
@@ -17866,18 +17866,6 @@
                 "name": "Aces and Adventures Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ab8c476dd85713ff52d5b940e29b1f5d969c451f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 2274360,
-                "name": "A Simple Square Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "f14988a2a377fe6aeed11f32a513c03553cc6881",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
