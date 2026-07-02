@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1460,
+        "game_count": 1459,
         "games": [
             {
                 "appid": 10,
@@ -17228,18 +17228,6 @@
                 "name": "The Wings of Dawn Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "36402e7f8c0704fd815dc6bbf7919d01b3c5f247",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 2226340,
-                "name": "Imperial Ambitions Beta Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "fb346998ac85a1977b78344e36c62ebfcf0f11a2",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
