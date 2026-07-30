@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1459,
+        "game_count": 1458,
         "games": [
             {
                 "appid": 10,
@@ -9199,18 +9199,6 @@
                 "name": "Probably Tuesday Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "9cc7cf35a85ee263f54b394a17b7a7effa0a0d4f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 1771460,
-                "name": "Tape to Tape Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "73a1e915347137a533f058a4b5d7b2f744a499b7",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
