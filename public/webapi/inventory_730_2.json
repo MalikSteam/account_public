@@ -92,7 +92,8 @@
         "market_bucket_group_name": "UMP-45 | Mudder",
         "market_bucket_group_id": "G1818205A3004",
         "sealed_type": 0,
-        "market_name_inside_group": "Minimal Wear"
+        "market_name_inside_group": "Minimal Wear",
+        "market_bucket_id": "1818205A300438A9B8BDF003"
     },
     {
         "appid": 730,
@@ -154,7 +155,8 @@
         "market_bucket_group_name": "Graffiti | Piggles",
         "market_bucket_group_id": "G18C50A30046205080010C20D",
         "sealed_type": 0,
-        "market_name_inside_group": "Princess Pink"
+        "market_name_inside_group": "Princess Pink",
+        "market_bucket_id": "18C50A30046207080010C20D3011"
     },
     {
         "appid": 730,
@@ -210,6 +212,7 @@
         "market_bucket_group_name": "5 Year Veteran Coin",
         "market_bucket_group_id": "G18EA063004",
         "sealed_type": 0,
-        "market_name_inside_group": "Normal"
+        "market_name_inside_group": "Normal",
+        "market_bucket_id": "18EA063004"
     }
 ]
