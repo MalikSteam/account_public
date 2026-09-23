@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1456,
+        "game_count": 1455,
         "games": [
             {
                 "appid": 10,
@@ -9211,18 +9211,6 @@
                 "name": "The Hidden Room Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "20d3dba1899b12f2f840bddc844b84d1656fbbbe",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 1772630,
-                "name": "Huckleberry Fields Forever: Level Player",
-                "playtime_forever": 0,
-                "img_icon_url": "29f4946bcc2f26fb4aaaa77c7c63a2b48ace5e3f",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
