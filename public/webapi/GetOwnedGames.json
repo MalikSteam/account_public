@@ -16582,6 +16582,7 @@
                 "name": "nanos world\u2122 Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "900a632da310c0ba67797594b05d916774fd06a0",
+                "has_community_visible_stats": true,
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
