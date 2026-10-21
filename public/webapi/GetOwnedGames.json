@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1455,
+        "game_count": 1454,
         "games": [
             {
                 "appid": 10,
@@ -17809,18 +17809,6 @@
                 "name": "Aces and Adventures Playtest",
                 "playtime_forever": 0,
                 "img_icon_url": "ab8c476dd85713ff52d5b940e29b1f5d969c451f",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 2276370,
-                "name": "iDentity Rebels Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "4cb19ca62490bcd6a7cbdb8609d0c1e70801a223",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
