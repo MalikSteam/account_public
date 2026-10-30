@@ -1,6 +1,6 @@
 {
     "response": {
-        "game_count": 1453,
+        "game_count": 1452,
         "games": [
             {
                 "appid": 10,
@@ -14926,18 +14926,6 @@
                 "name": "Three Skies Open Beta",
                 "playtime_forever": 0,
                 "img_icon_url": "db30762092f18e6c37a2e818eb6ea23d2d2df2b7",
-                "playtime_windows_forever": 0,
-                "playtime_mac_forever": 0,
-                "playtime_linux_forever": 0,
-                "playtime_deck_forever": 0,
-                "rtime_last_played": 0,
-                "playtime_disconnected": 0
-            },
-            {
-                "appid": 2098240,
-                "name": "ChibiTama Playtest",
-                "playtime_forever": 0,
-                "img_icon_url": "abed483dc6a76467231c1df7e2510d063ef4d5e6",
                 "playtime_windows_forever": 0,
                 "playtime_mac_forever": 0,
                 "playtime_linux_forever": 0,
